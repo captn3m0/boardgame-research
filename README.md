@@ -1,7 +1,49 @@
-# Go
+# boardgame-research
+
+This is a list of boardgame related research papers, blogs. They are primarily related to "solving" games (by various different approaches), or
+occasionaly about designing or meta-aspects of the game. This doesn't cover all aspects of each game (notably missing social-science stuff), but
+should be of interest to anyone interested in boardgames and their optimal play. While there is a ton of easily accessible research on games like
+Chess and Go, finding prior work on more contemporary games can be a bit hard. This list focuses on the latter.
+
+# Settlers of Catan
+- [The effectiveness of persuasion in The Settlers of Catan ](https://doi.org/10.1109/CIG.2014.6932861)
+- [Avoiding Revenge Using Optimal Opponent Ranking Strategy in the Board Game Catan ](https://doi.org/10.4018/IJGCMS.2018040103)
+- [Game strategies for The Settlers of Catan](https://doi.org/10.1109/CIG.2014.6932884)
+- [Monte-Carlo Tree Search in Settlers of Catan](https://doi.org/10.1007/978-3-642-12993-3_3)
+- [Settlers of Catan bot trained using reinforcement learning (MATLAB).](https://jonzia.github.io/Catan/)
+- [Trading in a multiplayer board game:Towards an analysis of non-cooperative dialogue](https://escholarship.org/content/qt9zt506xx/qt9zt506xx.pdf)
+- [POMCP with Human Preferencesin Settlers of Catan](https://www.aaai.org/ocs/index.php/AIIDE/AIIDE18/paper/viewFile/18091/17217)
+- [Reinforcement Learning of Strategies for Settlers of Catan](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.561.6293&rep=rep1&type=pdf)
+- [Deep Reinforcement Learning in Strategic Board GameEnvironments](https://doi.org/10.1007/978-3-030-14174-5_16) [[pdf](https://hal.archives-ouvertes.fr/hal-02124411/document)]
+- [Monte Carlo Tree Search in a Modern Board Game Framework](https://project.dke.maastrichtuniversity.nl/games/files/bsc/Roelofs_Bsc-paper.pdf)
+
+# Diplomacy
+- [Learning to Play No-Press Diplomacy with Best Response Policy Iteration ](https://arxiv.org/abs/2006.04635)
+- [No Press Diplomacy: Modeling Multi-Agent Gameplay ](https://arxiv.org/abs/1909.02128)
+- [Agent Madoff: A Heuristic-Based Negotiation Agent For The Diplomacy Strategy Game ](https://arxiv.org/abs/1902.06996)
+
+# Risk
+- [Mini-Risk: Strategies for a Simplified Board Game](https://doi.org/10.1057/jors.1990.2)
+- [A Multi-Agent System for playing theboard game Risk](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A831093&dswid=-4740)
+- [Learning the risk board game with classifier systems](https://doi.org/10.1145/508791.508904)
+- [Markov Chains and the RISK Board Game](https://doi.org/10.1080/0025570X.1997.11996573)
+- [Markov Chains for the RISK Board Game Revisited](https://doi.org/10.1080/0025570X.2003.11953165)
+- [RISK Board Game ‐ Battle Outcome Analysis](http://www.c4i.gr/xgeorgio/docs/RISK-board-game%20_rev-3.pdf)
+- [Planning an endgame move set for the game RISK](https://doi.org/10.1109/TEVC.2005.856211)
+- [RISKy Business: An In-Depth Look at the Game RISK](https://scholar.rose-hulman.edu/rhumj/vol3/iss2/3/)
+- [An Intelligent Artificial Player for the Game of Risk](http://www.ke.tu-darmstadt.de/lehre/archiv/ss04/oberseminar/folien/Wolf_Michael-Slides.pdf)
+
+# Kingdomino
+- [Monte Carlo Methods for the Game Kingdomino](https://doi.org/10.1109/CIG.2018.8490419) [[arXiv](https://arxiv.org/abs/1807.04458)]
+- [NP-completeness of the game Kingdomino](https://arxiv.org/abs/1909.02849)
+
+# Patchwork
+- [State Representation and Polyomino Placement for the Game Patchwork](https://zayenz.se/blog/post/patchwork-modref2019-paper/)
+
+# Nmbr9
+- [Nmbr9 as a Constraint Programming Challenge](https://zayenz.se/blog/post/nmbr9-cp2019-abstract/)
 
 # Hanabi
-
 - [Re-determinizing MCTS in Hanabi](https://ieee-cog.org/2020/papers2019/paper_17.pdf)
 - [Hanabi is NP-hard, Even for Cheaters who Look at Their Cards](https://arxiv.org/abs/1603.01911)
 - [Evolving Agents for the Hanabi 2018 CIG Competition](https://ieeexplore.ieee.org/abstract/document/8490449)
@@ -10,14 +52,74 @@
 - [Playing Hanabi Near-Optimally](https://link.springer.com/chapter/10.1007/978-3-319-71649-7_5)
 - [Evaluating and modelling Hanabi-playing agents](https://doi.org/10.1109/CEC.2017.7969465)
 - [An intentional AI for hanabi](https://ieeexplore.ieee.org/abstract/document/8080417)
-- [The Hanabi challenge: A new frontier for AI research](https://doi.org/10.1016/j.artint.2019.103216) [[arXiv](https://arxiv.org/abs/1902.00506)]
+- [The Hanabi challenge: A new frontier for AI research](https://doi.org/10.1016/j.artint.2019.103216) [[arXiv](https://arxiv.org/abs/1902.00506)]] (DeepMind)
 - [Solving Hanabi: Estimating Hands by Opponent's Actions in Cooperative Game with Incomplete Information](https://www.aaai.org/ocs/index.php/WS/AAAIW15/paper/view/10167/10193)
 - [A Browser-based Interface for the Exploration and Evaluation of Hanabi AIs](http://fdg2017.org/papers/FDG2017_demo_Hanabi.pdf)
 - [I see what you see: Integrating eye tracking into Hanabi playing agents](http://www.exag.org/wp-content/uploads/2018/10/AIIDE-18_Upload_112.pdf)
 - [The 2018 Hanabi competition](https://doi.org/10.1109/CIG.2019.8848008)
 - [Diverse Agents for Ad-Hoc Cooperation in Hanabi](https://doi.org/10.1109/CIG.2019.8847944) [[arXiv](https://arxiv.org/pdf/2004.13710v2.pdf)]
 - [State of the art Hanabi bots + simulation framework in rust](https://github.com/WuTheFWasThat/hanabi.rs)
-- [Improving Policies via Search in Cooperative Partially Observable Games](https://arxiv.org/abs/1912.02318)
+- [Improving Policies via Search in Cooperative Partially Observable Games](https://arxiv.org/abs/1912.02318) (FB) [[code](https://github.com/facebookresearch/Hanabi_SPARTA)]
 - [A strategy simulator for the well-known cooperative card game Hanabi](https://github.com/rjtobin/HanSim)
 - [A framework for writing bots that play Hanabi](https://github.com/Quuxplusone/Hanabi)
-- [Evaluating the Rainbow DQN Agent in Hanabi with Unseen Partners](https://deepai.org/publication/evaluating-the-rainbow-dqn-agent-in-hanabi-with-unseen-partners)
+- [Evaluating the Rainbow DQN Agent in Hanabi with Unseen Partners](https://arxiv.org/abs/2004.13291)
+
+# Monopoly
+- [Negotiation strategy of agents in the MONOPOLY game](https://ieeexplore.ieee.org/abstract/document/1013210)
+- [Generating interesting Monopoly boards from open data](https://ieeexplore.ieee.org/abstract/document/6374168)
+- [Estimating the probability that the game of Monopoly never ends](https://ieeexplore.ieee.org/abstract/document/5429349)
+- [Learning to play Monopoly:A Reinforcement Learning approach](https://www.researchgate.net/profile/Anestis_Fachantidis/publication/289403522_Learning_to_play_monopoly_A_Reinforcement_learning_approach/links/59dd1f3e458515f6efef1904/Learning-to-play-monopoly-A-Reinforcement-learning-approach.pdf)
+- [Monopoly as a Markov Process](https://doi.org/10.1080/0025570X.1972.11976187)
+- [Learning to Play Monopoly withMonte Carlo Tree Search](https://project-archive.inf.ed.ac.uk/ug4/20181042/ug4_proj.pdf)
+- [Monopoly Using Reinforcement Learning ](https://ieeexplore.ieee.org/abstract/document/8929523)
+- [A Markovian Exploration of Monopoly](https://pi4.math.illinois.edu/wp-content/uploads/2014/10/Gartland-Burson-Ferguson-Markovopoly.pdf)
+- [What's the best Monopoly strategy](https://publications.lakeforest.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=1277&context=gss)
+
+# Magic: the Gathering
+- [Magic: the Gathering is as Hard as Arithmetic](https://arxiv.org/abs/2003.05119)
+- [Magic: The Gathering is Turing Complete](https://arxiv.org/abs/1904.09828)
+- [Neural Networks Models for Analyzing Magic: the Gathering Cards](https://arxiv.org/abs/1810.03744)
+- [Ensemble Determinization in Monte Carlo Tree Search for the Imperfect Information Card Game Magic: The Gathering](https://doi.org/10.1109/TCIAIG.2012.2204883)
+- [Deckbuilding in Magic: The Gathering Using a Genetic Algorithm](http://hdl.handle.net/11250/2462429)
+
+# Terra Mystica
+- [Using Tabu Search Algorithm for Map Generation in the Terra Mystica Tabletop Game](https://arxiv.org/abs/2006.02716)
+
+# Dominion
+- [Clustering Player Strategies from Variable-Length Game Logs in Dominion](https://arxiv.org/abs/1811.11273)
+
+# Mafia
+- [A mathematical model of the Mafia game](https://arxiv.org/abs/1009.1031)
+- [Automatic Long-Term Deception Detection in Group Interaction Videos](https://arxiv.org/abs/1905.08617)
+
+# The Resistance: Avalon
+- [Finding Friend and Foe in Multi-Agent Games](https://arxiv.org/abs/1906.02330)
+
+# Ticket to Ride
+- [Evolving maps and decks for ticket to ride](https://doi.org/10.1145/3235765.3235813)
+- [Materials for Ticket to Ride Seattle and a framework for making more game boards](https://github.com/dovinmu/ttr_generator)
+- [Applications of Graph Theory andProbability in the Board GameTicket toRide](https://www.rtealwitter.com/slides/2020-JMM.pdf)
+- [The Difficulty of Learning Ticket to Ride](https://www.eecs.tufts.edu/~jsinapov/teaching/comp150_RL/reports/Nguyen_Dinjian_report.pdf)
+
+# Yahtzee
+- [Optimal Solitaire Yahtzee Strategies](http://www.yahtzee.org.uk/optimal_yahtzee_TV.pdf)
+- [Nearly Optimal Computer Play in Multi-player Yahtzee](https://doi.org/10.1007/978-3-642-17928-0_23)
+- [Computer Strategies for Solitaire Yahtzee](https://doi.org/10.1109/CIG.2007.368089)
+- [An optimal strategy for Yahtzee](http://www.cs.loyola.edu/~jglenn/research/optimal_yahtzee.pdf)
+- [Yahtzee:  a Large Stochastic Environment for RL Benchmarks](https://pdfs.semanticscholar.org/f5c2/e9c9b17f584f060a73036109f697ac819a23.pdf)
+- [Modeling expert problem solving in a game of chance: a Yahtzee case study](https://doi.org/10.1111/1468-0394.00160)
+- [Probabilites In Yahtzee](https://doi.org/10.5951/MT.75.9.0751)
+- [Optimal Yahtzee performance in multi-player games](https://www.diva-portal.org/smash/get/diva2:668705/FULLTEXT01.pdf)
+- [Defensive Yahtzee](https://www.diva-portal.org/smash/get/diva2:817838/FULLTEXT01.pdf)
+- [Using  Deep  Q-Learning  to  Compare Strategy  Ladders  of  Yahtzee](https://pdfs.semanticscholar.org/6bec/1c34c8ace65adc95d39cb0c0e589ae392678.pdf)
+- [How to Maximize Your Score in Solitaire Yahtzee](http://www-set.win.tue.nl/~wstomv/misc/yahtzee/yahtzee-report-unfinished.pdf)
+
+# Lost Cities
+
+- [Applying Neural Networks and Genetic Programming to the Game Lost Cities](http://digital.library.wisc.edu/1793/79080)
+
+# Design
+
+- [MDA: A Formal Approach to Game Design and Game Research ](https://www.aaai.org/Papers/Workshops/2004/WS-04-04/WS04-04-001.pdf)
+
+
