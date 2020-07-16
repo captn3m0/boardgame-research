@@ -140,9 +140,31 @@ games like Chess, Go, Hex, take a look at the [Chess programming wiki](https://w
 - [How to Maximize Your Score in Solitaire Yahtzee](http://www-set.win.tue.nl/~wstomv/misc/yahtzee/yahtzee-report-unfinished.pdf)
 
 # Lost Cities
-
 - [Applying Neural Networks and Genetic Programming to the Game Lost Cities](http://digital.library.wisc.edu/1793/79080)
 
-# Game Design
+# Uno
+- [The complexity of UNO](https://arxiv.org/abs/1003.2851)
+- [UNO Is Hard, Even for a Single Player](https://doi.org/10.1007/978-3-642-13122-6_15)
 
+# Mobile Games
+- [Trainyard is NP-Hard](https://arxiv.org/abs/1603.00928)
+- [Threes!, Fives, 1024!, and 2048 are Hard](https://arxiv.org/abs/1505.04274)
+
+## 2048
+- [Making Change in 2048](https://arxiv.org/abs/1804.07396)
+- [Analysis of the Game "2048" and its Generalization in Higher Dimensions](https://arxiv.org/abs/1804.07393)
+- [Temporal difference learning of N-tuple networks for the game 2048](https://ieeexplore.ieee.org/abstract/document/6932907)
+- [Multi-Stage Temporal Difference Learning for 2048-like Games](https://arxiv.org/abs/1606.07374)
+- [On the Complexity of Slide-and-Merge Games](https://arxiv.org/abs/1501.03837)
+- [2048 is (PSPACE) Hard, but Sometimes Eas](https://arxiv.org/abs/1408.6315)
+- [Systematic Selection of N-Tuple Networks for 2048](https://doi.org/10.1007/978-3-319-50935-8_8)
+- [Systematic selection of N-tuple networks with consideration of interinfluence for game 2048](https://doi.org/10.1109/TAAI.2016.7880154)
+- [2048 Without New Tiles Is Still Hard](https://drops.dagstuhl.de/opus/volltexte/2016/5885/)
+- [An investigation into 2048 AI strategies](https://doi.org/10.1109/CIG.2014.6932920)
+
+# Game Design
 - [MDA: A Formal Approach to Game Design and Game Research ](https://www.aaai.org/Papers/Workshops/2004/WS-04-04/WS04-04-001.pdf)
+
+# Frameworks/Toolkits
+- [RLCard: A Toolkit for Reinforcement Learning in Card Games](https://arxiv.org/abs/1910.04376)
+
