@@ -5,6 +5,30 @@ occasionaly about designing or meta-aspects of the game. This doesn't cover all 
 should be of interest to anyone interested in boardgames and their optimal play. While there is a ton of easily accessible research on games like
 Chess and Go, finding prior work on more contemporary games can be a bit hard. This list focuses on the latter.
 
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Settlers of Catan](#settlers-of-catan)
+- [Diplomacy](#diplomacy)
+- [Risk](#risk)
+- [Kingdomino](#kingdomino)
+- [Patchwork](#patchwork)
+- [Nmbr9](#nmbr9)
+- [Hanabi](#hanabi)
+- [Monopoly](#monopoly)
+- [Magic: the Gathering](#magic-the-gathering)
+- [Terra Mystica](#terra-mystica)
+- [Dominion](#dominion)
+- [Mafia](#mafia)
+- [The Resistance: Avalon](#the-resistance-avalon)
+- [Ticket to Ride](#ticket-to-ride)
+- [Yahtzee](#yahtzee)
+- [Lost Cities](#lost-cities)
+- [Game Design](#game-design)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Settlers of Catan
 - [The effectiveness of persuasion in The Settlers of Catan ](https://doi.org/10.1109/CIG.2014.6932861)
 - [Avoiding Revenge Using Optimal Opponent Ranking Strategy in the Board Game Catan ](https://doi.org/10.4018/IJGCMS.2018040103)
@@ -118,8 +142,6 @@ Chess and Go, finding prior work on more contemporary games can be a bit hard. T
 
 - [Applying Neural Networks and Genetic Programming to the Game Lost Cities](http://digital.library.wisc.edu/1793/79080)
 
-# Design
+# Game Design
 
 - [MDA: A Formal Approach to Game Design and Game Research ](https://www.aaai.org/Papers/Workshops/2004/WS-04-04/WS04-04-001.pdf)
-
-
