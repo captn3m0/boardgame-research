@@ -28,6 +28,7 @@ games like Chess, Go, Hex, take a look at the [Chess programming wiki](https://w
 - [Lost Cities](#lost-cities)
 - [Uno](#uno)
 - [Dominion](#dominion-1)
+- [Quixo](#quixo)
 - [Mobile Games](#mobile-games)
   - [2048](#2048)
 - [Game Design](#game-design)
@@ -156,6 +157,10 @@ games like Chess, Go, Hex, take a look at the [Chess programming wiki](https://w
 I couldn't find any published research on Dominion, but there is a [simulator](https://dominionsimulator.wordpress.com/f-a-q/) and the code behind
 [the Dominion server running councilroom.com](https://github.com/mikemccllstr/dominionstats/) is available. There are [best and worst openings](http://councilroom.com/openings), [optimal card ratios](http://councilroom.com/optimal_card_ratios), [Card winning stats](http://councilroom.com/supply_win) and lots of other interesting stuff.
 
+# Quixo
+
+- [QUIXO is EXPTIME-complete](https://doi.org/10.1016/j.ipl.2020.105995)
+
 # Mobile Games
 - [Trainyard is NP-Hard](https://arxiv.org/abs/1603.00928)
 - [Threes!, Fives, 1024!, and 2048 are Hard](https://arxiv.org/abs/1505.04274)
@@ -177,4 +182,3 @@ I couldn't find any published research on Dominion, but there is a [simulator](h
 
 # Frameworks/Toolkits
 - [RLCard: A Toolkit for Reinforcement Learning in Card Games](https://arxiv.org/abs/1910.04376)
-
