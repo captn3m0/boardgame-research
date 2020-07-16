@@ -26,7 +26,11 @@ games like Chess, Go, Hex, take a look at the [Chess programming wiki](https://w
 - [Ticket to Ride](#ticket-to-ride)
 - [Yahtzee](#yahtzee)
 - [Lost Cities](#lost-cities)
+- [Uno](#uno)
+- [Mobile Games](#mobile-games)
+  - [2048](#2048)
 - [Game Design](#game-design)
+- [Frameworks/Toolkits](#frameworkstoolkits)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
