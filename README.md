@@ -1,9 +1,10 @@
-# boardgame-research
+# boardgame-research  [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-This is a list of boardgame related research papers, blogs. They are primarily related to "solving" games (by various different approaches), or
+This is a list of boardgame research. They are primarily related to "solving/playing/learning" games (by various different approaches), or
 occasionaly about designing or meta-aspects of the game. This doesn't cover all aspects of each game (notably missing social-science stuff), but
 should be of interest to anyone interested in boardgames and their optimal play. While there is a ton of easily accessible research on games like
-Chess and Go, finding prior work on more contemporary games can be a bit hard. This list focuses on the latter.
+Chess and Go, finding prior work on more contemporary games can be a bit hard. This list focuses on the latter. If you are interested in well-researched
+games like Chess, Go, Hex, take a look at the [Chess programming wiki](https://www.chessprogramming.org/Games) instead.
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
