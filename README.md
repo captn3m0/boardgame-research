@@ -20,14 +20,13 @@ games like Chess, Go, Hex, take a look at the [Chess programming wiki](https://w
 - [Monopoly](#monopoly)
 - [Magic: the Gathering](#magic-the-gathering)
 - [Terra Mystica](#terra-mystica)
-- [Dominion](#dominion)
 - [Mafia](#mafia)
 - [The Resistance: Avalon](#the-resistance-avalon)
 - [Ticket to Ride](#ticket-to-ride)
 - [Yahtzee](#yahtzee)
 - [Lost Cities](#lost-cities)
 - [Uno](#uno)
-- [Dominion](#dominion-1)
+- [Dominion](#dominion)
 - [Quixo](#quixo)
 - [Mobile Games](#mobile-games)
   - [2048](#2048)
@@ -116,9 +115,6 @@ games like Chess, Go, Hex, take a look at the [Chess programming wiki](https://w
 # Terra Mystica
 - [Using Tabu Search Algorithm for Map Generation in the Terra Mystica Tabletop Game](https://arxiv.org/abs/2006.02716)
 
-# Dominion
-- [Clustering Player Strategies from Variable-Length Game Logs in Dominion](https://arxiv.org/abs/1811.11273)
-
 # Mafia
 - [A mathematical model of the Mafia game](https://arxiv.org/abs/1009.1031)
 - [Automatic Long-Term Deception Detection in Group Interaction Videos](https://arxiv.org/abs/1905.08617)
@@ -154,8 +150,10 @@ games like Chess, Go, Hex, take a look at the [Chess programming wiki](https://w
 
 # Dominion
 
-I couldn't find any published research on Dominion, but there is a [simulator](https://dominionsimulator.wordpress.com/f-a-q/) and the code behind
-[the Dominion server running councilroom.com](https://github.com/mikemccllstr/dominionstats/) is available. There are [best and worst openings](http://councilroom.com/openings), [optimal card ratios](http://councilroom.com/optimal_card_ratios), [Card winning stats](http://councilroom.com/supply_win) and lots of other interesting stuff.
+There is a [simulator](https://dominionsimulator.wordpress.com/f-a-q/) and the code behind
+[the Dominion server running councilroom.com](https://github.com/mikemccllstr/dominionstats/) is available. councilroom has the [best and worst openings](http://councilroom.com/openings), [optimal card ratios](http://councilroom.com/optimal_card_ratios), [Card winning stats](http://councilroom.com/supply_win) and lots of other empirical research.
+
+- [Clustering Player Strategies from Variable-Length Game Logs in Dominion](https://arxiv.org/abs/1811.11273)
 
 # Quixo
 
