@@ -36,6 +36,7 @@ If you aren't able to access any paper on this list, please [try using Sci-Hub](
 - [Set](#set)
 - [Pentago](#pentago)
 - [Blokus](#blokus)
+- [Monopoly Deal](#monopoly-deal)
 - [Yahtzee](#yahtzee)
   - [2048](#2048)
 - [Game Design](#game-design)
@@ -185,6 +186,9 @@ Set has a long history of mathematical research, so this list isn't exhaustive.
 
 # Blokus
 - [Blokus Game Solver](https://digitalcommons.calpoly.edu/cpesp/290/)
+
+# Monopoly Deal
+- [Implementation of AI Player on "Monopoly Deal"](https://doi.org/10.1007/978-3-662-46742-8_11)
 
 # Yahtzee
 - [Optimal Solitaire Yahtzee Strategies](http://www.yahtzee.org.uk/optimal_yahtzee_TV.pdf)
