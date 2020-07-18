@@ -55,6 +55,7 @@ If you aren't able to access any paper on this list, please [try using Sci-Hub](
 - [Reinforcement Learning of Strategies for Settlers of Catan](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.561.6293&rep=rep1&type=pdf)
 - [Deep Reinforcement Learning in Strategic Board GameEnvironments](https://doi.org/10.1007/978-3-030-14174-5_16) [[pdf](https://hal.archives-ouvertes.fr/hal-02124411/document)]
 - [Monte Carlo Tree Search in a Modern Board Game Framework](https://project.dke.maastrichtuniversity.nl/games/files/bsc/Roelofs_Bsc-paper.pdf)
+- [The impact of loaded dice in Catan](https://izbicki.me/blog/how-to-cheat-at-settlers-of-catan-by-loading-the-dice-and-prove-it-with-p-values.html)
 
 # Diplomacy
 - [Learning to Play No-Press Diplomacy with Best Response Policy Iteration ](https://arxiv.org/abs/2006.04635)
