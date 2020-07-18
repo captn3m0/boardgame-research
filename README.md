@@ -108,9 +108,16 @@ games like Chess, Go, Hex, take a look at the [Chess programming wiki](https://w
 # Magic: the Gathering
 - [Magic: the Gathering is as Hard as Arithmetic](https://arxiv.org/abs/2003.05119)
 - [Magic: The Gathering is Turing Complete](https://arxiv.org/abs/1904.09828)
-- [Neural Networks Models for Analyzing Magic: the Gathering Cards](https://arxiv.org/abs/1810.03744)
+- [Neural Networks Models for Analyzing Magic: the Gathering Cards](https://link.springer.com/chapter/10.1007/978-3-030-04179-3_20) [[arXiv](https://arxiv.org/abs/1810.03744)]
+- [The Complexity of Deciding Legality of a Single Step of Magic: the Gathering](https://livrepository.liverpool.ac.uk/3029568/1/magic.pdf)
 - [Ensemble Determinization in Monte Carlo Tree Search for the Imperfect Information Card Game Magic: The Gathering](https://doi.org/10.1109/TCIAIG.2012.2204883)
+- [Magic: The Gathering in Common Lisp](https://pdfs.semanticscholar.org/5fc8/58802f19504ea950e20e31526dc2269b43d8.pdf) [[source](https://github.com/jeffythedragonslayer/maglisp)]
+- [Deck Costruction Strategies for Magic:  the Gathering](https://cab.unime.it/journals/index.php/congress/article/viewFile/141/141)
 - [Deckbuilding in Magic: The Gathering Using a Genetic Algorithm](http://hdl.handle.net/11250/2462429)
+- [Mathematical programming and Magic: The Gathering®](https://commons.lib.niu.edu/handle/10843/19194)
+- [Optimal Card-Collecting Strategies for Magic: The Gathering](https://doi.org/10.1080/07468342.2000.11974103)
+- [Monte Carlo search applied to card selection in Magic: The Gathering](https://doi.org/10.1109/CIG.2009.5286501)
+- [Magic: The Gathering Deck Performance Prediction](http://cs229.stanford.edu/proj2012/HauPlotkinTran-MagicTheGatheringDeckPerformancePrediction.pdf)
 
 # Terra Mystica
 - [Using Tabu Search Algorithm for Map Generation in the Terra Mystica Tabletop Game](https://arxiv.org/abs/2006.02716)
