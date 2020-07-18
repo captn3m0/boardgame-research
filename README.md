@@ -57,6 +57,9 @@ If you aren't able to access any paper on this list, please [try using Sci-Hub](
 - [Monte Carlo Tree Search in a Modern Board Game Framework](https://project.dke.maastrichtuniversity.nl/games/files/bsc/Roelofs_Bsc-paper.pdf)
 - [The impact of loaded dice in Catan](https://izbicki.me/blog/how-to-cheat-at-settlers-of-catan-by-loading-the-dice-and-prove-it-with-p-values.html)
 
+# Modern Art: The card game
+- [A constraint programming based solver for Modern Art](https://github.com/captn3m0/modernart)
+
 # Diplomacy
 - [Learning to Play No-Press Diplomacy with Best Response Policy Iteration ](https://arxiv.org/abs/2006.04635)
 - [No Press Diplomacy: Modeling Multi-Agent Gameplay ](https://arxiv.org/abs/1909.02128)
