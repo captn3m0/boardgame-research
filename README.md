@@ -4,7 +4,9 @@ This is a list of boardgame research. They are primarily related to "solving/pla
 occasionaly about designing or meta-aspects of the game. This doesn't cover all aspects of each game (notably missing social-science stuff), but
 should be of interest to anyone interested in boardgames and their optimal play. While there is a ton of easily accessible research on games like
 Chess and Go, finding prior work on more contemporary games can be a bit hard. This list focuses on the latter. If you are interested in well-researched
-games like Chess, Go, Hex, take a look at the [Chess programming wiki](https://www.chessprogramming.org/Games) instead.
+games like Chess, Go, Hex, take a look at the [Chess programming wiki](https://www.chessprogramming.org/Games) instead. The list also covers some computer-games that fall under similar themes.
+
+If you aren't able to access any paper on this list, please [try using Sci-Hub](https://en.m.wikipedia.org/wiki/Sci-Hub) or [reach out to me](https://captnemo.in/contact/).
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
@@ -17,18 +19,24 @@ games like Chess, Go, Hex, take a look at the [Chess programming wiki](https://w
 - [Patchwork](#patchwork)
 - [Nmbr9](#nmbr9)
 - [Hanabi](#hanabi)
+- [Race for the galaxy](#race-for-the-galaxy)
 - [Monopoly](#monopoly)
 - [Magic: the Gathering](#magic-the-gathering)
 - [Terra Mystica](#terra-mystica)
 - [Mafia](#mafia)
 - [The Resistance: Avalon](#the-resistance-avalon)
 - [Ticket to Ride](#ticket-to-ride)
-- [Yahtzee](#yahtzee)
 - [Lost Cities](#lost-cities)
 - [Uno](#uno)
 - [Dominion](#dominion)
 - [Quixo](#quixo)
 - [Mobile Games](#mobile-games)
+- [Race for the Galaxy](#race-for-the-galaxy)
+- [Santorini](#santorini)
+- [Set](#set)
+- [Pentago](#pentago)
+- [Blokus](#blokus)
+- [Yahtzee](#yahtzee)
   - [2048](#2048)
 - [Game Design](#game-design)
 - [Frameworks/Toolkits](#frameworkstoolkits)
@@ -94,6 +102,9 @@ games like Chess, Go, Hex, take a look at the [Chess programming wiki](https://w
 - [A framework for writing bots that play Hanabi](https://github.com/Quuxplusone/Hanabi)
 - [Evaluating the Rainbow DQN Agent in Hanabi with Unseen Partners](https://arxiv.org/abs/2004.13291)
 
+# Race for the galaxy
+- [SCOUT: A Case-Based Reasoning Agent for Playing Race for the Galaxy](https://link.springer.com/chapter/10.1007/978-3-319-61030-6_27)
+
 # Monopoly
 - [Negotiation strategy of agents in the MONOPOLY game](https://ieeexplore.ieee.org/abstract/document/1013210)
 - [Generating interesting Monopoly boards from open data](https://ieeexplore.ieee.org/abstract/document/6374168)
@@ -135,19 +146,6 @@ games like Chess, Go, Hex, take a look at the [Chess programming wiki](https://w
 - [Applications of Graph Theory andProbability in the Board GameTicket toRide](https://www.rtealwitter.com/slides/2020-JMM.pdf)
 - [The Difficulty of Learning Ticket to Ride](https://www.eecs.tufts.edu/~jsinapov/teaching/comp150_RL/reports/Nguyen_Dinjian_report.pdf)
 
-# Yahtzee
-- [Optimal Solitaire Yahtzee Strategies](http://www.yahtzee.org.uk/optimal_yahtzee_TV.pdf)
-- [Nearly Optimal Computer Play in Multi-player Yahtzee](https://doi.org/10.1007/978-3-642-17928-0_23)
-- [Computer Strategies for Solitaire Yahtzee](https://doi.org/10.1109/CIG.2007.368089)
-- [An optimal strategy for Yahtzee](http://www.cs.loyola.edu/~jglenn/research/optimal_yahtzee.pdf)
-- [Yahtzee:  a Large Stochastic Environment for RL Benchmarks](https://pdfs.semanticscholar.org/f5c2/e9c9b17f584f060a73036109f697ac819a23.pdf)
-- [Modeling expert problem solving in a game of chance: a Yahtzee case study](https://doi.org/10.1111/1468-0394.00160)
-- [Probabilites In Yahtzee](https://doi.org/10.5951/MT.75.9.0751)
-- [Optimal Yahtzee performance in multi-player games](https://www.diva-portal.org/smash/get/diva2:668705/FULLTEXT01.pdf)
-- [Defensive Yahtzee](https://www.diva-portal.org/smash/get/diva2:817838/FULLTEXT01.pdf)
-- [Using  Deep  Q-Learning  to  Compare Strategy  Ladders  of  Yahtzee](https://pdfs.semanticscholar.org/6bec/1c34c8ace65adc95d39cb0c0e589ae392678.pdf)
-- [How to Maximize Your Score in Solitaire Yahtzee](http://www-set.win.tue.nl/~wstomv/misc/yahtzee/yahtzee-report-unfinished.pdf)
-
 # Lost Cities
 - [Applying Neural Networks and Genetic Programming to the Game Lost Cities](http://digital.library.wisc.edu/1793/79080)
 
@@ -163,12 +161,43 @@ There is a [simulator](https://dominionsimulator.wordpress.com/f-a-q/) and the c
 - [Clustering Player Strategies from Variable-Length Game Logs in Dominion](https://arxiv.org/abs/1811.11273)
 
 # Quixo
-
 - [QUIXO is EXPTIME-complete](https://doi.org/10.1016/j.ipl.2020.105995)
 
 # Mobile Games
 - [Trainyard is NP-Hard](https://arxiv.org/abs/1603.00928)
 - [Threes!, Fives, 1024!, and 2048 are Hard](https://arxiv.org/abs/1505.04274)
+
+# Race for the Galaxy
+- [SCOUT: A Case-Based Reasoning Agent for Playing Race for the Galaxy](https://doi.org/10.1007/978-3-319-61030-6_27)
+
+# Santorini
+- [A Mathematical Analysis of the Game of Santorini](https://openworks.wooster.edu/independentstudy/8917/)
+
+# Set
+
+Set has a long history of mathematical research, so this list isn't exhaustive.
+
+- [Game, Set, Math](https://doi.org/10.4169/math.mag.85.2.083)
+- [The Joy of SET](https://doi.org/10.1080/00029890.2018.1412661)
+
+# Pentago
+- [On Solving Pentago](http://www.ke.tu-darmstadt.de/lehre/arbeiten/bachelor/2011/Buescher_Niklas.pdf)
+
+# Blokus
+- [Blokus Game Solver](https://digitalcommons.calpoly.edu/cpesp/290/)
+
+# Yahtzee
+- [Optimal Solitaire Yahtzee Strategies](http://www.yahtzee.org.uk/optimal_yahtzee_TV.pdf)
+- [Nearly Optimal Computer Play in Multi-player Yahtzee](https://doi.org/10.1007/978-3-642-17928-0_23)
+- [Computer Strategies for Solitaire Yahtzee](https://doi.org/10.1109/CIG.2007.368089)
+- [An optimal strategy for Yahtzee](http://www.cs.loyola.edu/~jglenn/research/optimal_yahtzee.pdf)
+- [Yahtzee:  a Large Stochastic Environment for RL Benchmarks](https://pdfs.semanticscholar.org/f5c2/e9c9b17f584f060a73036109f697ac819a23.pdf)
+- [Modeling expert problem solving in a game of chance: a Yahtzee case study](https://doi.org/10.1111/1468-0394.00160)
+- [Probabilites In Yahtzee](https://doi.org/10.5951/MT.75.9.0751)
+- [Optimal Yahtzee performance in multi-player games](https://www.diva-portal.org/smash/get/diva2:668705/FULLTEXT01.pdf)
+- [Defensive Yahtzee](https://www.diva-portal.org/smash/get/diva2:817838/FULLTEXT01.pdf)
+- [Using  Deep  Q-Learning  to  Compare Strategy  Ladders  of  Yahtzee](https://pdfs.semanticscholar.org/6bec/1c34c8ace65adc95d39cb0c0e589ae392678.pdf)
+- [How to Maximize Your Score in Solitaire Yahtzee](http://www-set.win.tue.nl/~wstomv/misc/yahtzee/yahtzee-report-unfinished.pdf)
 
 ## 2048
 - [Making Change in 2048](https://arxiv.org/abs/1804.07396)
@@ -184,6 +213,7 @@ There is a [simulator](https://dominionsimulator.wordpress.com/f-a-q/) and the c
 
 # Game Design
 - [MDA: A Formal Approach to Game Design and Game Research ](https://www.aaai.org/Papers/Workshops/2004/WS-04-04/WS04-04-001.pdf)
+- [Exploring Anonymity in Cooperative Board Games](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.225.5554&rep=rep1&type=pdf)
 
 # Frameworks/Toolkits
 - [RLCard: A Toolkit for Reinforcement Learning in Card Games](https://arxiv.org/abs/1910.04376)
