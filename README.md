@@ -31,7 +31,6 @@ If you aren't able to access any paper on this list, please [try using Sci-Hub](
 - [Uno](#uno)
 - [Dominion](#dominion)
 - [Quixo](#quixo)
-- [Mobile Games](#mobile-games)
 - [Race for the Galaxy](#race-for-the-galaxy)
 - [Santorini](#santorini)
 - [Set](#set)
@@ -39,6 +38,7 @@ If you aren't able to access any paper on this list, please [try using Sci-Hub](
 - [Blokus](#blokus)
 - [Monopoly Deal](#monopoly-deal)
 - [Yahtzee](#yahtzee)
+- [Mobile Games](#mobile-games)
   - [2048](#2048)
 - [Game Design](#game-design)
 - [Frameworks/Toolkits](#frameworkstoolkits)
@@ -170,10 +170,6 @@ There is a [simulator](https://dominionsimulator.wordpress.com/f-a-q/) and the c
 # Quixo
 - [QUIXO is EXPTIME-complete](https://doi.org/10.1016/j.ipl.2020.105995)
 
-# Mobile Games
-- [Trainyard is NP-Hard](https://arxiv.org/abs/1603.00928)
-- [Threes!, Fives, 1024!, and 2048 are Hard](https://arxiv.org/abs/1505.04274)
-
 # Race for the Galaxy
 - [SCOUT: A Case-Based Reasoning Agent for Playing Race for the Galaxy](https://doi.org/10.1007/978-3-319-61030-6_27)
 
@@ -208,6 +204,10 @@ Set has a long history of mathematical research, so this list isn't exhaustive.
 - [Defensive Yahtzee](https://www.diva-portal.org/smash/get/diva2:817838/FULLTEXT01.pdf)
 - [Using  Deep  Q-Learning  to  Compare Strategy  Ladders  of  Yahtzee](https://pdfs.semanticscholar.org/6bec/1c34c8ace65adc95d39cb0c0e589ae392678.pdf)
 - [How to Maximize Your Score in Solitaire Yahtzee](http://www-set.win.tue.nl/~wstomv/misc/yahtzee/yahtzee-report-unfinished.pdf)
+
+# Mobile Games
+- [Trainyard is NP-Hard](https://arxiv.org/abs/1603.00928)
+- [Threes!, Fives, 1024!, and 2048 are Hard](https://arxiv.org/abs/1505.04274)
 
 ## 2048
 - [Making Change in 2048](https://arxiv.org/abs/1804.07396)
