@@ -13,6 +13,7 @@ If you aren't able to access any paper on this list, please [try using Sci-Hub](
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
 - [Settlers of Catan](#settlers-of-catan)
+- [Modern Art: The card game](#modern-art-the-card-game)
 - [Diplomacy](#diplomacy)
 - [Risk](#risk)
 - [Kingdomino](#kingdomino)
