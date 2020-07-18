@@ -84,6 +84,7 @@ If you aren't able to access any paper on this list, please [try using Sci-Hub](
 - [Nmbr9 as a Constraint Programming Challenge](https://zayenz.se/blog/post/nmbr9-cp2019-abstract/)
 
 # Hanabi
+- [Improving Policies via Search in Cooperative Partially Observable Games](https://arxiv.org/abs/1912.02318) (FB) [[code](https://github.com/facebookresearch/Hanabi_SPARTA)] - Current best result.
 - [Re-determinizing MCTS in Hanabi](https://ieee-cog.org/2020/papers2019/paper_17.pdf)
 - [Hanabi is NP-hard, Even for Cheaters who Look at Their Cards](https://arxiv.org/abs/1603.01911)
 - [Evolving Agents for the Hanabi 2018 CIG Competition](https://ieeexplore.ieee.org/abstract/document/8490449)
@@ -99,7 +100,6 @@ If you aren't able to access any paper on this list, please [try using Sci-Hub](
 - [The 2018 Hanabi competition](https://doi.org/10.1109/CIG.2019.8848008)
 - [Diverse Agents for Ad-Hoc Cooperation in Hanabi](https://doi.org/10.1109/CIG.2019.8847944) [[arXiv](https://arxiv.org/pdf/2004.13710v2.pdf)]
 - [State of the art Hanabi bots + simulation framework in rust](https://github.com/WuTheFWasThat/hanabi.rs)
-- [Improving Policies via Search in Cooperative Partially Observable Games](https://arxiv.org/abs/1912.02318) (FB) [[code](https://github.com/facebookresearch/Hanabi_SPARTA)]
 - [A strategy simulator for the well-known cooperative card game Hanabi](https://github.com/rjtobin/HanSim)
 - [A framework for writing bots that play Hanabi](https://github.com/Quuxplusone/Hanabi)
 - [Evaluating the Rainbow DQN Agent in Hanabi with Unseen Partners](https://arxiv.org/abs/2004.13291)
