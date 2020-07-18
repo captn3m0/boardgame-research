@@ -137,6 +137,7 @@ If you aren't able to access any paper on this list, please [try using Sci-Hub](
 # Mafia
 - [A mathematical model of the Mafia game](https://arxiv.org/abs/1009.1031)
 - [Automatic Long-Term Deception Detection in Group Interaction Videos](https://arxiv.org/abs/1905.08617)
+- [Human-Side Strategies in the Werewolf Game Against the Stealth Werewolf Strategy](https://link.springer.com/chapter/10.1007/978-3-319-50935-8_9)
 
 # The Resistance: Avalon
 - [Finding Friend and Foe in Multi-Agent Games](https://arxiv.org/abs/1906.02330)
