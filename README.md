@@ -6,6 +6,8 @@ should be of interest to anyone interested in boardgames and their optimal play.
 Chess and Go, finding prior work on more contemporary games can be a bit hard. This list focuses on the latter. If you are interested in well-researched
 games like Chess, Go, Hex, take a look at the [Chess programming wiki](https://www.chessprogramming.org/Games) instead. The list also covers some computer-games that fall under similar themes.
 
+A [work-in-progress BibTeX file is available as well](boardgame-research.bib), which you can easily import.
+
 If you aren't able to access any paper on this list, please [try using Sci-Hub](https://en.m.wikipedia.org/wiki/Sci-Hub) or [reach out to me](https://captnemo.in/contact/).
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
@@ -53,7 +55,7 @@ If you aren't able to access any paper on this list, please [try using Sci-Hub](
 - [Game strategies for The Settlers of Catan](https://doi.org/10.1109/CIG.2014.6932884)
 - [Monte-Carlo Tree Search in Settlers of Catan](https://doi.org/10.1007/978-3-642-12993-3_3)
 - [Settlers of Catan bot trained using reinforcement learning (MATLAB).](https://jonzia.github.io/Catan/)
-- [Trading in a multiplayer board game:Towards an analysis of non-cooperative dialogue](https://escholarship.org/content/qt9zt506xx/qt9zt506xx.pdf)
+- [Trading in a multiplayer board game: Towards an analysis of non-cooperative dialogue](https://escholarship.org/content/qt9zt506xx/qt9zt506xx.pdf)
 - [POMCP with Human Preferencesin Settlers of Catan](https://www.aaai.org/ocs/index.php/AIIDE/AIIDE18/paper/viewFile/18091/17217)
 - [Reinforcement Learning of Strategies for Settlers of Catan](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.561.6293&rep=rep1&type=pdf)
 - [Deep Reinforcement Learning in Strategic Board GameEnvironments](https://doi.org/10.1007/978-3-030-14174-5_16) [[pdf](https://hal.archives-ouvertes.fr/hal-02124411/document)]
@@ -70,7 +72,7 @@ If you aren't able to access any paper on this list, please [try using Sci-Hub](
 
 # Risk
 - [Mini-Risk: Strategies for a Simplified Board Game](https://doi.org/10.1057/jors.1990.2)
-- [A Multi-Agent System for playing theboard game Risk](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A831093&dswid=-4740)
+- [A Multi-Agent System for playing the board game Risk](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A831093&dswid=-4740)
 - [Learning the risk board game with classifier systems](https://doi.org/10.1145/508791.508904)
 - [Markov Chains and the RISK Board Game](https://doi.org/10.1080/0025570X.1997.11996573)
 - [Markov Chains for the RISK Board Game Revisited](https://doi.org/10.1080/0025570X.2003.11953165)
