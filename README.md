@@ -6,7 +6,12 @@ should be of interest to anyone interested in boardgames and their optimal play.
 Chess and Go, finding prior work on more contemporary games can be a bit hard. This list focuses on the latter. If you are interested in well-researched
 games like Chess, Go, Hex, take a look at the [Chess programming wiki](https://www.chessprogramming.org/Games) instead. The list also covers some computer-games that fall under similar themes.
 
-A [work-in-progress BibTeX file is available as well](boardgame-research.bib), which you can easily import.
+Exported versions (work-in-progress) are available in the following formats:
+
+- [Zotero RDF](boardgame-research.rdf)
+- [BibTeX](boardgame-research.bib)
+
+Subscribe to the repo to get the latest updates for now.
 
 If you aren't able to access any paper on this list, please [try using Sci-Hub](https://en.m.wikipedia.org/wiki/Sci-Hub) or [reach out to me](https://captnemo.in/contact/).
 
