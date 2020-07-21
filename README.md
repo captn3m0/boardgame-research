@@ -10,6 +10,7 @@ Exported versions (work-in-progress) are available in the following formats:
 
 - [Zotero RDF](boardgame-research.rdf)
 - [BibTeX](boardgame-research.bib)
+- [HTML Bookmarks](boardgame-research-bookmarks.html)
 
 Subscribe to the repo to get the latest updates for now.
 
