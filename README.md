@@ -243,3 +243,4 @@ Set has a long history of mathematical research, so this list isn't exhaustive.
 
 # Frameworks/Toolkits
 - [RLCard: A Toolkit for Reinforcement Learning in Card Games](https://arxiv.org/abs/1910.04376)
+- [GTSA: Game Tree Search Algorithms](https://github.com/AdamStelmaszczyk/gtsa)
