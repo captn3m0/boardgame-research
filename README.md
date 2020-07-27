@@ -28,7 +28,7 @@ If you aren't able to access any paper on this list, please [try using Sci-Hub](
 - [Patchwork](#patchwork)
 - [Nmbr9](#nmbr9)
 - [Hanabi](#hanabi)
-- [Race for the galaxy](#race-for-the-galaxy)
+- [Azul](#azul)
 - [Monopoly](#monopoly)
 - [Magic: the Gathering](#magic-the-gathering)
 - [Terra Mystica](#terra-mystica)
@@ -117,9 +117,6 @@ If you aren't able to access any paper on this list, please [try using Sci-Hub](
 - [A strategy simulator for the well-known cooperative card game Hanabi](https://github.com/rjtobin/HanSim)
 - [A framework for writing bots that play Hanabi](https://github.com/Quuxplusone/Hanabi)
 - [Evaluating the Rainbow DQN Agent in Hanabi with Unseen Partners](https://arxiv.org/abs/2004.13291)
-
-# Race for the galaxy
-- [SCOUT: A Case-Based Reasoning Agent for Playing Race for the Galaxy](https://link.springer.com/chapter/10.1007/978-3-319-61030-6_27)
 
 # Azul
 - [A summary of a dissertation on Azul](https://old.reddit.com/r/boardgames/comments/hxodaf/update_i_wrote_my_dissertation_on_azul/fzd3961/?context=3) (unpublished)
