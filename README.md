@@ -121,6 +121,9 @@ If you aren't able to access any paper on this list, please [try using Sci-Hub](
 # Race for the galaxy
 - [SCOUT: A Case-Based Reasoning Agent for Playing Race for the Galaxy](https://link.springer.com/chapter/10.1007/978-3-319-61030-6_27)
 
+# Azul
+- [A summary of a dissertation on Azul](https://old.reddit.com/r/boardgames/comments/hxodaf/update_i_wrote_my_dissertation_on_azul/fzd3961/?context=3) (unpublished)
+
 # Monopoly
 - [Negotiation strategy of agents in the MONOPOLY game](https://ieeexplore.ieee.org/abstract/document/1013210)
 - [Generating interesting Monopoly boards from open data](https://ieeexplore.ieee.org/abstract/document/6374168)
