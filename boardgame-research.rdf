@@ -3977,6 +3977,42 @@ DOI: 10.1007/978-3-319-71649-7_5</dc:description>
         <z:linkMode>1</z:linkMode>
         <link:type>application/pdf</link:type>
     </z:Attachment>
+    <bib:Thesis rdf:about="https://dspace.library.uu.nl/handle/1874/396955">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>Utrecht University</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Andel</foaf:surname>
+                        <foaf:givenName>Daniël</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_222"/>
+        <dc:title>On the complexity of Hive</dc:title>
+        <dcterms:abstract>It is shown that for an arbitrary position of a Hive game where both players have the same set of N pieces it is PSPACE-hard to determine whether one of the players has a winning strategy. The proof is done by reducing the known PSPACE-complete set of true quantified boolean formulas to a game concerning these formulas, then to the game generalised geography, then to a version of that game with the restriction of having only nodes with maximum degree 3, and finally to generalised Hive. This thesis includes a short introduction to the subject of computational complexity.</dcterms:abstract>
+        <dc:date>May 2020</dc:date>
+        <z:language>en-US</z:language>
+        <z:shortTitle>On the complexity of Hive</z:shortTitle>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://dspace.library.uu.nl/handle/1874/396955</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <z:numPages>33</z:numPages>
+        <z:type>Bachelor thesis</z:type>
+    </bib:Thesis>
+    <z:Attachment rdf:about="#item_222">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Andel - 2020 - On the complexity of Hive.pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
     <z:Collection rdf:about="#collection_25">
         <dc:title>Accessibility</dc:title>
         <dcterms:hasPart rdf:resource="http://link.springer.com/10.1007/s40869-018-0057-8"/>
@@ -4010,6 +4046,10 @@ DOI: 10.1007/978-3-319-71649-7_5</dc:description>
         <dcterms:hasPart rdf:resource="https://github.com/WuTheFWasThat/hanabi.rs"/>
         <dcterms:hasPart rdf:resource="https://github.com/rjtobin/HanSim"/>
         <dcterms:hasPart rdf:resource="https://github.com/Quuxplusone/Hanabi"/>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_26">
+        <dc:title>Hive</dc:title>
+        <dcterms:hasPart rdf:resource="https://dspace.library.uu.nl/handle/1874/396955"/>
     </z:Collection>
     <z:Collection rdf:about="#collection_24">
         <dc:title>Jenga</dc:title>
