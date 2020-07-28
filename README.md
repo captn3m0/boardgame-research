@@ -14,7 +14,7 @@ Exported versions (work-in-progress) are available in the following formats:
 
 Subscribe to the repo to get the latest updates for now.
 
-If you aren't able to access any paper on this list, please [try using Sci-Hub](https://en.m.wikipedia.org/wiki/Sci-Hub) or [reach out to me](https://captnemo.in/contact/).
+If you aren't able to access any paper on this list, please [try using Sci-Hub](https://en.wikipedia.org/wiki/Sci-Hub) or [reach out to me](https://captnemo.in/contact/).
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
