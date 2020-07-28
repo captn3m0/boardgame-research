@@ -3796,6 +3796,192 @@ DOI: 10.1007/978-3-319-71649-7_5</dc:description>
             </dcterms:URI>
         </dc:identifier>
     </bib:Data>
+    <bib:Article rdf:about="https://www.llpjournal.org/2020/04/13/jidokan-jenga.html">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dcterms:isPartOf>
+                    <bib:Series>
+                       <dc:title>Ludic Language Pedagogy</dc:title>
+                    </bib:Series>
+                </dcterms:isPartOf>
+                <dc:title>Ludic Language Pedagogy</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>deHaan</foaf:surname>
+                        <foaf:givenName>Jonathan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_216"/>
+        <dc:title>Jidoukan Jenga: Teaching English through remixing games and game rules</dc:title>
+        <dcterms:abstract>Let students play simple games in their L1. It’s ok!
+
+    Then:
+
+        You, the teacher, can help them critique the game in their L2.
+        You, the teacher, can help them change the game in their L2.
+        You, the teacher, can help them develop themselves.
+
+    #dropthestick #dropthecarrot #bringmeaning</dcterms:abstract>
+        <dc:date>2020-04-15</dc:date>
+        <z:shortTitle>Teaching English through remixing games and game rules</z:shortTitle>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.llpjournal.org/2020/04/13/jidokan-jenga.html</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>📍 What is this? This is a recollection of a short lesson with some children. I used Jenga and a dictionary.
+    📍 Why did you make it? I want to show language teachers that simple games, and playing simple games in students’ first language can be a great foundation for helping students learn new vocabulary, think critically, and exercise creativity.
+    📍 Why is it radical? I taught using a simple board game (at a time when video games are over-focused on in research). I show what the learning looks like (I include a photo). The teaching and learning didn’t occur in a laboratory setting, but in the wild (in a community center). I focused on the learning around games.
+    📍 Who is it for? Language teachers can easily implement this lesson using Jenga or any other game. Language researchers can expand on the translating and remixing potential around games.</dc:description>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_216">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>deHaan - 2020 - Jidoukan Jenga Teaching English through remixing .pdf</dc:title>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://link.springer.com/10.1007/s40869-018-0057-8">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2052-773X"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Heron</foaf:surname>
+                        <foaf:givenName>Michael James</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Belford</foaf:surname>
+                        <foaf:givenName>Pauline Helen</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Reid</foaf:surname>
+                        <foaf:givenName>Hayley</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Crabb</foaf:surname>
+                        <foaf:givenName>Michael</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_218"/>
+        <dc:title>Meeple Centred Design: A Heuristic Toolkit for Evaluating the Accessibility of Tabletop Games</dc:title>
+        <dc:date>6/2018</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>Meeple Centred Design</z:shortTitle>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://link.springer.com/10.1007/s40869-018-0057-8</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-07-28 09:08:52</dcterms:dateSubmitted>
+        <bib:pages>97-114</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2052-773X">
+        <prism:volume>7</prism:volume>
+        <dc:title>The Computer Games Journal</dc:title>
+        <dc:identifier>DOI 10.1007/s40869-018-0057-8</dc:identifier>
+        <prism:number>2</prism:number>
+        <dcterms:alternative>Comput Game J</dcterms:alternative>
+        <dc:identifier>ISSN 2052-773X</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_218">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://link.springer.com/content/pdf/10.1007/s40869-018-0057-8.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-07-28 09:08:55</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://link.springer.com/10.1007/s40869-018-0056-9">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>7</prism:volume>
+                <dc:title>The Computer Games Journal</dc:title>
+                <dc:identifier>DOI 10.1007/s40869-018-0056-9</dc:identifier>
+                <prism:number>2</prism:number>
+                <dcterms:alternative>Comput Game J</dcterms:alternative>
+                <dc:identifier>ISSN 2052-773X</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Heron</foaf:surname>
+                        <foaf:givenName>Michael James</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Belford</foaf:surname>
+                        <foaf:givenName>Pauline Helen</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Reid</foaf:surname>
+                        <foaf:givenName>Hayley</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Crabb</foaf:surname>
+                        <foaf:givenName>Michael</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_220"/>
+        <dc:title>Eighteen Months of Meeple Like Us: An Exploration into the State of Board Game Accessibility</dc:title>
+        <dc:date>6/2018</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>Eighteen Months of Meeple Like Us</z:shortTitle>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://link.springer.com/10.1007/s40869-018-0056-9</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-07-28 09:09:05</dcterms:dateSubmitted>
+        <bib:pages>75-95</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_220">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://link.springer.com/content/pdf/10.1007/s40869-018-0056-9.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-07-28 09:09:08</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Collection rdf:about="#collection_25">
+        <dc:title>Accessibility</dc:title>
+        <dcterms:hasPart rdf:resource="http://link.springer.com/10.1007/s40869-018-0057-8"/>
+        <dcterms:hasPart rdf:resource="http://link.springer.com/10.1007/s40869-018-0056-9"/>
+    </z:Collection>
     <z:Collection rdf:about="#collection_8">
         <dc:title>Diplomacy</dc:title>
         <dcterms:hasPart rdf:resource="http://arxiv.org/abs/2006.04635v2"/>
@@ -3824,6 +4010,10 @@ DOI: 10.1007/978-3-319-71649-7_5</dc:description>
         <dcterms:hasPart rdf:resource="https://github.com/WuTheFWasThat/hanabi.rs"/>
         <dcterms:hasPart rdf:resource="https://github.com/rjtobin/HanSim"/>
         <dcterms:hasPart rdf:resource="https://github.com/Quuxplusone/Hanabi"/>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_24">
+        <dc:title>Jenga</dc:title>
+        <dcterms:hasPart rdf:resource="https://www.llpjournal.org/2020/04/13/jidokan-jenga.html"/>
     </z:Collection>
     <z:Collection rdf:about="#collection_9">
         <dc:title>Kingdomino</dc:title>
