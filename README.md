@@ -96,6 +96,10 @@ There is a [simulator](https://dominionsimulator.wordpress.com/f-a-q/) and the c
 - [A framework for writing bots that play Hanabi](https://github.com/Quuxplusone/Hanabi)
 - [Evaluating the Rainbow DQN Agent in Hanabi with Unseen Partners](https://arxiv.org/abs/2004.13291)
 
+# Hive
+
+- [On the complexity of Hive](https://dspace.library.uu.nl/handle/1874/396955)
+
 # Jenga
 - [Jidoukan Jenga: Teaching English through remixing games and game rules](https://www.llpjournal.org/2020/04/13/jidokan-jenga.html)
 
