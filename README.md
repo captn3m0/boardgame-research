@@ -25,7 +25,7 @@ If you aren't able to access any paper on this list, please [try using Sci-Hub](
 - [Diplomacy](#diplomacy)
 - [Dominion](#dominion)
 - [Hanabi](#hanabi)
-- [Settlers of Catan](#settlers-of-catan)
+- [Jenga](#jenga)
 - [Kingdomino](#kingdomino)
 - [Lost Cities](#lost-cities)
 - [Mafia](#mafia)
@@ -44,6 +44,7 @@ If you aren't able to access any paper on this list, please [try using Sci-Hub](
 - [Santorini](#santorini)
 - [Scotland Yard](#scotland-yard)
 - [Set](#set)
+- [Settlers of Catan](#settlers-of-catan)
 - [Terra Mystica](#terra-mystica)
 - [Ticket to Ride](#ticket-to-ride)
 - [Uno](#uno)
@@ -51,6 +52,7 @@ If you aren't able to access any paper on this list, please [try using Sci-Hub](
 - [Mobile Games](#mobile-games)
   - [2048](#2048)
 - [Game Design](#game-design)
+  - [Accessibility](#accessibility)
 - [Frameworks/Toolkits](#frameworkstoolkits)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -69,7 +71,7 @@ If you aren't able to access any paper on this list, please [try using Sci-Hub](
 # Dominion
 
 There is a [simulator](https://dominionsimulator.wordpress.com/f-a-q/) and the code behind
-[the Dominion server running councilroom.com](https://github.com/mikemccllstr/dominionstats/) is available. councilroom has the [best and worst openings](http://councilroom.com/openings), [optimal card ratios](http://councilroom.com/optimal_card_ratios), [Card winning stats](http://councilroom.com/supply_win) and lots of other empirical research.
+[the Dominion server running councilroom.com](https://github.com/mikemccllstr/dominionstats/) is available. councilroom has the [best and worst openings](http://councilroom.com/openings), [optimal card ratios](http://councilroom.com/optimal_card_ratios), [Card winning stats](http://councilroom.com/supply_win) and lots of other empirical research. The [Dominion Strategy Forum](http://forum.dominionstrategy.com/index.php) is another good general resource.
 
 - [Clustering Player Strategies from Variable-Length Game Logs in Dominion](https://arxiv.org/abs/1811.11273)
 
@@ -93,6 +95,9 @@ There is a [simulator](https://dominionsimulator.wordpress.com/f-a-q/) and the c
 - [A strategy simulator for the well-known cooperative card game Hanabi](https://github.com/rjtobin/HanSim)
 - [A framework for writing bots that play Hanabi](https://github.com/Quuxplusone/Hanabi)
 - [Evaluating the Rainbow DQN Agent in Hanabi with Unseen Partners](https://arxiv.org/abs/2004.13291)
+
+# Jenga
+- [Jidoukan Jenga: Teaching English through remixing games and game rules](https://www.llpjournal.org/2020/04/13/jidokan-jenga.html)
 
 # Kingdomino
 - [Monte Carlo Methods for the Game Kingdomino](https://doi.org/10.1109/CIG.2018.8490419) [[arXiv](https://arxiv.org/abs/1807.04458)]
@@ -239,6 +244,11 @@ Set has a long history of mathematical research, so this list isn't exhaustive.
 # Game Design
 - [MDA: A Formal Approach to Game Design and Game Research ](https://www.aaai.org/Papers/Workshops/2004/WS-04-04/WS04-04-001.pdf)
 - [Exploring Anonymity in Cooperative Board Games](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.225.5554&rep=rep1&type=pdf)
+
+## Accessibility
+
+- [Eighteen Months of Meeple Like Us: An Exploration into the State of Board Game Accessibility](https://doi.org/10.1007/s40869-018-0056-9)
+- [Meeple Centred Design: A Heuristic Toolkit for Evaluating the Accessibility of Tabletop Games](https://doi.org/10.1007/s40869-018-0057-8)
 
 # Frameworks/Toolkits
 - [RLCard: A Toolkit for Reinforcement Learning in Card Games](https://arxiv.org/abs/1910.04376)
