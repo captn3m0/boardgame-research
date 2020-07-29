@@ -209,8 +209,9 @@ Set has a long history of mathematical research, so this list isn't exhaustive.
 # Ticket to Ride
 - [Evolving maps and decks for ticket to ride](https://doi.org/10.1145/3235765.3235813)
 - [Materials for Ticket to Ride Seattle and a framework for making more game boards](https://github.com/dovinmu/ttr_generator)
-- [Applications of Graph Theory andProbability in the Board GameTicket toRide](https://www.rtealwitter.com/slides/2020-JMM.pdf)
+- [Applications of Graph Theory and Probability in the Board Game Ticket to Ride](https://www.rtealwitter.com/slides/2020-JMM.pdf)
 - [The Difficulty of Learning Ticket to Ride](https://www.eecs.tufts.edu/~jsinapov/teaching/comp150_RL/reports/Nguyen_Dinjian_report.pdf)
+- [AI-based Playtesting of Contemporary Board Games](https://doi.org/10.1145/3102071.3102105) [[pdf](http://game.engineering.nyu.edu/wp-content/uploads/2017/06/ticket-ride-fdg2017-camera-ready.pdf)]
 
 # Uno
 - [The complexity of UNO](https://arxiv.org/abs/1003.2851)
