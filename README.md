@@ -203,6 +203,10 @@ Set has a long history of mathematical research, so this list isn't exhaustive.
 - [Monte Carlo Tree Search in a Modern Board Game Framework](https://project.dke.maastrichtuniversity.nl/games/files/bsc/Roelofs_Bsc-paper.pdf)
 - [The impact of loaded dice in Catan](https://izbicki.me/blog/how-to-cheat-at-settlers-of-catan-by-loading-the-dice-and-prove-it-with-p-values.html)
 
+# Shobu
+- [Shobu AI Playground](https://github.com/JayWalker512/Shobu)
+- [Shobu randomly played games dataset](https://www.kaggle.com/bsfoltz/shobu-randomly-played-games-104k)
+
 # Terra Mystica
 - [Using Tabu Search Algorithm for Map Generation in the Terra Mystica Tabletop Game](https://arxiv.org/abs/2006.02716)
 
