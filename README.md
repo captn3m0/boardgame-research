@@ -23,6 +23,7 @@ If you aren't able to access any paper on this list, please [try using Sci-Hub](
 - [Azul](#azul)
 - [Blokus](#blokus)
 - [Diplomacy](#diplomacy)
+- [Dixit](#dixit)
 - [Dominion](#dominion)
 - [Hanabi](#hanabi)
 - [Jenga](#jenga)
@@ -67,6 +68,9 @@ If you aren't able to access any paper on this list, please [try using Sci-Hub](
 - [Learning to Play No-Press Diplomacy with Best Response Policy Iteration ](https://arxiv.org/abs/2006.04635)
 - [No Press Diplomacy: Modeling Multi-Agent Gameplay ](https://arxiv.org/abs/1909.02128)
 - [Agent Madoff: A Heuristic-Based Negotiation Agent For The Diplomacy Strategy Game ](https://arxiv.org/abs/1902.06996)
+
+# Dixit
+- [Creative Captioning: An AI Grand Challenge Based on the Dixit Board Game](https://arxiv.org/abs/2010.00048)
 
 # Dominion
 

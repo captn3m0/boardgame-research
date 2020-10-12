@@ -4013,6 +4013,328 @@ DOI: 10.1007/978-3-319-71649-7_5</dc:description>
         <dc:title>Andel - 2020 - On the complexity of Hive.pdf</dc:title>
         <link:type>application/pdf</link:type>
     </z:Attachment>
+    <bib:Article rdf:about="http://arxiv.org/abs/2010.00048">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal><dc:title>arXiv:2010.00048 [cs]</dc:title></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kunda</foaf:surname>
+                        <foaf:givenName>Maithilee</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rabkina</foaf:surname>
+                        <foaf:givenName>Irina</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_224"/>
+        <link:link rdf:resource="#item_225"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Computer Science - Artificial Intelligence</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Creative Captioning: An AI Grand Challenge Based on the Dixit Board Game</dc:title>
+        <dcterms:abstract>We propose a new class of &quot;grand challenge&quot; AI problems that we call creative captioning---generating clever, interesting, or abstract captions for images, as well as understanding such captions. Creative captioning draws on core AI research areas of vision, natural language processing, narrative reasoning, and social reasoning, and across all these areas, it requires sophisticated uses of common sense and cultural knowledge. In this paper, we analyze several specific research problems that fall under creative captioning, using the popular board game Dixit as both inspiration and proposed testing ground. We expect that Dixit could serve as an engaging and motivating benchmark for creative captioning across numerous AI research communities for the coming 1-2 decades.</dcterms:abstract>
+        <dc:date>2020-09-30</dc:date>
+        <z:shortTitle>Creative Captioning</z:shortTitle>
+        <z:libraryCatalog>arXiv.org</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://arxiv.org/abs/2010.00048</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-10-12 04:03:28</dcterms:dateSubmitted>
+        <dc:description>arXiv: 2010.00048</dc:description>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_224">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>arXiv Fulltext PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/pdf/2010.00048.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-10-12 04:03:46</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_225">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>arXiv.org Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/abs/2010.00048</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-10-12 04:03:53</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Data rdf:about="https://github.com/JayWalker512/Shobu">
+        <z:itemType>computerProgram</z:itemType>
+        <dc:title>Shobu AI Playground</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://github.com/JayWalker512/Shobu</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Data>
+    <bib:Document rdf:about="https://www.kaggle.com/bsfoltz/shobu-randomly-played-games-104k">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website></z:Website>
+        </dcterms:isPartOf>
+        <dc:title>Shobu randomly played games dataset</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.kaggle.com/bsfoltz/shobu-randomly-played-games-104k</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Document>
+    <rdf:Description rdf:about="urn:isbn:978-1-4503-5319-9">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:identifier>ISBN 978-1-4503-5319-9</dc:identifier>
+                <dc:title>Proceedings of the International Conference on the Foundations of Digital Games - FDG '17</dc:title>
+                <dc:identifier>DOI 10.1145/3102071.3102105</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Hyannis, Massachusetts</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>ACM Press</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>de Mesentier Silva</foaf:surname>
+                        <foaf:givenName>Fernando</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lee</foaf:surname>
+                        <foaf:givenName>Scott</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Togelius</foaf:surname>
+                        <foaf:givenName>Julian</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Nealen</foaf:surname>
+                        <foaf:givenName>Andy</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_229"/>
+        <link:link rdf:resource="#item_236"/>
+        <dc:title>AI-based playtesting of contemporary board games</dc:title>
+        <dc:date>2017</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://dl.acm.org/citation.cfm?doid=3102071.3102105</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-10-12 04:09:30</dcterms:dateSubmitted>
+        <bib:pages>1-10</bib:pages>
+        <bib:presentedAt>
+            <bib:Conference>
+               <dc:title>the International Conference</dc:title>
+            </bib:Conference>
+        </bib:presentedAt>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_229">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://twin.sci-hub.se/6553/d80b9cdf7f993e1137d0b129dec94e6d/demesentiersilva2017.pdf#view=FitH</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-10-12 04:09:38</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_236">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://game.engineering.nyu.edu/wp-content/uploads/2017/06/ticket-ride-fdg2017-camera-ready.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-10-12 04:13:00</dcterms:dateSubmitted>
+        <z:linkMode>3</z:linkMode>
+    </z:Attachment>
+    <bib:Data rdf:about="https://github.com/dovinmu/ttr_generator">
+        <z:itemType>computerProgram</z:itemType>
+        <z:programmers>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Copley</foaf:surname>
+                        <foaf:givenName>Rowan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:programmers>
+        <dc:title>Materials for Ticket to Ride Seattle and a framework for making more game boards</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://github.com/dovinmu/ttr_generator</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Data>
+    <bib:Report rdf:about="https://www.eecs.tufts.edu/~jsinapov/teaching/comp150_RL/reports/Nguyen_Dinjian_report.pdf">
+        <z:itemType>report</z:itemType>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Nguyen</foaf:surname>
+                        <foaf:givenName>Cuong</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dinjian</foaf:surname>
+                        <foaf:givenName>Daniel</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>https://www.eecs.tufts.edu/~jsinapov/teaching/comp150_RL/reports/Nguyen_Dinjian_report.pdf</dc:title>
+        <dcterms:abstract>Ticket to Ride is a very popular, award-winning board-game where you try toscore the most points while building a railway spanning cities in America.  For acomputer to learn to play this game is very difficult due to the vast state-actionspace.  This project will explain why featurizing your state, and implementingcurriculum learning can help agents learn as state-action spaces grow too largefor traditional learning methods to be effective.</dcterms:abstract>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.eecs.tufts.edu/~jsinapov/teaching/comp150_RL/reports/Nguyen_Dinjian_report.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Report>
+    <rdf:Description rdf:about="urn:isbn:978-1-4503-6571-0">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:identifier>ISBN 978-1-4503-6571-0</dc:identifier>
+                <dc:title>Proceedings of the 13th International Conference on the Foundations of Digital Games</dc:title>
+                <dc:identifier>DOI 10.1145/3235765.3235813</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Malmö Sweden</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>ACM</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>de Mesentier Silva</foaf:surname>
+                        <foaf:givenName>Fernando</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lee</foaf:surname>
+                        <foaf:givenName>Scott</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Togelius</foaf:surname>
+                        <foaf:givenName>Julian</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Nealen</foaf:surname>
+                        <foaf:givenName>Andy</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_235"/>
+        <dc:title>Evolving maps and decks for ticket to ride</dc:title>
+        <dc:date>2018-08-07</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://dl.acm.org/doi/10.1145/3235765.3235813</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-10-12 04:12:33</dcterms:dateSubmitted>
+        <bib:pages>1-7</bib:pages>
+        <bib:presentedAt>
+            <bib:Conference>
+               <dc:title>FDG '18: Foundations of Digital Games 2018</dc:title>
+            </bib:Conference>
+        </bib:presentedAt>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_235">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://twin.sci-hub.se/7128/24e28b0429626f565aafd93768332e73/demesentiersilva2018.pdf#view=FitH</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-10-12 04:12:36</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:ConferenceProceedings rdf:about="https://www.rtealwitter.com/slides/2020-JMM.pdf">
+        <z:itemType>presentation</z:itemType>
+        <z:presenters>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Witter</foaf:surname>
+                        <foaf:givenName>R. Teal</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lyford</foaf:surname>
+                        <foaf:givenName>Alex</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:presenters>
+        <dc:title>Applications of Graph Theory andProbability in the Board GameTicket toRide</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.rtealwitter.com/slides/2020-JMM.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:ConferenceProceedings>
     <z:Collection rdf:about="#collection_25">
         <dc:title>Accessibility</dc:title>
         <dcterms:hasPart rdf:resource="http://link.springer.com/10.1007/s40869-018-0057-8"/>
@@ -4023,6 +4345,10 @@ DOI: 10.1007/978-3-319-71649-7_5</dc:description>
         <dcterms:hasPart rdf:resource="http://arxiv.org/abs/2006.04635v2"/>
         <dcterms:hasPart rdf:resource="http://arxiv.org/abs/1909.02128v2"/>
         <dcterms:hasPart rdf:resource="http://arxiv.org/abs/1902.06996v1"/>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_27">
+        <dc:title>Dixit</dc:title>
+        <dcterms:hasPart rdf:resource="http://arxiv.org/abs/2010.00048"/>
     </z:Collection>
     <z:Collection rdf:about="#collection_5">
         <dc:title>Hanabi</dc:title>
@@ -4162,9 +4488,22 @@ DOI: 10.1007/978-3-319-71649-7_5</dc:description>
         <dcterms:hasPart rdf:resource="https://project.dke.maastrichtuniversity.nl/games/files/bsc/Roelofs_Bsc-paper.pdf"/>
         <dcterms:hasPart rdf:resource="#item_135"/>
     </z:Collection>
+    <z:Collection rdf:about="#collection_28">
+        <dc:title>Shobu</dc:title>
+        <dcterms:hasPart rdf:resource="https://github.com/JayWalker512/Shobu"/>
+        <dcterms:hasPart rdf:resource="https://www.kaggle.com/bsfoltz/shobu-randomly-played-games-104k"/>
+    </z:Collection>
     <z:Collection rdf:about="#collection_15">
         <dc:title>Terra Mystica</dc:title>
         <dcterms:hasPart rdf:resource="https://doi.org/10.1145%2F3396474.3396492"/>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_29">
+        <dc:title>Ticket to Ride</dc:title>
+        <dcterms:hasPart rdf:resource="urn:isbn:978-1-4503-5319-9"/>
+        <dcterms:hasPart rdf:resource="https://github.com/dovinmu/ttr_generator"/>
+        <dcterms:hasPart rdf:resource="https://www.eecs.tufts.edu/~jsinapov/teaching/comp150_RL/reports/Nguyen_Dinjian_report.pdf"/>
+        <dcterms:hasPart rdf:resource="urn:isbn:978-1-4503-6571-0"/>
+        <dcterms:hasPart rdf:resource="https://www.rtealwitter.com/slides/2020-JMM.pdf"/>
     </z:Collection>
     <z:Collection rdf:about="#collection_17">
         <dc:title>UNO</dc:title>
