@@ -26,6 +26,7 @@ If you aren't able to access any paper on this list, please [try using Sci-Hub](
 - [Dixit](#dixit)
 - [Dominion](#dominion)
 - [Hanabi](#hanabi)
+- [Hive](#hive)
 - [Jenga](#jenga)
 - [Kingdomino](#kingdomino)
 - [Lost Cities](#lost-cities)
@@ -44,8 +45,10 @@ If you aren't able to access any paper on this list, please [try using Sci-Hub](
 - [Risk](#risk)
 - [Santorini](#santorini)
 - [Scotland Yard](#scotland-yard)
+- [Secret Hitler](#secret-hitler)
 - [Set](#set)
 - [Settlers of Catan](#settlers-of-catan)
+- [Shobu](#shobu)
 - [Terra Mystica](#terra-mystica)
 - [Ticket to Ride](#ticket-to-ride)
 - [Uno](#uno)
@@ -191,6 +194,9 @@ There is a [simulator](https://dominionsimulator.wordpress.com/f-a-q/) and the c
 
 # Scotland Yard
 - [The complexity of Scotland Yard](http://www.illc.uva.nl/Research/Publications/Reports/PP-2006-18.text.pdf)
+
+# Secret Hitler
+- [Competing in a Complex Hidden Role Game with Information Set Monte Carlo Tree Search](https://arxiv.org/abs/2005.07156)
 
 # Set
 Set has a long history of mathematical research, so this list isn't exhaustive.
