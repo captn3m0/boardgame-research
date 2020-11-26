@@ -99,6 +99,10 @@ There is a [simulator](https://dominionsimulator.wordpress.com/f-a-q/) and the c
 - [A strategy simulator for the well-known cooperative card game Hanabi](https://github.com/rjtobin/HanSim)
 - [A framework for writing bots that play Hanabi](https://github.com/Quuxplusone/Hanabi)
 - [Evaluating the Rainbow DQN Agent in Hanabi with Unseen Partners](https://arxiv.org/abs/2004.13291)
+- [Operationalizing Intentionality to Play Hanabi with Human Players](https://doi.org/10.1109/TG.2020.3009359)
+- [Behavioral Evaluation of Hanabi Rainbow DQN Agents and Rule-Based Agents](https://ojs.aaai.org//index.php/AIIDE/article/view/7404) [[pdf](https://ojs.aaai.org/index.php/AIIDE/article/view/7404/7333)]
+- [Playing mini-Hanabi card game with Q-learning](http://id.nii.ac.jp/1001/00205046/)
+- [Generating and Adapting to Diverse Ad-Hoc Cooperation Agents in Hanabi](https://arxiv.org/abs/2004.13710)
 
 # Hive
 

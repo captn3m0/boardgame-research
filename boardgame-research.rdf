@@ -4335,6 +4335,330 @@ DOI: 10.1007/978-3-319-71649-7_5</dc:description>
             </dcterms:URI>
         </dc:identifier>
     </bib:ConferenceProceedings>
+    <bib:Article rdf:about="http://arxiv.org/abs/2008.07079">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+               <dc:title>arXiv:2008.07079 [cs, stat]</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gendre</foaf:surname>
+                        <foaf:givenName>Quentin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kaneko</foaf:surname>
+                        <foaf:givenName>Tomoyuki</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_239"/>
+        <link:link rdf:resource="#item_240"/>
+        <link:link rdf:resource="#item_241"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Computer Science - Artificial Intelligence</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Computer Science - Machine Learning</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Statistics - Machine Learning</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Playing Catan with Cross-dimensional Neural Network</dc:title>
+        <dcterms:abstract>Catan is a strategic board game having interesting properties, including multi-player, imperfect information, stochastic, complex state space structure (hexagonal board where each vertex, edge and face has its own features, cards for each player, etc), and a large action space (including negotiation). Therefore, it is challenging to build AI agents by Reinforcement Learning (RL for short), without domain knowledge nor heuristics. In this paper, we introduce cross-dimensional neural networks to handle a mixture of information sources and a wide variety of outputs, and empirically demonstrate that the network dramatically improves RL in Catan. We also show that, for the first time, a RL agent can outperform jsettler, the best heuristic agent available.</dcterms:abstract>
+        <dc:date>2020-08-17</dc:date>
+        <z:libraryCatalog>arXiv.org</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://arxiv.org/abs/2008.07079</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-10-12 04:19:57</dcterms:dateSubmitted>
+        <dc:description>arXiv: 2008.07079</dc:description>
+    </bib:Article>
+    <bib:Memo rdf:about="#item_239">
+        <rdf:value>Comment: 12 pages, 5 tables and 10 figures; submitted to the ICONIP 2020</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_240">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>arXiv Fulltext PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/pdf/2008.07079.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-10-12 04:20:04</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_241">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>arXiv.org Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/abs/2008.07079</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-10-12 04:20:10</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="urn:isbn:978-1-4503-8878-8">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:identifier>ISBN 978-1-4503-8878-8</dc:identifier>
+                <dc:title>11th Hellenic Conference on Artificial Intelligence</dc:title>
+                <dc:identifier>DOI 10.1145/3411408.3411413</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Athens Greece</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>ACM</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Theodoridis</foaf:surname>
+                        <foaf:givenName>Alexios</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chalkiadakis</foaf:surname>
+                        <foaf:givenName>Georgios</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Monte Carlo Tree Search for the Game of Diplomacy</dc:title>
+        <dc:date>2020-09-02</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://dl.acm.org/doi/10.1145/3411408.3411413</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-10-12 04:20:38</dcterms:dateSubmitted>
+        <bib:pages>16-25</bib:pages>
+        <bib:presentedAt>
+            <bib:Conference>
+                <dc:title>SETN 2020: 11th Hellenic Conference on Artificial Intelligence</dc:title>
+            </bib:Conference>
+        </bib:presentedAt>
+    </rdf:Description>
+    <bib:Article rdf:about="https://ieeexplore.ieee.org/document/9140404/">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2475-1502,%202475-1510"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Eger</foaf:surname>
+                        <foaf:givenName>Markus</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Martens</foaf:surname>
+                        <foaf:givenName>Chris</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sauma Chacon</foaf:surname>
+                        <foaf:givenName>Pablo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Alfaro Cordoba</foaf:surname>
+                        <foaf:givenName>Marcela</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hidalgo Cespedes</foaf:surname>
+                        <foaf:givenName>Jeisson</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_244"/>
+        <dc:title>Operationalizing Intentionality to Play Hanabi with Human Players</dc:title>
+        <dc:date>2020</dc:date>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://ieeexplore.ieee.org/document/9140404/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-11-26 08:48:44</dcterms:dateSubmitted>
+        <bib:pages>1-1</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2475-1502,%202475-1510">
+        <dc:title>IEEE Transactions on Games</dc:title>
+        <dc:identifier>DOI 10.1109/TG.2020.3009359</dc:identifier>
+        <dcterms:alternative>IEEE Trans. Games</dcterms:alternative>
+        <dc:identifier>ISSN 2475-1502, 2475-1510</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_244">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://sci-hub.se/downloads/2020-08-17/f1/eger2020.pdf?rand=5fbf6bef76c6b#view=FitH</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-11-26 08:48:52</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://ojs.aaai.org/index.php/AIIDE/article/view/7404">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>16</prism:volume>
+                <dc:title>Proceedings of the AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment</dc:title>
+                <prism:number>1</prism:number>
+                <dcterms:alternative>AIIDE</dcterms:alternative>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Canaan</foaf:surname>
+                        <foaf:givenName>Rodrigo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gao</foaf:surname>
+                        <foaf:givenName>Xianbo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chung</foaf:surname>
+                        <foaf:givenName>Youjin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Togelius</foaf:surname>
+                        <foaf:givenName>Julian</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Nealen</foaf:surname>
+                        <foaf:givenName>Andy</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Menzel</foaf:surname>
+                        <foaf:givenName>Stefan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_246"/>
+        <dc:title>Behavioral Evaluation of Hanabi Rainbow DQN Agents and Rule-Based Agents</dc:title>
+        <dcterms:abstract>&amp;lt;p class=&amp;quot;abstract&amp;quot;&amp;gt;Hanabi is a multiplayer cooperative card game, where only your partners know your cards. All players succeed or fail together. This makes the game an excellent testbed for studying collaboration. Recently, it has been shown that deep neural networks can be trained through self-play to play the game very well. However, such agents generally do not play well with others. In this paper, we investigate the consequences of training Rainbow DQN agents with human-inspired rule-based agents. We analyze with which agents Rainbow agents learn to play well, and how well playing skill transfers to agents they were not trained with. We also analyze patterns of communication between agents to elucidate how collaboration happens. A key finding is that while most agents only learn to play well with partners seen during training, one particular agent leads the Rainbow algorithm towards a much more general policy. The metrics and hypotheses advanced in this paper can be used for further study of collaborative agents.&amp;lt;/p&amp;gt;</dcterms:abstract>
+        <dc:date>October 1, 2020</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://ojs.aaai.org/index.php/AIIDE/article/view/7404</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-11-26</dcterms:dateSubmitted>
+        <dc:description>Section: Full Oral Papers</dc:description>
+        <bib:pages>31-37</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_246">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>View PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://ojs.aaai.org/index.php/AIIDE/article/view/7404/7333</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-11-26 08:52:38</dcterms:dateSubmitted>
+        <z:linkMode>3</z:linkMode>
+    </z:Attachment>
+    <rdf:Description rdf:about="http://id.nii.ac.jp/1001/00205046/">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+               <prism:volume>2020</prism:volume><dc:title>第82回全国大会講演論文集</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>ひい</foaf:surname>
+                        <foaf:givenName>とう</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>市来</foaf:surname>
+                        <foaf:givenName>正裕</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>中里</foaf:surname>
+                        <foaf:givenName>研一</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_248"/>
+        <dc:title>Playing mini-Hanabi card game with Q-learning</dc:title>
+        <dc:date>February 2020</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://id.nii.ac.jp/1001/00205046/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:description>Issue: 1</dc:description>
+        <bib:pages>41–42</bib:pages>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_248">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>View PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://ipsj.ixsq.nii.ac.jp/ej/?action=repository_uri&amp;item_id=205142&amp;file_id=1&amp;file_no=1</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-11-26 08:54:47</dcterms:dateSubmitted>
+        <z:linkMode>3</z:linkMode>
+    </z:Attachment>
     <z:Collection rdf:about="#collection_25">
         <dc:title>Accessibility</dc:title>
         <dcterms:hasPart rdf:resource="http://link.springer.com/10.1007/s40869-018-0057-8"/>
@@ -4345,6 +4669,7 @@ DOI: 10.1007/978-3-319-71649-7_5</dc:description>
         <dcterms:hasPart rdf:resource="http://arxiv.org/abs/2006.04635v2"/>
         <dcterms:hasPart rdf:resource="http://arxiv.org/abs/1909.02128v2"/>
         <dcterms:hasPart rdf:resource="http://arxiv.org/abs/1902.06996v1"/>
+        <dcterms:hasPart rdf:resource="urn:isbn:978-1-4503-8878-8"/>
     </z:Collection>
     <z:Collection rdf:about="#collection_27">
         <dc:title>Dixit</dc:title>
@@ -4372,6 +4697,9 @@ DOI: 10.1007/978-3-319-71649-7_5</dc:description>
         <dcterms:hasPart rdf:resource="https://github.com/WuTheFWasThat/hanabi.rs"/>
         <dcterms:hasPart rdf:resource="https://github.com/rjtobin/HanSim"/>
         <dcterms:hasPart rdf:resource="https://github.com/Quuxplusone/Hanabi"/>
+        <dcterms:hasPart rdf:resource="https://ieeexplore.ieee.org/document/9140404/"/>
+        <dcterms:hasPart rdf:resource="https://ojs.aaai.org/index.php/AIIDE/article/view/7404"/>
+        <dcterms:hasPart rdf:resource="http://id.nii.ac.jp/1001/00205046/"/>
     </z:Collection>
     <z:Collection rdf:about="#collection_26">
         <dc:title>Hive</dc:title>
@@ -4487,6 +4815,7 @@ DOI: 10.1007/978-3-319-71649-7_5</dc:description>
         <dcterms:hasPart rdf:resource="https://izbicki.me/blog/how-to-cheat-at-settlers-of-catan-by-loading-the-dice-and-prove-it-with-p-values.html"/>
         <dcterms:hasPart rdf:resource="https://project.dke.maastrichtuniversity.nl/games/files/bsc/Roelofs_Bsc-paper.pdf"/>
         <dcterms:hasPart rdf:resource="#item_135"/>
+        <dcterms:hasPart rdf:resource="http://arxiv.org/abs/2008.07079"/>
     </z:Collection>
     <z:Collection rdf:about="#collection_28">
         <dc:title>Shobu</dc:title>
