@@ -4659,10 +4659,385 @@ DOI: 10.1007/978-3-319-71649-7_5</dc:description>
         <dcterms:dateSubmitted>2020-11-26 08:54:47</dcterms:dateSubmitted>
         <z:linkMode>3</z:linkMode>
     </z:Attachment>
+    <bib:Article rdf:about="http://arxiv.org/abs/2005.07156">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal><dc:title>arXiv:2005.07156 [cs]</dc:title></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Reinhardt</foaf:surname>
+                        <foaf:givenName>Jack</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_258"/>
+        <link:link rdf:resource="#item_259"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Computer Science - Artificial Intelligence</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Computer Science - Multiagent Systems</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Competing in a Complex Hidden Role Game with Information Set Monte Carlo Tree Search</dc:title>
+        <dcterms:abstract>Advances in intelligent game playing agents have led to successes in perfect information games like Go and imperfect information games like Poker. The Information Set Monte Carlo Tree Search (ISMCTS) family of algorithms outperforms previous algorithms using Monte Carlo methods in imperfect information games. In this paper, Single Observer Information Set Monte Carlo Tree Search (SO-ISMCTS) is applied to Secret Hitler, a popular social deduction board game that combines traditional hidden role mechanics with the randomness of a card deck. This combination leads to a more complex information model than the hidden role and card deck mechanics alone. It is shown in 10108 simulated games that SO-ISMCTS plays as well as simpler rule based agents, and demonstrates the potential of ISMCTS algorithms in complicated information set domains.</dcterms:abstract>
+        <dc:date>2020-05-14</dc:date>
+        <z:libraryCatalog>arXiv.org</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://arxiv.org/abs/2005.07156</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-11-26 09:00:33</dcterms:dateSubmitted>
+        <dc:description>arXiv: 2005.07156</dc:description>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_258">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>arXiv Fulltext PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/pdf/2005.07156.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-11-26 09:01:03</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_259">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>arXiv.org Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/abs/2005.07156</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2020-11-26 09:01:10</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://arxiv.org/abs/2009.12974">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal><dc:title>arXiv:2009.12974 [cs]</dc:title></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ameneyro</foaf:surname>
+                        <foaf:givenName>Fred Valdez</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Galvan</foaf:surname>
+                        <foaf:givenName>Edgar</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Morales</foaf:surname>
+                        <foaf:givenName>Anger Fernando Kuri</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_285"/>
+        <link:link rdf:resource="#item_286"/>
+        <link:link rdf:resource="#item_287"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Computer Science - Artificial Intelligence</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Playing Carcassonne with Monte Carlo Tree Search</dc:title>
+        <dcterms:abstract>Monte Carlo Tree Search (MCTS) is a relatively new sampling method with multiple variants in the literature. They can be applied to a wide variety of challenging domains including board games, video games, and energy-based problems to mention a few. In this work, we explore the use of the vanilla MCTS and the MCTS with Rapid Action Value Estimation (MCTS-RAVE) in the game of Carcassonne, a stochastic game with a deceptive scoring system where limited research has been conducted. We compare the strengths of the MCTS-based methods with the Star2.5 algorithm, previously reported to yield competitive results in the game of Carcassonne when a domain-specific heuristic is used to evaluate the game states. We analyse the particularities of the strategies adopted by the algorithms when they share a common reward system. The MCTS-based methods consistently outperformed the Star2.5 algorithm given their ability to find and follow long-term strategies, with the vanilla MCTS exhibiting a more robust game-play than the MCTS-RAVE.</dcterms:abstract>
+        <dc:date>2020-10-04</dc:date>
+        <z:libraryCatalog>arXiv.org</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://arxiv.org/abs/2009.12974</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-01-02 18:13:09</dcterms:dateSubmitted>
+        <dc:description>arXiv: 2009.12974</dc:description>
+    </bib:Article>
+    <bib:Memo rdf:about="#item_285">
+       <rdf:value>Comment: 8 pages, 6 figures</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_286">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>arXiv Fulltext PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/pdf/2009.12974.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-01-02 18:13:12</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_287">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>arXiv.org Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/abs/2009.12974</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-01-02 18:13:17</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://arxiv.org/abs/2007.15895">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal><dc:title>arXiv:2007.15895 [cs]</dc:title></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tanaka</foaf:surname>
+                        <foaf:givenName>Satoshi</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bonnet</foaf:surname>
+                        <foaf:givenName>François</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tixeuil</foaf:surname>
+                        <foaf:givenName>Sébastien</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tamura</foaf:surname>
+                        <foaf:givenName>Yasumasa</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dcterms:isReferencedBy rdf:resource="#item_300"/>
+        <link:link rdf:resource="#item_301"/>
+        <link:link rdf:resource="#item_302"/>
+        <dc:subject>
+            <z:AutomaticTag>
+                <rdf:value>Computer Science - Computer Science and Game Theory</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Quixo Is Solved</dc:title>
+        <dcterms:abstract>Quixo is a two-player game played on a 5$\times$5 grid where the players try to align five identical symbols. Specifics of the game require the usage of novel techniques. Using a combination of value iteration and backward induction, we propose the first complete analysis of the game. We describe memory-efficient data structures and algorithmic optimizations that make the game solvable within reasonable time and space constraints. Our main conclusion is that Quixo is a Draw game. The paper also contains the analysis of smaller boards and presents some interesting states extracted from our computations.</dcterms:abstract>
+        <dc:date>2020-07-31</dc:date>
+        <z:libraryCatalog>arXiv.org</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://arxiv.org/abs/2007.15895</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-01-02 18:17:10</dcterms:dateSubmitted>
+        <dc:description>arXiv: 2007.15895</dc:description>
+    </bib:Article>
+    <bib:Memo rdf:about="#item_300">
+       <rdf:value>Comment: 19 pages</rdf:value>
+    </bib:Memo>
+    <z:Attachment rdf:about="#item_301">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>arXiv Fulltext PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/pdf/2007.15895.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-01-02 18:17:17</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_302">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>arXiv.org Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/abs/2007.15895</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-01-02 18:17:21</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://arxiv.org/abs/2006.02353">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal><dc:title>arXiv:2006.02353 [cs]</dc:title></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bertholon</foaf:surname>
+                        <foaf:givenName>Guillaume</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Géraud-Stewart</foaf:surname>
+                        <foaf:givenName>Rémi</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kugelmann</foaf:surname>
+                        <foaf:givenName>Axel</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lenoir</foaf:surname>
+                        <foaf:givenName>Théo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Naccache</foaf:surname>
+                        <foaf:givenName>David</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_304"/>
+        <link:link rdf:resource="#item_305"/>
+        <dc:subject>
+            <z:AutomaticTag>
+                <rdf:value>Computer Science - Computer Science and Game Theory</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>At Most 43 Moves, At Least 29: Optimal Strategies and Bounds for Ultimate Tic-Tac-Toe</dc:title>
+        <dcterms:abstract>Ultimate Tic-Tac-Toe is a variant of the well known tic-tac-toe (noughts and crosses) board game. Two players compete to win three aligned &quot;fields&quot;, each of them being a tic-tac-toe game. Each move determines which field the next player must play in. We show that there exist a winning strategy for the first player, and therefore that there exist an optimal winning strategy taking at most 43 moves; that the second player can hold on at least 29 rounds; and identify any optimal strategy's first two moves.</dcterms:abstract>
+        <dc:date>2020-06-06</dc:date>
+        <z:shortTitle>At Most 43 Moves, At Least 29</z:shortTitle>
+        <z:libraryCatalog>arXiv.org</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://arxiv.org/abs/2006.02353</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-01-02 18:17:55</dcterms:dateSubmitted>
+        <dc:description>arXiv: 2006.02353</dc:description>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_304">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>arXiv Fulltext PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/pdf/2006.02353.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-01-02 18:17:57</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_305">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>arXiv.org Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/abs/2006.02353</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-01-02 18:18:02</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://arxiv.org/abs/2004.00377">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal><dc:title>arXiv:2004.00377 [cs]</dc:title></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Muller-Brockhausen</foaf:surname>
+                        <foaf:givenName>Matthias</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Preuss</foaf:surname>
+                        <foaf:givenName>Mike</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Plaat</foaf:surname>
+                        <foaf:givenName>Aske</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_307"/>
+        <link:link rdf:resource="#item_308"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Computer Science - Artificial Intelligence</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>A New Challenge: Approaching Tetris Link with AI</dc:title>
+        <dcterms:abstract>Decades of research have been invested in making computer programs for playing games such as Chess and Go. This paper focuses on a new game, Tetris Link, a board game that is still lacking any scientific analysis. Tetris Link has a large branching factor, hampering a traditional heuristic planning approach. We explore heuristic planning and two other approaches: Reinforcement Learning, Monte Carlo tree search. We document our approach and report on their relative performance in a tournament. Curiously, the heuristic approach is stronger than the planning/learning approaches. However, experienced human players easily win the majority of the matches against the heuristic planning AIs. We, therefore, surmise that Tetris Link is more difficult than expected. We offer our findings to the community as a challenge to improve upon.</dcterms:abstract>
+        <dc:date>2020-04-01</dc:date>
+        <z:shortTitle>A New Challenge</z:shortTitle>
+        <z:libraryCatalog>arXiv.org</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://arxiv.org/abs/2004.00377</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-01-02 18:18:26</dcterms:dateSubmitted>
+        <dc:description>arXiv: 2004.00377</dc:description>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_307">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>arXiv Fulltext PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/pdf/2004.00377.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-01-02 18:18:32</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_308">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>arXiv.org Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/abs/2004.00377</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-01-02 18:18:38</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
     <z:Collection rdf:about="#collection_25">
         <dc:title>Accessibility</dc:title>
         <dcterms:hasPart rdf:resource="http://link.springer.com/10.1007/s40869-018-0057-8"/>
         <dcterms:hasPart rdf:resource="http://link.springer.com/10.1007/s40869-018-0056-9"/>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_33">
+        <dc:title>Carcassonne</dc:title>
+        <dcterms:hasPart rdf:resource="http://arxiv.org/abs/2009.12974"/>
     </z:Collection>
     <z:Collection rdf:about="#collection_8">
         <dc:title>Diplomacy</dc:title>
@@ -4779,6 +5154,7 @@ DOI: 10.1007/978-3-319-71649-7_5</dc:description>
     <z:Collection rdf:about="#collection_18">
         <dc:title>Quixo</dc:title>
         <dcterms:hasPart rdf:resource="https://doi.org/10.1016%2Fj.ipl.2020.105995"/>
+        <dcterms:hasPart rdf:resource="http://arxiv.org/abs/2007.15895"/>
     </z:Collection>
     <z:Collection rdf:about="#collection_12">
         <dc:title>Race for the Galaxy</dc:title>
@@ -4795,6 +5171,10 @@ DOI: 10.1007/978-3-319-71649-7_5</dc:description>
         <dcterms:hasPart rdf:resource="https://scholar.rose-hulman.edu/rhumj/vol3/iss2/3"/>
         <dcterms:hasPart rdf:resource="http://www.c4i.gr/xgeorgio/docs/RISK-board-game%20_rev-3.pdf"/>
         <dcterms:hasPart rdf:resource="#item_144"/>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_30">
+        <dc:title>Secret Hitler</dc:title>
+        <dcterms:hasPart rdf:resource="http://arxiv.org/abs/2005.07156"/>
     </z:Collection>
     <z:Collection rdf:about="#collection_19">
         <dc:title>Set</dc:title>
@@ -4826,6 +5206,10 @@ DOI: 10.1007/978-3-319-71649-7_5</dc:description>
         <dc:title>Terra Mystica</dc:title>
         <dcterms:hasPart rdf:resource="https://doi.org/10.1145%2F3396474.3396492"/>
     </z:Collection>
+    <z:Collection rdf:about="#collection_36">
+        <dc:title>Tetris Link</dc:title>
+        <dcterms:hasPart rdf:resource="http://arxiv.org/abs/2004.00377"/>
+    </z:Collection>
     <z:Collection rdf:about="#collection_29">
         <dc:title>Ticket to Ride</dc:title>
         <dcterms:hasPart rdf:resource="urn:isbn:978-1-4503-5319-9"/>
@@ -4833,6 +5217,10 @@ DOI: 10.1007/978-3-319-71649-7_5</dc:description>
         <dcterms:hasPart rdf:resource="https://www.eecs.tufts.edu/~jsinapov/teaching/comp150_RL/reports/Nguyen_Dinjian_report.pdf"/>
         <dcterms:hasPart rdf:resource="urn:isbn:978-1-4503-6571-0"/>
         <dcterms:hasPart rdf:resource="https://www.rtealwitter.com/slides/2020-JMM.pdf"/>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_35">
+        <dc:title>Ultimate Tic-Tac-Toe</dc:title>
+        <dcterms:hasPart rdf:resource="http://arxiv.org/abs/2006.02353"/>
     </z:Collection>
     <z:Collection rdf:about="#collection_17">
         <dc:title>UNO</dc:title>

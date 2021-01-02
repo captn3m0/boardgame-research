@@ -67,6 +67,9 @@ If you aren't able to access any paper on this list, please [try using Sci-Hub](
 # Blokus
 - [Blokus Game Solver](https://digitalcommons.calpoly.edu/cpesp/290/)
 
+# Carcassonne
+- [Playing Carcassonne with Monte Carlo Tree Search](https://arxiv.org/abs/2009.12974)
+
 # Diplomacy
 - [Learning to Play No-Press Diplomacy with Best Response Policy Iteration ](https://arxiv.org/abs/2006.04635)
 - [No Press Diplomacy: Modeling Multi-Agent Gameplay ](https://arxiv.org/abs/1909.02128)
@@ -170,6 +173,7 @@ There is a [simulator](https://dominionsimulator.wordpress.com/f-a-q/) and the c
 - [On Solving Pentago](http://www.ke.tu-darmstadt.de/lehre/arbeiten/bachelor/2011/Buescher_Niklas.pdf)
 
 # Quixo
+- [Quixo Is Solved](https://arxiv.org/abs/2007.15895)
 - [QUIXO is EXPTIME-complete](https://doi.org/10.1016/j.ipl.2020.105995)
 
 # Race for the Galaxy
@@ -216,6 +220,7 @@ Set has a long history of mathematical research, so this list isn't exhaustive.
 - [Deep Reinforcement Learning in Strategic Board GameEnvironments](https://doi.org/10.1007/978-3-030-14174-5_16) [[pdf](https://hal.archives-ouvertes.fr/hal-02124411/document)]
 - [Monte Carlo Tree Search in a Modern Board Game Framework](https://project.dke.maastrichtuniversity.nl/games/files/bsc/Roelofs_Bsc-paper.pdf)
 - [The impact of loaded dice in Catan](https://izbicki.me/blog/how-to-cheat-at-settlers-of-catan-by-loading-the-dice-and-prove-it-with-p-values.html)
+- [Playing Catan with Cross-dimensional Neural Network](https://arxiv.org/abs/2008.07079)
 
 # Shobu
 - [Shobu AI Playground](https://github.com/JayWalker512/Shobu)
@@ -224,11 +229,17 @@ Set has a long history of mathematical research, so this list isn't exhaustive.
 # Terra Mystica
 - [Using Tabu Search Algorithm for Map Generation in the Terra Mystica Tabletop Game](https://arxiv.org/abs/2006.02716)
 
+# [Tetris Link](https://boardgamegeek.com/boardgame/93185/tetris-link)
+- [A New Challenge: Approaching Tetris Link with AI](https://arxiv.org/abs/2004.00377)
+
 # Ticket to Ride
 - [Evolving maps and decks for ticket to ride](https://doi.org/10.1145/3235765.3235813)
 - [Materials for Ticket to Ride Seattle and a framework for making more game boards](https://github.com/dovinmu/ttr_generator)
 - [The Difficulty of Learning Ticket to Ride](https://www.eecs.tufts.edu/~jsinapov/teaching/comp150_RL/reports/Nguyen_Dinjian_report.pdf)
 - [AI-based Playtesting of Contemporary Board Games](https://doi.org/10.1145/3102071.3102105) [[pdf](http://game.engineering.nyu.edu/wp-content/uploads/2017/06/ticket-ride-fdg2017-camera-ready.pdf)] [[presentation](https://www.rtealwitter.com/slides/2020-JMM.pdf)]
+
+# Ultimate Tic-Tac-Toe
+- [At Most 43 Moves, At Least 29: Optimal Strategies and Bounds for Ultimate Tic-Tac-Toe](https://arxiv.org/abs/2006.02353)
 
 # Uno
 - [The complexity of UNO](https://arxiv.org/abs/1003.2851)
@@ -275,3 +286,4 @@ Set has a long history of mathematical research, so this list isn't exhaustive.
 # Frameworks/Toolkits
 - [RLCard: A Toolkit for Reinforcement Learning in Card Games](https://arxiv.org/abs/1910.04376)
 - [GTSA: Game Tree Search Algorithms](https://github.com/AdamStelmaszczyk/gtsa)
+- [Design and Implementation of TAG: A Tabletop Games Framework](https://arxiv.org/abs/2009.12065) [[GitHub](https://github.com/GAIGResearch/TabletopGames)]
