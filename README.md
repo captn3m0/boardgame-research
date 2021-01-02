@@ -10,9 +10,8 @@ Exported versions (work-in-progress) are available in the following formats:
 
 - [Zotero RDF](boardgame-research.rdf)
 - [BibTeX](boardgame-research.bib)
-- [HTML Bookmarks](boardgame-research-bookmarks.html)
 
-Subscribe to the repo to get the latest updates for now.
+Watch the repository to get the latest updates for now.
 
 If you aren't able to access any paper on this list, please [try using Sci-Hub](https://en.wikipedia.org/wiki/Sci-Hub) or [reach out to me](https://captnemo.in/contact/).
 
@@ -282,7 +281,6 @@ Set has a long history of mathematical research, so this list isn't exhaustive.
 - [Exploring Anonymity in Cooperative Board Games](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.225.5554&rep=rep1&type=pdf)
 
 ## Accessibility
-
 - [Eighteen Months of Meeple Like Us: An Exploration into the State of Board Game Accessibility](https://doi.org/10.1007/s40869-018-0056-9)
 - [Meeple Centred Design: A Heuristic Toolkit for Evaluating the Accessibility of Tabletop Games](https://doi.org/10.1007/s40869-018-0057-8)
 
