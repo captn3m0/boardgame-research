@@ -22,6 +22,7 @@ If you aren't able to access any paper on this list, please [try using Sci-Hub](
 
 - [Azul](#azul)
 - [Blokus](#blokus)
+- [Carcassonne](#carcassonne)
 - [Diplomacy](#diplomacy)
 - [Dixit](#dixit)
 - [Dominion](#dominion)
@@ -50,7 +51,9 @@ If you aren't able to access any paper on this list, please [try using Sci-Hub](
 - [Settlers of Catan](#settlers-of-catan)
 - [Shobu](#shobu)
 - [Terra Mystica](#terra-mystica)
+- [Tetris Link](#tetris-link)
 - [Ticket to Ride](#ticket-to-ride)
+- [Ultimate Tic-Tac-Toe](#ultimate-tic-tac-toe)
 - [Uno](#uno)
 - [Yahtzee](#yahtzee)
 - [Mobile Games](#mobile-games)
@@ -111,7 +114,6 @@ There is a [simulator](https://dominionsimulator.wordpress.com/f-a-q/) and the c
 - [Generating and Adapting to Diverse Ad-Hoc Cooperation Agents in Hanabi](https://arxiv.org/abs/2004.13710)
 
 # Hive
-
 - [On the complexity of Hive](https://dspace.library.uu.nl/handle/1874/396955)
 
 # Jenga
@@ -221,6 +223,7 @@ Set has a long history of mathematical research, so this list isn't exhaustive.
 - [Monte Carlo Tree Search in a Modern Board Game Framework](https://project.dke.maastrichtuniversity.nl/games/files/bsc/Roelofs_Bsc-paper.pdf)
 - [The impact of loaded dice in Catan](https://izbicki.me/blog/how-to-cheat-at-settlers-of-catan-by-loading-the-dice-and-prove-it-with-p-values.html)
 - [Playing Catan with Cross-dimensional Neural Network](https://arxiv.org/abs/2008.07079)
+- [Strategic Dialogue Management via Deep Reinforcement Learning](https://arxiv.org/abs/1511.08099)
 
 # Shobu
 - [Shobu AI Playground](https://github.com/JayWalker512/Shobu)
