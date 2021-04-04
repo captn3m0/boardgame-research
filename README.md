@@ -15,54 +15,6 @@ Watch the repository to get the latest updates for now.
 
 If you aren't able to access any paper on this list, please [try using Sci-Hub](https://en.wikipedia.org/wiki/Sci-Hub) or [reach out to me](https://captnemo.in/contact/).
 
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
-
-- [Azul](#azul)
-- [Blokus](#blokus)
-- [Carcassonne](#carcassonne)
-- [Diplomacy](#diplomacy)
-- [Dixit](#dixit)
-- [Dominion](#dominion)
-- [Hanabi](#hanabi)
-- [Hive](#hive)
-- [Jenga](#jenga)
-- [Kingdomino](#kingdomino)
-- [Lost Cities](#lost-cities)
-- [Mafia](#mafia)
-- [Magic: the Gathering](#magic-the-gathering)
-- [Modern Art: The card game](#modern-art-the-card-game)
-- [Monopoly](#monopoly)
-- [Monopoly Deal](#monopoly-deal)
-- [Nmbr9](#nmbr9)
-- [Pandemic](#pandemic)
-- [Patchwork](#patchwork)
-- [Pentago](#pentago)
-- [Quixo](#quixo)
-- [Race for the Galaxy](#race-for-the-galaxy)
-- [The Resistance: Avalon](#the-resistance-avalon)
-- [Risk](#risk)
-- [Santorini](#santorini)
-- [Scotland Yard](#scotland-yard)
-- [Secret Hitler](#secret-hitler)
-- [Set](#set)
-- [Settlers of Catan](#settlers-of-catan)
-- [Shobu](#shobu)
-- [Terra Mystica](#terra-mystica)
-- [Tetris Link](#tetris-link)
-- [Ticket to Ride](#ticket-to-ride)
-- [Ultimate Tic-Tac-Toe](#ultimate-tic-tac-toe)
-- [Uno](#uno)
-- [Yahtzee](#yahtzee)
-- [Mobile Games](#mobile-games)
-  - [2048](#2048)
-- [Game Design](#game-design)
-  - [Accessibility](#accessibility)
-- [Frameworks/Toolkits](#frameworkstoolkits)
-
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
 # Azul
 - [A summary of a dissertation on Azul](https://old.reddit.com/r/boardgames/comments/hxodaf/update_i_wrote_my_dissertation_on_azul/) (unpublished)
 
