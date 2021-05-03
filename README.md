@@ -80,6 +80,7 @@ If you aren't able to access any paper on this list, please [try using Sci-Hub](
 
 # Dixit
 - [Creative Captioning: An AI Grand Challenge Based on the Dixit Board Game](https://arxiv.org/abs/2010.00048)
+- [Dixit: Interactive Visual Storytelling via Term Manipulation](https://arxiv.org/abs/1903.02230)
 
 # Dominion
 
@@ -118,6 +119,7 @@ There is a [simulator](https://dominionsimulator.wordpress.com/f-a-q/) and the c
 - [On the complexity of Hive](https://dspace.library.uu.nl/handle/1874/396955)
 
 # Jenga
+- [Maximum genus of the Jenga like configurations](https://arxiv.org/abs/1708.01503)
 - [Jidoukan Jenga: Teaching English through remixing games and game rules](https://www.llpjournal.org/2020/04/13/jidokan-jenga.html)
 
 # Kingdomino
@@ -131,6 +133,7 @@ There is a [simulator](https://dominionsimulator.wordpress.com/f-a-q/) and the c
 - [A mathematical model of the Mafia game](https://arxiv.org/abs/1009.1031)
 - [Automatic Long-Term Deception Detection in Group Interaction Videos](https://arxiv.org/abs/1905.08617)
 - [Human-Side Strategies in the Werewolf Game Against the Stealth Werewolf Strategy](https://link.springer.com/chapter/10.1007/978-3-319-50935-8_9)
+- [A Theoretical Study of Mafia Games](https://arxiv.org/abs/0804.0071)
 
 # Magic: the Gathering
 - [Magic: the Gathering is as Hard as Arithmetic](https://arxiv.org/abs/2003.05119)
