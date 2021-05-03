@@ -73,6 +73,7 @@ If you aren't able to access any paper on this list, please [try using Sci-Hub](
 - [Playing Carcassonne with Monte Carlo Tree Search](https://arxiv.org/abs/2009.12974)
 
 # Diplomacy
+- [Human-Level Performance in No-Press Diplomacy via Equilibrium Search](https://arxiv.org/abs/2010.02923)
 - [Learning to Play No-Press Diplomacy with Best Response Policy Iteration ](https://arxiv.org/abs/2006.04635)
 - [No Press Diplomacy: Modeling Multi-Agent Gameplay ](https://arxiv.org/abs/1909.02128)
 - [Agent Madoff: A Heuristic-Based Negotiation Agent For The Diplomacy Strategy Game ](https://arxiv.org/abs/1902.06996)
@@ -111,6 +112,7 @@ There is a [simulator](https://dominionsimulator.wordpress.com/f-a-q/) and the c
 - [Behavioral Evaluation of Hanabi Rainbow DQN Agents and Rule-Based Agents](https://ojs.aaai.org//index.php/AIIDE/article/view/7404) [[pdf](https://ojs.aaai.org/index.php/AIIDE/article/view/7404/7333)]
 - [Playing mini-Hanabi card game with Q-learning](http://id.nii.ac.jp/1001/00205046/)
 - [Generating and Adapting to Diverse Ad-Hoc Cooperation Agents in Hanabi](https://arxiv.org/abs/2004.13710)
+- [Hanabi Open Agend Dataset](https://github.com/aronsar/hoad) - [[ACM](https://dl.acm.org/doi/abs/10.5555/3461017.3461244)]
 
 # Hive
 - [On the complexity of Hive](https://dspace.library.uu.nl/handle/1874/396955)
@@ -148,6 +150,7 @@ There is a [simulator](https://dominionsimulator.wordpress.com/f-a-q/) and the c
 - [A constraint programming based solver for Modern Art](https://github.com/captn3m0/modernart)
 
 # Monopoly
+- [Learning Monopoly Gameplay: A Hybrid Model-Free Deep Reinforcement Learning and Imitation Learning Approach](https://arxiv.org/abs/2103.00683)
 - [Negotiation strategy of agents in the MONOPOLY game](https://ieeexplore.ieee.org/abstract/document/1013210)
 - [Generating interesting Monopoly boards from open data](https://ieeexplore.ieee.org/abstract/document/6374168)
 - [Estimating the probability that the game of Monopoly never ends](https://ieeexplore.ieee.org/abstract/document/5429349)
@@ -288,3 +291,4 @@ Set has a long history of mathematical research, so this list isn't exhaustive.
 - [RLCard: A Toolkit for Reinforcement Learning in Card Games](https://arxiv.org/abs/1910.04376)
 - [GTSA: Game Tree Search Algorithms](https://github.com/AdamStelmaszczyk/gtsa)
 - [Design and Implementation of TAG: A Tabletop Games Framework](https://arxiv.org/abs/2009.12065) [[GitHub](https://github.com/GAIGResearch/TabletopGames)]
+- [TAG: Tabletop Games Framework](https://github.com/GAIGResearch/TabletopGames)
