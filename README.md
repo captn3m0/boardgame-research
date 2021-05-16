@@ -190,6 +190,7 @@ There is a [simulator](https://dominionsimulator.wordpress.com/f-a-q/) and the c
 - [Finding Friend and Foe in Multi-Agent Games](https://arxiv.org/abs/1906.02330)
 
 # Risk
+
 - [Mini-Risk: Strategies for a Simplified Board Game](https://doi.org/10.1057/jors.1990.2)
 - [A Multi-Agent System for playing the board game Risk](https://www.diva-portal.org/smash/record.jsf?pid=diva2%3A831093&dswid=-4740)
 - [Learning the risk board game with classifier systems](https://doi.org/10.1145/508791.508904)
@@ -199,6 +200,7 @@ There is a [simulator](https://dominionsimulator.wordpress.com/f-a-q/) and the c
 - [Planning an endgame move set for the game RISK](https://doi.org/10.1109/TEVC.2005.856211)
 - [RISKy Business: An In-Depth Look at the Game RISK](https://scholar.rose-hulman.edu/rhumj/vol3/iss2/3/)
 - [An Intelligent Artificial Player for the Game of Risk](http://www.ke.tu-darmstadt.de/lehre/archiv/ss04/oberseminar/folien/Wolf_Michael-Slides.pdf)
+- [Monte Carlo Tree Search for Risk](https://www.sto.nato.int/publications/STO%20Meeting%20Proceedings/STO-MP-SAS-OCS-ORA-2020/MP-SAS-OCS-ORA-2020-WCM-01.pdf) [[Presentation](https://www.sto.nato.int/publications/STO%20Meeting%20Proceedings/STO-MP-SAS-OCS-ORA-2020/MP-SAS-OCS-ORA-2020-WCM-01P.pdf)]
 
 # Santorini
 - [A Mathematical Analysis of the Game of Santorini](https://openworks.wooster.edu/independentstudy/8917/)
