@@ -65,9 +65,12 @@ If you aren't able to access any paper on this list, please [try using Sci-Hub](
 
 # Azul
 - [A summary of a dissertation on Azul](https://old.reddit.com/r/boardgames/comments/hxodaf/update_i_wrote_my_dissertation_on_azul/) (unpublished)
+- [Ceramic: A research environment based on the multi-player strategic board game Azul](https://ipsj.ixsq.nii.ac.jp/ej/?action=repository_action_common_download&item_id=207669&item_no=1&attribute_id=1&file_no=1) [[GitHub](https://github.com/Swynfel/ceramic)]
 
 # Blokus
 - [Blokus Game Solver](https://digitalcommons.calpoly.edu/cpesp/290/)
+- [FPGA Blokus Duo Solver using a massively parallel architecture](https://doi.org/10.1109/FPT.2013.6718426)
+- [Blokus Duo game on FPGA](https://doi.org/10.1109/CADS.2013.6714256)
 
 # Carcassonne
 - [Playing Carcassonne with Monte Carlo Tree Search](https://arxiv.org/abs/2009.12974)
