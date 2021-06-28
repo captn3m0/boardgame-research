@@ -6806,9 +6806,209 @@ DOI: 10.1007/978-3-030-04179-3_20</dc:description>
             </dcterms:URI>
         </dc:identifier>
     </bib:Report>
+    <rdf:Description rdf:about="http://ieeexplore.ieee.org/document/6932907/">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:identifier>ISBN 978-1-4799-3547-5</dc:identifier>
+                <dc:title>2014 IEEE Conference on Computational Intelligence and Games</dc:title>
+                <dc:identifier>DOI 10.1109/CIG.2014.6932907</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Dortmund, Germany</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>IEEE</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Szubert</foaf:surname>
+                        <foaf:givenName>Marcin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jaskowski</foaf:surname>
+                        <foaf:givenName>Wojciech</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_451"/>
+        <dc:title>Temporal difference learning of N-tuple networks for the game 2048</dc:title>
+        <dc:date>8/2014</dc:date>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://ieeexplore.ieee.org/document/6932907/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-06-28 16:09:20</dcterms:dateSubmitted>
+        <bib:pages>1-8</bib:pages>
+        <bib:presentedAt>
+            <bib:Conference>
+                <dc:title>2014 IEEE Conference on Computational Intelligence and Games (CIG)</dc:title>
+            </bib:Conference>
+        </bib:presentedAt>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_451">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Submitted Version</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.cs.put.poznan.pl/mszubert/pub/szubert2014cig.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-06-28 16:09:26</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://arxiv.org/abs/1501.03837">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal><dc:title>arXiv:1501.03837 [cs]</dc:title></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Abdelkader</foaf:surname>
+                        <foaf:givenName>Ahmed</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Acharya</foaf:surname>
+                        <foaf:givenName>Aditya</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dasler</foaf:surname>
+                        <foaf:givenName>Philip</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_453"/>
+        <link:link rdf:resource="#item_454"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Computer Science - Computational Complexity</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>F.2.2</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>On the Complexity of Slide-and-Merge Games</dc:title>
+        <dcterms:abstract>We study the complexity of a particular class of board games, which we call `slide and merge' games. Namely, we consider 2048 and Threes, which are among the most popular games of their type. In both games, the player is required to slide all rows or columns of the board in one direction to create a high value tile by merging pairs of equal tiles into one with the sum of their values. This combines features from both block pushing and tile matching puzzles, like Push and Bejeweled, respectively. We define a number of natural decision problems on a suitable generalization of these games and prove NP-hardness for 2048 by reducing from 3SAT. Finally, we discuss the adaptation of our reduction to Threes and conjecture a similar result.</dcterms:abstract>
+        <dc:date>2015-01-15</dc:date>
+        <z:libraryCatalog>arXiv.org</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://arxiv.org/abs/1501.03837</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-06-28 16:09:34</dcterms:dateSubmitted>
+        <dc:description>arXiv: 1501.03837</dc:description>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_453">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>arXiv Fulltext PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/pdf/1501.03837.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-06-28 16:09:48</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_454">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>arXiv.org Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/abs/1501.03837</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-06-28 16:09:52</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://drops.dagstuhl.de/opus/volltexte/2016/5885/">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+               <dc:identifier>DOI 10.4230/LIPICS.FUN.2016.1</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Abdelkader</foaf:surname>
+                        <foaf:givenName>Ahmed</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Acharya</foaf:surname>
+                        <foaf:givenName>Aditya</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dasler</foaf:surname>
+                        <foaf:givenName>Philip</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:contributors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Herbstritt</foaf:surname>
+                        <foaf:givenName>Marc</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:contributors>
+        <dc:subject>
+            <z:AutomaticTag>
+                <rdf:value>000 Computer science, knowledge, general works</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Computer Science</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>2048 Without New Tiles Is Still Hard</dc:title>
+        <dc:date>2016</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Datacite)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://drops.dagstuhl.de/opus/volltexte/2016/5885/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-06-28 16:09:58</dcterms:dateSubmitted>
+        <dc:description>Artwork Size: 14 pages
+Medium: application/pdf
+Publisher: Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik GmbH, Wadern/Saarbruecken, Germany</dc:description>
+        <bib:pages>14 pages</bib:pages>
+    </bib:Article>
     <z:Collection rdf:about="#collection_6">
         <dc:title>2048</dc:title>
-        <dcterms:hasPart rdf:resource="https://doi.org/10.1109%2Ftciaig.2012.2204883"/>
         <dcterms:hasPart rdf:resource="https://doi.org/10.1007%2F978-3-319-50935-8_8"/>
         <dcterms:hasPart rdf:resource="https://doi.org/10.1109%2Ftaai.2016.7880154"/>
         <dcterms:hasPart rdf:resource="https://doi.org/10.1109%2Fcig.2014.6932920"/>
@@ -6817,6 +7017,9 @@ DOI: 10.1007/978-3-030-04179-3_20</dc:description>
         <dcterms:hasPart rdf:resource="http://arxiv.org/abs/1804.07393v2"/>
         <dcterms:hasPart rdf:resource="http://arxiv.org/abs/1606.07374v2"/>
         <dcterms:hasPart rdf:resource="http://arxiv.org/abs/1408.6315v1"/>
+        <dcterms:hasPart rdf:resource="http://ieeexplore.ieee.org/document/6932907/"/>
+        <dcterms:hasPart rdf:resource="http://arxiv.org/abs/1501.03837"/>
+        <dcterms:hasPart rdf:resource="http://drops.dagstuhl.de/opus/volltexte/2016/5885/"/>
     </z:Collection>
     <z:Collection rdf:about="#collection_25">
         <dc:title>Accessibility</dc:title>

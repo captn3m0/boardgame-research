@@ -62,7 +62,6 @@ If you aren't able to access any paper on this list, please [try using Sci-Hub](
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 # 2048
-- [Ensemble Determinization in Monte Carlo Tree Search for the Imperfect Information Card Game Magic: The Gathering](https://doi.org/10.1109%2Ftciaig.2012.2204883) (journalArticle)
 - [Systematic Selection of N-Tuple Networks for 2048](https://doi.org/10.1007%2F978-3-319-50935-8_8) (bookSection)
 - [Systematic selection of N-tuple networks with consideration of interinfluence for game 2048](https://doi.org/10.1109%2Ftaai.2016.7880154) (conferencePaper)
 - [An investigation into 2048 AI strategies](https://doi.org/10.1109%2Fcig.2014.6932920) (conferencePaper)
@@ -71,6 +70,9 @@ If you aren't able to access any paper on this list, please [try using Sci-Hub](
 - [Analysis of the Game "2048" and its Generalization in Higher Dimensions](http://arxiv.org/abs/1804.07393v2) (journalArticle)
 - [Multi-Stage Temporal Difference Learning for 2048-like Games](http://arxiv.org/abs/1606.07374v2) (journalArticle)
 - [2048 is (PSPACE) Hard, but Sometimes Easy](http://arxiv.org/abs/1408.6315v1) (journalArticle)
+- [Temporal difference learning of N-tuple networks for the game 2048](http://ieeexplore.ieee.org/document/6932907/) (conferencePaper)
+- [On the Complexity of Slide-and-Merge Games](http://arxiv.org/abs/1501.03837) (journalArticle)
+- [2048 Without New Tiles Is Still Hard](http://drops.dagstuhl.de/opus/volltexte/2016/5885/) (journalArticle)
 
 # Accessibility
 - [Meeple Centred Design: A Heuristic Toolkit for Evaluating the Accessibility of Tabletop Games](http://link.springer.com/10.1007/s40869-018-0057-8) (journalArticle)
