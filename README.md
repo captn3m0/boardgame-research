@@ -35,19 +35,25 @@ If you aren't able to access any paper on this list, please [try using Sci-Hub](
 - [Mafia](#mafia)
 - [Magic: The Gathering](#magic-the-gathering)
 - [Mobile Games](#mobile-games)
+- [Modern Art](#modern-art)
 - [Monopoly](#monopoly)
 - [Monopoly Deal](#monopoly-deal)
 - [Nmbr9](#nmbr9)
+- [Pandemic](#pandemic)
 - [Patchwork](#patchwork)
+- [Pentago](#pentago)
 - [Quixo](#quixo)
 - [Race for the Galaxy](#race-for-the-galaxy)
 - [RISK](#risk)
+- [Santorini](#santorini)
+- [Scotland Yard](#scotland-yard)
 - [Secret Hitler](#secret-hitler)
 - [Set](#set)
 - [Settlers of Catan](#settlers-of-catan)
 - [Shobu](#shobu)
 - [Terra Mystica](#terra-mystica)
 - [Tetris Link](#tetris-link)
+- [The Resistance: Avalon](#the-resistance-avalon)
 - [Ticket to Ride](#ticket-to-ride)
 - [Ultimate Tic-Tac-Toe](#ultimate-tic-tac-toe)
 - [UNO](#uno)
@@ -147,6 +153,9 @@ If you aren't able to access any paper on this list, please [try using Sci-Hub](
 
 # Mafia
 - [A mathematical model of the Mafia game](http://arxiv.org/abs/1009.1031v3) (journalArticle)
+- [Automatic Long-Term Deception Detection in Group Interaction Videos](http://arxiv.org/abs/1905.08617) (journalArticle)
+- [Human-Side Strategies in the Werewolf Game Against the Stealth Werewolf Strategy](http://link.springer.com/10.1007/978-3-319-50935-8_9) (bookSection)
+- [A Theoretical Study of Mafia Games](http://arxiv.org/abs/0804.0071) (journalArticle)
 
 # Magic: The Gathering
 - [Ensemble Determinization in Monte Carlo Tree Search for the Imperfect Information Card Game Magic: The Gathering](https://doi.org/10.1109%2Ftciaig.2012.2204883) (journalArticle)
@@ -155,13 +164,33 @@ If you aren't able to access any paper on this list, please [try using Sci-Hub](
 - [Magic: the Gathering is as Hard as Arithmetic](http://arxiv.org/abs/2003.05119v1) (journalArticle)
 - [Magic: The Gathering is Turing Complete](http://arxiv.org/abs/1904.09828v2) (journalArticle)
 - [Neural Networks Models for Analyzing Magic: the Gathering Cards](http://arxiv.org/abs/1810.03744v1) (journalArticle)
+- [Neural Networks Models for Analyzing Magic: The Gathering Cards](http://link.springer.com/10.1007/978-3-030-04179-3_20) (bookSection)
+- [The Complexity of Deciding Legality of a Single Step of Magic: The Gathering](https://livrepository.liverpool.ac.uk/3029568/) (conferencePaper)
+- [Magic: The Gathering in Common Lisp](https://vixra.org/abs/2001.0065) (conferencePaper)
+- [Magic: The Gathering in Common Lisp](https://github.com/jeffythedragonslayer/maglisp) (computerProgram)
+- [Mathematical programming and Magic: The Gathering](https://commons.lib.niu.edu/handle/10843/19194) (thesis)
+- [Deck Construction Strategies for Magic: The Gathering](https://www.doi.org/10.1685/CSC06077) (conferencePaper)
+- [Deckbuilding in Magic: The Gathering Using a Genetic Algorithm](https://doi.org/11250/2462429) (thesis)
+- [Magic: The Gathering Deck Performance Prediction](http://cs229.stanford.edu/proj2012/HauPlotkinTran-MagicTheGatheringDeckPerformancePrediction.pdf) (report)
 
 # Mobile Games
 - [Trainyard is NP-Hard](http://arxiv.org/abs/1603.00928v1) (journalArticle)
 - [Threes!, Fives, 1024!, and 2048 are Hard](http://arxiv.org/abs/1505.04274v1) (journalArticle)
 
+# Modern Art
+- [A constraint programming based solver for Modern Art](https://github.com/captn3m0/modernart) (computerProgram)
+
 # Monopoly
 - [Monopoly as a Markov Process](https://doi.org/10.1080%2F0025570x.1972.11976187) (journalArticle)
+- [Learning Monopoly Gameplay: A Hybrid Model-Free Deep Reinforcement Learning and Imitation Learning Approach](http://arxiv.org/abs/2103.00683) (journalArticle)
+- [Negotiation strategy of agents in the MONOPOLY game](http://ieeexplore.ieee.org/document/1013210/) (conferencePaper)
+- [Generating interesting Monopoly boards from open data](http://ieeexplore.ieee.org/document/6374168/) (conferencePaper)
+- [Estimating the probability that the game of Monopoly never ends](http://ieeexplore.ieee.org/document/5429349/) (conferencePaper)
+- [Learning to Play Monopoly with Monte Carlo Tree Search](https://project-archive.inf.ed.ac.uk/ug4/20181042/ug4_proj.pdf) (report)
+- [Monopoly Using Reinforcement Learning](https://ieeexplore.ieee.org/document/8929523/) (conferencePaper)
+- [A Markovian Exploration of Monopoly](https://pi4.math.illinois.edu/wp-content/uploads/2014/10/Gartland-Burson-Ferguson-Markovopoly.pdf) (report)
+- [Learning to play Monopoly: A Reinforcement Learning approach](https://intelligence.csd.auth.gr/publication/conference-papers/learning-to-play-monopoly-a-reinforcement-learning-approach/) (conferencePaper)
+- [What’s the Best Monopoly Strategy?](https://core.ac.uk/download/pdf/48614184.pdf) (presentation)
 
 # Monopoly Deal
 - [Implementation of Artificial Intelligence with 3 Different Characters of AI Player on “Monopoly Deal” Computer Game](https://doi.org/10.1007%2F978-3-662-46742-8_11) (bookSection)
@@ -170,10 +199,16 @@ If you aren't able to access any paper on this list, please [try using Sci-Hub](
 - [Nmbr9 as a Constraint Programming Challenge](http://arxiv.org/abs/2001.04238) (journalArticle)
 - [Nmbr9 as a Constraint Programming Challenge](https://zayenz.se/blog/post/nmbr9-cp2019-abstract/) (blogPost)
 
+# Pandemic
+- [NP-Completeness of Pandemic](https://www.jstage.jst.go.jp/article/ipsjjip/20/3/20_723/_article) (journalArticle)
+
 # Patchwork
 - [State Representation and Polyomino Placement for the Game Patchwork](https://zayenz.se/blog/post/patchwork-modref2019-paper/) (blogPost)
 - [State Representation and Polyomino Placement for the Game Patchwork](http://arxiv.org/abs/2001.04233) (journalArticle)
 - [State Representation and Polyomino Placement for the Game Patchwork](https://zayenz.se/papers/Lagerkvist_ModRef_2019_Presentation.pdf) (presentation)
+
+# Pentago
+- [On Solving Pentago](http://www.ke.tu-darmstadt.de/lehre/arbeiten/bachelor/2011/Buescher_Niklas.pdf) (thesis)
 
 # Quixo
 - [QUIXO is EXPTIME-complete](https://doi.org/10.1016%2Fj.ipl.2020.105995) (journalArticle)
@@ -192,6 +227,13 @@ If you aren't able to access any paper on this list, please [try using Sci-Hub](
 - [RISKy Business: An In-Depth Look at the Game RISK](https://scholar.rose-hulman.edu/rhumj/vol3/iss2/3) (journalArticle)
 - [RISK Board Game ‐ Battle Outcome Analysis](http://www.c4i.gr/xgeorgio/docs/RISK-board-game%20_rev-3.pdf) (journalArticle)
 - [A multi-agent system for playing the board game risk]() (book)
+
+# Santorini
+- [A Mathematical Analysis of the Game of Santorini](https://openworks.wooster.edu/independentstudy/8917/) (thesis)
+- [A Mathematical Analysis of the Game of Santorini](https://github.com/carsongeissler/SantoriniIS) (computerProgram)
+
+# Scotland Yard
+- [The complexity of Scotland Yard](https://eprints.illc.uva.nl/id/eprint/193/1/PP-2006-18.text.pdf) (report)
 
 # Secret Hitler
 - [Competing in a Complex Hidden Role Game with Information Set Monte Carlo Tree Search](http://arxiv.org/abs/2005.07156) (journalArticle)
@@ -225,6 +267,9 @@ If you aren't able to access any paper on this list, please [try using Sci-Hub](
 
 # Tetris Link
 - [A New Challenge: Approaching Tetris Link with AI](http://arxiv.org/abs/2004.00377) (journalArticle)
+
+# The Resistance: Avalon
+- [Finding Friend and Foe in Multi-Agent Games](http://arxiv.org/abs/1906.02330) (journalArticle)
 
 # Ticket to Ride
 - [AI-based playtesting of contemporary board games](http://dl.acm.org/citation.cfm?doid=3102071.3102105) (conferencePaper)

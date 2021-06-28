@@ -5770,6 +5770,1042 @@ DOI: 10.1007/978-3-319-71649-7_5</dc:description>
         <z:linkMode>1</z:linkMode>
         <link:type>text/html</link:type>
     </z:Attachment>
+    <bib:Article rdf:about="http://arxiv.org/abs/1905.08617">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal><dc:title>arXiv:1905.08617 [cs]</dc:title></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bai</foaf:surname>
+                        <foaf:givenName>Chongyang</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bolonkin</foaf:surname>
+                        <foaf:givenName>Maksim</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Burgoon</foaf:surname>
+                        <foaf:givenName>Judee</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chen</foaf:surname>
+                        <foaf:givenName>Chao</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dunbar</foaf:surname>
+                        <foaf:givenName>Norah</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Singh</foaf:surname>
+                        <foaf:givenName>Bharat</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Subrahmanian</foaf:surname>
+                        <foaf:givenName>V. S.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wu</foaf:surname>
+                        <foaf:givenName>Zhe</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_398"/>
+        <link:link rdf:resource="#item_399"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Computer Science - Artificial Intelligence</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+                <rdf:value>Computer Science - Computer Vision and Pattern Recognition</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Automatic Long-Term Deception Detection in Group Interaction Videos</dc:title>
+        <dcterms:abstract>Most work on automated deception detection (ADD) in video has two restrictions: (i) it focuses on a video of one person, and (ii) it focuses on a single act of deception in a one or two minute video. In this paper, we propose a new ADD framework which captures long term deception in a group setting. We study deception in the well-known Resistance game (like Mafia and Werewolf) which consists of 5-8 players of whom 2-3 are spies. Spies are deceptive throughout the game (typically 30-65 minutes) to keep their identity hidden. We develop an ensemble predictive model to identify spies in Resistance videos. We show that features from low-level and high-level video analysis are insufficient, but when combined with a new class of features that we call LiarRank, produce the best results. We achieve AUCs of over 0.70 in a fully automated setting. Our demo can be found at http://home.cs.dartmouth.edu/~mbolonkin/scan/demo/</dcterms:abstract>
+        <dc:date>2019-06-15</dc:date>
+        <z:libraryCatalog>arXiv.org</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://arxiv.org/abs/1905.08617</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-06-28 15:32:49</dcterms:dateSubmitted>
+        <dc:description>arXiv: 1905.08617</dc:description>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_398">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>arXiv Fulltext PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/pdf/1905.08617.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-06-28 15:32:54</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_399">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>arXiv.org Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/abs/1905.08617</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-06-28 15:32:58</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:BookSection rdf:about="urn:isbn:978-3-319-50934-1%20978-3-319-50935-8">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <prism:volume>10068</prism:volume>
+                <dc:identifier>ISBN 978-3-319-50934-1 978-3-319-50935-8</dc:identifier>
+                <dc:title>Computers and Games</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Cham</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Springer International Publishing</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Plaat</foaf:surname>
+                        <foaf:givenName>Aske</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kosters</foaf:surname>
+                        <foaf:givenName>Walter</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>van den Herik</foaf:surname>
+                        <foaf:givenName>Jaap</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bi</foaf:surname>
+                        <foaf:givenName>Xiaoheng</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tanaka</foaf:surname>
+                        <foaf:givenName>Tetsuro</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_403"/>
+        <dc:title>Human-Side Strategies in the Werewolf Game Against the Stealth Werewolf Strategy</dc:title>
+        <dc:date>2016</dc:date>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://link.springer.com/10.1007/978-3-319-50935-8_9</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-06-28 15:32:54</dcterms:dateSubmitted>
+        <dc:description>Series Title: Lecture Notes in Computer Science
+DOI: 10.1007/978-3-319-50935-8_9</dc:description>
+        <bib:pages>93-102</bib:pages>
+    </bib:BookSection>
+    <z:Attachment rdf:about="#item_403">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://sci-hub.se/downloads/2019-01-26//f7/bi2016.pdf#view=FitH</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-06-28 15:33:08</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://arxiv.org/abs/0804.0071">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal><dc:title>arXiv:0804.0071 [math]</dc:title></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Yao</foaf:surname>
+                        <foaf:givenName>Erlin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_402"/>
+        <link:link rdf:resource="#item_404"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>65C20</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>91-01</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Mathematics - Probability</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>A Theoretical Study of Mafia Games</dc:title>
+        <dcterms:abstract>Mafia can be described as an experiment in human psychology and mass hysteria, or as a game between informed minority and uninformed majority. Focus on a very restricted setting, Mossel et al. [to appear in Ann. Appl. Probab. Volume 18, Number 2] showed that in the mafia game without detectives, if the civilians and mafias both adopt the optimal randomized strategy, then the two groups have comparable probabilities of winning exactly when the total player size is R and the mafia size is of order Sqrt(R). They also proposed a conjecture which stated that this phenomenon should be valid in a more extensive framework. In this paper, we first indicate that the main theorem given by Mossel et al. [to appear in Ann. Appl. Probab. Volume 18, Number 2] can not guarantee their conclusion, i.e., the two groups have comparable winning probabilities when the mafia size is of order Sqrt(R). Then we give a theorem which validates the correctness of their conclusion. In the last, by proving the conjecture proposed by Mossel et al. [to appear in Ann. Appl. Probab. Volume 18, Number 2], we generalize the phenomenon to a more extensive framework, of which the mafia game without detectives is only a special case.</dcterms:abstract>
+        <dc:date>2008-04-01</dc:date>
+        <z:libraryCatalog>arXiv.org</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://arxiv.org/abs/0804.0071</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-06-28 15:33:04</dcterms:dateSubmitted>
+        <dc:description>arXiv: 0804.0071</dc:description>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_402">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>arXiv Fulltext PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/pdf/0804.0071.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-06-28 15:33:07</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_404">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>arXiv.org Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/abs/0804.0071</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-06-28 15:33:10</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:BookSection rdf:about="urn:isbn:978-3-030-04178-6%20978-3-030-04179-3">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <prism:volume>11302</prism:volume>
+                <dc:identifier>ISBN 978-3-030-04178-6 978-3-030-04179-3</dc:identifier>
+                <dc:title>Neural Information Processing</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Cham</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Springer International Publishing</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cheng</foaf:surname>
+                        <foaf:givenName>Long</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Leung</foaf:surname>
+                        <foaf:givenName>Andrew Chi Sing</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ozawa</foaf:surname>
+                        <foaf:givenName>Seiichi</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zilio</foaf:surname>
+                        <foaf:givenName>Felipe</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Prates</foaf:surname>
+                        <foaf:givenName>Marcelo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lamb</foaf:surname>
+                        <foaf:givenName>Luis</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_406"/>
+        <dc:title>Neural Networks Models for Analyzing Magic: The Gathering Cards</dc:title>
+        <dc:date>2018</dc:date>
+        <z:shortTitle>Neural Networks Models for Analyzing Magic</z:shortTitle>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://link.springer.com/10.1007/978-3-030-04179-3_20</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-06-28 15:33:26</dcterms:dateSubmitted>
+        <dc:description>Series Title: Lecture Notes in Computer Science
+DOI: 10.1007/978-3-030-04179-3_20</dc:description>
+        <bib:pages>227-239</bib:pages>
+    </bib:BookSection>
+    <z:Attachment rdf:about="#item_406">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Submitted Version</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/pdf/1810.03744</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-06-28 15:33:36</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="https://livrepository.liverpool.ac.uk/3029568/">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal></bib:Journal>
+        </dcterms:isPartOf>
+        <dc:title>The Complexity of Deciding Legality of a Single Step of Magic: The Gathering</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://livrepository.liverpool.ac.uk/3029568/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://vixra.org/abs/2001.0065">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal></bib:Journal>
+        </dcterms:isPartOf>
+        <dc:title>Magic: The Gathering in Common Lisp</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://vixra.org/abs/2001.0065</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </rdf:Description>
+    <bib:Data rdf:about="https://github.com/jeffythedragonslayer/maglisp">
+        <z:itemType>computerProgram</z:itemType>
+        <dc:title>Magic: The Gathering in Common Lisp</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://github.com/jeffythedragonslayer/maglisp</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Data>
+    <bib:Thesis rdf:about="https://commons.lib.niu.edu/handle/10843/19194">
+        <z:itemType>thesis</z:itemType>
+        <dc:title>Mathematical programming and Magic: The Gathering</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://commons.lib.niu.edu/handle/10843/19194</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Thesis>
+    <rdf:Description rdf:about="https://www.doi.org/10.1685/CSC06077">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal></bib:Journal>
+        </dcterms:isPartOf>
+        <dc:title>Deck Construction Strategies for Magic: The Gathering</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.doi.org/10.1685/CSC06077</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </rdf:Description>
+    <bib:Thesis rdf:about="https://doi.org/11250/2462429">
+        <z:itemType>thesis</z:itemType>
+        <dc:title>Deckbuilding in Magic: The Gathering Using a Genetic Algorithm</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://doi.org/11250/2462429</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Thesis>
+    <bib:Report rdf:about="http://cs229.stanford.edu/proj2012/HauPlotkinTran-MagicTheGatheringDeckPerformancePrediction.pdf">
+        <z:itemType>report</z:itemType>
+        <dc:title>Magic: The Gathering Deck Performance Prediction</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://cs229.stanford.edu/proj2012/HauPlotkinTran-MagicTheGatheringDeckPerformancePrediction.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Report>
+    <bib:Data rdf:about="https://github.com/captn3m0/modernart">
+        <z:itemType>computerProgram</z:itemType>
+        <dc:title>A constraint programming based solver for Modern Art</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://github.com/captn3m0/modernart</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Data>
+    <bib:Article rdf:about="http://arxiv.org/abs/2103.00683">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal><dc:title>arXiv:2103.00683 [cs]</dc:title></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Haliem</foaf:surname>
+                        <foaf:givenName>Marina</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bonjour</foaf:surname>
+                        <foaf:givenName>Trevor</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Alsalem</foaf:surname>
+                        <foaf:givenName>Aala</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Thomas</foaf:surname>
+                        <foaf:givenName>Shilpa</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Li</foaf:surname>
+                        <foaf:givenName>Hongyu</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Aggarwal</foaf:surname>
+                        <foaf:givenName>Vaneet</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bhargava</foaf:surname>
+                        <foaf:givenName>Bharat</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kejriwal</foaf:surname>
+                        <foaf:givenName>Mayank</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_419"/>
+        <link:link rdf:resource="#item_420"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Computer Science - Artificial Intelligence</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Computer Science - Machine Learning</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Learning Monopoly Gameplay: A Hybrid Model-Free Deep Reinforcement Learning and Imitation Learning Approach</dc:title>
+        <dcterms:abstract>Learning how to adapt and make real-time informed decisions in dynamic and complex environments is a challenging problem. To learn this task, Reinforcement Learning (RL) relies on an agent interacting with an environment and learning through trial and error to maximize the cumulative sum of rewards received by it. In multi-player Monopoly game, players have to make several decisions every turn which involves complex actions, such as making trades. This makes the decision-making harder and thus, introduces a highly complicated task for an RL agent to play and learn its winning strategies. In this paper, we introduce a Hybrid Model-Free Deep RL (DRL) approach that is capable of playing and learning winning strategies of the popular board game, Monopoly. To achieve this, our DRL agent (1) starts its learning process by imitating a rule-based agent (that resembles the human logic) to initialize its policy, (2) learns the successful actions, and improves its policy using DRL. Experimental results demonstrate an intelligent behavior of our proposed agent as it shows high win rates against different types of agent-players.</dcterms:abstract>
+        <dc:date>2021-02-28</dc:date>
+        <z:shortTitle>Learning Monopoly Gameplay</z:shortTitle>
+        <z:libraryCatalog>arXiv.org</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://arxiv.org/abs/2103.00683</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-06-28 15:48:08</dcterms:dateSubmitted>
+        <dc:description>arXiv: 2103.00683</dc:description>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_419">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>arXiv Fulltext PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/pdf/2103.00683.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-06-28 15:48:19</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_420">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>arXiv.org Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/abs/2103.00683</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-06-28 15:48:23</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="urn:isbn:978-0-7803-7203-0">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:identifier>ISBN 978-0-7803-7203-0</dc:identifier>
+                <dc:title>Proceedings 2001 IEEE International Symposium on Computational Intelligence in Robotics and Automation (Cat. No.01EX515)</dc:title>
+                <dc:identifier>DOI 10.1109/CIRA.2001.1013210</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Banff, Alta., Canada</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>IEEE</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Yasumura</foaf:surname>
+                        <foaf:givenName>Y.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Oguchi</foaf:surname>
+                        <foaf:givenName>K.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Nitta</foaf:surname>
+                        <foaf:givenName>K.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_426"/>
+        <dc:title>Negotiation strategy of agents in the MONOPOLY game</dc:title>
+        <dc:date>2001</dc:date>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://ieeexplore.ieee.org/document/1013210/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-06-28 15:49:10</dcterms:dateSubmitted>
+        <bib:pages>277-281</bib:pages>
+        <bib:presentedAt>
+            <bib:Conference>
+                <dc:title>2001 International Symposium on Computational Intelligence in Robotics and Automation</dc:title>
+            </bib:Conference>
+        </bib:presentedAt>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_426">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://moscow.sci-hub.se/3317/19346a5b777c1582800b51ee3a7cf5ed/negotiation-strategy-of-agents-in-the-monopoly-game.pdf#view=FitH</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-06-28 15:49:15</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="urn:isbn:978-1-4673-1194-6%20978-1-4673-1193-9%20978-1-4673-1192-2">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:identifier>ISBN 978-1-4673-1194-6 978-1-4673-1193-9 978-1-4673-1192-2</dc:identifier>
+                <dc:title>2012 IEEE Conference on Computational Intelligence and Games (CIG)</dc:title>
+                <dc:identifier>DOI 10.1109/CIG.2012.6374168</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Granada, Spain</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>IEEE</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Friberger</foaf:surname>
+                        <foaf:givenName>Marie Gustafsson</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Togelius</foaf:surname>
+                        <foaf:givenName>Julian</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_430"/>
+        <dc:title>Generating interesting Monopoly boards from open data</dc:title>
+        <dc:date>09/2012</dc:date>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://ieeexplore.ieee.org/document/6374168/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-06-28 15:49:18</dcterms:dateSubmitted>
+        <bib:pages>288-295</bib:pages>
+        <bib:presentedAt>
+            <bib:Conference>
+                <dc:title>2012 IEEE Conference on Computational Intelligence and Games (CIG)</dc:title>
+            </bib:Conference>
+        </bib:presentedAt>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_430">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Submitted Version</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=81CA58D9ACCE8CA7412077093E520EFC?doi=10.1.1.348.6099&amp;rep=rep1&amp;type=pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-06-28 15:49:32</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="urn:isbn:978-1-4244-5770-0%20978-1-4244-5771-7">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:identifier>ISBN 978-1-4244-5770-0 978-1-4244-5771-7</dc:identifier>
+                <dc:title>Proceedings of the 2009 Winter Simulation Conference (WSC)</dc:title>
+                <dc:identifier>DOI 10.1109/WSC.2009.5429349</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Austin, TX, USA</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>IEEE</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Friedman</foaf:surname>
+                        <foaf:givenName>Eric J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Henderson</foaf:surname>
+                        <foaf:givenName>Shane G.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Byuen</foaf:surname>
+                        <foaf:givenName>Thomas</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gallardo</foaf:surname>
+                        <foaf:givenName>German Gutierrez</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_429"/>
+        <dc:title>Estimating the probability that the game of Monopoly never ends</dc:title>
+        <dc:date>12/2009</dc:date>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://ieeexplore.ieee.org/document/5429349/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-06-28 15:49:23</dcterms:dateSubmitted>
+        <bib:pages>380-391</bib:pages>
+        <bib:presentedAt>
+            <bib:Conference>
+               <dc:title>2009 Winter Simulation Conference (WSC 2009)</dc:title>
+            </bib:Conference>
+        </bib:presentedAt>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_429">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://moscow.sci-hub.se/3233/bacac19e84c764b72c627d05f55c0ad9/friedman2009.pdf#view=FitH</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-06-28 15:49:32</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Report rdf:about="https://project-archive.inf.ed.ac.uk/ug4/20181042/ug4_proj.pdf">
+        <z:itemType>report</z:itemType>
+        <dc:title>Learning to Play Monopoly with Monte Carlo Tree Search</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://project-archive.inf.ed.ac.uk/ug4/20181042/ug4_proj.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Report>
+    <rdf:Description rdf:about="urn:isbn:978-1-72811-895-6">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:identifier>ISBN 978-1-72811-895-6</dc:identifier>
+                <dc:title>TENCON 2019 - 2019 IEEE Region 10 Conference (TENCON)</dc:title>
+                <dc:identifier>DOI 10.1109/TENCON.2019.8929523</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Kochi, India</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>IEEE</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Arun</foaf:surname>
+                        <foaf:givenName>Edupuganti</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rajesh</foaf:surname>
+                        <foaf:givenName>Harikrishna</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chakrabarti</foaf:surname>
+                        <foaf:givenName>Debarka</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cherala</foaf:surname>
+                        <foaf:givenName>Harikiran</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>George</foaf:surname>
+                        <foaf:givenName>Koshy</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_433"/>
+        <dc:title>Monopoly Using Reinforcement Learning</dc:title>
+        <dc:date>10/2019</dc:date>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://ieeexplore.ieee.org/document/8929523/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-06-28 15:49:50</dcterms:dateSubmitted>
+        <bib:pages>858-862</bib:pages>
+        <bib:presentedAt>
+            <bib:Conference>
+                <dc:title>TENCON 2019 - 2019 IEEE Region 10 Conference (TENCON)</dc:title>
+            </bib:Conference>
+        </bib:presentedAt>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_433">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://sci-hub.se/downloads/2020-04-10/35/arun2019.pdf?rand=60d9ef9f20b26#view=FitH</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-06-28 15:50:07</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Report rdf:about="https://pi4.math.illinois.edu/wp-content/uploads/2014/10/Gartland-Burson-Ferguson-Markovopoly.pdf">
+        <z:itemType>report</z:itemType>
+        <dc:title>A Markovian Exploration of Monopoly</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://pi4.math.illinois.edu/wp-content/uploads/2014/10/Gartland-Burson-Ferguson-Markovopoly.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Report>
+    <rdf:Description rdf:about="https://intelligence.csd.auth.gr/publication/conference-papers/learning-to-play-monopoly-a-reinforcement-learning-approach/">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal></bib:Journal>
+        </dcterms:isPartOf>
+        <dc:title>Learning to play Monopoly: A Reinforcement Learning approach</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://intelligence.csd.auth.gr/publication/conference-papers/learning-to-play-monopoly-a-reinforcement-learning-approach/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </rdf:Description>
+    <bib:ConferenceProceedings rdf:about="https://core.ac.uk/download/pdf/48614184.pdf">
+        <z:itemType>presentation</z:itemType>
+        <dc:title>What’s the Best Monopoly Strategy?</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://core.ac.uk/download/pdf/48614184.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:ConferenceProceedings>
+    <bib:Article rdf:about="https://www.jstage.jst.go.jp/article/ipsjjip/20/3/20_723/_article">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1882-6652"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Nakai</foaf:surname>
+                        <foaf:givenName>Kenichiro</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Takenaga</foaf:surname>
+                        <foaf:givenName>Yasuhiko</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_440"/>
+        <dc:title>NP-Completeness of Pandemic</dc:title>
+        <dc:date>2012</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.jstage.jst.go.jp/article/ipsjjip/20/3/20_723/_article</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-06-28 15:59:47</dcterms:dateSubmitted>
+        <bib:pages>723-726</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1882-6652">
+        <prism:volume>20</prism:volume>
+        <dc:title>Journal of Information Processing</dc:title>
+        <dc:identifier>DOI 10.2197/ipsjjip.20.723</dc:identifier>
+        <prism:number>3</prism:number>
+        <dcterms:alternative>Journal of Information Processing</dcterms:alternative>
+        <dc:identifier>ISSN 1882-6652</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_440">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.jstage.jst.go.jp/article/ipsjjip/20/3/20_723/_pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-06-28 15:59:50</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Thesis rdf:about="http://www.ke.tu-darmstadt.de/lehre/arbeiten/bachelor/2011/Buescher_Niklas.pdf">
+        <z:itemType>thesis</z:itemType>
+        <dc:title>On Solving Pentago</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.ke.tu-darmstadt.de/lehre/arbeiten/bachelor/2011/Buescher_Niklas.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Thesis>
+    <bib:Article rdf:about="http://arxiv.org/abs/1906.02330">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+               <dc:title>arXiv:1906.02330 [cs, stat]</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Serrino</foaf:surname>
+                        <foaf:givenName>Jack</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kleiman-Weiner</foaf:surname>
+                        <foaf:givenName>Max</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Parkes</foaf:surname>
+                        <foaf:givenName>David C.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tenenbaum</foaf:surname>
+                        <foaf:givenName>Joshua B.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_444"/>
+        <link:link rdf:resource="#item_445"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Computer Science - Machine Learning</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Computer Science - Multiagent Systems</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Statistics - Machine Learning</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Finding Friend and Foe in Multi-Agent Games</dc:title>
+        <dcterms:abstract>Recent breakthroughs in AI for multi-agent games like Go, Poker, and Dota, have seen great strides in recent years. Yet none of these games address the real-life challenge of cooperation in the presence of unknown and uncertain teammates. This challenge is a key game mechanism in hidden role games. Here we develop the DeepRole algorithm, a multi-agent reinforcement learning agent that we test on The Resistance: Avalon, the most popular hidden role game. DeepRole combines counterfactual regret minimization (CFR) with deep value networks trained through self-play. Our algorithm integrates deductive reasoning into vector-form CFR to reason about joint beliefs and deduce partially observable actions. We augment deep value networks with constraints that yield interpretable representations of win probabilities. These innovations enable DeepRole to scale to the full Avalon game. Empirical game-theoretic methods show that DeepRole outperforms other hand-crafted and learned agents in five-player Avalon. DeepRole played with and against human players on the web in hybrid human-agent teams. We find that DeepRole outperforms human players as both a cooperator and a competitor.</dcterms:abstract>
+        <dc:date>2019-06-05</dc:date>
+        <z:libraryCatalog>arXiv.org</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://arxiv.org/abs/1906.02330</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-06-28 16:00:28</dcterms:dateSubmitted>
+        <dc:description>arXiv: 1906.02330</dc:description>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_444">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>arXiv Fulltext PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/pdf/1906.02330.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-06-28 16:00:35</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_445">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>arXiv.org Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/abs/1906.02330</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-06-28 16:00:38</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Thesis rdf:about="https://openworks.wooster.edu/independentstudy/8917/">
+        <z:itemType>thesis</z:itemType>
+        <dc:title>A Mathematical Analysis of the Game of Santorini</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://openworks.wooster.edu/independentstudy/8917/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Thesis>
+    <bib:Data rdf:about="https://github.com/carsongeissler/SantoriniIS">
+        <z:itemType>computerProgram</z:itemType>
+        <dc:title>A Mathematical Analysis of the Game of Santorini</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://github.com/carsongeissler/SantoriniIS</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Data>
+    <bib:Report rdf:about="https://eprints.illc.uva.nl/id/eprint/193/1/PP-2006-18.text.pdf">
+        <z:itemType>report</z:itemType>
+        <dc:title>The complexity of Scotland Yard</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://eprints.illc.uva.nl/id/eprint/193/1/PP-2006-18.text.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Report>
     <z:Collection rdf:about="#collection_6">
         <dc:title>2048</dc:title>
         <dcterms:hasPart rdf:resource="https://doi.org/10.1109%2Ftciaig.2012.2204883"/>
@@ -5876,6 +6912,9 @@ DOI: 10.1007/978-3-319-71649-7_5</dc:description>
     <z:Collection rdf:about="#collection_16">
         <dc:title>Mafia</dc:title>
         <dcterms:hasPart rdf:resource="http://arxiv.org/abs/1009.1031v3"/>
+        <dcterms:hasPart rdf:resource="http://arxiv.org/abs/1905.08617"/>
+        <dcterms:hasPart rdf:resource="urn:isbn:978-3-319-50934-1%20978-3-319-50935-8"/>
+        <dcterms:hasPart rdf:resource="http://arxiv.org/abs/0804.0071"/>
     </z:Collection>
     <z:Collection rdf:about="#collection_14">
         <dc:title>Magic: The Gathering</dc:title>
@@ -5885,15 +6924,36 @@ DOI: 10.1007/978-3-319-71649-7_5</dc:description>
         <dcterms:hasPart rdf:resource="http://arxiv.org/abs/2003.05119v1"/>
         <dcterms:hasPart rdf:resource="http://arxiv.org/abs/1904.09828v2"/>
         <dcterms:hasPart rdf:resource="http://arxiv.org/abs/1810.03744v1"/>
+        <dcterms:hasPart rdf:resource="urn:isbn:978-3-030-04178-6%20978-3-030-04179-3"/>
+        <dcterms:hasPart rdf:resource="https://livrepository.liverpool.ac.uk/3029568/"/>
+        <dcterms:hasPart rdf:resource="https://vixra.org/abs/2001.0065"/>
+        <dcterms:hasPart rdf:resource="https://github.com/jeffythedragonslayer/maglisp"/>
+        <dcterms:hasPart rdf:resource="https://commons.lib.niu.edu/handle/10843/19194"/>
+        <dcterms:hasPart rdf:resource="https://www.doi.org/10.1685/CSC06077"/>
+        <dcterms:hasPart rdf:resource="https://doi.org/11250/2462429"/>
+        <dcterms:hasPart rdf:resource="http://cs229.stanford.edu/proj2012/HauPlotkinTran-MagicTheGatheringDeckPerformancePrediction.pdf"/>
     </z:Collection>
     <z:Collection rdf:about="#collection_22">
         <dc:title>Mobile Games</dc:title>
         <dcterms:hasPart rdf:resource="http://arxiv.org/abs/1603.00928v1"/>
         <dcterms:hasPart rdf:resource="http://arxiv.org/abs/1505.04274v1"/>
     </z:Collection>
+    <z:Collection rdf:about="#collection_44">
+        <dc:title>Modern Art</dc:title>
+        <dcterms:hasPart rdf:resource="https://github.com/captn3m0/modernart"/>
+    </z:Collection>
     <z:Collection rdf:about="#collection_13">
         <dc:title>Monopoly</dc:title>
         <dcterms:hasPart rdf:resource="https://doi.org/10.1080%2F0025570x.1972.11976187"/>
+        <dcterms:hasPart rdf:resource="http://arxiv.org/abs/2103.00683"/>
+        <dcterms:hasPart rdf:resource="urn:isbn:978-0-7803-7203-0"/>
+        <dcterms:hasPart rdf:resource="urn:isbn:978-1-4673-1194-6%20978-1-4673-1193-9%20978-1-4673-1192-2"/>
+        <dcterms:hasPart rdf:resource="urn:isbn:978-1-4244-5770-0%20978-1-4244-5771-7"/>
+        <dcterms:hasPart rdf:resource="https://project-archive.inf.ed.ac.uk/ug4/20181042/ug4_proj.pdf"/>
+        <dcterms:hasPart rdf:resource="urn:isbn:978-1-72811-895-6"/>
+        <dcterms:hasPart rdf:resource="https://pi4.math.illinois.edu/wp-content/uploads/2014/10/Gartland-Burson-Ferguson-Markovopoly.pdf"/>
+        <dcterms:hasPart rdf:resource="https://intelligence.csd.auth.gr/publication/conference-papers/learning-to-play-monopoly-a-reinforcement-learning-approach/"/>
+        <dcterms:hasPart rdf:resource="https://core.ac.uk/download/pdf/48614184.pdf"/>
     </z:Collection>
     <z:Collection rdf:about="#collection_20">
         <dc:title>Monopoly Deal</dc:title>
@@ -5904,11 +6964,19 @@ DOI: 10.1007/978-3-319-71649-7_5</dc:description>
         <dcterms:hasPart rdf:resource="http://arxiv.org/abs/2001.04238"/>
         <dcterms:hasPart rdf:resource="https://zayenz.se/blog/post/nmbr9-cp2019-abstract/"/>
     </z:Collection>
+    <z:Collection rdf:about="#collection_45">
+        <dc:title>Pandemic</dc:title>
+        <dcterms:hasPart rdf:resource="https://www.jstage.jst.go.jp/article/ipsjjip/20/3/20_723/_article"/>
+    </z:Collection>
     <z:Collection rdf:about="#collection_10">
         <dc:title>Patchwork</dc:title>
         <dcterms:hasPart rdf:resource="https://zayenz.se/blog/post/patchwork-modref2019-paper/"/>
         <dcterms:hasPart rdf:resource="http://arxiv.org/abs/2001.04233"/>
         <dcterms:hasPart rdf:resource="https://zayenz.se/papers/Lagerkvist_ModRef_2019_Presentation.pdf"/>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_46">
+        <dc:title>Pentago</dc:title>
+        <dcterms:hasPart rdf:resource="http://www.ke.tu-darmstadt.de/lehre/arbeiten/bachelor/2011/Buescher_Niklas.pdf"/>
     </z:Collection>
     <z:Collection rdf:about="#collection_18">
         <dc:title>Quixo</dc:title>
@@ -5930,6 +6998,15 @@ DOI: 10.1007/978-3-319-71649-7_5</dc:description>
         <dcterms:hasPart rdf:resource="https://scholar.rose-hulman.edu/rhumj/vol3/iss2/3"/>
         <dcterms:hasPart rdf:resource="http://www.c4i.gr/xgeorgio/docs/RISK-board-game%20_rev-3.pdf"/>
         <dcterms:hasPart rdf:resource="#item_144"/>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_48">
+        <dc:title>Santorini</dc:title>
+        <dcterms:hasPart rdf:resource="https://openworks.wooster.edu/independentstudy/8917/"/>
+        <dcterms:hasPart rdf:resource="https://github.com/carsongeissler/SantoriniIS"/>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_49">
+        <dc:title>Scotland Yard</dc:title>
+        <dcterms:hasPart rdf:resource="https://eprints.illc.uva.nl/id/eprint/193/1/PP-2006-18.text.pdf"/>
     </z:Collection>
     <z:Collection rdf:about="#collection_30">
         <dc:title>Secret Hitler</dc:title>
@@ -5969,6 +7046,10 @@ DOI: 10.1007/978-3-319-71649-7_5</dc:description>
     <z:Collection rdf:about="#collection_36">
         <dc:title>Tetris Link</dc:title>
         <dcterms:hasPart rdf:resource="http://arxiv.org/abs/2004.00377"/>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_47">
+        <dc:title>The Resistance: Avalon</dc:title>
+        <dcterms:hasPart rdf:resource="http://arxiv.org/abs/1906.02330"/>
     </z:Collection>
     <z:Collection rdf:about="#collection_29">
         <dc:title>Ticket to Ride</dc:title>
