@@ -1,0 +1,37 @@
+name: Submit another research item
+description: You have URL for a research item, but you couldn't find a DOI or arXiV URL for the same.
+title: "[Submission/URL]: "
+labels: [submission]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to make a submission. Please only use this if you couldn't find a DOI for the research. Try to avoid low-information research (posters/presentations) unless the topic is not covered elsewhere in a better medium.
+  - type: input
+    id: url
+    attributes:
+      label: URL
+      description: Please provide a URL to the research item
+      placeholder: https://arxiv.org/abs/2102.12627
+    validations:
+      required: true
+  - type: input
+    id: game
+    attributes:
+      label: Game
+      description: What game is this for?
+    validations:
+      required: true
+  - type: textarea
+    id: info
+    attributes:
+      label: Notes
+      description: Any other information about this you'd like to add?
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Code of Conduct
+      description: By submitting this issue, you agree to follow our [Code of Conduct](https://github.com/captn3m0/boardgame-research/blob/master/CONTRIBUTING.md)
+      options:
+        - label: I agree to follow this project's Code of Conduct
+          required: true
