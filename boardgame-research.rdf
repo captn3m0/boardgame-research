@@ -2944,7 +2944,7 @@
         </dc:identifier>
         <z:programmingLanguage>MATLAB</z:programmingLanguage>
     </bib:Data>
-    <rdf:Description rdf:about="#item_128">
+    <rdf:Description rdf:about="https://escholarship.org/uc/item/9zt506xx">
         <z:itemType>conferencePaper</z:itemType>
         <dcterms:isPartOf>
             <bib:Journal>
@@ -2971,6 +2971,11 @@
         <link:link rdf:resource="#item_132"/>
         <dc:title>Trading in a multiplayer board game: Towards an analysis of non-cooperative dialogue</dc:title>
         <dc:date>2012</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://escholarship.org/uc/item/9zt506xx</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
         <dc:description>Issue: 34</dc:description>
     </rdf:Description>
     <z:Attachment rdf:about="#item_132">
@@ -3033,8 +3038,11 @@
         <z:linkMode>1</z:linkMode>
         <link:type>application/pdf</link:type>
     </z:Attachment>
-    <bib:Book rdf:about="#item_135">
-        <z:itemType>book</z:itemType>
+    <rdf:Description rdf:about="https://www.researchgate.net/publication/228728063_Reinforcement_learning_of_strategies_for_Settlers_of_Catan">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal></bib:Journal>
+        </dcterms:isPartOf>
         <bib:authors>
             <rdf:Seq>
                 <rdf:li>
@@ -3048,7 +3056,12 @@
         <link:link rdf:resource="#item_136"/>
         <dc:title>Reinforcement Learning of Strategies for Settlers of Catan</dc:title>
         <dc:date>2004</dc:date>
-    </bib:Book>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.researchgate.net/publication/228728063_Reinforcement_learning_of_strategies_for_Settlers_of_Catan</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </rdf:Description>
     <z:Attachment rdf:about="#item_136">
         <z:itemType>attachment</z:itemType>
         <dc:title>Pfeiffer - 2004 - Reinforcement Learning of Strategies for Settlers .pdf</dc:title>
@@ -3160,8 +3173,6 @@
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dcterms:isReferencedBy rdf:resource="#item_159"/>
-        <dcterms:isReferencedBy rdf:resource="#item_148"/>
         <link:link rdf:resource="#item_149"/>
         <link:link rdf:resource="#item_150"/>
         <dc:subject>
@@ -3181,13 +3192,6 @@
         <dcterms:dateSubmitted>2020-07-21 10:55:58</dcterms:dateSubmitted>
         <dc:description>arXiv: 2001.04233</dc:description>
     </bib:Article>
-    <bib:Memo rdf:about="#item_159">
-        <rdf:value>&lt;p&gt;Code: &lt;a href=&quot;https://github.com/zayenz/cp-mod-ref-2019-patchwork&quot;&gt;https://github.com/zayenz/cp-mod-ref-2019-patchwork&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;</rdf:value>
-    </bib:Memo>
-    <bib:Memo rdf:about="#item_148">
-        <rdf:value>&lt;p&gt;Comment: In ModRef 2019, The 18th workshop on Constraint Modelling and Reformulation&lt;/p&gt;</rdf:value>
-    </bib:Memo>
     <z:Attachment rdf:about="#item_149">
         <z:itemType>attachment</z:itemType>
         <dc:title>arXiv Fulltext PDF</dc:title>
@@ -3249,8 +3253,6 @@
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dcterms:isReferencedBy rdf:resource="#item_158"/>
-        <dcterms:isReferencedBy rdf:resource="#item_154"/>
         <link:link rdf:resource="#item_155"/>
         <link:link rdf:resource="#item_156"/>
         <dc:subject>
@@ -3270,12 +3272,6 @@
         <dcterms:dateSubmitted>2020-07-21 10:57:58</dcterms:dateSubmitted>
         <dc:description>arXiv: 2001.04238</dc:description>
     </bib:Article>
-    <bib:Memo rdf:about="#item_158">
-        <rdf:value>&lt;p&gt;Code: https://github.com/zayenz/cp-2019-nmbr9/&lt;/p&gt;</rdf:value>
-    </bib:Memo>
-    <bib:Memo rdf:about="#item_154">
-        <rdf:value>&lt;p&gt;Comment: Abstract at the 25th International Conference on Principles and Practice of Constraint Programming&lt;/p&gt;</rdf:value>
-    </bib:Memo>
     <z:Attachment rdf:about="#item_155">
         <z:itemType>attachment</z:itemType>
         <dc:title>arXiv Fulltext PDF</dc:title>
@@ -3704,7 +3700,6 @@ DOI: 10.1007/978-3-319-71649-7_5</dc:description>
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dcterms:isReferencedBy rdf:resource="#item_182"/>
         <link:link rdf:resource="#item_181"/>
         <dc:title>A Browser-based Interface for the Exploration and Evaluation of Hanabi AIs</dc:title>
         <dc:date>2017</dc:date>
@@ -3717,9 +3712,6 @@ DOI: 10.1007/978-3-319-71649-7_5</dc:description>
         </dc:identifier>
         <bib:pages>4</bib:pages>
     </bib:Article>
-    <bib:Memo rdf:about="#item_182">
-        <rdf:value>&lt;p&gt;URL: http://fdg2017.org/papers/FDG2017_demo_Hanabi.pdf&lt;/p&gt;</rdf:value>
-    </bib:Memo>
     <z:Attachment rdf:about="#item_181">
         <z:itemType>attachment</z:itemType>
         <dc:title>Eger and Martens - 2017 - A Browser-based Interface for the Exploration and .pdf</dc:title>
@@ -3752,7 +3744,6 @@ DOI: 10.1007/978-3-319-71649-7_5</dc:description>
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dcterms:isReferencedBy rdf:resource="#item_178"/>
         <link:link rdf:resource="#item_176"/>
         <dc:title>I see what you see: Integrating eye tracking into Hanabi playing agents</dc:title>
         <dcterms:abstract>Humans’ eye movements convey a lot of information about their intentions, often unconsciously. Intelligent agents that cooperate with humans in various domains can beneﬁt from interpreting this information. This paper contains a preliminary look at how eye tracking could be useful for agents that play the cooperative card game Hanabi with human players. We outline several situations in which an AI agent can utilize gaze information, and present an outlook on how we plan to integrate this with reimplementations of contemporary Hanabi agents.</dcterms:abstract>
@@ -3760,10 +3751,6 @@ DOI: 10.1007/978-3-319-71649-7_5</dc:description>
         <z:libraryCatalog>Zotero</z:libraryCatalog>
         <bib:pages>4</bib:pages>
     </bib:Article>
-    <bib:Memo rdf:about="#item_178">
-        <rdf:value>&lt;p&gt;URL: &lt;a href=&quot;http://www.exag.org/wp-content/uploads/2018/10/AIIDE-18_Upload_112.pdf&quot;&gt;http://www.exag.org/wp-content/uploads/2018/10/AIIDE-18_Upload_112.pdf&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;</rdf:value>
-    </bib:Memo>
     <z:Attachment rdf:about="#item_176">
         <z:itemType>attachment</z:itemType>
         <dc:title>Gottwald et al. - I see what you see Integrating eye tracking into .pdf</dc:title>
@@ -4358,7 +4345,6 @@ DOI: 10.1007/978-3-319-71649-7_5</dc:description>
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dcterms:isReferencedBy rdf:resource="#item_239"/>
         <link:link rdf:resource="#item_240"/>
         <link:link rdf:resource="#item_241"/>
         <dc:subject>
@@ -4388,9 +4374,6 @@ DOI: 10.1007/978-3-319-71649-7_5</dc:description>
         <dcterms:dateSubmitted>2020-10-12 04:19:57</dcterms:dateSubmitted>
         <dc:description>arXiv: 2008.07079</dc:description>
     </bib:Article>
-    <bib:Memo rdf:about="#item_239">
-        <rdf:value>Comment: 12 pages, 5 tables and 10 figures; submitted to the ICONIP 2020</rdf:value>
-    </bib:Memo>
     <z:Attachment rdf:about="#item_240">
         <z:itemType>attachment</z:itemType>
         <dc:title>arXiv Fulltext PDF</dc:title>
@@ -4749,7 +4732,6 @@ DOI: 10.1007/978-3-319-71649-7_5</dc:description>
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dcterms:isReferencedBy rdf:resource="#item_285"/>
         <link:link rdf:resource="#item_286"/>
         <link:link rdf:resource="#item_287"/>
         <dc:subject>
@@ -4769,9 +4751,6 @@ DOI: 10.1007/978-3-319-71649-7_5</dc:description>
         <dcterms:dateSubmitted>2021-01-02 18:13:09</dcterms:dateSubmitted>
         <dc:description>arXiv: 2009.12974</dc:description>
     </bib:Article>
-    <bib:Memo rdf:about="#item_285">
-       <rdf:value>Comment: 8 pages, 6 figures</rdf:value>
-    </bib:Memo>
     <z:Attachment rdf:about="#item_286">
         <z:itemType>attachment</z:itemType>
         <dc:title>arXiv Fulltext PDF</dc:title>
@@ -4829,7 +4808,6 @@ DOI: 10.1007/978-3-319-71649-7_5</dc:description>
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dcterms:isReferencedBy rdf:resource="#item_300"/>
         <link:link rdf:resource="#item_301"/>
         <link:link rdf:resource="#item_302"/>
         <dc:subject>
@@ -4849,9 +4827,6 @@ DOI: 10.1007/978-3-319-71649-7_5</dc:description>
         <dcterms:dateSubmitted>2021-01-02 18:17:10</dcterms:dateSubmitted>
         <dc:description>arXiv: 2007.15895</dc:description>
     </bib:Article>
-    <bib:Memo rdf:about="#item_300">
-       <rdf:value>Comment: 19 pages</rdf:value>
-    </bib:Memo>
     <z:Attachment rdf:about="#item_301">
         <z:itemType>attachment</z:itemType>
         <dc:title>arXiv Fulltext PDF</dc:title>
@@ -5030,10 +5005,799 @@ DOI: 10.1007/978-3-319-71649-7_5</dc:description>
         <z:linkMode>1</z:linkMode>
         <link:type>text/html</link:type>
     </z:Attachment>
+    <bib:Article rdf:about="http://arxiv.org/abs/1511.08099">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal><dc:title>arXiv:1511.08099 [cs]</dc:title></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cuayáhuitl</foaf:surname>
+                        <foaf:givenName>Heriberto</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Keizer</foaf:surname>
+                        <foaf:givenName>Simon</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lemon</foaf:surname>
+                        <foaf:givenName>Oliver</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_319"/>
+        <link:link rdf:resource="#item_320"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Computer Science - Artificial Intelligence</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Computer Science - Machine Learning</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Strategic Dialogue Management via Deep Reinforcement Learning</dc:title>
+        <dcterms:abstract>Artificially intelligent agents equipped with strategic skills that can negotiate during their interactions with other natural or artificial agents are still underdeveloped. This paper describes a successful application of Deep Reinforcement Learning (DRL) for training intelligent agents with strategic conversational skills, in a situated dialogue setting. Previous studies have modelled the behaviour of strategic agents using supervised learning and traditional reinforcement learning techniques, the latter using tabular representations or learning with linear function approximation. In this study, we apply DRL with a high-dimensional state space to the strategic board game of Settlers of Catan---where players can offer resources in exchange for others and they can also reply to offers made by other players. Our experimental results report that the DRL-based learnt policies significantly outperformed several baselines including random, rule-based, and supervised-based behaviours. The DRL-based policy has a 53% win rate versus 3 automated players (`bots'), whereas a supervised player trained on a dialogue corpus in this setting achieved only 27%, versus the same 3 bots. This result supports the claim that DRL is a promising framework for training dialogue systems, and strategic agents with negotiation abilities.</dcterms:abstract>
+        <dc:date>2015-11-25</dc:date>
+        <z:libraryCatalog>arXiv.org</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://arxiv.org/abs/1511.08099</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-01-02 18:29:38</dcterms:dateSubmitted>
+        <dc:description>arXiv: 1511.08099</dc:description>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_319">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>arXiv Fulltext PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/pdf/1511.08099.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-01-02 18:29:43</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_320">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>arXiv.org Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/abs/1511.08099</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-01-02 18:29:50</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="https://minds.wisconsin.edu/bitstream/handle/1793/79080/LydeenSpr18.pdf?sequence=1&amp;isAllowed=y">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal></bib:Journal>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_363"/>
+        <dc:title>Applying Neural Networks and Genetic Programming to the Game Lost Cities</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://minds.wisconsin.edu/bitstream/handle/1793/79080/LydeenSpr18.pdf?sequence=1&amp;isAllowed=y</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_363">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>LydeenSpr18.pdf</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://minds.wisconsin.edu/bitstream/handle/1793/79080/LydeenSpr18.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-06-12 17:03:24</dcterms:dateSubmitted>
+        <z:linkMode>3</z:linkMode>
+    </z:Attachment>
+    <bib:Report rdf:about="https://old.reddit.com/r/boardgames/comments/hxodaf/update_i_wrote_my_dissertation_on_azul/">
+        <z:itemType>report</z:itemType>
+        <dc:title>A summary of a dissertation on Azul</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://old.reddit.com/r/boardgames/comments/hxodaf/update_i_wrote_my_dissertation_on_azul/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Report>
+    <rdf:Description rdf:about="https://ipsj.ixsq.nii.ac.jp/ej/?action=repository_action_common_download&amp;item_id=207669&amp;item_no=1&amp;attribute_id=1&amp;file_no=1">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal></bib:Journal>
+        </dcterms:isPartOf>
+        <dc:title>Ceramic: A research environment based on the multi-player strategic board game Azul</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://ipsj.ixsq.nii.ac.jp/ej/?action=repository_action_common_download&amp;item_id=207669&amp;item_no=1&amp;attribute_id=1&amp;file_no=1</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </rdf:Description>
+    <bib:Data rdf:about="https://github.com/Swynfel/ceramic">
+        <z:itemType>computerProgram</z:itemType>
+        <dc:title>Ceramic: A research environment based on the multi-player strategic board game Azul</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://github.com/Swynfel/ceramic</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Data>
+    <bib:Report rdf:about="https://digitalcommons.calpoly.edu/cpesp/290/">
+        <z:itemType>report</z:itemType>
+        <dc:title>Blokus Game Solver</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://digitalcommons.calpoly.edu/cpesp/290/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Report>
+    <rdf:Description rdf:about="urn:isbn:978-1-4799-2198-0%20978-1-4799-2199-7">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:identifier>ISBN 978-1-4799-2198-0 978-1-4799-2199-7</dc:identifier>
+                <dc:title>2013 International Conference on Field-Programmable Technology (FPT)</dc:title>
+                <dc:identifier>DOI 10.1109/FPT.2013.6718426</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Kyoto, Japan</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>IEEE</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Yoza</foaf:surname>
+                        <foaf:givenName>Takashi</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Moriwaki</foaf:surname>
+                        <foaf:givenName>Retsu</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Torigai</foaf:surname>
+                        <foaf:givenName>Yuki</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kamikubo</foaf:surname>
+                        <foaf:givenName>Yuki</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kubota</foaf:surname>
+                        <foaf:givenName>Takayuki</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Watanabe</foaf:surname>
+                        <foaf:givenName>Takahiro</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fujimori</foaf:surname>
+                        <foaf:givenName>Takumi</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ito</foaf:surname>
+                        <foaf:givenName>Hiroyuki</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Seo</foaf:surname>
+                        <foaf:givenName>Masato</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Akagi</foaf:surname>
+                        <foaf:givenName>Kouta</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Yamaji</foaf:surname>
+                        <foaf:givenName>Yuichiro</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Watanabe</foaf:surname>
+                        <foaf:givenName>Minoru</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_371"/>
+        <dc:title>FPGA Blokus Duo Solver using a massively parallel architecture</dc:title>
+        <dc:date>12/2013</dc:date>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://ieeexplore.ieee.org/document/6718426/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-06-28 14:38:57</dcterms:dateSubmitted>
+        <bib:pages>494-497</bib:pages>
+        <bib:presentedAt>
+            <bib:Conference>
+                <dc:title>2013 International Conference on Field-Programmable Technology (FPT)</dc:title>
+            </bib:Conference>
+        </bib:presentedAt>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_371">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://zero.sci-hub.se/2654/a4d3e713290066b6db7db1d9eedd194e/yoza2013.pdf#view=FitH</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-06-28 14:39:08</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="urn:isbn:978-1-4799-0565-2%20978-1-4799-0562-1%20978-1-4799-0563-8">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:identifier>ISBN 978-1-4799-0565-2 978-1-4799-0562-1 978-1-4799-0563-8</dc:identifier>
+                <dc:title>The 17th CSI International Symposium on Computer Architecture &amp; Digital Systems (CADS 2013)</dc:title>
+                <dc:identifier>DOI 10.1109/CADS.2013.6714256</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Tehran, Iran</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>IEEE</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jahanshahi</foaf:surname>
+                        <foaf:givenName>Ali</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Taram</foaf:surname>
+                        <foaf:givenName>Mohammad Kazem</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Eskandari</foaf:surname>
+                        <foaf:givenName>Nariman</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_370"/>
+        <dc:title>Blokus Duo game on FPGA</dc:title>
+        <dc:date>10/2013</dc:date>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://ieeexplore.ieee.org/document/6714256/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-06-28 14:39:04</dcterms:dateSubmitted>
+        <bib:pages>149-152</bib:pages>
+        <bib:presentedAt>
+            <bib:Conference>
+                <dc:title>2013 17th CSI International Symposium on Computer Architecture and Digital Systems (CADS)</dc:title>
+            </bib:Conference>
+        </bib:presentedAt>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_370">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://zero.sci-hub.se/3228/9ae6ca1efab5a2ebb63dd4e22a13bf04/jahanshahi2013.pdf#view=FitH</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-06-28 14:39:07</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://arxiv.org/abs/1903.02230">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:title>The World Wide Web Conference</dc:title>
+                <dc:identifier>DOI 10.1145/3308558.3314131</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hsu</foaf:surname>
+                        <foaf:givenName>Chao-Chun</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chen</foaf:surname>
+                        <foaf:givenName>Yu-Hua</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chen</foaf:surname>
+                        <foaf:givenName>Zi-Yuan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lin</foaf:surname>
+                        <foaf:givenName>Hsin-Yu</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Huang</foaf:surname>
+                        <foaf:givenName>Ting-Hao 'Kenneth'</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ku</foaf:surname>
+                        <foaf:givenName>Lun-Wei</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_374"/>
+        <link:link rdf:resource="#item_375"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Computer Science - Computation and Language</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Dixit: Interactive Visual Storytelling via Term Manipulation</dc:title>
+        <dcterms:abstract>In this paper, we introduce Dixit, an interactive visual storytelling system that the user interacts with iteratively to compose a short story for a photo sequence. The user initiates the process by uploading a sequence of photos. Dixit first extracts text terms from each photo which describe the objects (e.g., boy, bike) or actions (e.g., sleep) in the photo, and then allows the user to add new terms or remove existing terms. Dixit then generates a short story based on these terms. Behind the scenes, Dixit uses an LSTM-based model trained on image caption data and FrameNet to distill terms from each image and utilizes a transformer decoder to compose a context-coherent story. Users change images or terms iteratively with Dixit to create the most ideal story. Dixit also allows users to manually edit and rate stories. The proposed procedure opens up possibilities for interpretable and controllable visual storytelling, allowing users to understand the story formation rationale and to intervene in the generation process.</dcterms:abstract>
+        <dc:date>2019-05-13</dc:date>
+        <z:shortTitle>Dixit</z:shortTitle>
+        <z:libraryCatalog>arXiv.org</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://arxiv.org/abs/1903.02230</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-06-28 14:40:29</dcterms:dateSubmitted>
+        <dc:description>arXiv: 1903.02230</dc:description>
+        <bib:pages>3531-3535</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_374">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>arXiv Fulltext PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/pdf/1903.02230.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-06-28 14:40:38</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_375">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>arXiv.org Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/abs/1903.02230</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-06-28 14:40:43</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Data rdf:about="https://dominionsimulator.wordpress.com/f-a-q/">
+        <z:itemType>computerProgram</z:itemType>
+        <dc:title>Dominion Simulator</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://dominionsimulator.wordpress.com/f-a-q/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Data>
+    <bib:Data rdf:about="https://github.com/mikemccllstr/dominionstats/">
+        <z:itemType>computerProgram</z:itemType>
+        <dc:title>Dominion Simulator Source Code</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://github.com/mikemccllstr/dominionstats/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Data>
+    <bib:Document rdf:about="http://councilroom.com/openings">
+        <z:itemType>blogPost</z:itemType>
+        <dcterms:isPartOf>
+           <z:Blog></z:Blog>
+        </dcterms:isPartOf>
+        <dc:title>Best and worst openings in Dominion</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://councilroom.com/openings</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Document>
+    <bib:Document rdf:about="http://councilroom.com/optimal_card_ratios">
+        <z:itemType>blogPost</z:itemType>
+        <dcterms:isPartOf>
+           <z:Blog></z:Blog>
+        </dcterms:isPartOf>
+        <dc:title>Optimal Card Ratios in Dominion</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://councilroom.com/optimal_card_ratios</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Document>
+    <bib:Document rdf:about="http://councilroom.com/supply_win">
+        <z:itemType>blogPost</z:itemType>
+        <dcterms:isPartOf>
+           <z:Blog></z:Blog>
+        </dcterms:isPartOf>
+        <dc:title>Card Winning Stats on Dominion Server</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://councilroom.com/supply_win</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Document>
+    <bib:Document rdf:about="http://forum.dominionstrategy.com/index.php">
+        <z:itemType>forumPost</z:itemType>
+        <dcterms:isPartOf>
+           <z:Forum></z:Forum>
+        </dcterms:isPartOf>
+        <dc:title>Dominion Strategy Forum</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://forum.dominionstrategy.com/index.php</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Document>
+    <bib:Article rdf:about="http://arxiv.org/abs/1811.11273">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal><dc:title>arXiv:1811.11273 [cs]</dc:title></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bendekgey</foaf:surname>
+                        <foaf:givenName>Henry</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_384"/>
+        <link:link rdf:resource="#item_385"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Computer Science - Artificial Intelligence</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Clustering Player Strategies from Variable-Length Game Logs in Dominion</dc:title>
+        <dcterms:abstract>We present a method for encoding game logs as numeric features in the card game Dominion. We then run the manifold learning algorithm t-SNE on these encodings to visualize the landscape of player strategies. By quantifying game states as the relative prevalence of cards in a player's deck, we create visualizations that capture qualitative differences in player strategies. Different ways of deviating from the starting game state appear as different rays in the visualization, giving it an intuitive explanation. This is a promising new direction for understanding player strategies across games that vary in length.</dcterms:abstract>
+        <dc:date>2018-12-12</dc:date>
+        <z:libraryCatalog>arXiv.org</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://arxiv.org/abs/1811.11273</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-06-28 14:43:21</dcterms:dateSubmitted>
+        <dc:description>arXiv: 1811.11273</dc:description>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_384">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>arXiv Fulltext PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/pdf/1811.11273.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-06-28 14:43:27</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_385">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>arXiv.org Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/abs/1811.11273</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-06-28 14:43:31</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Data rdf:about="https://github.com/aronsar/hoad">
+        <z:itemType>computerProgram</z:itemType>
+        <dc:title>Hanabi Open Agent Dataset</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://github.com/aronsar/hoad</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Data>
+    <rdf:Description rdf:about="https://dl.acm.org/doi/10.5555/3463952.3464188">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal></bib:Journal>
+        </dcterms:isPartOf>
+        <dc:title>Hanabi Open Agent Dataset</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://dl.acm.org/doi/10.5555/3463952.3464188</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </rdf:Description>
+    <bib:Article rdf:about="http://arxiv.org/abs/2010.02923">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal><dc:title>arXiv:2010.02923 [cs]</dc:title></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gray</foaf:surname>
+                        <foaf:givenName>Jonathan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lerer</foaf:surname>
+                        <foaf:givenName>Adam</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bakhtin</foaf:surname>
+                        <foaf:givenName>Anton</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Brown</foaf:surname>
+                        <foaf:givenName>Noam</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_391"/>
+        <link:link rdf:resource="#item_393"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Computer Science - Artificial Intelligence</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+                <rdf:value>Computer Science - Computer Science and Game Theory</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Computer Science - Machine Learning</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Human-Level Performance in No-Press Diplomacy via Equilibrium Search</dc:title>
+        <dcterms:abstract>Prior AI breakthroughs in complex games have focused on either the purely adversarial or purely cooperative settings. In contrast, Diplomacy is a game of shifting alliances that involves both cooperation and competition. For this reason, Diplomacy has proven to be a formidable research challenge. In this paper we describe an agent for the no-press variant of Diplomacy that combines supervised learning on human data with one-step lookahead search via regret minimization. Regret minimization techniques have been behind previous AI successes in adversarial games, most notably poker, but have not previously been shown to be successful in large-scale games involving cooperation. We show that our agent greatly exceeds the performance of past no-press Diplomacy bots, is unexploitable by expert humans, and ranks in the top 2% of human players when playing anonymous games on a popular Diplomacy website.</dcterms:abstract>
+        <dc:date>2021-05-03</dc:date>
+        <z:libraryCatalog>arXiv.org</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://arxiv.org/abs/2010.02923</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-06-28 15:28:02</dcterms:dateSubmitted>
+        <dc:description>arXiv: 2010.02923</dc:description>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_391">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>arXiv Fulltext PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/pdf/2010.02923.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-06-28 15:28:18</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_393">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>arXiv.org Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/abs/2010.02923</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-06-28 15:28:22</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://arxiv.org/abs/1708.01503">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal><dc:title>arXiv:1708.01503 [math]</dc:title></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Akiyama</foaf:surname>
+                        <foaf:givenName>Rika</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Abe</foaf:surname>
+                        <foaf:givenName>Nozomi</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fujita</foaf:surname>
+                        <foaf:givenName>Hajime</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Inaba</foaf:surname>
+                        <foaf:givenName>Yukie</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hataoka</foaf:surname>
+                        <foaf:givenName>Mari</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ito</foaf:surname>
+                        <foaf:givenName>Shiori</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Seita</foaf:surname>
+                        <foaf:givenName>Satomi</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_392"/>
+        <link:link rdf:resource="#item_394"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>55A20 (Primary), 05A99 (Secondary)</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Mathematics - Combinatorics</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Mathematics - Geometric Topology</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Mathematics - History and Overview</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Maximum genus of the Jenga like configurations</dc:title>
+        <dcterms:abstract>We treat the boundary of the union of blocks in the Jenga game as a surface with a polyhedral structure and consider its genus. We generalize the game and determine the maximum genus of the generalized game.</dcterms:abstract>
+        <dc:date>2018-08-31</dc:date>
+        <z:libraryCatalog>arXiv.org</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://arxiv.org/abs/1708.01503</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-06-28 15:28:12</dcterms:dateSubmitted>
+        <dc:description>arXiv: 1708.01503</dc:description>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_392">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>arXiv Fulltext PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/pdf/1708.01503.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-06-28 15:28:21</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_394">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>arXiv.org Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/abs/1708.01503</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-06-28 15:28:24</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <z:Collection rdf:about="#collection_6">
+        <dc:title>2048</dc:title>
+        <dcterms:hasPart rdf:resource="https://doi.org/10.1109%2Ftciaig.2012.2204883"/>
+        <dcterms:hasPart rdf:resource="https://doi.org/10.1007%2F978-3-319-50935-8_8"/>
+        <dcterms:hasPart rdf:resource="https://doi.org/10.1109%2Ftaai.2016.7880154"/>
+        <dcterms:hasPart rdf:resource="https://doi.org/10.1109%2Fcig.2014.6932920"/>
+        <dcterms:hasPart rdf:resource="http://arxiv.org/abs/1505.04274v1"/>
+        <dcterms:hasPart rdf:resource="http://arxiv.org/abs/1804.07396v1"/>
+        <dcterms:hasPart rdf:resource="http://arxiv.org/abs/1804.07393v2"/>
+        <dcterms:hasPart rdf:resource="http://arxiv.org/abs/1606.07374v2"/>
+        <dcterms:hasPart rdf:resource="http://arxiv.org/abs/1408.6315v1"/>
+    </z:Collection>
     <z:Collection rdf:about="#collection_25">
         <dc:title>Accessibility</dc:title>
         <dcterms:hasPart rdf:resource="http://link.springer.com/10.1007/s40869-018-0057-8"/>
         <dcterms:hasPart rdf:resource="http://link.springer.com/10.1007/s40869-018-0056-9"/>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_41">
+        <dc:title>Azul</dc:title>
+        <dcterms:hasPart rdf:resource="https://old.reddit.com/r/boardgames/comments/hxodaf/update_i_wrote_my_dissertation_on_azul/"/>
+        <dcterms:hasPart rdf:resource="https://ipsj.ixsq.nii.ac.jp/ej/?action=repository_action_common_download&amp;item_id=207669&amp;item_no=1&amp;attribute_id=1&amp;file_no=1"/>
+        <dcterms:hasPart rdf:resource="https://github.com/Swynfel/ceramic"/>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_42">
+        <dc:title>Blokus</dc:title>
+        <dcterms:hasPart rdf:resource="https://digitalcommons.calpoly.edu/cpesp/290/"/>
+        <dcterms:hasPart rdf:resource="urn:isbn:978-1-4799-2198-0%20978-1-4799-2199-7"/>
+        <dcterms:hasPart rdf:resource="urn:isbn:978-1-4799-0565-2%20978-1-4799-0562-1%20978-1-4799-0563-8"/>
     </z:Collection>
     <z:Collection rdf:about="#collection_33">
         <dc:title>Carcassonne</dc:title>
@@ -5045,10 +5809,22 @@ DOI: 10.1007/978-3-319-71649-7_5</dc:description>
         <dcterms:hasPart rdf:resource="http://arxiv.org/abs/1909.02128v2"/>
         <dcterms:hasPart rdf:resource="http://arxiv.org/abs/1902.06996v1"/>
         <dcterms:hasPart rdf:resource="urn:isbn:978-1-4503-8878-8"/>
+        <dcterms:hasPart rdf:resource="http://arxiv.org/abs/2010.02923"/>
     </z:Collection>
     <z:Collection rdf:about="#collection_27">
         <dc:title>Dixit</dc:title>
         <dcterms:hasPart rdf:resource="http://arxiv.org/abs/2010.00048"/>
+        <dcterms:hasPart rdf:resource="http://arxiv.org/abs/1903.02230"/>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_43">
+        <dc:title>Dominion</dc:title>
+        <dcterms:hasPart rdf:resource="https://dominionsimulator.wordpress.com/f-a-q/"/>
+        <dcterms:hasPart rdf:resource="https://github.com/mikemccllstr/dominionstats/"/>
+        <dcterms:hasPart rdf:resource="http://councilroom.com/openings"/>
+        <dcterms:hasPart rdf:resource="http://councilroom.com/optimal_card_ratios"/>
+        <dcterms:hasPart rdf:resource="http://councilroom.com/supply_win"/>
+        <dcterms:hasPart rdf:resource="http://forum.dominionstrategy.com/index.php"/>
+        <dcterms:hasPart rdf:resource="http://arxiv.org/abs/1811.11273"/>
     </z:Collection>
     <z:Collection rdf:about="#collection_5">
         <dc:title>Hanabi</dc:title>
@@ -5075,6 +5851,8 @@ DOI: 10.1007/978-3-319-71649-7_5</dc:description>
         <dcterms:hasPart rdf:resource="https://ieeexplore.ieee.org/document/9140404/"/>
         <dcterms:hasPart rdf:resource="https://ojs.aaai.org/index.php/AIIDE/article/view/7404"/>
         <dcterms:hasPart rdf:resource="http://id.nii.ac.jp/1001/00205046/"/>
+        <dcterms:hasPart rdf:resource="https://github.com/aronsar/hoad"/>
+        <dcterms:hasPart rdf:resource="https://dl.acm.org/doi/10.5555/3463952.3464188"/>
     </z:Collection>
     <z:Collection rdf:about="#collection_26">
         <dc:title>Hive</dc:title>
@@ -5083,12 +5861,17 @@ DOI: 10.1007/978-3-319-71649-7_5</dc:description>
     <z:Collection rdf:about="#collection_24">
         <dc:title>Jenga</dc:title>
         <dcterms:hasPart rdf:resource="https://www.llpjournal.org/2020/04/13/jidokan-jenga.html"/>
+        <dcterms:hasPart rdf:resource="http://arxiv.org/abs/1708.01503"/>
     </z:Collection>
     <z:Collection rdf:about="#collection_9">
         <dc:title>Kingdomino</dc:title>
         <dcterms:hasPart rdf:resource="https://doi.org/10.1109%2Fcig.2018.8490419"/>
         <dcterms:hasPart rdf:resource="http://arxiv.org/abs/1807.04458v2"/>
         <dcterms:hasPart rdf:resource="http://arxiv.org/abs/1909.02849v3"/>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_40">
+        <dc:title>Lost Cities</dc:title>
+        <dcterms:hasPart rdf:resource="https://minds.wisconsin.edu/bitstream/handle/1793/79080/LydeenSpr18.pdf?sequence=1&amp;isAllowed=y"/>
     </z:Collection>
     <z:Collection rdf:about="#collection_16">
         <dc:title>Mafia</dc:title>
@@ -5105,32 +5888,8 @@ DOI: 10.1007/978-3-319-71649-7_5</dc:description>
     </z:Collection>
     <z:Collection rdf:about="#collection_22">
         <dc:title>Mobile Games</dc:title>
-        <dcterms:hasPart rdf:resource="#collection_6"/>
         <dcterms:hasPart rdf:resource="http://arxiv.org/abs/1603.00928v1"/>
         <dcterms:hasPart rdf:resource="http://arxiv.org/abs/1505.04274v1"/>
-    </z:Collection>
-    <z:Collection rdf:about="#collection_6">
-        <dc:title>2048</dc:title>
-        <dcterms:hasPart rdf:resource="https://doi.org/10.1109%2Ftciaig.2012.2204883"/>
-        <dcterms:hasPart rdf:resource="https://doi.org/10.1007%2F978-3-319-50935-8_8"/>
-        <dcterms:hasPart rdf:resource="https://doi.org/10.1109%2Ftaai.2016.7880154"/>
-        <dcterms:hasPart rdf:resource="https://doi.org/10.1109%2Fcig.2014.6932920"/>
-        <dcterms:hasPart rdf:resource="http://arxiv.org/abs/1505.04274v1"/>
-        <dcterms:hasPart rdf:resource="http://arxiv.org/abs/1804.07396v1"/>
-        <dcterms:hasPart rdf:resource="http://arxiv.org/abs/1804.07393v2"/>
-        <dcterms:hasPart rdf:resource="http://arxiv.org/abs/1606.07374v2"/>
-        <dcterms:hasPart rdf:resource="http://arxiv.org/abs/1408.6315v1"/>
-        <rdf:type rdf:resource="http://www.zotero.org/namespaces/export#Collection"/>
-        <dc:title>2048</dc:title>
-        <dcterms:hasPart rdf:resource="https://doi.org/10.1109%2Ftciaig.2012.2204883"/>
-        <dcterms:hasPart rdf:resource="https://doi.org/10.1007%2F978-3-319-50935-8_8"/>
-        <dcterms:hasPart rdf:resource="https://doi.org/10.1109%2Ftaai.2016.7880154"/>
-        <dcterms:hasPart rdf:resource="https://doi.org/10.1109%2Fcig.2014.6932920"/>
-        <dcterms:hasPart rdf:resource="http://arxiv.org/abs/1505.04274v1"/>
-        <dcterms:hasPart rdf:resource="http://arxiv.org/abs/1804.07396v1"/>
-        <dcterms:hasPart rdf:resource="http://arxiv.org/abs/1804.07393v2"/>
-        <dcterms:hasPart rdf:resource="http://arxiv.org/abs/1606.07374v2"/>
-        <dcterms:hasPart rdf:resource="http://arxiv.org/abs/1408.6315v1"/>
     </z:Collection>
     <z:Collection rdf:about="#collection_13">
         <dc:title>Monopoly</dc:title>
@@ -5190,12 +5949,13 @@ DOI: 10.1007/978-3-319-71649-7_5</dc:description>
         <dcterms:hasPart rdf:resource="https://doi.org/10.1007%2F978-3-642-12993-3_3"/>
         <dcterms:hasPart rdf:resource="https://doi.org/10.1007%2F978-3-030-14174-5_16"/>
         <dcterms:hasPart rdf:resource="https://jonzia.github.io/Catan/"/>
-        <dcterms:hasPart rdf:resource="#item_128"/>
+        <dcterms:hasPart rdf:resource="https://escholarship.org/uc/item/9zt506xx"/>
         <dcterms:hasPart rdf:resource="https://www.aaai.org/ocs/index.php/AIIDE/AIIDE18/paper/viewFile/18091/17217"/>
         <dcterms:hasPart rdf:resource="https://izbicki.me/blog/how-to-cheat-at-settlers-of-catan-by-loading-the-dice-and-prove-it-with-p-values.html"/>
         <dcterms:hasPart rdf:resource="https://project.dke.maastrichtuniversity.nl/games/files/bsc/Roelofs_Bsc-paper.pdf"/>
-        <dcterms:hasPart rdf:resource="#item_135"/>
+        <dcterms:hasPart rdf:resource="https://www.researchgate.net/publication/228728063_Reinforcement_learning_of_strategies_for_Settlers_of_Catan"/>
         <dcterms:hasPart rdf:resource="http://arxiv.org/abs/2008.07079"/>
+        <dcterms:hasPart rdf:resource="http://arxiv.org/abs/1511.08099"/>
     </z:Collection>
     <z:Collection rdf:about="#collection_28">
         <dc:title>Shobu</dc:title>

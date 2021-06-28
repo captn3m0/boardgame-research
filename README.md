@@ -19,18 +19,22 @@ If you aren't able to access any paper on this list, please [try using Sci-Hub](
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
+- [2048](#2048)
 - [Accessibility](#accessibility)
+- [Azul](#azul)
+- [Blokus](#blokus)
 - [Carcassonne](#carcassonne)
 - [Diplomacy](#diplomacy)
 - [Dixit](#dixit)
+- [Dominion](#dominion)
 - [Hanabi](#hanabi)
 - [Hive](#hive)
 - [Jenga](#jenga)
 - [Kingdomino](#kingdomino)
+- [Lost Cities](#lost-cities)
 - [Mafia](#mafia)
 - [Magic: The Gathering](#magic-the-gathering)
 - [Mobile Games](#mobile-games)
-- [2048](#2048)
 - [Monopoly](#monopoly)
 - [Monopoly Deal](#monopoly-deal)
 - [Nmbr9](#nmbr9)
@@ -51,9 +55,30 @@ If you aren't able to access any paper on this list, please [try using Sci-Hub](
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
+# 2048
+- [Ensemble Determinization in Monte Carlo Tree Search for the Imperfect Information Card Game Magic: The Gathering](https://doi.org/10.1109%2Ftciaig.2012.2204883) (journalArticle)
+- [Systematic Selection of N-Tuple Networks for 2048](https://doi.org/10.1007%2F978-3-319-50935-8_8) (bookSection)
+- [Systematic selection of N-tuple networks with consideration of interinfluence for game 2048](https://doi.org/10.1109%2Ftaai.2016.7880154) (conferencePaper)
+- [An investigation into 2048 AI strategies](https://doi.org/10.1109%2Fcig.2014.6932920) (conferencePaper)
+- [Threes!, Fives, 1024!, and 2048 are Hard](http://arxiv.org/abs/1505.04274v1) (journalArticle)
+- [Making Change in 2048](http://arxiv.org/abs/1804.07396v1) (journalArticle)
+- [Analysis of the Game "2048" and its Generalization in Higher Dimensions](http://arxiv.org/abs/1804.07393v2) (journalArticle)
+- [Multi-Stage Temporal Difference Learning for 2048-like Games](http://arxiv.org/abs/1606.07374v2) (journalArticle)
+- [2048 is (PSPACE) Hard, but Sometimes Easy](http://arxiv.org/abs/1408.6315v1) (journalArticle)
+
 # Accessibility
 - [Meeple Centred Design: A Heuristic Toolkit for Evaluating the Accessibility of Tabletop Games](http://link.springer.com/10.1007/s40869-018-0057-8) (journalArticle)
 - [Eighteen Months of Meeple Like Us: An Exploration into the State of Board Game Accessibility](http://link.springer.com/10.1007/s40869-018-0056-9) (journalArticle)
+
+# Azul
+- [A summary of a dissertation on Azul](https://old.reddit.com/r/boardgames/comments/hxodaf/update_i_wrote_my_dissertation_on_azul/) (report)
+- [Ceramic: A research environment based on the multi-player strategic board game Azul](https://ipsj.ixsq.nii.ac.jp/ej/?action=repository_action_common_download&item_id=207669&item_no=1&attribute_id=1&file_no=1) (conferencePaper)
+- [Ceramic: A research environment based on the multi-player strategic board game Azul](https://github.com/Swynfel/ceramic) (computerProgram)
+
+# Blokus
+- [Blokus Game Solver](https://digitalcommons.calpoly.edu/cpesp/290/) (report)
+- [FPGA Blokus Duo Solver using a massively parallel architecture](http://ieeexplore.ieee.org/document/6718426/) (conferencePaper)
+- [Blokus Duo game on FPGA](http://ieeexplore.ieee.org/document/6714256/) (conferencePaper)
 
 # Carcassonne
 - [Playing Carcassonne with Monte Carlo Tree Search](http://arxiv.org/abs/2009.12974) (journalArticle)
@@ -63,9 +88,20 @@ If you aren't able to access any paper on this list, please [try using Sci-Hub](
 - [No Press Diplomacy: Modeling Multi-Agent Gameplay](http://arxiv.org/abs/1909.02128v2) (journalArticle)
 - [Agent Madoff: A Heuristic-Based Negotiation Agent For The Diplomacy Strategy Game](http://arxiv.org/abs/1902.06996v1) (journalArticle)
 - [Monte Carlo Tree Search for the Game of Diplomacy](https://dl.acm.org/doi/10.1145/3411408.3411413) (conferencePaper)
+- [Human-Level Performance in No-Press Diplomacy via Equilibrium Search](http://arxiv.org/abs/2010.02923) (journalArticle)
 
 # Dixit
 - [Creative Captioning: An AI Grand Challenge Based on the Dixit Board Game](http://arxiv.org/abs/2010.00048) (journalArticle)
+- [Dixit: Interactive Visual Storytelling via Term Manipulation](http://arxiv.org/abs/1903.02230) (journalArticle)
+
+# Dominion
+- [Dominion Simulator](https://dominionsimulator.wordpress.com/f-a-q/) (computerProgram)
+- [Dominion Simulator Source Code](https://github.com/mikemccllstr/dominionstats/) (computerProgram)
+- [Best and worst openings in Dominion](http://councilroom.com/openings) (blogPost)
+- [Optimal Card Ratios in Dominion](http://councilroom.com/optimal_card_ratios) (blogPost)
+- [Card Winning Stats on Dominion Server](http://councilroom.com/supply_win) (blogPost)
+- [Dominion Strategy Forum](http://forum.dominionstrategy.com/index.php) (forumPost)
+- [Clustering Player Strategies from Variable-Length Game Logs in Dominion](http://arxiv.org/abs/1811.11273) (journalArticle)
 
 # Hanabi
 - [How to Make the Perfect Fireworks Display: Two Strategies forHanabi](https://doi.org/10.4169%2Fmath.mag.88.5.323) (journalArticle)
@@ -91,17 +127,23 @@ If you aren't able to access any paper on this list, please [try using Sci-Hub](
 - [Operationalizing Intentionality to Play Hanabi with Human Players](https://ieeexplore.ieee.org/document/9140404/) (journalArticle)
 - [Behavioral Evaluation of Hanabi Rainbow DQN Agents and Rule-Based Agents](https://ojs.aaai.org/index.php/AIIDE/article/view/7404) (journalArticle)
 - [Playing mini-Hanabi card game with Q-learning](http://id.nii.ac.jp/1001/00205046/) (conferencePaper)
+- [Hanabi Open Agent Dataset](https://github.com/aronsar/hoad) (computerProgram)
+- [Hanabi Open Agent Dataset](https://dl.acm.org/doi/10.5555/3463952.3464188) (conferencePaper)
 
 # Hive
 - [On the complexity of Hive](https://dspace.library.uu.nl/handle/1874/396955) (thesis)
 
 # Jenga
 - [Jidoukan Jenga: Teaching English through remixing games and game rules](https://www.llpjournal.org/2020/04/13/jidokan-jenga.html) (journalArticle)
+- [Maximum genus of the Jenga like configurations](http://arxiv.org/abs/1708.01503) (journalArticle)
 
 # Kingdomino
 - [Monte Carlo Methods for the Game Kingdomino](https://doi.org/10.1109%2Fcig.2018.8490419) (conferencePaper)
 - [Monte Carlo Methods for the Game Kingdomino](http://arxiv.org/abs/1807.04458v2) (journalArticle)
 - [NP-completeness of the game Kingdomino](http://arxiv.org/abs/1909.02849v3) (journalArticle)
+
+# Lost Cities
+- [Applying Neural Networks and Genetic Programming to the Game Lost Cities](https://minds.wisconsin.edu/bitstream/handle/1793/79080/LydeenSpr18.pdf?sequence=1&isAllowed=y) (conferencePaper)
 
 # Mafia
 - [A mathematical model of the Mafia game](http://arxiv.org/abs/1009.1031v3) (journalArticle)
@@ -115,29 +157,8 @@ If you aren't able to access any paper on this list, please [try using Sci-Hub](
 - [Neural Networks Models for Analyzing Magic: the Gathering Cards](http://arxiv.org/abs/1810.03744v1) (journalArticle)
 
 # Mobile Games
-- [2048]() ()
 - [Trainyard is NP-Hard](http://arxiv.org/abs/1603.00928v1) (journalArticle)
 - [Threes!, Fives, 1024!, and 2048 are Hard](http://arxiv.org/abs/1505.04274v1) (journalArticle)
-
-# 2048
-- [Ensemble Determinization in Monte Carlo Tree Search for the Imperfect Information Card Game Magic: The Gathering](https://doi.org/10.1109%2Ftciaig.2012.2204883) (journalArticle)
-- [Systematic Selection of N-Tuple Networks for 2048](https://doi.org/10.1007%2F978-3-319-50935-8_8) (bookSection)
-- [Systematic selection of N-tuple networks with consideration of interinfluence for game 2048](https://doi.org/10.1109%2Ftaai.2016.7880154) (conferencePaper)
-- [An investigation into 2048 AI strategies](https://doi.org/10.1109%2Fcig.2014.6932920) (conferencePaper)
-- [Threes!, Fives, 1024!, and 2048 are Hard](http://arxiv.org/abs/1505.04274v1) (journalArticle)
-- [Making Change in 2048](http://arxiv.org/abs/1804.07396v1) (journalArticle)
-- [Analysis of the Game "2048" and its Generalization in Higher Dimensions](http://arxiv.org/abs/1804.07393v2) (journalArticle)
-- [Multi-Stage Temporal Difference Learning for 2048-like Games](http://arxiv.org/abs/1606.07374v2) (journalArticle)
-- [2048 is (PSPACE) Hard, but Sometimes Easy](http://arxiv.org/abs/1408.6315v1) (journalArticle)
-- [Ensemble Determinization in Monte Carlo Tree Search for the Imperfect Information Card Game Magic: The Gathering](https://doi.org/10.1109%2Ftciaig.2012.2204883) (journalArticle)
-- [Systematic Selection of N-Tuple Networks for 2048](https://doi.org/10.1007%2F978-3-319-50935-8_8) (bookSection)
-- [Systematic selection of N-tuple networks with consideration of interinfluence for game 2048](https://doi.org/10.1109%2Ftaai.2016.7880154) (conferencePaper)
-- [An investigation into 2048 AI strategies](https://doi.org/10.1109%2Fcig.2014.6932920) (conferencePaper)
-- [Threes!, Fives, 1024!, and 2048 are Hard](http://arxiv.org/abs/1505.04274v1) (journalArticle)
-- [Making Change in 2048](http://arxiv.org/abs/1804.07396v1) (journalArticle)
-- [Analysis of the Game "2048" and its Generalization in Higher Dimensions](http://arxiv.org/abs/1804.07393v2) (journalArticle)
-- [Multi-Stage Temporal Difference Learning for 2048-like Games](http://arxiv.org/abs/1606.07374v2) (journalArticle)
-- [2048 is (PSPACE) Hard, but Sometimes Easy](http://arxiv.org/abs/1408.6315v1) (journalArticle)
 
 # Monopoly
 - [Monopoly as a Markov Process](https://doi.org/10.1080%2F0025570x.1972.11976187) (journalArticle)
@@ -187,12 +208,13 @@ If you aren't able to access any paper on this list, please [try using Sci-Hub](
 - [Monte-Carlo Tree Search in Settlers of Catan](https://doi.org/10.1007%2F978-3-642-12993-3_3) (bookSection)
 - [Deep Reinforcement Learning in Strategic Board Game Environments](https://doi.org/10.1007%2F978-3-030-14174-5_16) (bookSection)
 - [Settlers of Catan bot trained using reinforcement learning](https://jonzia.github.io/Catan/) (computerProgram)
-- [Trading in a multiplayer board game: Towards an analysis of non-cooperative dialogue]() (conferencePaper)
+- [Trading in a multiplayer board game: Towards an analysis of non-cooperative dialogue](https://escholarship.org/uc/item/9zt506xx) (conferencePaper)
 - [POMCP with Human Preferencesin Settlers of Catan](https://www.aaai.org/ocs/index.php/AIIDE/AIIDE18/paper/viewFile/18091/17217) (journalArticle)
 - [The impact of loaded dice in Catan](https://izbicki.me/blog/how-to-cheat-at-settlers-of-catan-by-loading-the-dice-and-prove-it-with-p-values.html) (blogPost)
 - [Monte Carlo Tree Search in a Modern Board Game Framework](https://project.dke.maastrichtuniversity.nl/games/files/bsc/Roelofs_Bsc-paper.pdf) (journalArticle)
-- [Reinforcement Learning of Strategies for Settlers of Catan]() (book)
+- [Reinforcement Learning of Strategies for Settlers of Catan](https://www.researchgate.net/publication/228728063_Reinforcement_learning_of_strategies_for_Settlers_of_Catan) (conferencePaper)
 - [Playing Catan with Cross-dimensional Neural Network](http://arxiv.org/abs/2008.07079) (journalArticle)
+- [Strategic Dialogue Management via Deep Reinforcement Learning](http://arxiv.org/abs/1511.08099) (journalArticle)
 
 # Shobu
 - [Shobu AI Playground](https://github.com/JayWalker512/Shobu) (computerProgram)
