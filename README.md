@@ -1,4 +1,4 @@
-# boardgame-research  [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+# boardgame-research  [![Contributions Welcome](https://img.shields.io/badge/Contributions-welcome-brightgreen.svg)](https://github.com/captn3m0/boardgame-research/issues/new/choose)
 
 This is a list of boardgame research. They are primarily related to "solving/playing/learning" games (by various different approaches), or
 occasionaly about designing or meta-aspects of the game. This doesn't cover all aspects of each game (notably missing social-science stuff), but
