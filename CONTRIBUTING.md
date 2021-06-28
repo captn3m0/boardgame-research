@@ -9,5 +9,5 @@ Please note we have a code of conduct, please follow it in all your interactions
 
 ### How to make a submission
 
-You can send us a link by [creating a new issue](https://github.com/captn3m0/boardgame-research/issues/new) on GitHub
+You can send us a link by [creating a new issue](https://github.com/captn3m0/boardgame-research/issues/new/choose) on GitHub
 or [sending me an email](https://captnemo.in/contact/) with the details.
