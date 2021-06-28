@@ -1,0 +1,32 @@
+name: Submit an arXiV URL
+description: You have an arXiV URL for a research item
+title: "[Submission/arXiV]: "
+labels: [submission]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to make a submission.
+  - type: input
+    id: url
+    attributes:
+      label: URL
+      description: Please provide an arXiV URL
+      placeholder: https://arxiv.org/abs/2102.12627
+    validations:
+      required: true
+  - type: input
+    id: game
+    attributes:
+      label: Game
+      description: What game is this for?
+    validations:
+      required: true
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: Code of Conduct
+      description: By submitting this issue, you agree to follow our [Code of Conduct](https://github.com/captn3m0/boardgame-research/blob/master/CONTRIBUTING.md)
+      options:
+        - label: I agree to follow this project's Code of Conduct
+          required: true
