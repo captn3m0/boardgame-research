@@ -7573,6 +7573,246 @@ guaranteed decent high score. The algorithm got a lowest score of 79 and a
         <z:linkMode>1</z:linkMode>
         <link:type>application/pdf</link:type>
     </z:Attachment>
+    <bib:Article rdf:about="http://arxiv.org/abs/1910.04376">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal><dc:title>arXiv:1910.04376 [cs]</dc:title></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zha</foaf:surname>
+                        <foaf:givenName>Daochen</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lai</foaf:surname>
+                        <foaf:givenName>Kwei-Herng</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cao</foaf:surname>
+                        <foaf:givenName>Yuanpu</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Huang</foaf:surname>
+                        <foaf:givenName>Songyi</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wei</foaf:surname>
+                        <foaf:givenName>Ruzhe</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Guo</foaf:surname>
+                        <foaf:givenName>Junyu</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hu</foaf:surname>
+                        <foaf:givenName>Xia</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_489"/>
+        <link:link rdf:resource="#item_492"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Computer Science - Artificial Intelligence</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>RLCard: A Toolkit for Reinforcement Learning in Card Games</dc:title>
+        <dcterms:abstract>RLCard is an open-source toolkit for reinforcement learning research in card games. It supports various card environments with easy-to-use interfaces, including Blackjack, Leduc Hold'em, Texas Hold'em, UNO, Dou Dizhu and Mahjong. The goal of RLCard is to bridge reinforcement learning and imperfect information games, and push forward the research of reinforcement learning in domains with multiple agents, large state and action space, and sparse reward. In this paper, we provide an overview of the key components in RLCard, a discussion of the design principles, a brief introduction of the interfaces, and comprehensive evaluations of the environments. The codes and documents are available at https://github.com/datamllab/rlcard</dcterms:abstract>
+        <dc:date>2020-02-14</dc:date>
+        <z:shortTitle>RLCard</z:shortTitle>
+        <z:libraryCatalog>arXiv.org</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://arxiv.org/abs/1910.04376</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-07-24 08:40:55</dcterms:dateSubmitted>
+        <dc:description>arXiv: 1910.04376</dc:description>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_489">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>arXiv Fulltext PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/pdf/1910.04376.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-07-24 08:40:59</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_492">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>arXiv.org Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/abs/1910.04376</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-07-24 08:41:03</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://arxiv.org/abs/2009.12065">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal><dc:title>arXiv:2009.12065 [cs]</dc:title></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gaina</foaf:surname>
+                        <foaf:givenName>Raluca D.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Balla</foaf:surname>
+                        <foaf:givenName>Martin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dockhorn</foaf:surname>
+                        <foaf:givenName>Alexander</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Montoliu</foaf:surname>
+                        <foaf:givenName>Raul</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Perez-Liebana</foaf:surname>
+                        <foaf:givenName>Diego</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_493"/>
+        <link:link rdf:resource="#item_494"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Computer Science - Artificial Intelligence</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Design and Implementation of TAG: A Tabletop Games Framework</dc:title>
+        <dcterms:abstract>This document describes the design and implementation of the Tabletop Games framework (TAG), a Java-based benchmark for developing modern board games for AI research. TAG provides a common skeleton for implementing tabletop games based on a common API for AI agents, a set of components and classes to easily add new games and an import module for defining data in JSON format. At present, this platform includes the implementation of seven different tabletop games that can also be used as an example for further developments. Additionally, TAG also incorporates logging functionality that allows the user to perform a detailed analysis of the game, in terms of action space, branching factor, hidden information, and other measures of interest for Game AI research. The objective of this document is to serve as a central point where the framework can be described at length. TAG can be downloaded at: https://github.com/GAIGResearch/TabletopGames</dcterms:abstract>
+        <dc:date>2020-09-25</dc:date>
+        <z:shortTitle>Design and Implementation of TAG</z:shortTitle>
+        <z:libraryCatalog>arXiv.org</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://arxiv.org/abs/2009.12065</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-07-24 08:41:01</dcterms:dateSubmitted>
+        <dc:description>arXiv: 2009.12065</dc:description>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_493">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>arXiv Fulltext PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/pdf/2009.12065.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-07-24 08:41:07</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_494">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>arXiv.org Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/abs/2009.12065</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-07-24 08:41:11</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Data rdf:about="https://github.com/AdamStelmaszczyk/gtsa">
+        <z:itemType>computerProgram</z:itemType>
+        <z:programmers>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Adam Stelmaszczyk</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:programmers>
+        <dc:title>Game Tree Search Algorithms - C++ library for AI bot programming.</dc:title>
+        <dc:date>2015</dc:date>
+        <z:shortTitle>Game Tree Search Algorithms</z:shortTitle>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://github.com/AdamStelmaszczyk/gtsa</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <z:programmingLanguage>C++</z:programmingLanguage>
+    </bib:Data>
+    <bib:Data rdf:about="https://github.com/GAIGResearch/TabletopGames">
+        <z:itemType>computerProgram</z:itemType>
+        <z:programmers>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Raluca D. Gaina</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Martin Balla</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Alexander Dockhorn</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Raul Montoliu</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Diego Perez-Liebana</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:programmers>
+        <dc:title>TAG: Tabletop Games Framework</dc:title>
+        <dcterms:abstract>The Tabletop Games Framework (TAG) is a Java-based benchmark for developing modern board games for AI research. TAG provides a common skeleton for implementing tabletop games based on a common API for AI agents, a set of components and classes to easily add new games and an import module for defining data in JSON format. At present, this platform includes the implementation of seven different tabletop games that can also be used as an example for further developments. Additionally, TAG also incorporates logging functionality that allows the user to perform a detailed analysis of the game, in terms of action space, branching factor, hidden information, and other measures of interest for Game AI research.</dcterms:abstract>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://github.com/GAIGResearch/TabletopGames</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:rights>MIT License</dc:rights>
+        <z:programmingLanguage>Java</z:programmingLanguage>
+    </bib:Data>
     <z:Collection rdf:about="#collection_6">
         <dc:title>2048</dc:title>
         <dcterms:hasPart rdf:resource="https://doi.org/10.1007%2F978-3-319-50935-8_8"/>
@@ -7630,6 +7870,13 @@ guaranteed decent high score. The algorithm got a lowest score of 79 and a
         <dcterms:hasPart rdf:resource="http://councilroom.com/supply_win"/>
         <dcterms:hasPart rdf:resource="http://forum.dominionstrategy.com/index.php"/>
         <dcterms:hasPart rdf:resource="http://arxiv.org/abs/1811.11273"/>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_51">
+        <dc:title>Frameworks</dc:title>
+        <dcterms:hasPart rdf:resource="http://arxiv.org/abs/1910.04376"/>
+        <dcterms:hasPart rdf:resource="http://arxiv.org/abs/2009.12065"/>
+        <dcterms:hasPart rdf:resource="https://github.com/AdamStelmaszczyk/gtsa"/>
+        <dcterms:hasPart rdf:resource="https://github.com/GAIGResearch/TabletopGames"/>
     </z:Collection>
     <z:Collection rdf:about="#collection_50">
         <dc:title>Game Design</dc:title>

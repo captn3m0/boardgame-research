@@ -27,6 +27,7 @@ If you aren't able to access any paper on this list, please [try using Sci-Hub](
 - [Diplomacy](#diplomacy)
 - [Dixit](#dixit)
 - [Dominion](#dominion)
+- [Frameworks](#frameworks)
 - [Game Design](#game-design)
 - [Hanabi](#hanabi)
 - [Hive](#hive)
@@ -111,6 +112,12 @@ If you aren't able to access any paper on this list, please [try using Sci-Hub](
 - [Card Winning Stats on Dominion Server](http://councilroom.com/supply_win) (blogPost)
 - [Dominion Strategy Forum](http://forum.dominionstrategy.com/index.php) (forumPost)
 - [Clustering Player Strategies from Variable-Length Game Logs in Dominion](http://arxiv.org/abs/1811.11273) (journalArticle)
+
+# Frameworks
+- [RLCard: A Toolkit for Reinforcement Learning in Card Games](http://arxiv.org/abs/1910.04376) (journalArticle)
+- [Design and Implementation of TAG: A Tabletop Games Framework](http://arxiv.org/abs/2009.12065) (journalArticle)
+- [Game Tree Search Algorithms - C++ library for AI bot programming.](https://github.com/AdamStelmaszczyk/gtsa) (computerProgram)
+- [TAG: Tabletop Games Framework](https://github.com/GAIGResearch/TabletopGames) (computerProgram)
 
 # Game Design
 - [MDA: A Formal Approach to Game Design and Game Research](https://aaai.org/Library/Workshops/2004/ws04-04-001.php) (conferencePaper)
