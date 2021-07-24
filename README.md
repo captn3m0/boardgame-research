@@ -282,9 +282,9 @@ If you aren't able to access any paper on this list, please [try using Sci-Hub](
 # Ticket to Ride
 - [AI-based playtesting of contemporary board games](http://dl.acm.org/citation.cfm?doid=3102071.3102105) (conferencePaper)
 - [Materials for Ticket to Ride Seattle and a framework for making more game boards](https://github.com/dovinmu/ttr_generator) (computerProgram)
-- [https://www.eecs.tufts.edu/~jsinapov/teaching/comp150_RL/reports/Nguyen_Dinjian_report.pdf](https://www.eecs.tufts.edu/~jsinapov/teaching/comp150_RL/reports/Nguyen_Dinjian_report.pdf) (report)
+- [The Difficulty of Learning Ticket to Ride](https://www.eecs.tufts.edu/~jsinapov/teaching/comp150_RL/reports/Nguyen_Dinjian_report.pdf) (report)
 - [Evolving maps and decks for ticket to ride](https://dl.acm.org/doi/10.1145/3235765.3235813) (conferencePaper)
-- [Applications of Graph Theory andProbability in the Board GameTicket toRide](https://www.rtealwitter.com/slides/2020-JMM.pdf) (presentation)
+- [Applications of Graph Theory and Probability in the Board Game Ticket to Ride](https://www.rtealwitter.com/slides/2020-JMM.pdf) (presentation)
 
 # Ultimate Tic-Tac-Toe
 - [At Most 43 Moves, At Least 29: Optimal Strategies and Bounds for Ultimate Tic-Tac-Toe](http://arxiv.org/abs/2006.02353) (journalArticle)

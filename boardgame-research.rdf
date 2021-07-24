@@ -4212,7 +4212,8 @@ DOI: 10.1007/978-3-319-71649-7_5</dc:description>
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:title>https://www.eecs.tufts.edu/~jsinapov/teaching/comp150_RL/reports/Nguyen_Dinjian_report.pdf</dc:title>
+        <link:link rdf:resource="#item_474"/>
+        <dc:title>The Difficulty of Learning Ticket to Ride</dc:title>
         <dcterms:abstract>Ticket to Ride is a very popular, award-winning board-game where you try toscore the most points while building a railway spanning cities in America.  For acomputer to learn to play this game is very difficult due to the vast state-actionspace.  This project will explain why featurizing your state, and implementingcurriculum learning can help agents learn as state-action spaces grow too largefor traditional learning methods to be effective.</dcterms:abstract>
         <dc:identifier>
             <dcterms:URI>
@@ -4220,6 +4221,18 @@ DOI: 10.1007/978-3-319-71649-7_5</dc:description>
             </dcterms:URI>
         </dc:identifier>
     </bib:Report>
+    <z:Attachment rdf:about="#item_474">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.eecs.tufts.edu/~jsinapov/teaching/comp150_RL/reports/Nguyen_Dinjian_report.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-07-24 08:19:13</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
     <rdf:Description rdf:about="urn:isbn:978-1-4503-6571-0">
         <z:itemType>conferencePaper</z:itemType>
         <dcterms:isPartOf>
@@ -4297,31 +4310,6 @@ DOI: 10.1007/978-3-319-71649-7_5</dc:description>
         <z:linkMode>1</z:linkMode>
         <link:type>application/pdf</link:type>
     </z:Attachment>
-    <bib:ConferenceProceedings rdf:about="https://www.rtealwitter.com/slides/2020-JMM.pdf">
-        <z:itemType>presentation</z:itemType>
-        <z:presenters>
-            <rdf:Seq>
-                <rdf:li>
-                    <foaf:Person>
-                        <foaf:surname>Witter</foaf:surname>
-                        <foaf:givenName>R. Teal</foaf:givenName>
-                    </foaf:Person>
-                </rdf:li>
-                <rdf:li>
-                    <foaf:Person>
-                        <foaf:surname>Lyford</foaf:surname>
-                        <foaf:givenName>Alex</foaf:givenName>
-                    </foaf:Person>
-                </rdf:li>
-            </rdf:Seq>
-        </z:presenters>
-        <dc:title>Applications of Graph Theory andProbability in the Board GameTicket toRide</dc:title>
-        <dc:identifier>
-            <dcterms:URI>
-                <rdf:value>https://www.rtealwitter.com/slides/2020-JMM.pdf</rdf:value>
-            </dcterms:URI>
-        </dc:identifier>
-    </bib:ConferenceProceedings>
     <bib:Article rdf:about="http://arxiv.org/abs/2008.07079">
         <z:itemType>journalArticle</z:itemType>
         <dcterms:isPartOf>
@@ -7407,6 +7395,52 @@ guaranteed decent high score. The algorithm got a lowest score of 79 and a
             </dcterms:URI>
         </dc:identifier>
     </bib:Report>
+    <bib:ConferenceProceedings rdf:about="https://www.rtealwitter.com/slides/2020-JMM.pdf">
+        <z:itemType>presentation</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Middlebury College</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+            </foaf:Organization>
+        </dc:publisher>
+        <z:presenters>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>R. Teal Witter</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Alex Lyford</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:presenters>
+        <link:link rdf:resource="#item_473"/>
+        <dc:title>Applications of Graph Theory and Probability in the Board Game Ticket to Ride</dc:title>
+        <dc:date>January 16, 2020</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.rtealwitter.com/slides/2020-JMM.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:ConferenceProceedings>
+    <z:Attachment rdf:about="#item_473">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.rtealwitter.com/slides/2020-JMM.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-07-24 08:18:37</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
     <z:Collection rdf:about="#collection_6">
         <dc:title>2048</dc:title>
         <dcterms:hasPart rdf:resource="https://doi.org/10.1007%2F978-3-319-50935-8_8"/>
