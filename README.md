@@ -254,7 +254,6 @@ If you aren't able to access any paper on this list, please [try using Sci-Hub](
 - [The Joy of SET](https://doi.org/10.1080%2F00029890.2018.1412661) (journalArticle)
 
 # Settlers of Catan
-- [The effectiveness of persuasion in The Settlers of Catan](http://ieeexplore.ieee.org/document/6932861/) (conferencePaper)
 - [The effectiveness of persuasion in The Settlers of Catan](https://doi.org/10.1109%2Fcig.2014.6932861) (conferencePaper)
 - [Avoiding Revenge Using Optimal Opponent Ranking Strategy in the Board Game Catan](https://doi.org/10.4018%2Fijgcms.2018040103) (journalArticle)
 - [Game strategies for The Settlers of Catan](https://doi.org/10.1109%2Fcig.2014.6932884) (conferencePaper)
@@ -267,6 +266,7 @@ If you aren't able to access any paper on this list, please [try using Sci-Hub](
 - [Monte Carlo Tree Search in a Modern Board Game Framework](https://project.dke.maastrichtuniversity.nl/games/files/bsc/Roelofs_Bsc-paper.pdf) (journalArticle)
 - [Reinforcement Learning of Strategies for Settlers of Catan](https://www.researchgate.net/publication/228728063_Reinforcement_learning_of_strategies_for_Settlers_of_Catan) (conferencePaper)
 - [Playing Catan with Cross-dimensional Neural Network](http://arxiv.org/abs/2008.07079) (journalArticle)
+- [Strategic Dialogue Management via Deep Reinforcement Learning](http://arxiv.org/abs/1511.08099) (journalArticle)
 - [Strategic Dialogue Management via Deep Reinforcement Learning](http://arxiv.org/abs/1511.08099) (journalArticle)
 
 # Shobu

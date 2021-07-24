@@ -4,87 +4,10 @@
  xmlns:dcterms="http://purl.org/dc/terms/"
  xmlns:dc="http://purl.org/dc/elements/1.1/"
  xmlns:bib="http://purl.org/net/biblio#"
- xmlns:vcard="http://nwalsh.com/rdf/vCard#"
  xmlns:foaf="http://xmlns.com/foaf/0.1/"
  xmlns:link="http://purl.org/rss/1.0/modules/link/"
- xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/">
-    <rdf:Description rdf:about="urn:isbn:978-1-4799-3547-5">
-        <z:itemType>conferencePaper</z:itemType>
-        <dcterms:isPartOf>
-            <bib:Journal>
-                <dc:identifier>ISBN 978-1-4799-3547-5</dc:identifier>
-                <dc:title>2014 IEEE Conference on Computational Intelligence and Games</dc:title>
-                <dc:identifier>DOI 10.1109/CIG.2014.6932861</dc:identifier>
-            </bib:Journal>
-        </dcterms:isPartOf>
-        <dc:publisher>
-            <foaf:Organization>
-                <vcard:adr>
-                    <vcard:Address>
-                       <vcard:locality>Dortmund, Germany</vcard:locality>
-                    </vcard:Address>
-                </vcard:adr>
-                <foaf:name>IEEE</foaf:name>
-            </foaf:Organization>
-        </dc:publisher>
-        <bib:authors>
-            <rdf:Seq>
-                <rdf:li>
-                    <foaf:Person>
-                        <foaf:surname>Guhe</foaf:surname>
-                        <foaf:givenName>Markus</foaf:givenName>
-                    </foaf:Person>
-                </rdf:li>
-                <rdf:li>
-                    <foaf:Person>
-                        <foaf:surname>Lascarides</foaf:surname>
-                        <foaf:givenName>Alex</foaf:givenName>
-                    </foaf:Person>
-                </rdf:li>
-            </rdf:Seq>
-        </bib:authors>
-        <link:link rdf:resource="#item_2"/>
-        <link:link rdf:resource="#item_3"/>
-        <dc:title>The effectiveness of persuasion in The Settlers of Catan</dc:title>
-        <dc:date>8/2014</dc:date>
-        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
-        <dc:identifier>
-            <dcterms:URI>
-               <rdf:value>http://ieeexplore.ieee.org/document/6932861/</rdf:value>
-            </dcterms:URI>
-        </dc:identifier>
-        <dcterms:dateSubmitted>2020-07-20 18:00:29</dcterms:dateSubmitted>
-        <bib:pages>1-8</bib:pages>
-        <bib:presentedAt>
-            <bib:Conference>
-                <dc:title>2014 IEEE Conference on Computational Intelligence and Games (CIG)</dc:title>
-            </bib:Conference>
-        </bib:presentedAt>
-    </rdf:Description>
-    <z:Attachment rdf:about="#item_2">
-        <z:itemType>attachment</z:itemType>
-        <dc:title>Submitted Version</dc:title>
-        <dc:identifier>
-            <dcterms:URI>
-                <rdf:value>https://www.pure.ed.ac.uk/ws/files/19353900/CIG2014.pdf</rdf:value>
-            </dcterms:URI>
-        </dc:identifier>
-        <dcterms:dateSubmitted>2020-07-20 18:01:02</dcterms:dateSubmitted>
-        <z:linkMode>1</z:linkMode>
-        <link:type>application/pdf</link:type>
-    </z:Attachment>
-    <z:Attachment rdf:about="#item_3">
-        <z:itemType>attachment</z:itemType>
-        <dc:title>Submitted Version</dc:title>
-        <dc:identifier>
-            <dcterms:URI>
-                <rdf:value>https://www.pure.ed.ac.uk/ws/files/19353900/CIG2014.pdf</rdf:value>
-            </dcterms:URI>
-        </dc:identifier>
-        <dcterms:dateSubmitted>2020-07-20 18:01:16</dcterms:dateSubmitted>
-        <z:linkMode>1</z:linkMode>
-        <link:type>application/pdf</link:type>
-    </z:Attachment>
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/"
+ xmlns:vcard="http://nwalsh.com/rdf/vCard#">
     <rdf:Description rdf:about="https://doi.org/10.1109%2Fcig.2014.6932861">
         <z:itemType>conferencePaper</z:itemType>
         <dcterms:isPartOf>
@@ -6794,7 +6717,7 @@ DOI: 10.1007/978-3-030-04179-3_20</dc:description>
             </dcterms:URI>
         </dc:identifier>
     </bib:Report>
-    <rdf:Description rdf:about="http://ieeexplore.ieee.org/document/6932907/">
+    <rdf:Description rdf:about="urn:isbn:978-1-4799-3547-5">
         <z:itemType>conferencePaper</z:itemType>
         <dcterms:isPartOf>
             <bib:Journal>
@@ -7441,6 +7364,81 @@ guaranteed decent high score. The algorithm got a lowest score of 79 and a
         <z:linkMode>1</z:linkMode>
         <link:type>application/pdf</link:type>
     </z:Attachment>
+    <bib:Article rdf:about="#item_476">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal><dc:title>arXiv:1511.08099 [cs]</dc:title></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cuayáhuitl</foaf:surname>
+                        <foaf:givenName>Heriberto</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Keizer</foaf:surname>
+                        <foaf:givenName>Simon</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lemon</foaf:surname>
+                        <foaf:givenName>Oliver</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_478"/>
+        <link:link rdf:resource="#item_479"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Computer Science - Artificial Intelligence</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Computer Science - Machine Learning</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Strategic Dialogue Management via Deep Reinforcement Learning</dc:title>
+        <dcterms:abstract>Artificially intelligent agents equipped with strategic skills that can negotiate during their interactions with other natural or artificial agents are still underdeveloped. This paper describes a successful application of Deep Reinforcement Learning (DRL) for training intelligent agents with strategic conversational skills, in a situated dialogue setting. Previous studies have modelled the behaviour of strategic agents using supervised learning and traditional reinforcement learning techniques, the latter using tabular representations or learning with linear function approximation. In this study, we apply DRL with a high-dimensional state space to the strategic board game of Settlers of Catan---where players can offer resources in exchange for others and they can also reply to offers made by other players. Our experimental results report that the DRL-based learnt policies significantly outperformed several baselines including random, rule-based, and supervised-based behaviours. The DRL-based policy has a 53% win rate versus 3 automated players (`bots'), whereas a supervised player trained on a dialogue corpus in this setting achieved only 27%, versus the same 3 bots. This result supports the claim that DRL is a promising framework for training dialogue systems, and strategic agents with negotiation abilities.</dcterms:abstract>
+        <dc:date>2015-11-25</dc:date>
+        <z:libraryCatalog>arXiv.org</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://arxiv.org/abs/1511.08099</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-07-24 08:23:51</dcterms:dateSubmitted>
+        <dc:description>arXiv: 1511.08099</dc:description>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_478">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>arXiv Fulltext PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/pdf/1511.08099.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-07-24 08:23:57</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_479">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>arXiv.org Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/abs/1511.08099</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-07-24 08:24:01</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
     <z:Collection rdf:about="#collection_6">
         <dc:title>2048</dc:title>
         <dcterms:hasPart rdf:resource="https://doi.org/10.1007%2F978-3-319-50935-8_8"/>
@@ -7451,7 +7449,7 @@ guaranteed decent high score. The algorithm got a lowest score of 79 and a
         <dcterms:hasPart rdf:resource="http://arxiv.org/abs/1804.07393v2"/>
         <dcterms:hasPart rdf:resource="http://arxiv.org/abs/1606.07374v2"/>
         <dcterms:hasPart rdf:resource="http://arxiv.org/abs/1408.6315v1"/>
-        <dcterms:hasPart rdf:resource="http://ieeexplore.ieee.org/document/6932907/"/>
+        <dcterms:hasPart rdf:resource="urn:isbn:978-1-4799-3547-5"/>
         <dcterms:hasPart rdf:resource="http://arxiv.org/abs/1501.03837"/>
         <dcterms:hasPart rdf:resource="http://drops.dagstuhl.de/opus/volltexte/2016/5885/"/>
     </z:Collection>
@@ -7666,7 +7664,6 @@ guaranteed decent high score. The algorithm got a lowest score of 79 and a
     </z:Collection>
     <z:Collection rdf:about="#collection_4">
         <dc:title>Settlers of Catan</dc:title>
-        <dcterms:hasPart rdf:resource="urn:isbn:978-1-4799-3547-5"/>
         <dcterms:hasPart rdf:resource="https://doi.org/10.1109%2Fcig.2014.6932861"/>
         <dcterms:hasPart rdf:resource="https://doi.org/10.4018%2Fijgcms.2018040103"/>
         <dcterms:hasPart rdf:resource="https://doi.org/10.1109%2Fcig.2014.6932884"/>
@@ -7680,6 +7677,7 @@ guaranteed decent high score. The algorithm got a lowest score of 79 and a
         <dcterms:hasPart rdf:resource="https://www.researchgate.net/publication/228728063_Reinforcement_learning_of_strategies_for_Settlers_of_Catan"/>
         <dcterms:hasPart rdf:resource="http://arxiv.org/abs/2008.07079"/>
         <dcterms:hasPart rdf:resource="http://arxiv.org/abs/1511.08099"/>
+        <dcterms:hasPart rdf:resource="#item_476"/>
     </z:Collection>
     <z:Collection rdf:about="#collection_28">
         <dc:title>Shobu</dc:title>
