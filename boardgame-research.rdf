@@ -4,87 +4,10 @@
  xmlns:dcterms="http://purl.org/dc/terms/"
  xmlns:dc="http://purl.org/dc/elements/1.1/"
  xmlns:bib="http://purl.org/net/biblio#"
- xmlns:vcard="http://nwalsh.com/rdf/vCard#"
  xmlns:foaf="http://xmlns.com/foaf/0.1/"
  xmlns:link="http://purl.org/rss/1.0/modules/link/"
- xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/">
-    <rdf:Description rdf:about="urn:isbn:978-1-4799-3547-5">
-        <z:itemType>conferencePaper</z:itemType>
-        <dcterms:isPartOf>
-            <bib:Journal>
-                <dc:identifier>ISBN 978-1-4799-3547-5</dc:identifier>
-                <dc:title>2014 IEEE Conference on Computational Intelligence and Games</dc:title>
-                <dc:identifier>DOI 10.1109/CIG.2014.6932861</dc:identifier>
-            </bib:Journal>
-        </dcterms:isPartOf>
-        <dc:publisher>
-            <foaf:Organization>
-                <vcard:adr>
-                    <vcard:Address>
-                       <vcard:locality>Dortmund, Germany</vcard:locality>
-                    </vcard:Address>
-                </vcard:adr>
-                <foaf:name>IEEE</foaf:name>
-            </foaf:Organization>
-        </dc:publisher>
-        <bib:authors>
-            <rdf:Seq>
-                <rdf:li>
-                    <foaf:Person>
-                        <foaf:surname>Guhe</foaf:surname>
-                        <foaf:givenName>Markus</foaf:givenName>
-                    </foaf:Person>
-                </rdf:li>
-                <rdf:li>
-                    <foaf:Person>
-                        <foaf:surname>Lascarides</foaf:surname>
-                        <foaf:givenName>Alex</foaf:givenName>
-                    </foaf:Person>
-                </rdf:li>
-            </rdf:Seq>
-        </bib:authors>
-        <link:link rdf:resource="#item_2"/>
-        <link:link rdf:resource="#item_3"/>
-        <dc:title>The effectiveness of persuasion in The Settlers of Catan</dc:title>
-        <dc:date>8/2014</dc:date>
-        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
-        <dc:identifier>
-            <dcterms:URI>
-               <rdf:value>http://ieeexplore.ieee.org/document/6932861/</rdf:value>
-            </dcterms:URI>
-        </dc:identifier>
-        <dcterms:dateSubmitted>2020-07-20 18:00:29</dcterms:dateSubmitted>
-        <bib:pages>1-8</bib:pages>
-        <bib:presentedAt>
-            <bib:Conference>
-                <dc:title>2014 IEEE Conference on Computational Intelligence and Games (CIG)</dc:title>
-            </bib:Conference>
-        </bib:presentedAt>
-    </rdf:Description>
-    <z:Attachment rdf:about="#item_2">
-        <z:itemType>attachment</z:itemType>
-        <dc:title>Submitted Version</dc:title>
-        <dc:identifier>
-            <dcterms:URI>
-                <rdf:value>https://www.pure.ed.ac.uk/ws/files/19353900/CIG2014.pdf</rdf:value>
-            </dcterms:URI>
-        </dc:identifier>
-        <dcterms:dateSubmitted>2020-07-20 18:01:02</dcterms:dateSubmitted>
-        <z:linkMode>1</z:linkMode>
-        <link:type>application/pdf</link:type>
-    </z:Attachment>
-    <z:Attachment rdf:about="#item_3">
-        <z:itemType>attachment</z:itemType>
-        <dc:title>Submitted Version</dc:title>
-        <dc:identifier>
-            <dcterms:URI>
-                <rdf:value>https://www.pure.ed.ac.uk/ws/files/19353900/CIG2014.pdf</rdf:value>
-            </dcterms:URI>
-        </dc:identifier>
-        <dcterms:dateSubmitted>2020-07-20 18:01:16</dcterms:dateSubmitted>
-        <z:linkMode>1</z:linkMode>
-        <link:type>application/pdf</link:type>
-    </z:Attachment>
+ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/"
+ xmlns:vcard="http://nwalsh.com/rdf/vCard#">
     <rdf:Description rdf:about="https://doi.org/10.1109%2Fcig.2014.6932861">
         <z:itemType>conferencePaper</z:itemType>
         <dcterms:isPartOf>
@@ -2944,7 +2867,7 @@
         </dc:identifier>
         <z:programmingLanguage>MATLAB</z:programmingLanguage>
     </bib:Data>
-    <rdf:Description rdf:about="#item_128">
+    <rdf:Description rdf:about="https://escholarship.org/uc/item/9zt506xx">
         <z:itemType>conferencePaper</z:itemType>
         <dcterms:isPartOf>
             <bib:Journal>
@@ -2971,6 +2894,11 @@
         <link:link rdf:resource="#item_132"/>
         <dc:title>Trading in a multiplayer board game: Towards an analysis of non-cooperative dialogue</dc:title>
         <dc:date>2012</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://escholarship.org/uc/item/9zt506xx</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
         <dc:description>Issue: 34</dc:description>
     </rdf:Description>
     <z:Attachment rdf:about="#item_132">
@@ -3033,8 +2961,11 @@
         <z:linkMode>1</z:linkMode>
         <link:type>application/pdf</link:type>
     </z:Attachment>
-    <bib:Book rdf:about="#item_135">
-        <z:itemType>book</z:itemType>
+    <rdf:Description rdf:about="https://www.researchgate.net/publication/228728063_Reinforcement_learning_of_strategies_for_Settlers_of_Catan">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal></bib:Journal>
+        </dcterms:isPartOf>
         <bib:authors>
             <rdf:Seq>
                 <rdf:li>
@@ -3048,7 +2979,12 @@
         <link:link rdf:resource="#item_136"/>
         <dc:title>Reinforcement Learning of Strategies for Settlers of Catan</dc:title>
         <dc:date>2004</dc:date>
-    </bib:Book>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.researchgate.net/publication/228728063_Reinforcement_learning_of_strategies_for_Settlers_of_Catan</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </rdf:Description>
     <z:Attachment rdf:about="#item_136">
         <z:itemType>attachment</z:itemType>
         <dc:title>Pfeiffer - 2004 - Reinforcement Learning of Strategies for Settlers .pdf</dc:title>
@@ -3056,8 +2992,18 @@
     </z:Attachment>
     <bib:ConferenceProceedings rdf:about="http://www.ke.tu-darmstadt.de/lehre/archiv/ss04/oberseminar/folien/Wolf_Michael-Slides.pdf">
         <z:itemType>presentation</z:itemType>
+        <z:presenters>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Michael Wolf</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:presenters>
         <link:link rdf:resource="#item_140"/>
         <dc:title>An Intelligent Artificial Player for the Game of Risk</dc:title>
+        <dc:date>20/04/2005</dc:date>
         <dc:identifier>
             <dcterms:URI>
                 <rdf:value>http://www.ke.tu-darmstadt.de/lehre/archiv/ss04/oberseminar/folien/Wolf_Michael-Slides.pdf</rdf:value>
@@ -3092,7 +3038,6 @@
         <dcterms:isPartOf>
            <bib:Journal></bib:Journal>
         </dcterms:isPartOf>
-        <link:link rdf:resource="#item_142"/>
         <link:link rdf:resource="#item_143"/>
         <dc:title>RISK Board Game ‐ Battle Outcome Analysis</dc:title>
         <dc:identifier>
@@ -3101,11 +3046,6 @@
             </dcterms:URI>
         </dc:identifier>
     </bib:Article>
-    <z:Attachment rdf:about="#item_142">
-        <z:itemType>attachment</z:itemType>
-        <dc:title>RISK Board Game ‐ Battle Outcome Analysis.pdf</dc:title>
-        <link:type>application/pdf</link:type>
-    </z:Attachment>
     <z:Attachment rdf:about="#item_143">
         <z:itemType>attachment</z:itemType>
         <dc:title>Full Text</dc:title>
@@ -3118,8 +3058,13 @@
         <z:linkMode>1</z:linkMode>
         <link:type>application/pdf</link:type>
     </z:Attachment>
-    <bib:Book rdf:about="#item_144">
-        <z:itemType>book</z:itemType>
+    <bib:Thesis rdf:about="http://urn.kb.se/resolve?urn=urn:nbn:se:bth-3781">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <foaf:name>Blekinge Institute of Technology, School of Engineering, Department of Systems and Software Engineering.</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
         <bib:authors>
             <rdf:Seq>
                 <rdf:li>
@@ -3130,9 +3075,42 @@
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <link:link rdf:resource="#item_480"/>
+        <link:link rdf:resource="#item_481"/>
         <dc:title>A multi-agent system for playing the board game risk</dc:title>
+        <dcterms:abstract>Risk is a game in which traditional Artificial-Intelligence methods such as for example iterative deepening and Alpha-Beta pruning can not successfully be applied due to the size of the search space. Distributed problem solving in the form of a multi-agent system might be the solution. This needs to be tested before it is possible to tell if a multi-agent system will be successful at playing Risk or not. In this thesis the development of a multi-agent system that plays Risk is explained. The system places an agent in every country on the board and uses a central agent for organizing communication. An auction mechanism is used for negotiation. The experiments show that a multi-agent solution indeed is a prosperous approach when developing a computer based player for the board game Risk.</dcterms:abstract>
         <dc:date>2005</dc:date>
-    </bib:Book>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://urn.kb.se/resolve?urn=urn:nbn:se:bth-3781</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <z:numPages>51</z:numPages>
+        <z:type>Independent thesis Advanced level (degree of Master (One Year))</z:type>
+    </bib:Thesis>
+    <z:Attachment rdf:about="#item_480">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://bth.diva-portal.org/smash/get/diva2:831093/FULLTEXT01</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-07-24 08:26:48</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_481">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.diva-portal.org/smash/get/diva2:831093/FULLTEXT01.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-07-24 08:28:25</dcterms:dateSubmitted>
+        <z:linkMode>3</z:linkMode>
+    </z:Attachment>
     <bib:Document rdf:about="https://zayenz.se/blog/post/patchwork-modref2019-paper/">
         <z:itemType>blogPost</z:itemType>
         <dcterms:isPartOf>
@@ -3160,8 +3138,6 @@
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dcterms:isReferencedBy rdf:resource="#item_159"/>
-        <dcterms:isReferencedBy rdf:resource="#item_148"/>
         <link:link rdf:resource="#item_149"/>
         <link:link rdf:resource="#item_150"/>
         <dc:subject>
@@ -3181,13 +3157,6 @@
         <dcterms:dateSubmitted>2020-07-21 10:55:58</dcterms:dateSubmitted>
         <dc:description>arXiv: 2001.04233</dc:description>
     </bib:Article>
-    <bib:Memo rdf:about="#item_159">
-        <rdf:value>&lt;p&gt;Code: &lt;a href=&quot;https://github.com/zayenz/cp-mod-ref-2019-patchwork&quot;&gt;https://github.com/zayenz/cp-mod-ref-2019-patchwork&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;</rdf:value>
-    </bib:Memo>
-    <bib:Memo rdf:about="#item_148">
-        <rdf:value>&lt;p&gt;Comment: In ModRef 2019, The 18th workshop on Constraint Modelling and Reformulation&lt;/p&gt;</rdf:value>
-    </bib:Memo>
     <z:Attachment rdf:about="#item_149">
         <z:itemType>attachment</z:itemType>
         <dc:title>arXiv Fulltext PDF</dc:title>
@@ -3249,8 +3218,6 @@
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dcterms:isReferencedBy rdf:resource="#item_158"/>
-        <dcterms:isReferencedBy rdf:resource="#item_154"/>
         <link:link rdf:resource="#item_155"/>
         <link:link rdf:resource="#item_156"/>
         <dc:subject>
@@ -3270,12 +3237,6 @@
         <dcterms:dateSubmitted>2020-07-21 10:57:58</dcterms:dateSubmitted>
         <dc:description>arXiv: 2001.04238</dc:description>
     </bib:Article>
-    <bib:Memo rdf:about="#item_158">
-        <rdf:value>&lt;p&gt;Code: https://github.com/zayenz/cp-2019-nmbr9/&lt;/p&gt;</rdf:value>
-    </bib:Memo>
-    <bib:Memo rdf:about="#item_154">
-        <rdf:value>&lt;p&gt;Comment: Abstract at the 25th International Conference on Principles and Practice of Constraint Programming&lt;/p&gt;</rdf:value>
-    </bib:Memo>
     <z:Attachment rdf:about="#item_155">
         <z:itemType>attachment</z:itemType>
         <dc:title>arXiv Fulltext PDF</dc:title>
@@ -3704,7 +3665,6 @@ DOI: 10.1007/978-3-319-71649-7_5</dc:description>
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dcterms:isReferencedBy rdf:resource="#item_182"/>
         <link:link rdf:resource="#item_181"/>
         <dc:title>A Browser-based Interface for the Exploration and Evaluation of Hanabi AIs</dc:title>
         <dc:date>2017</dc:date>
@@ -3717,9 +3677,6 @@ DOI: 10.1007/978-3-319-71649-7_5</dc:description>
         </dc:identifier>
         <bib:pages>4</bib:pages>
     </bib:Article>
-    <bib:Memo rdf:about="#item_182">
-        <rdf:value>&lt;p&gt;URL: http://fdg2017.org/papers/FDG2017_demo_Hanabi.pdf&lt;/p&gt;</rdf:value>
-    </bib:Memo>
     <z:Attachment rdf:about="#item_181">
         <z:itemType>attachment</z:itemType>
         <dc:title>Eger and Martens - 2017 - A Browser-based Interface for the Exploration and .pdf</dc:title>
@@ -3752,7 +3709,6 @@ DOI: 10.1007/978-3-319-71649-7_5</dc:description>
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dcterms:isReferencedBy rdf:resource="#item_178"/>
         <link:link rdf:resource="#item_176"/>
         <dc:title>I see what you see: Integrating eye tracking into Hanabi playing agents</dc:title>
         <dcterms:abstract>Humans’ eye movements convey a lot of information about their intentions, often unconsciously. Intelligent agents that cooperate with humans in various domains can beneﬁt from interpreting this information. This paper contains a preliminary look at how eye tracking could be useful for agents that play the cooperative card game Hanabi with human players. We outline several situations in which an AI agent can utilize gaze information, and present an outlook on how we plan to integrate this with reimplementations of contemporary Hanabi agents.</dcterms:abstract>
@@ -3760,10 +3716,6 @@ DOI: 10.1007/978-3-319-71649-7_5</dc:description>
         <z:libraryCatalog>Zotero</z:libraryCatalog>
         <bib:pages>4</bib:pages>
     </bib:Article>
-    <bib:Memo rdf:about="#item_178">
-        <rdf:value>&lt;p&gt;URL: &lt;a href=&quot;http://www.exag.org/wp-content/uploads/2018/10/AIIDE-18_Upload_112.pdf&quot;&gt;http://www.exag.org/wp-content/uploads/2018/10/AIIDE-18_Upload_112.pdf&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt; &lt;/p&gt;</rdf:value>
-    </bib:Memo>
     <z:Attachment rdf:about="#item_176">
         <z:itemType>attachment</z:itemType>
         <dc:title>Gottwald et al. - I see what you see Integrating eye tracking into .pdf</dc:title>
@@ -4225,7 +4177,8 @@ DOI: 10.1007/978-3-319-71649-7_5</dc:description>
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dc:title>https://www.eecs.tufts.edu/~jsinapov/teaching/comp150_RL/reports/Nguyen_Dinjian_report.pdf</dc:title>
+        <link:link rdf:resource="#item_474"/>
+        <dc:title>The Difficulty of Learning Ticket to Ride</dc:title>
         <dcterms:abstract>Ticket to Ride is a very popular, award-winning board-game where you try toscore the most points while building a railway spanning cities in America.  For acomputer to learn to play this game is very difficult due to the vast state-actionspace.  This project will explain why featurizing your state, and implementingcurriculum learning can help agents learn as state-action spaces grow too largefor traditional learning methods to be effective.</dcterms:abstract>
         <dc:identifier>
             <dcterms:URI>
@@ -4233,6 +4186,18 @@ DOI: 10.1007/978-3-319-71649-7_5</dc:description>
             </dcterms:URI>
         </dc:identifier>
     </bib:Report>
+    <z:Attachment rdf:about="#item_474">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.eecs.tufts.edu/~jsinapov/teaching/comp150_RL/reports/Nguyen_Dinjian_report.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-07-24 08:19:13</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
     <rdf:Description rdf:about="urn:isbn:978-1-4503-6571-0">
         <z:itemType>conferencePaper</z:itemType>
         <dcterms:isPartOf>
@@ -4310,31 +4275,6 @@ DOI: 10.1007/978-3-319-71649-7_5</dc:description>
         <z:linkMode>1</z:linkMode>
         <link:type>application/pdf</link:type>
     </z:Attachment>
-    <bib:ConferenceProceedings rdf:about="https://www.rtealwitter.com/slides/2020-JMM.pdf">
-        <z:itemType>presentation</z:itemType>
-        <z:presenters>
-            <rdf:Seq>
-                <rdf:li>
-                    <foaf:Person>
-                        <foaf:surname>Witter</foaf:surname>
-                        <foaf:givenName>R. Teal</foaf:givenName>
-                    </foaf:Person>
-                </rdf:li>
-                <rdf:li>
-                    <foaf:Person>
-                        <foaf:surname>Lyford</foaf:surname>
-                        <foaf:givenName>Alex</foaf:givenName>
-                    </foaf:Person>
-                </rdf:li>
-            </rdf:Seq>
-        </z:presenters>
-        <dc:title>Applications of Graph Theory andProbability in the Board GameTicket toRide</dc:title>
-        <dc:identifier>
-            <dcterms:URI>
-                <rdf:value>https://www.rtealwitter.com/slides/2020-JMM.pdf</rdf:value>
-            </dcterms:URI>
-        </dc:identifier>
-    </bib:ConferenceProceedings>
     <bib:Article rdf:about="http://arxiv.org/abs/2008.07079">
         <z:itemType>journalArticle</z:itemType>
         <dcterms:isPartOf>
@@ -4358,7 +4298,6 @@ DOI: 10.1007/978-3-319-71649-7_5</dc:description>
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dcterms:isReferencedBy rdf:resource="#item_239"/>
         <link:link rdf:resource="#item_240"/>
         <link:link rdf:resource="#item_241"/>
         <dc:subject>
@@ -4388,9 +4327,6 @@ DOI: 10.1007/978-3-319-71649-7_5</dc:description>
         <dcterms:dateSubmitted>2020-10-12 04:19:57</dcterms:dateSubmitted>
         <dc:description>arXiv: 2008.07079</dc:description>
     </bib:Article>
-    <bib:Memo rdf:about="#item_239">
-        <rdf:value>Comment: 12 pages, 5 tables and 10 figures; submitted to the ICONIP 2020</rdf:value>
-    </bib:Memo>
     <z:Attachment rdf:about="#item_240">
         <z:itemType>attachment</z:itemType>
         <dc:title>arXiv Fulltext PDF</dc:title>
@@ -4749,7 +4685,6 @@ DOI: 10.1007/978-3-319-71649-7_5</dc:description>
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dcterms:isReferencedBy rdf:resource="#item_285"/>
         <link:link rdf:resource="#item_286"/>
         <link:link rdf:resource="#item_287"/>
         <dc:subject>
@@ -4769,9 +4704,6 @@ DOI: 10.1007/978-3-319-71649-7_5</dc:description>
         <dcterms:dateSubmitted>2021-01-02 18:13:09</dcterms:dateSubmitted>
         <dc:description>arXiv: 2009.12974</dc:description>
     </bib:Article>
-    <bib:Memo rdf:about="#item_285">
-       <rdf:value>Comment: 8 pages, 6 figures</rdf:value>
-    </bib:Memo>
     <z:Attachment rdf:about="#item_286">
         <z:itemType>attachment</z:itemType>
         <dc:title>arXiv Fulltext PDF</dc:title>
@@ -4829,7 +4761,6 @@ DOI: 10.1007/978-3-319-71649-7_5</dc:description>
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <dcterms:isReferencedBy rdf:resource="#item_300"/>
         <link:link rdf:resource="#item_301"/>
         <link:link rdf:resource="#item_302"/>
         <dc:subject>
@@ -4849,9 +4780,6 @@ DOI: 10.1007/978-3-319-71649-7_5</dc:description>
         <dcterms:dateSubmitted>2021-01-02 18:17:10</dcterms:dateSubmitted>
         <dc:description>arXiv: 2007.15895</dc:description>
     </bib:Article>
-    <bib:Memo rdf:about="#item_300">
-       <rdf:value>Comment: 19 pages</rdf:value>
-    </bib:Memo>
     <z:Attachment rdf:about="#item_301">
         <z:itemType>attachment</z:itemType>
         <dc:title>arXiv Fulltext PDF</dc:title>
@@ -5030,10 +4958,2891 @@ DOI: 10.1007/978-3-319-71649-7_5</dc:description>
         <z:linkMode>1</z:linkMode>
         <link:type>text/html</link:type>
     </z:Attachment>
+    <bib:Article rdf:about="http://arxiv.org/abs/1511.08099">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal><dc:title>arXiv:1511.08099 [cs]</dc:title></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cuayáhuitl</foaf:surname>
+                        <foaf:givenName>Heriberto</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Keizer</foaf:surname>
+                        <foaf:givenName>Simon</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lemon</foaf:surname>
+                        <foaf:givenName>Oliver</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_319"/>
+        <link:link rdf:resource="#item_320"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Computer Science - Artificial Intelligence</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Computer Science - Machine Learning</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Strategic Dialogue Management via Deep Reinforcement Learning</dc:title>
+        <dcterms:abstract>Artificially intelligent agents equipped with strategic skills that can negotiate during their interactions with other natural or artificial agents are still underdeveloped. This paper describes a successful application of Deep Reinforcement Learning (DRL) for training intelligent agents with strategic conversational skills, in a situated dialogue setting. Previous studies have modelled the behaviour of strategic agents using supervised learning and traditional reinforcement learning techniques, the latter using tabular representations or learning with linear function approximation. In this study, we apply DRL with a high-dimensional state space to the strategic board game of Settlers of Catan---where players can offer resources in exchange for others and they can also reply to offers made by other players. Our experimental results report that the DRL-based learnt policies significantly outperformed several baselines including random, rule-based, and supervised-based behaviours. The DRL-based policy has a 53% win rate versus 3 automated players (`bots'), whereas a supervised player trained on a dialogue corpus in this setting achieved only 27%, versus the same 3 bots. This result supports the claim that DRL is a promising framework for training dialogue systems, and strategic agents with negotiation abilities.</dcterms:abstract>
+        <dc:date>2015-11-25</dc:date>
+        <z:libraryCatalog>arXiv.org</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://arxiv.org/abs/1511.08099</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-01-02 18:29:38</dcterms:dateSubmitted>
+        <dc:description>arXiv: 1511.08099</dc:description>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_319">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>arXiv Fulltext PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/pdf/1511.08099.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-01-02 18:29:43</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_320">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>arXiv.org Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/abs/1511.08099</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-01-02 18:29:50</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="https://minds.wisconsin.edu/bitstream/handle/1793/79080/LydeenSpr18.pdf?sequence=1&amp;isAllowed=y">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal></bib:Journal>
+        </dcterms:isPartOf>
+        <link:link rdf:resource="#item_363"/>
+        <dc:title>Applying Neural Networks and Genetic Programming to the Game Lost Cities</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://minds.wisconsin.edu/bitstream/handle/1793/79080/LydeenSpr18.pdf?sequence=1&amp;isAllowed=y</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_363">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>LydeenSpr18.pdf</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://minds.wisconsin.edu/bitstream/handle/1793/79080/LydeenSpr18.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-06-12 17:03:24</dcterms:dateSubmitted>
+        <z:linkMode>3</z:linkMode>
+    </z:Attachment>
+    <bib:Report rdf:about="https://old.reddit.com/r/boardgames/comments/hxodaf/update_i_wrote_my_dissertation_on_azul/">
+        <z:itemType>report</z:itemType>
+        <dc:title>A summary of a dissertation on Azul</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://old.reddit.com/r/boardgames/comments/hxodaf/update_i_wrote_my_dissertation_on_azul/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Report>
+    <rdf:Description rdf:about="https://ipsj.ixsq.nii.ac.jp/ej/?action=repository_action_common_download&amp;item_id=207669&amp;item_no=1&amp;attribute_id=1&amp;file_no=1">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal></bib:Journal>
+        </dcterms:isPartOf>
+        <dc:title>Ceramic: A research environment based on the multi-player strategic board game Azul</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://ipsj.ixsq.nii.ac.jp/ej/?action=repository_action_common_download&amp;item_id=207669&amp;item_no=1&amp;attribute_id=1&amp;file_no=1</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </rdf:Description>
+    <bib:Data rdf:about="https://github.com/Swynfel/ceramic">
+        <z:itemType>computerProgram</z:itemType>
+        <dc:title>Ceramic: A research environment based on the multi-player strategic board game Azul</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://github.com/Swynfel/ceramic</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Data>
+    <bib:Report rdf:about="https://digitalcommons.calpoly.edu/cpesp/290/">
+        <z:itemType>report</z:itemType>
+        <dc:title>Blokus Game Solver</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://digitalcommons.calpoly.edu/cpesp/290/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Report>
+    <rdf:Description rdf:about="urn:isbn:978-1-4799-2198-0%20978-1-4799-2199-7">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:identifier>ISBN 978-1-4799-2198-0 978-1-4799-2199-7</dc:identifier>
+                <dc:title>2013 International Conference on Field-Programmable Technology (FPT)</dc:title>
+                <dc:identifier>DOI 10.1109/FPT.2013.6718426</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Kyoto, Japan</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>IEEE</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Yoza</foaf:surname>
+                        <foaf:givenName>Takashi</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Moriwaki</foaf:surname>
+                        <foaf:givenName>Retsu</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Torigai</foaf:surname>
+                        <foaf:givenName>Yuki</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kamikubo</foaf:surname>
+                        <foaf:givenName>Yuki</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kubota</foaf:surname>
+                        <foaf:givenName>Takayuki</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Watanabe</foaf:surname>
+                        <foaf:givenName>Takahiro</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fujimori</foaf:surname>
+                        <foaf:givenName>Takumi</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ito</foaf:surname>
+                        <foaf:givenName>Hiroyuki</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Seo</foaf:surname>
+                        <foaf:givenName>Masato</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Akagi</foaf:surname>
+                        <foaf:givenName>Kouta</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Yamaji</foaf:surname>
+                        <foaf:givenName>Yuichiro</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Watanabe</foaf:surname>
+                        <foaf:givenName>Minoru</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_371"/>
+        <dc:title>FPGA Blokus Duo Solver using a massively parallel architecture</dc:title>
+        <dc:date>12/2013</dc:date>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://ieeexplore.ieee.org/document/6718426/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-06-28 14:38:57</dcterms:dateSubmitted>
+        <bib:pages>494-497</bib:pages>
+        <bib:presentedAt>
+            <bib:Conference>
+                <dc:title>2013 International Conference on Field-Programmable Technology (FPT)</dc:title>
+            </bib:Conference>
+        </bib:presentedAt>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_371">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://zero.sci-hub.se/2654/a4d3e713290066b6db7db1d9eedd194e/yoza2013.pdf#view=FitH</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-06-28 14:39:08</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="urn:isbn:978-1-4799-0565-2%20978-1-4799-0562-1%20978-1-4799-0563-8">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:identifier>ISBN 978-1-4799-0565-2 978-1-4799-0562-1 978-1-4799-0563-8</dc:identifier>
+                <dc:title>The 17th CSI International Symposium on Computer Architecture &amp; Digital Systems (CADS 2013)</dc:title>
+                <dc:identifier>DOI 10.1109/CADS.2013.6714256</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Tehran, Iran</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>IEEE</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jahanshahi</foaf:surname>
+                        <foaf:givenName>Ali</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Taram</foaf:surname>
+                        <foaf:givenName>Mohammad Kazem</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Eskandari</foaf:surname>
+                        <foaf:givenName>Nariman</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_370"/>
+        <dc:title>Blokus Duo game on FPGA</dc:title>
+        <dc:date>10/2013</dc:date>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://ieeexplore.ieee.org/document/6714256/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-06-28 14:39:04</dcterms:dateSubmitted>
+        <bib:pages>149-152</bib:pages>
+        <bib:presentedAt>
+            <bib:Conference>
+                <dc:title>2013 17th CSI International Symposium on Computer Architecture and Digital Systems (CADS)</dc:title>
+            </bib:Conference>
+        </bib:presentedAt>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_370">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://zero.sci-hub.se/3228/9ae6ca1efab5a2ebb63dd4e22a13bf04/jahanshahi2013.pdf#view=FitH</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-06-28 14:39:07</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://arxiv.org/abs/1903.02230">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:title>The World Wide Web Conference</dc:title>
+                <dc:identifier>DOI 10.1145/3308558.3314131</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hsu</foaf:surname>
+                        <foaf:givenName>Chao-Chun</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chen</foaf:surname>
+                        <foaf:givenName>Yu-Hua</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chen</foaf:surname>
+                        <foaf:givenName>Zi-Yuan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lin</foaf:surname>
+                        <foaf:givenName>Hsin-Yu</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Huang</foaf:surname>
+                        <foaf:givenName>Ting-Hao 'Kenneth'</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ku</foaf:surname>
+                        <foaf:givenName>Lun-Wei</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_374"/>
+        <link:link rdf:resource="#item_375"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Computer Science - Computation and Language</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Dixit: Interactive Visual Storytelling via Term Manipulation</dc:title>
+        <dcterms:abstract>In this paper, we introduce Dixit, an interactive visual storytelling system that the user interacts with iteratively to compose a short story for a photo sequence. The user initiates the process by uploading a sequence of photos. Dixit first extracts text terms from each photo which describe the objects (e.g., boy, bike) or actions (e.g., sleep) in the photo, and then allows the user to add new terms or remove existing terms. Dixit then generates a short story based on these terms. Behind the scenes, Dixit uses an LSTM-based model trained on image caption data and FrameNet to distill terms from each image and utilizes a transformer decoder to compose a context-coherent story. Users change images or terms iteratively with Dixit to create the most ideal story. Dixit also allows users to manually edit and rate stories. The proposed procedure opens up possibilities for interpretable and controllable visual storytelling, allowing users to understand the story formation rationale and to intervene in the generation process.</dcterms:abstract>
+        <dc:date>2019-05-13</dc:date>
+        <z:shortTitle>Dixit</z:shortTitle>
+        <z:libraryCatalog>arXiv.org</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://arxiv.org/abs/1903.02230</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-06-28 14:40:29</dcterms:dateSubmitted>
+        <dc:description>arXiv: 1903.02230</dc:description>
+        <bib:pages>3531-3535</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_374">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>arXiv Fulltext PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/pdf/1903.02230.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-06-28 14:40:38</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_375">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>arXiv.org Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/abs/1903.02230</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-06-28 14:40:43</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Data rdf:about="https://dominionsimulator.wordpress.com/f-a-q/">
+        <z:itemType>computerProgram</z:itemType>
+        <dc:title>Dominion Simulator</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://dominionsimulator.wordpress.com/f-a-q/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Data>
+    <bib:Data rdf:about="https://github.com/mikemccllstr/dominionstats/">
+        <z:itemType>computerProgram</z:itemType>
+        <dc:title>Dominion Simulator Source Code</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://github.com/mikemccllstr/dominionstats/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Data>
+    <bib:Document rdf:about="http://councilroom.com/openings">
+        <z:itemType>blogPost</z:itemType>
+        <dcterms:isPartOf>
+           <z:Blog></z:Blog>
+        </dcterms:isPartOf>
+        <dc:title>Best and worst openings in Dominion</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://councilroom.com/openings</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Document>
+    <bib:Document rdf:about="http://councilroom.com/optimal_card_ratios">
+        <z:itemType>blogPost</z:itemType>
+        <dcterms:isPartOf>
+           <z:Blog></z:Blog>
+        </dcterms:isPartOf>
+        <dc:title>Optimal Card Ratios in Dominion</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://councilroom.com/optimal_card_ratios</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Document>
+    <bib:Document rdf:about="http://councilroom.com/supply_win">
+        <z:itemType>blogPost</z:itemType>
+        <dcterms:isPartOf>
+           <z:Blog></z:Blog>
+        </dcterms:isPartOf>
+        <dc:title>Card Winning Stats on Dominion Server</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://councilroom.com/supply_win</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Document>
+    <bib:Document rdf:about="http://forum.dominionstrategy.com/index.php">
+        <z:itemType>forumPost</z:itemType>
+        <dcterms:isPartOf>
+           <z:Forum></z:Forum>
+        </dcterms:isPartOf>
+        <dc:title>Dominion Strategy Forum</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://forum.dominionstrategy.com/index.php</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Document>
+    <bib:Article rdf:about="http://arxiv.org/abs/1811.11273">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal><dc:title>arXiv:1811.11273 [cs]</dc:title></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bendekgey</foaf:surname>
+                        <foaf:givenName>Henry</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_384"/>
+        <link:link rdf:resource="#item_385"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Computer Science - Artificial Intelligence</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Clustering Player Strategies from Variable-Length Game Logs in Dominion</dc:title>
+        <dcterms:abstract>We present a method for encoding game logs as numeric features in the card game Dominion. We then run the manifold learning algorithm t-SNE on these encodings to visualize the landscape of player strategies. By quantifying game states as the relative prevalence of cards in a player's deck, we create visualizations that capture qualitative differences in player strategies. Different ways of deviating from the starting game state appear as different rays in the visualization, giving it an intuitive explanation. This is a promising new direction for understanding player strategies across games that vary in length.</dcterms:abstract>
+        <dc:date>2018-12-12</dc:date>
+        <z:libraryCatalog>arXiv.org</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://arxiv.org/abs/1811.11273</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-06-28 14:43:21</dcterms:dateSubmitted>
+        <dc:description>arXiv: 1811.11273</dc:description>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_384">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>arXiv Fulltext PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/pdf/1811.11273.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-06-28 14:43:27</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_385">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>arXiv.org Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/abs/1811.11273</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-06-28 14:43:31</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Data rdf:about="https://github.com/aronsar/hoad">
+        <z:itemType>computerProgram</z:itemType>
+        <dc:title>Hanabi Open Agent Dataset</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://github.com/aronsar/hoad</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Data>
+    <rdf:Description rdf:about="https://dl.acm.org/doi/10.5555/3463952.3464188">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal></bib:Journal>
+        </dcterms:isPartOf>
+        <dc:title>Hanabi Open Agent Dataset</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://dl.acm.org/doi/10.5555/3463952.3464188</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </rdf:Description>
+    <bib:Article rdf:about="http://arxiv.org/abs/2010.02923">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal><dc:title>arXiv:2010.02923 [cs]</dc:title></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gray</foaf:surname>
+                        <foaf:givenName>Jonathan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lerer</foaf:surname>
+                        <foaf:givenName>Adam</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bakhtin</foaf:surname>
+                        <foaf:givenName>Anton</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Brown</foaf:surname>
+                        <foaf:givenName>Noam</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_391"/>
+        <link:link rdf:resource="#item_393"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Computer Science - Artificial Intelligence</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Computer Science - Machine Learning</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+                <rdf:value>Computer Science - Computer Science and Game Theory</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Human-Level Performance in No-Press Diplomacy via Equilibrium Search</dc:title>
+        <dcterms:abstract>Prior AI breakthroughs in complex games have focused on either the purely adversarial or purely cooperative settings. In contrast, Diplomacy is a game of shifting alliances that involves both cooperation and competition. For this reason, Diplomacy has proven to be a formidable research challenge. In this paper we describe an agent for the no-press variant of Diplomacy that combines supervised learning on human data with one-step lookahead search via regret minimization. Regret minimization techniques have been behind previous AI successes in adversarial games, most notably poker, but have not previously been shown to be successful in large-scale games involving cooperation. We show that our agent greatly exceeds the performance of past no-press Diplomacy bots, is unexploitable by expert humans, and ranks in the top 2% of human players when playing anonymous games on a popular Diplomacy website.</dcterms:abstract>
+        <dc:date>2021-05-03</dc:date>
+        <z:libraryCatalog>arXiv.org</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://arxiv.org/abs/2010.02923</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-06-28 15:28:02</dcterms:dateSubmitted>
+        <dc:description>arXiv: 2010.02923</dc:description>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_391">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>arXiv Fulltext PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/pdf/2010.02923.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-06-28 15:28:18</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_393">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>arXiv.org Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/abs/2010.02923</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-06-28 15:28:22</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://arxiv.org/abs/1708.01503">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal><dc:title>arXiv:1708.01503 [math]</dc:title></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Akiyama</foaf:surname>
+                        <foaf:givenName>Rika</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Abe</foaf:surname>
+                        <foaf:givenName>Nozomi</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fujita</foaf:surname>
+                        <foaf:givenName>Hajime</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Inaba</foaf:surname>
+                        <foaf:givenName>Yukie</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hataoka</foaf:surname>
+                        <foaf:givenName>Mari</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ito</foaf:surname>
+                        <foaf:givenName>Shiori</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Seita</foaf:surname>
+                        <foaf:givenName>Satomi</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_392"/>
+        <link:link rdf:resource="#item_394"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>55A20 (Primary), 05A99 (Secondary)</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Mathematics - Combinatorics</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Mathematics - Geometric Topology</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Mathematics - History and Overview</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Maximum genus of the Jenga like configurations</dc:title>
+        <dcterms:abstract>We treat the boundary of the union of blocks in the Jenga game as a surface with a polyhedral structure and consider its genus. We generalize the game and determine the maximum genus of the generalized game.</dcterms:abstract>
+        <dc:date>2018-08-31</dc:date>
+        <z:libraryCatalog>arXiv.org</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://arxiv.org/abs/1708.01503</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-06-28 15:28:12</dcterms:dateSubmitted>
+        <dc:description>arXiv: 1708.01503</dc:description>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_392">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>arXiv Fulltext PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/pdf/1708.01503.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-06-28 15:28:21</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_394">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>arXiv.org Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/abs/1708.01503</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-06-28 15:28:24</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://arxiv.org/abs/1905.08617">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal><dc:title>arXiv:1905.08617 [cs]</dc:title></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bai</foaf:surname>
+                        <foaf:givenName>Chongyang</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bolonkin</foaf:surname>
+                        <foaf:givenName>Maksim</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Burgoon</foaf:surname>
+                        <foaf:givenName>Judee</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chen</foaf:surname>
+                        <foaf:givenName>Chao</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dunbar</foaf:surname>
+                        <foaf:givenName>Norah</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Singh</foaf:surname>
+                        <foaf:givenName>Bharat</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Subrahmanian</foaf:surname>
+                        <foaf:givenName>V. S.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wu</foaf:surname>
+                        <foaf:givenName>Zhe</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_398"/>
+        <link:link rdf:resource="#item_399"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Computer Science - Artificial Intelligence</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+                <rdf:value>Computer Science - Computer Vision and Pattern Recognition</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Automatic Long-Term Deception Detection in Group Interaction Videos</dc:title>
+        <dcterms:abstract>Most work on automated deception detection (ADD) in video has two restrictions: (i) it focuses on a video of one person, and (ii) it focuses on a single act of deception in a one or two minute video. In this paper, we propose a new ADD framework which captures long term deception in a group setting. We study deception in the well-known Resistance game (like Mafia and Werewolf) which consists of 5-8 players of whom 2-3 are spies. Spies are deceptive throughout the game (typically 30-65 minutes) to keep their identity hidden. We develop an ensemble predictive model to identify spies in Resistance videos. We show that features from low-level and high-level video analysis are insufficient, but when combined with a new class of features that we call LiarRank, produce the best results. We achieve AUCs of over 0.70 in a fully automated setting. Our demo can be found at http://home.cs.dartmouth.edu/~mbolonkin/scan/demo/</dcterms:abstract>
+        <dc:date>2019-06-15</dc:date>
+        <z:libraryCatalog>arXiv.org</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://arxiv.org/abs/1905.08617</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-06-28 15:32:49</dcterms:dateSubmitted>
+        <dc:description>arXiv: 1905.08617</dc:description>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_398">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>arXiv Fulltext PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/pdf/1905.08617.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-06-28 15:32:54</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_399">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>arXiv.org Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/abs/1905.08617</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-06-28 15:32:58</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:BookSection rdf:about="urn:isbn:978-3-319-50934-1%20978-3-319-50935-8">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <prism:volume>10068</prism:volume>
+                <dc:identifier>ISBN 978-3-319-50934-1 978-3-319-50935-8</dc:identifier>
+                <dc:title>Computers and Games</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Cham</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Springer International Publishing</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Plaat</foaf:surname>
+                        <foaf:givenName>Aske</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kosters</foaf:surname>
+                        <foaf:givenName>Walter</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>van den Herik</foaf:surname>
+                        <foaf:givenName>Jaap</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bi</foaf:surname>
+                        <foaf:givenName>Xiaoheng</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tanaka</foaf:surname>
+                        <foaf:givenName>Tetsuro</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_403"/>
+        <dc:title>Human-Side Strategies in the Werewolf Game Against the Stealth Werewolf Strategy</dc:title>
+        <dc:date>2016</dc:date>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://link.springer.com/10.1007/978-3-319-50935-8_9</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-06-28 15:32:54</dcterms:dateSubmitted>
+        <dc:description>Series Title: Lecture Notes in Computer Science
+DOI: 10.1007/978-3-319-50935-8_9</dc:description>
+        <bib:pages>93-102</bib:pages>
+    </bib:BookSection>
+    <z:Attachment rdf:about="#item_403">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://sci-hub.se/downloads/2019-01-26//f7/bi2016.pdf#view=FitH</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-06-28 15:33:08</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://arxiv.org/abs/0804.0071">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal><dc:title>arXiv:0804.0071 [math]</dc:title></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Yao</foaf:surname>
+                        <foaf:givenName>Erlin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_402"/>
+        <link:link rdf:resource="#item_404"/>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>65C20</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>91-01</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Mathematics - Probability</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>A Theoretical Study of Mafia Games</dc:title>
+        <dcterms:abstract>Mafia can be described as an experiment in human psychology and mass hysteria, or as a game between informed minority and uninformed majority. Focus on a very restricted setting, Mossel et al. [to appear in Ann. Appl. Probab. Volume 18, Number 2] showed that in the mafia game without detectives, if the civilians and mafias both adopt the optimal randomized strategy, then the two groups have comparable probabilities of winning exactly when the total player size is R and the mafia size is of order Sqrt(R). They also proposed a conjecture which stated that this phenomenon should be valid in a more extensive framework. In this paper, we first indicate that the main theorem given by Mossel et al. [to appear in Ann. Appl. Probab. Volume 18, Number 2] can not guarantee their conclusion, i.e., the two groups have comparable winning probabilities when the mafia size is of order Sqrt(R). Then we give a theorem which validates the correctness of their conclusion. In the last, by proving the conjecture proposed by Mossel et al. [to appear in Ann. Appl. Probab. Volume 18, Number 2], we generalize the phenomenon to a more extensive framework, of which the mafia game without detectives is only a special case.</dcterms:abstract>
+        <dc:date>2008-04-01</dc:date>
+        <z:libraryCatalog>arXiv.org</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://arxiv.org/abs/0804.0071</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-06-28 15:33:04</dcterms:dateSubmitted>
+        <dc:description>arXiv: 0804.0071</dc:description>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_402">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>arXiv Fulltext PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/pdf/0804.0071.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-06-28 15:33:07</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_404">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>arXiv.org Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/abs/0804.0071</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-06-28 15:33:10</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:BookSection rdf:about="urn:isbn:978-3-030-04178-6%20978-3-030-04179-3">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <prism:volume>11302</prism:volume>
+                <dc:identifier>ISBN 978-3-030-04178-6 978-3-030-04179-3</dc:identifier>
+                <dc:title>Neural Information Processing</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Cham</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Springer International Publishing</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cheng</foaf:surname>
+                        <foaf:givenName>Long</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Leung</foaf:surname>
+                        <foaf:givenName>Andrew Chi Sing</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ozawa</foaf:surname>
+                        <foaf:givenName>Seiichi</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zilio</foaf:surname>
+                        <foaf:givenName>Felipe</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Prates</foaf:surname>
+                        <foaf:givenName>Marcelo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lamb</foaf:surname>
+                        <foaf:givenName>Luis</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_406"/>
+        <dc:title>Neural Networks Models for Analyzing Magic: The Gathering Cards</dc:title>
+        <dc:date>2018</dc:date>
+        <z:shortTitle>Neural Networks Models for Analyzing Magic</z:shortTitle>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://link.springer.com/10.1007/978-3-030-04179-3_20</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-06-28 15:33:26</dcterms:dateSubmitted>
+        <dc:description>Series Title: Lecture Notes in Computer Science
+DOI: 10.1007/978-3-030-04179-3_20</dc:description>
+        <bib:pages>227-239</bib:pages>
+    </bib:BookSection>
+    <z:Attachment rdf:about="#item_406">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Submitted Version</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/pdf/1810.03744</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-06-28 15:33:36</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="https://livrepository.liverpool.ac.uk/3029568/">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal></bib:Journal>
+        </dcterms:isPartOf>
+        <dc:title>The Complexity of Deciding Legality of a Single Step of Magic: The Gathering</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://livrepository.liverpool.ac.uk/3029568/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://vixra.org/abs/2001.0065">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal></bib:Journal>
+        </dcterms:isPartOf>
+        <dc:title>Magic: The Gathering in Common Lisp</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://vixra.org/abs/2001.0065</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </rdf:Description>
+    <bib:Data rdf:about="https://github.com/jeffythedragonslayer/maglisp">
+        <z:itemType>computerProgram</z:itemType>
+        <dc:title>Magic: The Gathering in Common Lisp</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://github.com/jeffythedragonslayer/maglisp</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Data>
+    <bib:Thesis rdf:about="https://commons.lib.niu.edu/handle/10843/19194">
+        <z:itemType>thesis</z:itemType>
+        <dc:title>Mathematical programming and Magic: The Gathering</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://commons.lib.niu.edu/handle/10843/19194</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Thesis>
+    <rdf:Description rdf:about="https://www.doi.org/10.1685/CSC06077">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal></bib:Journal>
+        </dcterms:isPartOf>
+        <dc:title>Deck Construction Strategies for Magic: The Gathering</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.doi.org/10.1685/CSC06077</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </rdf:Description>
+    <bib:Thesis rdf:about="https://doi.org/11250/2462429">
+        <z:itemType>thesis</z:itemType>
+        <dc:title>Deckbuilding in Magic: The Gathering Using a Genetic Algorithm</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://doi.org/11250/2462429</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Thesis>
+    <bib:Report rdf:about="http://cs229.stanford.edu/proj2012/HauPlotkinTran-MagicTheGatheringDeckPerformancePrediction.pdf">
+        <z:itemType>report</z:itemType>
+        <dc:title>Magic: The Gathering Deck Performance Prediction</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://cs229.stanford.edu/proj2012/HauPlotkinTran-MagicTheGatheringDeckPerformancePrediction.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Report>
+    <bib:Data rdf:about="https://github.com/captn3m0/modernart">
+        <z:itemType>computerProgram</z:itemType>
+        <dc:title>A constraint programming based solver for Modern Art</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://github.com/captn3m0/modernart</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Data>
+    <bib:Article rdf:about="http://arxiv.org/abs/2103.00683">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal><dc:title>arXiv:2103.00683 [cs]</dc:title></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Haliem</foaf:surname>
+                        <foaf:givenName>Marina</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bonjour</foaf:surname>
+                        <foaf:givenName>Trevor</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Alsalem</foaf:surname>
+                        <foaf:givenName>Aala</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Thomas</foaf:surname>
+                        <foaf:givenName>Shilpa</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Li</foaf:surname>
+                        <foaf:givenName>Hongyu</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Aggarwal</foaf:surname>
+                        <foaf:givenName>Vaneet</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bhargava</foaf:surname>
+                        <foaf:givenName>Bharat</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kejriwal</foaf:surname>
+                        <foaf:givenName>Mayank</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_419"/>
+        <link:link rdf:resource="#item_420"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Computer Science - Artificial Intelligence</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Computer Science - Machine Learning</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Learning Monopoly Gameplay: A Hybrid Model-Free Deep Reinforcement Learning and Imitation Learning Approach</dc:title>
+        <dcterms:abstract>Learning how to adapt and make real-time informed decisions in dynamic and complex environments is a challenging problem. To learn this task, Reinforcement Learning (RL) relies on an agent interacting with an environment and learning through trial and error to maximize the cumulative sum of rewards received by it. In multi-player Monopoly game, players have to make several decisions every turn which involves complex actions, such as making trades. This makes the decision-making harder and thus, introduces a highly complicated task for an RL agent to play and learn its winning strategies. In this paper, we introduce a Hybrid Model-Free Deep RL (DRL) approach that is capable of playing and learning winning strategies of the popular board game, Monopoly. To achieve this, our DRL agent (1) starts its learning process by imitating a rule-based agent (that resembles the human logic) to initialize its policy, (2) learns the successful actions, and improves its policy using DRL. Experimental results demonstrate an intelligent behavior of our proposed agent as it shows high win rates against different types of agent-players.</dcterms:abstract>
+        <dc:date>2021-02-28</dc:date>
+        <z:shortTitle>Learning Monopoly Gameplay</z:shortTitle>
+        <z:libraryCatalog>arXiv.org</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://arxiv.org/abs/2103.00683</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-06-28 15:48:08</dcterms:dateSubmitted>
+        <dc:description>arXiv: 2103.00683</dc:description>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_419">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>arXiv Fulltext PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/pdf/2103.00683.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-06-28 15:48:19</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_420">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>arXiv.org Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/abs/2103.00683</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-06-28 15:48:23</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="urn:isbn:978-0-7803-7203-0">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:identifier>ISBN 978-0-7803-7203-0</dc:identifier>
+                <dc:title>Proceedings 2001 IEEE International Symposium on Computational Intelligence in Robotics and Automation (Cat. No.01EX515)</dc:title>
+                <dc:identifier>DOI 10.1109/CIRA.2001.1013210</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Banff, Alta., Canada</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>IEEE</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Yasumura</foaf:surname>
+                        <foaf:givenName>Y.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Oguchi</foaf:surname>
+                        <foaf:givenName>K.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Nitta</foaf:surname>
+                        <foaf:givenName>K.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_426"/>
+        <dc:title>Negotiation strategy of agents in the MONOPOLY game</dc:title>
+        <dc:date>2001</dc:date>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://ieeexplore.ieee.org/document/1013210/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-06-28 15:49:10</dcterms:dateSubmitted>
+        <bib:pages>277-281</bib:pages>
+        <bib:presentedAt>
+            <bib:Conference>
+                <dc:title>2001 International Symposium on Computational Intelligence in Robotics and Automation</dc:title>
+            </bib:Conference>
+        </bib:presentedAt>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_426">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://moscow.sci-hub.se/3317/19346a5b777c1582800b51ee3a7cf5ed/negotiation-strategy-of-agents-in-the-monopoly-game.pdf#view=FitH</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-06-28 15:49:15</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="urn:isbn:978-1-4673-1194-6%20978-1-4673-1193-9%20978-1-4673-1192-2">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:identifier>ISBN 978-1-4673-1194-6 978-1-4673-1193-9 978-1-4673-1192-2</dc:identifier>
+                <dc:title>2012 IEEE Conference on Computational Intelligence and Games (CIG)</dc:title>
+                <dc:identifier>DOI 10.1109/CIG.2012.6374168</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Granada, Spain</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>IEEE</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Friberger</foaf:surname>
+                        <foaf:givenName>Marie Gustafsson</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Togelius</foaf:surname>
+                        <foaf:givenName>Julian</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_430"/>
+        <dc:title>Generating interesting Monopoly boards from open data</dc:title>
+        <dc:date>09/2012</dc:date>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://ieeexplore.ieee.org/document/6374168/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-06-28 15:49:18</dcterms:dateSubmitted>
+        <bib:pages>288-295</bib:pages>
+        <bib:presentedAt>
+            <bib:Conference>
+                <dc:title>2012 IEEE Conference on Computational Intelligence and Games (CIG)</dc:title>
+            </bib:Conference>
+        </bib:presentedAt>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_430">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Submitted Version</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://citeseerx.ist.psu.edu/viewdoc/download;jsessionid=81CA58D9ACCE8CA7412077093E520EFC?doi=10.1.1.348.6099&amp;rep=rep1&amp;type=pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-06-28 15:49:32</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="urn:isbn:978-1-4244-5770-0%20978-1-4244-5771-7">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:identifier>ISBN 978-1-4244-5770-0 978-1-4244-5771-7</dc:identifier>
+                <dc:title>Proceedings of the 2009 Winter Simulation Conference (WSC)</dc:title>
+                <dc:identifier>DOI 10.1109/WSC.2009.5429349</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Austin, TX, USA</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>IEEE</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Friedman</foaf:surname>
+                        <foaf:givenName>Eric J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Henderson</foaf:surname>
+                        <foaf:givenName>Shane G.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Byuen</foaf:surname>
+                        <foaf:givenName>Thomas</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gallardo</foaf:surname>
+                        <foaf:givenName>German Gutierrez</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_429"/>
+        <dc:title>Estimating the probability that the game of Monopoly never ends</dc:title>
+        <dc:date>12/2009</dc:date>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://ieeexplore.ieee.org/document/5429349/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-06-28 15:49:23</dcterms:dateSubmitted>
+        <bib:pages>380-391</bib:pages>
+        <bib:presentedAt>
+            <bib:Conference>
+               <dc:title>2009 Winter Simulation Conference (WSC 2009)</dc:title>
+            </bib:Conference>
+        </bib:presentedAt>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_429">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://moscow.sci-hub.se/3233/bacac19e84c764b72c627d05f55c0ad9/friedman2009.pdf#view=FitH</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-06-28 15:49:32</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Report rdf:about="https://project-archive.inf.ed.ac.uk/ug4/20181042/ug4_proj.pdf">
+        <z:itemType>report</z:itemType>
+        <dc:title>Learning to Play Monopoly with Monte Carlo Tree Search</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://project-archive.inf.ed.ac.uk/ug4/20181042/ug4_proj.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Report>
+    <rdf:Description rdf:about="urn:isbn:978-1-72811-895-6">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:identifier>ISBN 978-1-72811-895-6</dc:identifier>
+                <dc:title>TENCON 2019 - 2019 IEEE Region 10 Conference (TENCON)</dc:title>
+                <dc:identifier>DOI 10.1109/TENCON.2019.8929523</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Kochi, India</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>IEEE</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Arun</foaf:surname>
+                        <foaf:givenName>Edupuganti</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rajesh</foaf:surname>
+                        <foaf:givenName>Harikrishna</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chakrabarti</foaf:surname>
+                        <foaf:givenName>Debarka</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cherala</foaf:surname>
+                        <foaf:givenName>Harikiran</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>George</foaf:surname>
+                        <foaf:givenName>Koshy</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_433"/>
+        <dc:title>Monopoly Using Reinforcement Learning</dc:title>
+        <dc:date>10/2019</dc:date>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://ieeexplore.ieee.org/document/8929523/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-06-28 15:49:50</dcterms:dateSubmitted>
+        <bib:pages>858-862</bib:pages>
+        <bib:presentedAt>
+            <bib:Conference>
+                <dc:title>TENCON 2019 - 2019 IEEE Region 10 Conference (TENCON)</dc:title>
+            </bib:Conference>
+        </bib:presentedAt>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_433">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://sci-hub.se/downloads/2020-04-10/35/arun2019.pdf?rand=60d9ef9f20b26#view=FitH</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-06-28 15:50:07</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Report rdf:about="https://pi4.math.illinois.edu/wp-content/uploads/2014/10/Gartland-Burson-Ferguson-Markovopoly.pdf">
+        <z:itemType>report</z:itemType>
+        <dc:title>A Markovian Exploration of Monopoly</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://pi4.math.illinois.edu/wp-content/uploads/2014/10/Gartland-Burson-Ferguson-Markovopoly.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Report>
+    <rdf:Description rdf:about="https://intelligence.csd.auth.gr/publication/conference-papers/learning-to-play-monopoly-a-reinforcement-learning-approach/">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal></bib:Journal>
+        </dcterms:isPartOf>
+        <dc:title>Learning to play Monopoly: A Reinforcement Learning approach</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://intelligence.csd.auth.gr/publication/conference-papers/learning-to-play-monopoly-a-reinforcement-learning-approach/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </rdf:Description>
+    <bib:ConferenceProceedings rdf:about="https://core.ac.uk/download/pdf/48614184.pdf">
+        <z:itemType>presentation</z:itemType>
+        <dc:title>What’s the Best Monopoly Strategy?</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://core.ac.uk/download/pdf/48614184.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:ConferenceProceedings>
+    <bib:Article rdf:about="https://www.jstage.jst.go.jp/article/ipsjjip/20/3/20_723/_article">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1882-6652"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Nakai</foaf:surname>
+                        <foaf:givenName>Kenichiro</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Takenaga</foaf:surname>
+                        <foaf:givenName>Yasuhiko</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_440"/>
+        <dc:title>NP-Completeness of Pandemic</dc:title>
+        <dc:date>2012</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.jstage.jst.go.jp/article/ipsjjip/20/3/20_723/_article</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-06-28 15:59:47</dcterms:dateSubmitted>
+        <bib:pages>723-726</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1882-6652">
+        <prism:volume>20</prism:volume>
+        <dc:title>Journal of Information Processing</dc:title>
+        <dc:identifier>DOI 10.2197/ipsjjip.20.723</dc:identifier>
+        <prism:number>3</prism:number>
+        <dcterms:alternative>Journal of Information Processing</dcterms:alternative>
+        <dc:identifier>ISSN 1882-6652</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_440">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.jstage.jst.go.jp/article/ipsjjip/20/3/20_723/_pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-06-28 15:59:50</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Thesis rdf:about="http://www.ke.tu-darmstadt.de/lehre/arbeiten/bachelor/2011/Buescher_Niklas.pdf">
+        <z:itemType>thesis</z:itemType>
+        <dc:title>On Solving Pentago</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.ke.tu-darmstadt.de/lehre/arbeiten/bachelor/2011/Buescher_Niklas.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Thesis>
+    <bib:Article rdf:about="http://arxiv.org/abs/1906.02330">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+               <dc:title>arXiv:1906.02330 [cs, stat]</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Serrino</foaf:surname>
+                        <foaf:givenName>Jack</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kleiman-Weiner</foaf:surname>
+                        <foaf:givenName>Max</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Parkes</foaf:surname>
+                        <foaf:givenName>David C.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tenenbaum</foaf:surname>
+                        <foaf:givenName>Joshua B.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_444"/>
+        <link:link rdf:resource="#item_445"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Computer Science - Machine Learning</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Statistics - Machine Learning</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Computer Science - Multiagent Systems</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Finding Friend and Foe in Multi-Agent Games</dc:title>
+        <dcterms:abstract>Recent breakthroughs in AI for multi-agent games like Go, Poker, and Dota, have seen great strides in recent years. Yet none of these games address the real-life challenge of cooperation in the presence of unknown and uncertain teammates. This challenge is a key game mechanism in hidden role games. Here we develop the DeepRole algorithm, a multi-agent reinforcement learning agent that we test on The Resistance: Avalon, the most popular hidden role game. DeepRole combines counterfactual regret minimization (CFR) with deep value networks trained through self-play. Our algorithm integrates deductive reasoning into vector-form CFR to reason about joint beliefs and deduce partially observable actions. We augment deep value networks with constraints that yield interpretable representations of win probabilities. These innovations enable DeepRole to scale to the full Avalon game. Empirical game-theoretic methods show that DeepRole outperforms other hand-crafted and learned agents in five-player Avalon. DeepRole played with and against human players on the web in hybrid human-agent teams. We find that DeepRole outperforms human players as both a cooperator and a competitor.</dcterms:abstract>
+        <dc:date>2019-06-05</dc:date>
+        <z:libraryCatalog>arXiv.org</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://arxiv.org/abs/1906.02330</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-06-28 16:00:28</dcterms:dateSubmitted>
+        <dc:description>arXiv: 1906.02330</dc:description>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_444">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>arXiv Fulltext PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/pdf/1906.02330.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-06-28 16:00:35</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_445">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>arXiv.org Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/abs/1906.02330</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-06-28 16:00:38</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Thesis rdf:about="https://openworks.wooster.edu/independentstudy/8917/">
+        <z:itemType>thesis</z:itemType>
+        <dc:title>A Mathematical Analysis of the Game of Santorini</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://openworks.wooster.edu/independentstudy/8917/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Thesis>
+    <bib:Data rdf:about="https://github.com/carsongeissler/SantoriniIS">
+        <z:itemType>computerProgram</z:itemType>
+        <dc:title>A Mathematical Analysis of the Game of Santorini</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://github.com/carsongeissler/SantoriniIS</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Data>
+    <bib:Report rdf:about="https://eprints.illc.uva.nl/id/eprint/193/1/PP-2006-18.text.pdf">
+        <z:itemType>report</z:itemType>
+        <dc:title>The complexity of Scotland Yard</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://eprints.illc.uva.nl/id/eprint/193/1/PP-2006-18.text.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Report>
+    <rdf:Description rdf:about="urn:isbn:978-1-4799-3547-5">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:identifier>ISBN 978-1-4799-3547-5</dc:identifier>
+                <dc:title>2014 IEEE Conference on Computational Intelligence and Games</dc:title>
+                <dc:identifier>DOI 10.1109/CIG.2014.6932907</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Dortmund, Germany</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>IEEE</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Szubert</foaf:surname>
+                        <foaf:givenName>Marcin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jaskowski</foaf:surname>
+                        <foaf:givenName>Wojciech</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_451"/>
+        <dc:title>Temporal difference learning of N-tuple networks for the game 2048</dc:title>
+        <dc:date>8/2014</dc:date>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://ieeexplore.ieee.org/document/6932907/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-06-28 16:09:20</dcterms:dateSubmitted>
+        <bib:pages>1-8</bib:pages>
+        <bib:presentedAt>
+            <bib:Conference>
+                <dc:title>2014 IEEE Conference on Computational Intelligence and Games (CIG)</dc:title>
+            </bib:Conference>
+        </bib:presentedAt>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_451">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Submitted Version</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.cs.put.poznan.pl/mszubert/pub/szubert2014cig.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-06-28 16:09:26</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://arxiv.org/abs/1501.03837">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal><dc:title>arXiv:1501.03837 [cs]</dc:title></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Abdelkader</foaf:surname>
+                        <foaf:givenName>Ahmed</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Acharya</foaf:surname>
+                        <foaf:givenName>Aditya</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dasler</foaf:surname>
+                        <foaf:givenName>Philip</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_453"/>
+        <link:link rdf:resource="#item_454"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Computer Science - Computational Complexity</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>F.2.2</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>On the Complexity of Slide-and-Merge Games</dc:title>
+        <dcterms:abstract>We study the complexity of a particular class of board games, which we call `slide and merge' games. Namely, we consider 2048 and Threes, which are among the most popular games of their type. In both games, the player is required to slide all rows or columns of the board in one direction to create a high value tile by merging pairs of equal tiles into one with the sum of their values. This combines features from both block pushing and tile matching puzzles, like Push and Bejeweled, respectively. We define a number of natural decision problems on a suitable generalization of these games and prove NP-hardness for 2048 by reducing from 3SAT. Finally, we discuss the adaptation of our reduction to Threes and conjecture a similar result.</dcterms:abstract>
+        <dc:date>2015-01-15</dc:date>
+        <z:libraryCatalog>arXiv.org</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://arxiv.org/abs/1501.03837</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-06-28 16:09:34</dcterms:dateSubmitted>
+        <dc:description>arXiv: 1501.03837</dc:description>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_453">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>arXiv Fulltext PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/pdf/1501.03837.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-06-28 16:09:48</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_454">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>arXiv.org Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/abs/1501.03837</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-06-28 16:09:52</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://drops.dagstuhl.de/opus/volltexte/2016/5885/">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+               <dc:identifier>DOI 10.4230/LIPICS.FUN.2016.1</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Abdelkader</foaf:surname>
+                        <foaf:givenName>Ahmed</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Acharya</foaf:surname>
+                        <foaf:givenName>Aditya</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dasler</foaf:surname>
+                        <foaf:givenName>Philip</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <bib:contributors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Herbstritt</foaf:surname>
+                        <foaf:givenName>Marc</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:contributors>
+        <dc:subject>
+            <z:AutomaticTag>
+                <rdf:value>000 Computer science, knowledge, general works</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Computer Science</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>2048 Without New Tiles Is Still Hard</dc:title>
+        <dc:date>2016</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Datacite)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://drops.dagstuhl.de/opus/volltexte/2016/5885/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-06-28 16:09:58</dcterms:dateSubmitted>
+        <dc:description>Artwork Size: 14 pages
+Medium: application/pdf
+Publisher: Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik GmbH, Wadern/Saarbruecken, Germany</dc:description>
+        <bib:pages>14 pages</bib:pages>
+    </bib:Article>
+    <rdf:Description rdf:about="https://aaai.org/Library/Workshops/2004/ws04-04-001.php">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal></bib:Journal>
+        </dcterms:isPartOf>
+        <dc:title>MDA: A Formal Approach to Game Design and Game Research</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://aaai.org/Library/Workshops/2004/ws04-04-001.php</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </rdf:Description>
+    <rdf:Description rdf:about="urn:isbn:2342-9666">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>6</prism:volume>
+                <dc:identifier>ISBN 2342-9666</dc:identifier>
+                <dc:title>Think Design Play</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>DiGRA/Utrecht School of the Arts</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <dc:title>Exploring anonymity in cooperative board games</dc:title>
+        <dcterms:abstract>This study was done as a part of a larger research project where the interest was on exploring if and how gameplay design could give informative principles to the design of educational activities. The researchers conducted a series of studies trying to map game mechanics that had the special quality of being inclusive, i.e., playable by a diverse group of players. This specific study focused on designing a cooperative board game with the goal of implementing anonymity as a game mechanic. Inspired by the gameplay design patterns methodology (Björk &amp; Holopainen 2005a; 2005b; Holopainen &amp; Björk 2008), mechanics from existing cooperative board games were extracted and analyzed in order to inform the design process. The results from prototyping and play testing indicated that it is possible to implement anonymous actions in cooperative board games and that this mechanic made rather unique forms of gameplay possible. These design patterns can be further developed in order to address inclusive educational practices.</dcterms:abstract>
+        <dc:date>January 2011</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.digra.org/digital-library/publications/exploring-anonymity-in-cooperative-board-games/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:presentedAt>
+            <bib:Conference>
+               <dc:title>2011 DiGRA International Conference</dc:title>
+            </bib:Conference>
+        </bib:presentedAt>
+    </rdf:Description>
+    <bib:Article rdf:about="http://arxiv.org/abs/2107.07630">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal><dc:title>arXiv:2107.07630 [cs]</dc:title></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Siu</foaf:surname>
+                        <foaf:givenName>Ho Chit</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pena</foaf:surname>
+                        <foaf:givenName>Jaime D.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chang</foaf:surname>
+                        <foaf:givenName>Kimberlee C.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chen</foaf:surname>
+                        <foaf:givenName>Edenna</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zhou</foaf:surname>
+                        <foaf:givenName>Yutai</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lopez</foaf:surname>
+                        <foaf:givenName>Victor J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Palko</foaf:surname>
+                        <foaf:givenName>Kyle</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Allen</foaf:surname>
+                        <foaf:givenName>Ross E.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_460"/>
+        <link:link rdf:resource="#item_461"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Computer Science - Artificial Intelligence</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+                <rdf:value>Computer Science - Human-Computer Interaction</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Evaluation of Human-AI Teams for Learned and Rule-Based Agents in Hanabi</dc:title>
+        <dcterms:abstract>Deep reinforcement learning has generated superhuman AI in competitive games such as Go and StarCraft. Can similar learning techniques create a superior AI teammate for human-machine collaborative games? Will humans prefer AI teammates that improve objective team performance or those that improve subjective metrics of trust? In this study, we perform a single-blind evaluation of teams of humans and AI agents in the cooperative card game Hanabi, with both rule-based and learning-based agents. In addition to the game score, used as an objective metric of the human-AI team performance, we also quantify subjective measures of the human's perceived performance, teamwork, interpretability, trust, and overall preference of AI teammate. We find that humans have a clear preference toward a rule-based AI teammate (SmartBot) over a state-of-the-art learning-based AI teammate (Other-Play) across nearly all subjective metrics, and generally view the learning-based agent negatively, despite no statistical difference in the game score. This result has implications for future AI design and reinforcement learning benchmarking, highlighting the need to incorporate subjective metrics of human-AI teaming rather than a singular focus on objective task performance.</dcterms:abstract>
+        <dc:date>2021-07-19</dc:date>
+        <z:libraryCatalog>arXiv.org</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://arxiv.org/abs/2107.07630</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-07-24 06:30:44</dcterms:dateSubmitted>
+        <dc:description>arXiv: 2107.07630</dc:description>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_460">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>arXiv Fulltext PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/pdf/2107.07630.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-07-24 06:31:01</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_461">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>arXiv.org Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/abs/2107.07630</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-07-24 06:31:06</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://pubs.nctm.org/view/journals/mt/75/9/article-p751.xml">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0025-5769,%202330-0582"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Litwiller</foaf:surname>
+                        <foaf:givenName>Bonnie H.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Duncan</foaf:surname>
+                        <foaf:givenName>David R.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Probabilites In Yahtzee</dc:title>
+        <dcterms:abstract>Teachers of units in probability are often interested in providing examples of probabilistic situations in a nonclassroom setting. Games are a rich source of such probabilities. Many people enjoy playing a commercial game called Yahtzee. A Yahtzee player receives points for achieving various specified numerical combinations of five dice during the three rolls that constitute a turn.</dcterms:abstract>
+        <dc:date>12/1982</dc:date>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://pubs.nctm.org/view/journals/mt/75/9/article-p751.xml</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-07-24 07:53:57</dcterms:dateSubmitted>
+        <bib:pages>751-754</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0025-5769,%202330-0582">
+        <prism:volume>75</prism:volume>
+        <dc:title>The Mathematics Teacher</dc:title>
+        <dc:identifier>DOI 10.5951/MT.75.9.0751</dc:identifier>
+        <prism:number>9</prism:number>
+        <dcterms:alternative>MT</dcterms:alternative>
+        <dc:identifier>ISSN 0025-5769, 2330-0582</dc:identifier>
+    </bib:Journal>
+    <bib:ConferenceProceedings rdf:about="http://www.yahtzee.org.uk/optimal_yahtzee_TV.pdf">
+        <z:itemType>presentation</z:itemType>
+        <z:presenters>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Verhoeff</foaf:surname>
+                        <foaf:givenName>Tom</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:presenters>
+        <dc:title>Optimal Solitaire Yahtzee Strategies</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.yahtzee.org.uk/optimal_yahtzee_TV.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:ConferenceProceedings>
+    <bib:Article rdf:about="http://researchers.lille.inria.fr/~lazaric/Webpage/PublicationsByTopic_files/bonarini2005yahtzee.pdf">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bonarini</foaf:surname>
+                        <foaf:givenName>Andrea</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lazaric</foaf:surname>
+                        <foaf:givenName>Alessandro</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Restelli</foaf:surname>
+                        <foaf:givenName>Marcello</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Yahtzee: a Large Stochastic Environment for RL Benchmarks</dc:title>
+        <dcterms:abstract>Yahtzee is a game that is regularly played by more than 100 million people in the world. We
+propose a simplified version of Yahtzee as a benchmark for RL algorithms. We have already
+used it for this purpose, and an implementation is available.</dcterms:abstract>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://researchers.lille.inria.fr/~lazaric/Webpage/PublicationsByTopic_files/bonarini2005yahtzee.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>1</bib:pages>
+    </bib:Article>
+    <bib:Thesis rdf:about="https://www.csc.kth.se/utbildning/kth/kurser/DD143X/dkand13/Group4Per/report/12-serra-widell-nigata.pdf">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <foaf:name>KTH, School of Computer Science and Communication (CSC)</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Serra</foaf:surname>
+                        <foaf:givenName>Andreas</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Niigata</foaf:surname>
+                        <foaf:givenName>Kai Widell</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Optimal Yahtzee performance in multi-player games</dc:title>
+        <dcterms:abstract>Yahtzee is a game with a moderately large search space, dependent on the factor of luck. This makes it not quite trivial to implement an optimal strategy for it. Using the optimal strategy for single-player
+use, comparisons against other algorithms are made and the results are analyzed for hints on what it could take to make an algorithm that could beat the single-player optimal strategy.</dcterms:abstract>
+        <dc:date>April 12, 2013</dc:date>
+        <z:language>en</z:language>
+        <z:archive>http://www.diva-portal.org/smash/get/diva2:668705/FULLTEXT01.pdf</z:archive>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.csc.kth.se/utbildning/kth/kurser/DD143X/dkand13/Group4Per/report/12-serra-widell-nigata.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <z:numPages>17</z:numPages>
+        <z:type>Independent thesis Basic level (degree of Bachelor)</z:type>
+    </bib:Thesis>
+    <bib:Manuscript rdf:about="http://www-set.win.tue.nl/~wstomv/misc/yahtzee/yahtzee-report-unfinished.pdf">
+        <z:itemType>manuscript</z:itemType>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Verhoeff</foaf:surname>
+                        <foaf:givenName>Tom</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>How to Maximize Your Score in Solitaire Yahtzee</dc:title>
+        <dcterms:abstract>Yahtzee is a well-known game played with five dice. Players take turns at assembling and scoring dice patterns. The player with the highest score wins. Solitaire Yahtzee is a single-player version of Yahtzee aimed at maximizing one’s score. A strategy for playing Yahtzee determines which choice to make in each situation of the game. We show that the maximum expected score over all Solitaire Yahtzee strategies is 254.5896. . . .</dcterms:abstract>
+        <z:language>en</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www-set.win.tue.nl/~wstomv/misc/yahtzee/yahtzee-report-unfinished.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <z:numPages>18</z:numPages>
+        <z:type>Incomplete Draft</z:type>
+    </bib:Manuscript>
+    <bib:Thesis rdf:about="https://raw.githubusercontent.com/philvasseur/Yahtzee-DQN-Thesis/dcf2bfe15c3b8c0ff3256f02dd3c0aabdbcbc9bb/webpage/final_report.pdf">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <foaf:name>Yale University, Department of Computer Science</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Vasseur</foaf:surname>
+                        <foaf:givenName>Philip</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Using Deep Q-Learning to Compare Strategy Ladders of Yahtzee</dc:title>
+        <dcterms:abstract>“Bots” playing games is not a new concept,
+likely going back to the first video games. However,
+there has been a new wave recently using machine
+learning to learn to play games at a near optimal
+level - essentially using neural networks to “solve”
+games. Depending on the game, this can be relatively
+straight forward using supervised learning. However,
+this requires having data for optimal play, which is
+often not possible due to the sheer complexity of many
+games. For example, solitaire Yahtzee has this data
+available, but two player Yahtzee does not due to the
+massive state space. A recent trend in response to this
+started with Google Deep Mind in 2013, who used Deep
+Reinforcement Learning to play various Atari games
+[4].
+This project will apply Deep Reinforcement Learning
+(specifically Deep Q-Learning) and measure how an
+agent learns to play Yahtzee in the form of a strategy
+ladder. A strategy ladder is a way of looking at how
+the performance of an AI varies with the computational
+resources it uses. Different sets of rules changes how the
+the AI learns which varies the strategy ladder itself. This
+project will vary the upper bonus threshold and then
+attempt to measure how “good” the various strategy
+ladders are - in essence attempting to find the set of
+rules which creates the “best” version of Yahtzee. We
+assume/expect that there is some correlation between
+strategy ladders for AI and strategy ladders for human,
+meaning that a game with a “good” strategy ladder for
+an AI indicates that game is interesting and challenging
+for humans.</dcterms:abstract>
+        <dc:date>December 12, 2019</dc:date>
+        <z:language>en</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://raw.githubusercontent.com/philvasseur/Yahtzee-DQN-Thesis/dcf2bfe15c3b8c0ff3256f02dd3c0aabdbcbc9bb/webpage/final_report.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <z:numPages>12</z:numPages>
+    </bib:Thesis>
+    <bib:Report rdf:about="http://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-168668">
+        <z:itemType>report</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <foaf:name>KTH Royal Institute Of Technology Computer Science And Communication</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <dc:title>Defensive Yahtzee</dc:title>
+        <dcterms:abstract>In this project an algorithm has been created that plays Yahtzee using rule
+based heuristics. The focus is getting a high lowest score and a high 10th
+percentile. All rules of Yahtzee and the probabilities for each combination
+have been studied and based on this each turn is optimized to get a
+guaranteed decent high score. The algorithm got a lowest score of 79 and a
+10th percentile of 152 when executed 100 000 times.</dcterms:abstract>
+        <z:archive>https://www.diva-portal.org/smash/get/diva2:817838/FULLTEXT01.pdf</z:archive>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-168668</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>22</bib:pages>
+    </bib:Report>
+    <bib:Report rdf:about="http://www.cs.loyola.edu/~jglenn/research/optimal_yahtzee.pdf">
+        <z:itemType>report</z:itemType>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Glenn</foaf:surname>
+                        <foaf:givenName>James</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>An Optimal Strategy for Yahtzee</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.cs.loyola.edu/~jglenn/research/optimal_yahtzee.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Report>
+    <bib:ConferenceProceedings rdf:about="https://www.rtealwitter.com/slides/2020-JMM.pdf">
+        <z:itemType>presentation</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Middlebury College</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+            </foaf:Organization>
+        </dc:publisher>
+        <z:presenters>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>R. Teal Witter</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Alex Lyford</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:presenters>
+        <link:link rdf:resource="#item_473"/>
+        <dc:title>Applications of Graph Theory and Probability in the Board Game Ticket to Ride</dc:title>
+        <dc:date>January 16, 2020</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.rtealwitter.com/slides/2020-JMM.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:ConferenceProceedings>
+    <z:Attachment rdf:about="#item_473">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.rtealwitter.com/slides/2020-JMM.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-07-24 08:18:37</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="#item_476">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal><dc:title>arXiv:1511.08099 [cs]</dc:title></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cuayáhuitl</foaf:surname>
+                        <foaf:givenName>Heriberto</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Keizer</foaf:surname>
+                        <foaf:givenName>Simon</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lemon</foaf:surname>
+                        <foaf:givenName>Oliver</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_478"/>
+        <link:link rdf:resource="#item_479"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Computer Science - Artificial Intelligence</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Computer Science - Machine Learning</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Strategic Dialogue Management via Deep Reinforcement Learning</dc:title>
+        <dcterms:abstract>Artificially intelligent agents equipped with strategic skills that can negotiate during their interactions with other natural or artificial agents are still underdeveloped. This paper describes a successful application of Deep Reinforcement Learning (DRL) for training intelligent agents with strategic conversational skills, in a situated dialogue setting. Previous studies have modelled the behaviour of strategic agents using supervised learning and traditional reinforcement learning techniques, the latter using tabular representations or learning with linear function approximation. In this study, we apply DRL with a high-dimensional state space to the strategic board game of Settlers of Catan---where players can offer resources in exchange for others and they can also reply to offers made by other players. Our experimental results report that the DRL-based learnt policies significantly outperformed several baselines including random, rule-based, and supervised-based behaviours. The DRL-based policy has a 53% win rate versus 3 automated players (`bots'), whereas a supervised player trained on a dialogue corpus in this setting achieved only 27%, versus the same 3 bots. This result supports the claim that DRL is a promising framework for training dialogue systems, and strategic agents with negotiation abilities.</dcterms:abstract>
+        <dc:date>2015-11-25</dc:date>
+        <z:libraryCatalog>arXiv.org</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://arxiv.org/abs/1511.08099</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-07-24 08:23:51</dcterms:dateSubmitted>
+        <dc:description>arXiv: 1511.08099</dc:description>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_478">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>arXiv Fulltext PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/pdf/1511.08099.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-07-24 08:23:57</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_479">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>arXiv.org Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/abs/1511.08099</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-07-24 08:24:01</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="urn:isbn:978-92-837-2336-3">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:identifier>ISBN 978-92-837-2336-3</dc:identifier>
+                <dc:title>14th NATO Operations Research and Analysis (OR&amp;A) Conference: Emerging and Disruptive Technology</dc:title>
+                <dc:identifier>DOI 10.14339/STO-MP-SAS-OCS-ORA-2020-WCM-01-PDF</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+           <foaf:Organization><foaf:name>NATO</foaf:name></foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Christoffer Limér</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Erik Kalmér</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Mika Cohen</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_483"/>
+        <dc:title>Monte Carlo Tree Search for Risk</dc:title>
+        <dc:date>2/16/2021</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>AC/323(SAS-ACT)TP/1017</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sto.nato.int/publications/STO%20Meeting%20Proceedings/STO-MP-SAS-OCS-ORA-2020/MP-SAS-OCS-ORA-2020-WCM-01.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_483">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sto.nato.int/publications/STO%20Meeting%20Proceedings/STO-MP-SAS-OCS-ORA-2020/MP-SAS-OCS-ORA-2020-WCM-01.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-07-24 08:34:15</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:ConferenceProceedings rdf:about="https://www.sto.nato.int/publications/STO%20Meeting%20Proceedings/STO-MP-SAS-OCS-ORA-2020/MP-SAS-OCS-ORA-2020-WCM-01P.pdf">
+        <z:itemType>presentation</z:itemType>
+        <z:presenters>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Christoffer Limér</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Erik Kalmér</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:presenters>
+        <link:link rdf:resource="#item_486"/>
+        <dc:title>Wargaming with Monte-Carlo Tree Search</dc:title>
+        <dc:date>2/16/2021</dc:date>
+        <z:language>en</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sto.nato.int/publications/STO%20Meeting%20Proceedings/STO-MP-SAS-OCS-ORA-2020/MP-SAS-OCS-ORA-2020-WCM-01P.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:ConferenceProceedings>
+    <z:Attachment rdf:about="#item_486">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sto.nato.int/publications/STO%20Meeting%20Proceedings/STO-MP-SAS-OCS-ORA-2020/MP-SAS-OCS-ORA-2020-WCM-01P.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-07-24 08:35:04</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://arxiv.org/abs/1910.04376">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal><dc:title>arXiv:1910.04376 [cs]</dc:title></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zha</foaf:surname>
+                        <foaf:givenName>Daochen</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lai</foaf:surname>
+                        <foaf:givenName>Kwei-Herng</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cao</foaf:surname>
+                        <foaf:givenName>Yuanpu</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Huang</foaf:surname>
+                        <foaf:givenName>Songyi</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wei</foaf:surname>
+                        <foaf:givenName>Ruzhe</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Guo</foaf:surname>
+                        <foaf:givenName>Junyu</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hu</foaf:surname>
+                        <foaf:givenName>Xia</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_489"/>
+        <link:link rdf:resource="#item_492"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Computer Science - Artificial Intelligence</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>RLCard: A Toolkit for Reinforcement Learning in Card Games</dc:title>
+        <dcterms:abstract>RLCard is an open-source toolkit for reinforcement learning research in card games. It supports various card environments with easy-to-use interfaces, including Blackjack, Leduc Hold'em, Texas Hold'em, UNO, Dou Dizhu and Mahjong. The goal of RLCard is to bridge reinforcement learning and imperfect information games, and push forward the research of reinforcement learning in domains with multiple agents, large state and action space, and sparse reward. In this paper, we provide an overview of the key components in RLCard, a discussion of the design principles, a brief introduction of the interfaces, and comprehensive evaluations of the environments. The codes and documents are available at https://github.com/datamllab/rlcard</dcterms:abstract>
+        <dc:date>2020-02-14</dc:date>
+        <z:shortTitle>RLCard</z:shortTitle>
+        <z:libraryCatalog>arXiv.org</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://arxiv.org/abs/1910.04376</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-07-24 08:40:55</dcterms:dateSubmitted>
+        <dc:description>arXiv: 1910.04376</dc:description>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_489">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>arXiv Fulltext PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/pdf/1910.04376.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-07-24 08:40:59</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_492">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>arXiv.org Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/abs/1910.04376</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-07-24 08:41:03</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://arxiv.org/abs/2009.12065">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal><dc:title>arXiv:2009.12065 [cs]</dc:title></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gaina</foaf:surname>
+                        <foaf:givenName>Raluca D.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Balla</foaf:surname>
+                        <foaf:givenName>Martin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dockhorn</foaf:surname>
+                        <foaf:givenName>Alexander</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Montoliu</foaf:surname>
+                        <foaf:givenName>Raul</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Perez-Liebana</foaf:surname>
+                        <foaf:givenName>Diego</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_493"/>
+        <link:link rdf:resource="#item_494"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Computer Science - Artificial Intelligence</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Design and Implementation of TAG: A Tabletop Games Framework</dc:title>
+        <dcterms:abstract>This document describes the design and implementation of the Tabletop Games framework (TAG), a Java-based benchmark for developing modern board games for AI research. TAG provides a common skeleton for implementing tabletop games based on a common API for AI agents, a set of components and classes to easily add new games and an import module for defining data in JSON format. At present, this platform includes the implementation of seven different tabletop games that can also be used as an example for further developments. Additionally, TAG also incorporates logging functionality that allows the user to perform a detailed analysis of the game, in terms of action space, branching factor, hidden information, and other measures of interest for Game AI research. The objective of this document is to serve as a central point where the framework can be described at length. TAG can be downloaded at: https://github.com/GAIGResearch/TabletopGames</dcterms:abstract>
+        <dc:date>2020-09-25</dc:date>
+        <z:shortTitle>Design and Implementation of TAG</z:shortTitle>
+        <z:libraryCatalog>arXiv.org</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://arxiv.org/abs/2009.12065</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-07-24 08:41:01</dcterms:dateSubmitted>
+        <dc:description>arXiv: 2009.12065</dc:description>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_493">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>arXiv Fulltext PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/pdf/2009.12065.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-07-24 08:41:07</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_494">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>arXiv.org Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/abs/2009.12065</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-07-24 08:41:11</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Data rdf:about="https://github.com/AdamStelmaszczyk/gtsa">
+        <z:itemType>computerProgram</z:itemType>
+        <z:programmers>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Adam Stelmaszczyk</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:programmers>
+        <dc:title>Game Tree Search Algorithms - C++ library for AI bot programming.</dc:title>
+        <dc:date>2015</dc:date>
+        <z:shortTitle>Game Tree Search Algorithms</z:shortTitle>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://github.com/AdamStelmaszczyk/gtsa</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <z:programmingLanguage>C++</z:programmingLanguage>
+    </bib:Data>
+    <bib:Data rdf:about="https://github.com/GAIGResearch/TabletopGames">
+        <z:itemType>computerProgram</z:itemType>
+        <z:programmers>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Raluca D. Gaina</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Martin Balla</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Alexander Dockhorn</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Raul Montoliu</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Diego Perez-Liebana</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:programmers>
+        <dc:title>TAG: Tabletop Games Framework</dc:title>
+        <dcterms:abstract>The Tabletop Games Framework (TAG) is a Java-based benchmark for developing modern board games for AI research. TAG provides a common skeleton for implementing tabletop games based on a common API for AI agents, a set of components and classes to easily add new games and an import module for defining data in JSON format. At present, this platform includes the implementation of seven different tabletop games that can also be used as an example for further developments. Additionally, TAG also incorporates logging functionality that allows the user to perform a detailed analysis of the game, in terms of action space, branching factor, hidden information, and other measures of interest for Game AI research.</dcterms:abstract>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://github.com/GAIGResearch/TabletopGames</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dc:rights>MIT License</dc:rights>
+        <z:programmingLanguage>Java</z:programmingLanguage>
+    </bib:Data>
+    <z:Collection rdf:about="#collection_6">
+        <dc:title>2048</dc:title>
+        <dcterms:hasPart rdf:resource="https://doi.org/10.1007%2F978-3-319-50935-8_8"/>
+        <dcterms:hasPart rdf:resource="https://doi.org/10.1109%2Ftaai.2016.7880154"/>
+        <dcterms:hasPart rdf:resource="https://doi.org/10.1109%2Fcig.2014.6932920"/>
+        <dcterms:hasPart rdf:resource="http://arxiv.org/abs/1505.04274v1"/>
+        <dcterms:hasPart rdf:resource="http://arxiv.org/abs/1804.07396v1"/>
+        <dcterms:hasPart rdf:resource="http://arxiv.org/abs/1804.07393v2"/>
+        <dcterms:hasPart rdf:resource="http://arxiv.org/abs/1606.07374v2"/>
+        <dcterms:hasPart rdf:resource="http://arxiv.org/abs/1408.6315v1"/>
+        <dcterms:hasPart rdf:resource="urn:isbn:978-1-4799-3547-5"/>
+        <dcterms:hasPart rdf:resource="http://arxiv.org/abs/1501.03837"/>
+        <dcterms:hasPart rdf:resource="http://drops.dagstuhl.de/opus/volltexte/2016/5885/"/>
+    </z:Collection>
     <z:Collection rdf:about="#collection_25">
         <dc:title>Accessibility</dc:title>
         <dcterms:hasPart rdf:resource="http://link.springer.com/10.1007/s40869-018-0057-8"/>
         <dcterms:hasPart rdf:resource="http://link.springer.com/10.1007/s40869-018-0056-9"/>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_41">
+        <dc:title>Azul</dc:title>
+        <dcterms:hasPart rdf:resource="https://old.reddit.com/r/boardgames/comments/hxodaf/update_i_wrote_my_dissertation_on_azul/"/>
+        <dcterms:hasPart rdf:resource="https://ipsj.ixsq.nii.ac.jp/ej/?action=repository_action_common_download&amp;item_id=207669&amp;item_no=1&amp;attribute_id=1&amp;file_no=1"/>
+        <dcterms:hasPart rdf:resource="https://github.com/Swynfel/ceramic"/>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_42">
+        <dc:title>Blokus</dc:title>
+        <dcterms:hasPart rdf:resource="https://digitalcommons.calpoly.edu/cpesp/290/"/>
+        <dcterms:hasPart rdf:resource="urn:isbn:978-1-4799-2198-0%20978-1-4799-2199-7"/>
+        <dcterms:hasPart rdf:resource="urn:isbn:978-1-4799-0565-2%20978-1-4799-0562-1%20978-1-4799-0563-8"/>
     </z:Collection>
     <z:Collection rdf:about="#collection_33">
         <dc:title>Carcassonne</dc:title>
@@ -5045,10 +7854,34 @@ DOI: 10.1007/978-3-319-71649-7_5</dc:description>
         <dcterms:hasPart rdf:resource="http://arxiv.org/abs/1909.02128v2"/>
         <dcterms:hasPart rdf:resource="http://arxiv.org/abs/1902.06996v1"/>
         <dcterms:hasPart rdf:resource="urn:isbn:978-1-4503-8878-8"/>
+        <dcterms:hasPart rdf:resource="http://arxiv.org/abs/2010.02923"/>
     </z:Collection>
     <z:Collection rdf:about="#collection_27">
         <dc:title>Dixit</dc:title>
         <dcterms:hasPart rdf:resource="http://arxiv.org/abs/2010.00048"/>
+        <dcterms:hasPart rdf:resource="http://arxiv.org/abs/1903.02230"/>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_43">
+        <dc:title>Dominion</dc:title>
+        <dcterms:hasPart rdf:resource="https://dominionsimulator.wordpress.com/f-a-q/"/>
+        <dcterms:hasPart rdf:resource="https://github.com/mikemccllstr/dominionstats/"/>
+        <dcterms:hasPart rdf:resource="http://councilroom.com/openings"/>
+        <dcterms:hasPart rdf:resource="http://councilroom.com/optimal_card_ratios"/>
+        <dcterms:hasPart rdf:resource="http://councilroom.com/supply_win"/>
+        <dcterms:hasPart rdf:resource="http://forum.dominionstrategy.com/index.php"/>
+        <dcterms:hasPart rdf:resource="http://arxiv.org/abs/1811.11273"/>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_51">
+        <dc:title>Frameworks</dc:title>
+        <dcterms:hasPart rdf:resource="http://arxiv.org/abs/1910.04376"/>
+        <dcterms:hasPart rdf:resource="http://arxiv.org/abs/2009.12065"/>
+        <dcterms:hasPart rdf:resource="https://github.com/AdamStelmaszczyk/gtsa"/>
+        <dcterms:hasPart rdf:resource="https://github.com/GAIGResearch/TabletopGames"/>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_50">
+        <dc:title>Game Design</dc:title>
+        <dcterms:hasPart rdf:resource="https://aaai.org/Library/Workshops/2004/ws04-04-001.php"/>
+        <dcterms:hasPart rdf:resource="urn:isbn:2342-9666"/>
     </z:Collection>
     <z:Collection rdf:about="#collection_5">
         <dc:title>Hanabi</dc:title>
@@ -5075,6 +7908,9 @@ DOI: 10.1007/978-3-319-71649-7_5</dc:description>
         <dcterms:hasPart rdf:resource="https://ieeexplore.ieee.org/document/9140404/"/>
         <dcterms:hasPart rdf:resource="https://ojs.aaai.org/index.php/AIIDE/article/view/7404"/>
         <dcterms:hasPart rdf:resource="http://id.nii.ac.jp/1001/00205046/"/>
+        <dcterms:hasPart rdf:resource="https://github.com/aronsar/hoad"/>
+        <dcterms:hasPart rdf:resource="https://dl.acm.org/doi/10.5555/3463952.3464188"/>
+        <dcterms:hasPart rdf:resource="http://arxiv.org/abs/2107.07630"/>
     </z:Collection>
     <z:Collection rdf:about="#collection_26">
         <dc:title>Hive</dc:title>
@@ -5083,6 +7919,7 @@ DOI: 10.1007/978-3-319-71649-7_5</dc:description>
     <z:Collection rdf:about="#collection_24">
         <dc:title>Jenga</dc:title>
         <dcterms:hasPart rdf:resource="https://www.llpjournal.org/2020/04/13/jidokan-jenga.html"/>
+        <dcterms:hasPart rdf:resource="http://arxiv.org/abs/1708.01503"/>
     </z:Collection>
     <z:Collection rdf:about="#collection_9">
         <dc:title>Kingdomino</dc:title>
@@ -5090,9 +7927,16 @@ DOI: 10.1007/978-3-319-71649-7_5</dc:description>
         <dcterms:hasPart rdf:resource="http://arxiv.org/abs/1807.04458v2"/>
         <dcterms:hasPart rdf:resource="http://arxiv.org/abs/1909.02849v3"/>
     </z:Collection>
+    <z:Collection rdf:about="#collection_40">
+        <dc:title>Lost Cities</dc:title>
+        <dcterms:hasPart rdf:resource="https://minds.wisconsin.edu/bitstream/handle/1793/79080/LydeenSpr18.pdf?sequence=1&amp;isAllowed=y"/>
+    </z:Collection>
     <z:Collection rdf:about="#collection_16">
         <dc:title>Mafia</dc:title>
         <dcterms:hasPart rdf:resource="http://arxiv.org/abs/1009.1031v3"/>
+        <dcterms:hasPart rdf:resource="http://arxiv.org/abs/1905.08617"/>
+        <dcterms:hasPart rdf:resource="urn:isbn:978-3-319-50934-1%20978-3-319-50935-8"/>
+        <dcterms:hasPart rdf:resource="http://arxiv.org/abs/0804.0071"/>
     </z:Collection>
     <z:Collection rdf:about="#collection_14">
         <dc:title>Magic: The Gathering</dc:title>
@@ -5102,39 +7946,36 @@ DOI: 10.1007/978-3-319-71649-7_5</dc:description>
         <dcterms:hasPart rdf:resource="http://arxiv.org/abs/2003.05119v1"/>
         <dcterms:hasPart rdf:resource="http://arxiv.org/abs/1904.09828v2"/>
         <dcterms:hasPart rdf:resource="http://arxiv.org/abs/1810.03744v1"/>
+        <dcterms:hasPart rdf:resource="urn:isbn:978-3-030-04178-6%20978-3-030-04179-3"/>
+        <dcterms:hasPart rdf:resource="https://livrepository.liverpool.ac.uk/3029568/"/>
+        <dcterms:hasPart rdf:resource="https://vixra.org/abs/2001.0065"/>
+        <dcterms:hasPart rdf:resource="https://github.com/jeffythedragonslayer/maglisp"/>
+        <dcterms:hasPart rdf:resource="https://commons.lib.niu.edu/handle/10843/19194"/>
+        <dcterms:hasPart rdf:resource="https://www.doi.org/10.1685/CSC06077"/>
+        <dcterms:hasPart rdf:resource="https://doi.org/11250/2462429"/>
+        <dcterms:hasPart rdf:resource="http://cs229.stanford.edu/proj2012/HauPlotkinTran-MagicTheGatheringDeckPerformancePrediction.pdf"/>
     </z:Collection>
     <z:Collection rdf:about="#collection_22">
         <dc:title>Mobile Games</dc:title>
-        <dcterms:hasPart rdf:resource="#collection_6"/>
         <dcterms:hasPart rdf:resource="http://arxiv.org/abs/1603.00928v1"/>
         <dcterms:hasPart rdf:resource="http://arxiv.org/abs/1505.04274v1"/>
     </z:Collection>
-    <z:Collection rdf:about="#collection_6">
-        <dc:title>2048</dc:title>
-        <dcterms:hasPart rdf:resource="https://doi.org/10.1109%2Ftciaig.2012.2204883"/>
-        <dcterms:hasPart rdf:resource="https://doi.org/10.1007%2F978-3-319-50935-8_8"/>
-        <dcterms:hasPart rdf:resource="https://doi.org/10.1109%2Ftaai.2016.7880154"/>
-        <dcterms:hasPart rdf:resource="https://doi.org/10.1109%2Fcig.2014.6932920"/>
-        <dcterms:hasPart rdf:resource="http://arxiv.org/abs/1505.04274v1"/>
-        <dcterms:hasPart rdf:resource="http://arxiv.org/abs/1804.07396v1"/>
-        <dcterms:hasPart rdf:resource="http://arxiv.org/abs/1804.07393v2"/>
-        <dcterms:hasPart rdf:resource="http://arxiv.org/abs/1606.07374v2"/>
-        <dcterms:hasPart rdf:resource="http://arxiv.org/abs/1408.6315v1"/>
-        <rdf:type rdf:resource="http://www.zotero.org/namespaces/export#Collection"/>
-        <dc:title>2048</dc:title>
-        <dcterms:hasPart rdf:resource="https://doi.org/10.1109%2Ftciaig.2012.2204883"/>
-        <dcterms:hasPart rdf:resource="https://doi.org/10.1007%2F978-3-319-50935-8_8"/>
-        <dcterms:hasPart rdf:resource="https://doi.org/10.1109%2Ftaai.2016.7880154"/>
-        <dcterms:hasPart rdf:resource="https://doi.org/10.1109%2Fcig.2014.6932920"/>
-        <dcterms:hasPart rdf:resource="http://arxiv.org/abs/1505.04274v1"/>
-        <dcterms:hasPart rdf:resource="http://arxiv.org/abs/1804.07396v1"/>
-        <dcterms:hasPart rdf:resource="http://arxiv.org/abs/1804.07393v2"/>
-        <dcterms:hasPart rdf:resource="http://arxiv.org/abs/1606.07374v2"/>
-        <dcterms:hasPart rdf:resource="http://arxiv.org/abs/1408.6315v1"/>
+    <z:Collection rdf:about="#collection_44">
+        <dc:title>Modern Art: The card game</dc:title>
+        <dcterms:hasPart rdf:resource="https://github.com/captn3m0/modernart"/>
     </z:Collection>
     <z:Collection rdf:about="#collection_13">
         <dc:title>Monopoly</dc:title>
         <dcterms:hasPart rdf:resource="https://doi.org/10.1080%2F0025570x.1972.11976187"/>
+        <dcterms:hasPart rdf:resource="http://arxiv.org/abs/2103.00683"/>
+        <dcterms:hasPart rdf:resource="urn:isbn:978-0-7803-7203-0"/>
+        <dcterms:hasPart rdf:resource="urn:isbn:978-1-4673-1194-6%20978-1-4673-1193-9%20978-1-4673-1192-2"/>
+        <dcterms:hasPart rdf:resource="urn:isbn:978-1-4244-5770-0%20978-1-4244-5771-7"/>
+        <dcterms:hasPart rdf:resource="https://project-archive.inf.ed.ac.uk/ug4/20181042/ug4_proj.pdf"/>
+        <dcterms:hasPart rdf:resource="urn:isbn:978-1-72811-895-6"/>
+        <dcterms:hasPart rdf:resource="https://pi4.math.illinois.edu/wp-content/uploads/2014/10/Gartland-Burson-Ferguson-Markovopoly.pdf"/>
+        <dcterms:hasPart rdf:resource="https://intelligence.csd.auth.gr/publication/conference-papers/learning-to-play-monopoly-a-reinforcement-learning-approach/"/>
+        <dcterms:hasPart rdf:resource="https://core.ac.uk/download/pdf/48614184.pdf"/>
     </z:Collection>
     <z:Collection rdf:about="#collection_20">
         <dc:title>Monopoly Deal</dc:title>
@@ -5145,11 +7986,19 @@ DOI: 10.1007/978-3-319-71649-7_5</dc:description>
         <dcterms:hasPart rdf:resource="http://arxiv.org/abs/2001.04238"/>
         <dcterms:hasPart rdf:resource="https://zayenz.se/blog/post/nmbr9-cp2019-abstract/"/>
     </z:Collection>
+    <z:Collection rdf:about="#collection_45">
+        <dc:title>Pandemic</dc:title>
+        <dcterms:hasPart rdf:resource="https://www.jstage.jst.go.jp/article/ipsjjip/20/3/20_723/_article"/>
+    </z:Collection>
     <z:Collection rdf:about="#collection_10">
         <dc:title>Patchwork</dc:title>
         <dcterms:hasPart rdf:resource="https://zayenz.se/blog/post/patchwork-modref2019-paper/"/>
         <dcterms:hasPart rdf:resource="http://arxiv.org/abs/2001.04233"/>
         <dcterms:hasPart rdf:resource="https://zayenz.se/papers/Lagerkvist_ModRef_2019_Presentation.pdf"/>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_46">
+        <dc:title>Pentago</dc:title>
+        <dcterms:hasPart rdf:resource="http://www.ke.tu-darmstadt.de/lehre/arbeiten/bachelor/2011/Buescher_Niklas.pdf"/>
     </z:Collection>
     <z:Collection rdf:about="#collection_18">
         <dc:title>Quixo</dc:title>
@@ -5159,6 +8008,10 @@ DOI: 10.1007/978-3-319-71649-7_5</dc:description>
     <z:Collection rdf:about="#collection_12">
         <dc:title>Race for the Galaxy</dc:title>
         <dcterms:hasPart rdf:resource="https://doi.org/10.1007%2F978-3-319-61030-6_27"/>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_47">
+        <dc:title>Resistance: Avalon</dc:title>
+        <dcterms:hasPart rdf:resource="http://arxiv.org/abs/1906.02330"/>
     </z:Collection>
     <z:Collection rdf:about="#collection_7">
         <dc:title>RISK</dc:title>
@@ -5170,7 +8023,18 @@ DOI: 10.1007/978-3-319-71649-7_5</dc:description>
         <dcterms:hasPart rdf:resource="http://www.ke.tu-darmstadt.de/lehre/archiv/ss04/oberseminar/folien/Wolf_Michael-Slides.pdf"/>
         <dcterms:hasPart rdf:resource="https://scholar.rose-hulman.edu/rhumj/vol3/iss2/3"/>
         <dcterms:hasPart rdf:resource="http://www.c4i.gr/xgeorgio/docs/RISK-board-game%20_rev-3.pdf"/>
-        <dcterms:hasPart rdf:resource="#item_144"/>
+        <dcterms:hasPart rdf:resource="http://urn.kb.se/resolve?urn=urn:nbn:se:bth-3781"/>
+        <dcterms:hasPart rdf:resource="urn:isbn:978-92-837-2336-3"/>
+        <dcterms:hasPart rdf:resource="https://www.sto.nato.int/publications/STO%20Meeting%20Proceedings/STO-MP-SAS-OCS-ORA-2020/MP-SAS-OCS-ORA-2020-WCM-01P.pdf"/>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_48">
+        <dc:title>Santorini</dc:title>
+        <dcterms:hasPart rdf:resource="https://openworks.wooster.edu/independentstudy/8917/"/>
+        <dcterms:hasPart rdf:resource="https://github.com/carsongeissler/SantoriniIS"/>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_49">
+        <dc:title>Scotland Yard</dc:title>
+        <dcterms:hasPart rdf:resource="https://eprints.illc.uva.nl/id/eprint/193/1/PP-2006-18.text.pdf"/>
     </z:Collection>
     <z:Collection rdf:about="#collection_30">
         <dc:title>Secret Hitler</dc:title>
@@ -5183,19 +8047,20 @@ DOI: 10.1007/978-3-319-71649-7_5</dc:description>
     </z:Collection>
     <z:Collection rdf:about="#collection_4">
         <dc:title>Settlers of Catan</dc:title>
-        <dcterms:hasPart rdf:resource="urn:isbn:978-1-4799-3547-5"/>
         <dcterms:hasPart rdf:resource="https://doi.org/10.1109%2Fcig.2014.6932861"/>
         <dcterms:hasPart rdf:resource="https://doi.org/10.4018%2Fijgcms.2018040103"/>
         <dcterms:hasPart rdf:resource="https://doi.org/10.1109%2Fcig.2014.6932884"/>
         <dcterms:hasPart rdf:resource="https://doi.org/10.1007%2F978-3-642-12993-3_3"/>
         <dcterms:hasPart rdf:resource="https://doi.org/10.1007%2F978-3-030-14174-5_16"/>
         <dcterms:hasPart rdf:resource="https://jonzia.github.io/Catan/"/>
-        <dcterms:hasPart rdf:resource="#item_128"/>
+        <dcterms:hasPart rdf:resource="https://escholarship.org/uc/item/9zt506xx"/>
         <dcterms:hasPart rdf:resource="https://www.aaai.org/ocs/index.php/AIIDE/AIIDE18/paper/viewFile/18091/17217"/>
         <dcterms:hasPart rdf:resource="https://izbicki.me/blog/how-to-cheat-at-settlers-of-catan-by-loading-the-dice-and-prove-it-with-p-values.html"/>
         <dcterms:hasPart rdf:resource="https://project.dke.maastrichtuniversity.nl/games/files/bsc/Roelofs_Bsc-paper.pdf"/>
-        <dcterms:hasPart rdf:resource="#item_135"/>
+        <dcterms:hasPart rdf:resource="https://www.researchgate.net/publication/228728063_Reinforcement_learning_of_strategies_for_Settlers_of_Catan"/>
         <dcterms:hasPart rdf:resource="http://arxiv.org/abs/2008.07079"/>
+        <dcterms:hasPart rdf:resource="http://arxiv.org/abs/1511.08099"/>
+        <dcterms:hasPart rdf:resource="#item_476"/>
     </z:Collection>
     <z:Collection rdf:about="#collection_28">
         <dc:title>Shobu</dc:title>
@@ -5232,5 +8097,13 @@ DOI: 10.1007/978-3-319-71649-7_5</dc:description>
         <dcterms:hasPart rdf:resource="https://doi.org/10.1007%2F978-3-642-17928-0_23"/>
         <dcterms:hasPart rdf:resource="https://doi.org/10.1109%2Fcig.2007.368089"/>
         <dcterms:hasPart rdf:resource="https://doi.org/10.1111%2F1468-0394.00160"/>
+        <dcterms:hasPart rdf:resource="https://pubs.nctm.org/view/journals/mt/75/9/article-p751.xml"/>
+        <dcterms:hasPart rdf:resource="http://www.yahtzee.org.uk/optimal_yahtzee_TV.pdf"/>
+        <dcterms:hasPart rdf:resource="http://researchers.lille.inria.fr/~lazaric/Webpage/PublicationsByTopic_files/bonarini2005yahtzee.pdf"/>
+        <dcterms:hasPart rdf:resource="https://www.csc.kth.se/utbildning/kth/kurser/DD143X/dkand13/Group4Per/report/12-serra-widell-nigata.pdf"/>
+        <dcterms:hasPart rdf:resource="http://www-set.win.tue.nl/~wstomv/misc/yahtzee/yahtzee-report-unfinished.pdf"/>
+        <dcterms:hasPart rdf:resource="https://raw.githubusercontent.com/philvasseur/Yahtzee-DQN-Thesis/dcf2bfe15c3b8c0ff3256f02dd3c0aabdbcbc9bb/webpage/final_report.pdf"/>
+        <dcterms:hasPart rdf:resource="http://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-168668"/>
+        <dcterms:hasPart rdf:resource="http://www.cs.loyola.edu/~jglenn/research/optimal_yahtzee.pdf"/>
     </z:Collection>
 </rdf:RDF>
