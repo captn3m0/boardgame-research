@@ -237,7 +237,9 @@ If you aren't able to access any paper on this list, please [try using Sci-Hub](
 - [An Intelligent Artificial Player for the Game of Risk](http://www.ke.tu-darmstadt.de/lehre/archiv/ss04/oberseminar/folien/Wolf_Michael-Slides.pdf) (presentation)
 - [RISKy Business: An In-Depth Look at the Game RISK](https://scholar.rose-hulman.edu/rhumj/vol3/iss2/3) (journalArticle)
 - [RISK Board Game ‐ Battle Outcome Analysis](http://www.c4i.gr/xgeorgio/docs/RISK-board-game%20_rev-3.pdf) (journalArticle)
-- [A multi-agent system for playing the board game risk]() (book)
+- [A multi-agent system for playing the board game risk](http://urn.kb.se/resolve?urn=urn:nbn:se:bth-3781) (thesis)
+- [Monte Carlo Tree Search for Risk](https://www.sto.nato.int/publications/STO%20Meeting%20Proceedings/STO-MP-SAS-OCS-ORA-2020/MP-SAS-OCS-ORA-2020-WCM-01.pdf) (conferencePaper)
+- [Wargaming with Monte-Carlo Tree Search](https://www.sto.nato.int/publications/STO%20Meeting%20Proceedings/STO-MP-SAS-OCS-ORA-2020/MP-SAS-OCS-ORA-2020-WCM-01P.pdf) (presentation)
 
 # Santorini
 - [A Mathematical Analysis of the Game of Santorini](https://openworks.wooster.edu/independentstudy/8917/) (thesis)

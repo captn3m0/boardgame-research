@@ -2992,8 +2992,18 @@
     </z:Attachment>
     <bib:ConferenceProceedings rdf:about="http://www.ke.tu-darmstadt.de/lehre/archiv/ss04/oberseminar/folien/Wolf_Michael-Slides.pdf">
         <z:itemType>presentation</z:itemType>
+        <z:presenters>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Michael Wolf</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:presenters>
         <link:link rdf:resource="#item_140"/>
         <dc:title>An Intelligent Artificial Player for the Game of Risk</dc:title>
+        <dc:date>20/04/2005</dc:date>
         <dc:identifier>
             <dcterms:URI>
                 <rdf:value>http://www.ke.tu-darmstadt.de/lehre/archiv/ss04/oberseminar/folien/Wolf_Michael-Slides.pdf</rdf:value>
@@ -3028,7 +3038,6 @@
         <dcterms:isPartOf>
            <bib:Journal></bib:Journal>
         </dcterms:isPartOf>
-        <link:link rdf:resource="#item_142"/>
         <link:link rdf:resource="#item_143"/>
         <dc:title>RISK Board Game ‐ Battle Outcome Analysis</dc:title>
         <dc:identifier>
@@ -3037,11 +3046,6 @@
             </dcterms:URI>
         </dc:identifier>
     </bib:Article>
-    <z:Attachment rdf:about="#item_142">
-        <z:itemType>attachment</z:itemType>
-        <dc:title>RISK Board Game ‐ Battle Outcome Analysis.pdf</dc:title>
-        <link:type>application/pdf</link:type>
-    </z:Attachment>
     <z:Attachment rdf:about="#item_143">
         <z:itemType>attachment</z:itemType>
         <dc:title>Full Text</dc:title>
@@ -3054,8 +3058,13 @@
         <z:linkMode>1</z:linkMode>
         <link:type>application/pdf</link:type>
     </z:Attachment>
-    <bib:Book rdf:about="#item_144">
-        <z:itemType>book</z:itemType>
+    <bib:Thesis rdf:about="http://urn.kb.se/resolve?urn=urn:nbn:se:bth-3781">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <foaf:name>Blekinge Institute of Technology, School of Engineering, Department of Systems and Software Engineering.</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
         <bib:authors>
             <rdf:Seq>
                 <rdf:li>
@@ -3066,9 +3075,42 @@
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <link:link rdf:resource="#item_480"/>
+        <link:link rdf:resource="#item_481"/>
         <dc:title>A multi-agent system for playing the board game risk</dc:title>
+        <dcterms:abstract>Risk is a game in which traditional Artificial-Intelligence methods such as for example iterative deepening and Alpha-Beta pruning can not successfully be applied due to the size of the search space. Distributed problem solving in the form of a multi-agent system might be the solution. This needs to be tested before it is possible to tell if a multi-agent system will be successful at playing Risk or not. In this thesis the development of a multi-agent system that plays Risk is explained. The system places an agent in every country on the board and uses a central agent for organizing communication. An auction mechanism is used for negotiation. The experiments show that a multi-agent solution indeed is a prosperous approach when developing a computer based player for the board game Risk.</dcterms:abstract>
         <dc:date>2005</dc:date>
-    </bib:Book>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://urn.kb.se/resolve?urn=urn:nbn:se:bth-3781</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <z:numPages>51</z:numPages>
+        <z:type>Independent thesis Advanced level (degree of Master (One Year))</z:type>
+    </bib:Thesis>
+    <z:Attachment rdf:about="#item_480">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://bth.diva-portal.org/smash/get/diva2:831093/FULLTEXT01</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-07-24 08:26:48</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_481">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.diva-portal.org/smash/get/diva2:831093/FULLTEXT01.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-07-24 08:28:25</dcterms:dateSubmitted>
+        <z:linkMode>3</z:linkMode>
+    </z:Attachment>
     <bib:Document rdf:about="https://zayenz.se/blog/post/patchwork-modref2019-paper/">
         <z:itemType>blogPost</z:itemType>
         <dcterms:isPartOf>
@@ -7439,6 +7481,98 @@ guaranteed decent high score. The algorithm got a lowest score of 79 and a
         <z:linkMode>1</z:linkMode>
         <link:type>text/html</link:type>
     </z:Attachment>
+    <rdf:Description rdf:about="urn:isbn:978-92-837-2336-3">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:identifier>ISBN 978-92-837-2336-3</dc:identifier>
+                <dc:title>14th NATO Operations Research and Analysis (OR&amp;A) Conference: Emerging and Disruptive Technology</dc:title>
+                <dc:identifier>DOI 10.14339/STO-MP-SAS-OCS-ORA-2020-WCM-01-PDF</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+           <foaf:Organization><foaf:name>NATO</foaf:name></foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Christoffer Limér</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Erik Kalmér</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Mika Cohen</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_483"/>
+        <dc:title>Monte Carlo Tree Search for Risk</dc:title>
+        <dc:date>2/16/2021</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>AC/323(SAS-ACT)TP/1017</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sto.nato.int/publications/STO%20Meeting%20Proceedings/STO-MP-SAS-OCS-ORA-2020/MP-SAS-OCS-ORA-2020-WCM-01.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_483">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sto.nato.int/publications/STO%20Meeting%20Proceedings/STO-MP-SAS-OCS-ORA-2020/MP-SAS-OCS-ORA-2020-WCM-01.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-07-24 08:34:15</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:ConferenceProceedings rdf:about="https://www.sto.nato.int/publications/STO%20Meeting%20Proceedings/STO-MP-SAS-OCS-ORA-2020/MP-SAS-OCS-ORA-2020-WCM-01P.pdf">
+        <z:itemType>presentation</z:itemType>
+        <z:presenters>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Christoffer Limér</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Erik Kalmér</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:presenters>
+        <link:link rdf:resource="#item_486"/>
+        <dc:title>Wargaming with Monte-Carlo Tree Search</dc:title>
+        <dc:date>2/16/2021</dc:date>
+        <z:language>en</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sto.nato.int/publications/STO%20Meeting%20Proceedings/STO-MP-SAS-OCS-ORA-2020/MP-SAS-OCS-ORA-2020-WCM-01P.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:ConferenceProceedings>
+    <z:Attachment rdf:about="#item_486">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.sto.nato.int/publications/STO%20Meeting%20Proceedings/STO-MP-SAS-OCS-ORA-2020/MP-SAS-OCS-ORA-2020-WCM-01P.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-07-24 08:35:04</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
     <z:Collection rdf:about="#collection_6">
         <dc:title>2048</dc:title>
         <dcterms:hasPart rdf:resource="https://doi.org/10.1007%2F978-3-319-50935-8_8"/>
@@ -7642,7 +7776,9 @@ guaranteed decent high score. The algorithm got a lowest score of 79 and a
         <dcterms:hasPart rdf:resource="http://www.ke.tu-darmstadt.de/lehre/archiv/ss04/oberseminar/folien/Wolf_Michael-Slides.pdf"/>
         <dcterms:hasPart rdf:resource="https://scholar.rose-hulman.edu/rhumj/vol3/iss2/3"/>
         <dcterms:hasPart rdf:resource="http://www.c4i.gr/xgeorgio/docs/RISK-board-game%20_rev-3.pdf"/>
-        <dcterms:hasPart rdf:resource="#item_144"/>
+        <dcterms:hasPart rdf:resource="http://urn.kb.se/resolve?urn=urn:nbn:se:bth-3781"/>
+        <dcterms:hasPart rdf:resource="urn:isbn:978-92-837-2336-3"/>
+        <dcterms:hasPart rdf:resource="https://www.sto.nato.int/publications/STO%20Meeting%20Proceedings/STO-MP-SAS-OCS-ORA-2020/MP-SAS-OCS-ORA-2020-WCM-01P.pdf"/>
     </z:Collection>
     <z:Collection rdf:about="#collection_48">
         <dc:title>Santorini</dc:title>
