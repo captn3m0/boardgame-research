@@ -5617,12 +5617,12 @@ DOI: 10.1007/978-3-319-71649-7_5</dc:description>
         </dc:subject>
         <dc:subject>
             <z:AutomaticTag>
-                <rdf:value>Computer Science - Computer Science and Game Theory</rdf:value>
+               <rdf:value>Computer Science - Machine Learning</rdf:value>
             </z:AutomaticTag>
         </dc:subject>
         <dc:subject>
             <z:AutomaticTag>
-               <rdf:value>Computer Science - Machine Learning</rdf:value>
+                <rdf:value>Computer Science - Computer Science and Game Theory</rdf:value>
             </z:AutomaticTag>
         </dc:subject>
         <dc:title>Human-Level Performance in No-Press Diplomacy via Equilibrium Search</dc:title>
@@ -6735,12 +6735,12 @@ DOI: 10.1007/978-3-030-04179-3_20</dc:description>
         </dc:subject>
         <dc:subject>
             <z:AutomaticTag>
-               <rdf:value>Computer Science - Multiagent Systems</rdf:value>
+               <rdf:value>Statistics - Machine Learning</rdf:value>
             </z:AutomaticTag>
         </dc:subject>
         <dc:subject>
             <z:AutomaticTag>
-               <rdf:value>Statistics - Machine Learning</rdf:value>
+               <rdf:value>Computer Science - Multiagent Systems</rdf:value>
             </z:AutomaticTag>
         </dc:subject>
         <dc:title>Finding Friend and Foe in Multi-Agent Games</dc:title>
@@ -7007,6 +7007,406 @@ Medium: application/pdf
 Publisher: Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik GmbH, Wadern/Saarbruecken, Germany</dc:description>
         <bib:pages>14 pages</bib:pages>
     </bib:Article>
+    <rdf:Description rdf:about="https://aaai.org/Library/Workshops/2004/ws04-04-001.php">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal></bib:Journal>
+        </dcterms:isPartOf>
+        <dc:title>MDA: A Formal Approach to Game Design and Game Research</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://aaai.org/Library/Workshops/2004/ws04-04-001.php</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </rdf:Description>
+    <rdf:Description rdf:about="urn:isbn:2342-9666">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>6</prism:volume>
+                <dc:identifier>ISBN 2342-9666</dc:identifier>
+                <dc:title>Think Design Play</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>DiGRA/Utrecht School of the Arts</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <dc:title>Exploring anonymity in cooperative board games</dc:title>
+        <dcterms:abstract>This study was done as a part of a larger research project where the interest was on exploring if and how gameplay design could give informative principles to the design of educational activities. The researchers conducted a series of studies trying to map game mechanics that had the special quality of being inclusive, i.e., playable by a diverse group of players. This specific study focused on designing a cooperative board game with the goal of implementing anonymity as a game mechanic. Inspired by the gameplay design patterns methodology (Björk &amp; Holopainen 2005a; 2005b; Holopainen &amp; Björk 2008), mechanics from existing cooperative board games were extracted and analyzed in order to inform the design process. The results from prototyping and play testing indicated that it is possible to implement anonymous actions in cooperative board games and that this mechanic made rather unique forms of gameplay possible. These design patterns can be further developed in order to address inclusive educational practices.</dcterms:abstract>
+        <dc:date>January 2011</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.digra.org/digital-library/publications/exploring-anonymity-in-cooperative-board-games/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:presentedAt>
+            <bib:Conference>
+               <dc:title>2011 DiGRA International Conference</dc:title>
+            </bib:Conference>
+        </bib:presentedAt>
+    </rdf:Description>
+    <bib:Article rdf:about="http://arxiv.org/abs/2107.07630">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal><dc:title>arXiv:2107.07630 [cs]</dc:title></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Siu</foaf:surname>
+                        <foaf:givenName>Ho Chit</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pena</foaf:surname>
+                        <foaf:givenName>Jaime D.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chang</foaf:surname>
+                        <foaf:givenName>Kimberlee C.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chen</foaf:surname>
+                        <foaf:givenName>Edenna</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zhou</foaf:surname>
+                        <foaf:givenName>Yutai</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lopez</foaf:surname>
+                        <foaf:givenName>Victor J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Palko</foaf:surname>
+                        <foaf:givenName>Kyle</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Allen</foaf:surname>
+                        <foaf:givenName>Ross E.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_460"/>
+        <link:link rdf:resource="#item_461"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Computer Science - Artificial Intelligence</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+                <rdf:value>Computer Science - Human-Computer Interaction</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Evaluation of Human-AI Teams for Learned and Rule-Based Agents in Hanabi</dc:title>
+        <dcterms:abstract>Deep reinforcement learning has generated superhuman AI in competitive games such as Go and StarCraft. Can similar learning techniques create a superior AI teammate for human-machine collaborative games? Will humans prefer AI teammates that improve objective team performance or those that improve subjective metrics of trust? In this study, we perform a single-blind evaluation of teams of humans and AI agents in the cooperative card game Hanabi, with both rule-based and learning-based agents. In addition to the game score, used as an objective metric of the human-AI team performance, we also quantify subjective measures of the human's perceived performance, teamwork, interpretability, trust, and overall preference of AI teammate. We find that humans have a clear preference toward a rule-based AI teammate (SmartBot) over a state-of-the-art learning-based AI teammate (Other-Play) across nearly all subjective metrics, and generally view the learning-based agent negatively, despite no statistical difference in the game score. This result has implications for future AI design and reinforcement learning benchmarking, highlighting the need to incorporate subjective metrics of human-AI teaming rather than a singular focus on objective task performance.</dcterms:abstract>
+        <dc:date>2021-07-19</dc:date>
+        <z:libraryCatalog>arXiv.org</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://arxiv.org/abs/2107.07630</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-07-24 06:30:44</dcterms:dateSubmitted>
+        <dc:description>arXiv: 2107.07630</dc:description>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_460">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>arXiv Fulltext PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/pdf/2107.07630.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-07-24 06:31:01</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_461">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>arXiv.org Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/abs/2107.07630</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-07-24 06:31:06</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://pubs.nctm.org/view/journals/mt/75/9/article-p751.xml">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0025-5769,%202330-0582"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Litwiller</foaf:surname>
+                        <foaf:givenName>Bonnie H.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Duncan</foaf:surname>
+                        <foaf:givenName>David R.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Probabilites In Yahtzee</dc:title>
+        <dcterms:abstract>Teachers of units in probability are often interested in providing examples of probabilistic situations in a nonclassroom setting. Games are a rich source of such probabilities. Many people enjoy playing a commercial game called Yahtzee. A Yahtzee player receives points for achieving various specified numerical combinations of five dice during the three rolls that constitute a turn.</dcterms:abstract>
+        <dc:date>12/1982</dc:date>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://pubs.nctm.org/view/journals/mt/75/9/article-p751.xml</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-07-24 07:53:57</dcterms:dateSubmitted>
+        <bib:pages>751-754</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0025-5769,%202330-0582">
+        <prism:volume>75</prism:volume>
+        <dc:title>The Mathematics Teacher</dc:title>
+        <dc:identifier>DOI 10.5951/MT.75.9.0751</dc:identifier>
+        <prism:number>9</prism:number>
+        <dcterms:alternative>MT</dcterms:alternative>
+        <dc:identifier>ISSN 0025-5769, 2330-0582</dc:identifier>
+    </bib:Journal>
+    <bib:ConferenceProceedings rdf:about="http://www.yahtzee.org.uk/optimal_yahtzee_TV.pdf">
+        <z:itemType>presentation</z:itemType>
+        <z:presenters>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Verhoeff</foaf:surname>
+                        <foaf:givenName>Tom</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:presenters>
+        <dc:title>Optimal Solitaire Yahtzee Strategies</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.yahtzee.org.uk/optimal_yahtzee_TV.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:ConferenceProceedings>
+    <bib:Article rdf:about="http://researchers.lille.inria.fr/~lazaric/Webpage/PublicationsByTopic_files/bonarini2005yahtzee.pdf">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bonarini</foaf:surname>
+                        <foaf:givenName>Andrea</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lazaric</foaf:surname>
+                        <foaf:givenName>Alessandro</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Restelli</foaf:surname>
+                        <foaf:givenName>Marcello</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Yahtzee: a Large Stochastic Environment for RL Benchmarks</dc:title>
+        <dcterms:abstract>Yahtzee is a game that is regularly played by more than 100 million people in the world. We
+propose a simplified version of Yahtzee as a benchmark for RL algorithms. We have already
+used it for this purpose, and an implementation is available.</dcterms:abstract>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://researchers.lille.inria.fr/~lazaric/Webpage/PublicationsByTopic_files/bonarini2005yahtzee.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>1</bib:pages>
+    </bib:Article>
+    <bib:Thesis rdf:about="https://www.csc.kth.se/utbildning/kth/kurser/DD143X/dkand13/Group4Per/report/12-serra-widell-nigata.pdf">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <foaf:name>KTH, School of Computer Science and Communication (CSC)</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Serra</foaf:surname>
+                        <foaf:givenName>Andreas</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Niigata</foaf:surname>
+                        <foaf:givenName>Kai Widell</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Optimal Yahtzee performance in multi-player games</dc:title>
+        <dcterms:abstract>Yahtzee is a game with a moderately large search space, dependent on the factor of luck. This makes it not quite trivial to implement an optimal strategy for it. Using the optimal strategy for single-player
+use, comparisons against other algorithms are made and the results are analyzed for hints on what it could take to make an algorithm that could beat the single-player optimal strategy.</dcterms:abstract>
+        <dc:date>April 12, 2013</dc:date>
+        <z:language>en</z:language>
+        <z:archive>http://www.diva-portal.org/smash/get/diva2:668705/FULLTEXT01.pdf</z:archive>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.csc.kth.se/utbildning/kth/kurser/DD143X/dkand13/Group4Per/report/12-serra-widell-nigata.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <z:numPages>17</z:numPages>
+        <z:type>Independent thesis Basic level (degree of Bachelor)</z:type>
+    </bib:Thesis>
+    <bib:Manuscript rdf:about="http://www-set.win.tue.nl/~wstomv/misc/yahtzee/yahtzee-report-unfinished.pdf">
+        <z:itemType>manuscript</z:itemType>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Verhoeff</foaf:surname>
+                        <foaf:givenName>Tom</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>How to Maximize Your Score in Solitaire Yahtzee</dc:title>
+        <dcterms:abstract>Yahtzee is a well-known game played with five dice. Players take turns at assembling and scoring dice patterns. The player with the highest score wins. Solitaire Yahtzee is a single-player version of Yahtzee aimed at maximizing one’s score. A strategy for playing Yahtzee determines which choice to make in each situation of the game. We show that the maximum expected score over all Solitaire Yahtzee strategies is 254.5896. . . .</dcterms:abstract>
+        <z:language>en</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www-set.win.tue.nl/~wstomv/misc/yahtzee/yahtzee-report-unfinished.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <z:numPages>18</z:numPages>
+        <z:type>Incomplete Draft</z:type>
+    </bib:Manuscript>
+    <bib:Thesis rdf:about="https://raw.githubusercontent.com/philvasseur/Yahtzee-DQN-Thesis/dcf2bfe15c3b8c0ff3256f02dd3c0aabdbcbc9bb/webpage/final_report.pdf">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <foaf:name>Yale University, Department of Computer Science</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Vasseur</foaf:surname>
+                        <foaf:givenName>Philip</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Using Deep Q-Learning to Compare Strategy Ladders of Yahtzee</dc:title>
+        <dcterms:abstract>“Bots” playing games is not a new concept,
+likely going back to the first video games. However,
+there has been a new wave recently using machine
+learning to learn to play games at a near optimal
+level - essentially using neural networks to “solve”
+games. Depending on the game, this can be relatively
+straight forward using supervised learning. However,
+this requires having data for optimal play, which is
+often not possible due to the sheer complexity of many
+games. For example, solitaire Yahtzee has this data
+available, but two player Yahtzee does not due to the
+massive state space. A recent trend in response to this
+started with Google Deep Mind in 2013, who used Deep
+Reinforcement Learning to play various Atari games
+[4].
+This project will apply Deep Reinforcement Learning
+(specifically Deep Q-Learning) and measure how an
+agent learns to play Yahtzee in the form of a strategy
+ladder. A strategy ladder is a way of looking at how
+the performance of an AI varies with the computational
+resources it uses. Different sets of rules changes how the
+the AI learns which varies the strategy ladder itself. This
+project will vary the upper bonus threshold and then
+attempt to measure how “good” the various strategy
+ladders are - in essence attempting to find the set of
+rules which creates the “best” version of Yahtzee. We
+assume/expect that there is some correlation between
+strategy ladders for AI and strategy ladders for human,
+meaning that a game with a “good” strategy ladder for
+an AI indicates that game is interesting and challenging
+for humans.</dcterms:abstract>
+        <dc:date>December 12, 2019</dc:date>
+        <z:language>en</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://raw.githubusercontent.com/philvasseur/Yahtzee-DQN-Thesis/dcf2bfe15c3b8c0ff3256f02dd3c0aabdbcbc9bb/webpage/final_report.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <z:numPages>12</z:numPages>
+    </bib:Thesis>
+    <bib:Report rdf:about="http://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-168668">
+        <z:itemType>report</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <foaf:name>KTH Royal Institute Of Technology Computer Science And Communication</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <dc:title>Defensive Yahtzee</dc:title>
+        <dcterms:abstract>In this project an algorithm has been created that plays Yahtzee using rule
+based heuristics. The focus is getting a high lowest score and a high 10th
+percentile. All rules of Yahtzee and the probabilities for each combination
+have been studied and based on this each turn is optimized to get a
+guaranteed decent high score. The algorithm got a lowest score of 79 and a
+10th percentile of 152 when executed 100 000 times.</dcterms:abstract>
+        <z:archive>https://www.diva-portal.org/smash/get/diva2:817838/FULLTEXT01.pdf</z:archive>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-168668</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>22</bib:pages>
+    </bib:Report>
+    <bib:Report rdf:about="http://www.cs.loyola.edu/~jglenn/research/optimal_yahtzee.pdf">
+        <z:itemType>report</z:itemType>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Glenn</foaf:surname>
+                        <foaf:givenName>James</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>An Optimal Strategy for Yahtzee</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.cs.loyola.edu/~jglenn/research/optimal_yahtzee.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Report>
     <z:Collection rdf:about="#collection_6">
         <dc:title>2048</dc:title>
         <dcterms:hasPart rdf:resource="https://doi.org/10.1007%2F978-3-319-50935-8_8"/>
@@ -7065,6 +7465,11 @@ Publisher: Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik GmbH, Wadern/Saarb
         <dcterms:hasPart rdf:resource="http://forum.dominionstrategy.com/index.php"/>
         <dcterms:hasPart rdf:resource="http://arxiv.org/abs/1811.11273"/>
     </z:Collection>
+    <z:Collection rdf:about="#collection_50">
+        <dc:title>Game Design</dc:title>
+        <dcterms:hasPart rdf:resource="https://aaai.org/Library/Workshops/2004/ws04-04-001.php"/>
+        <dcterms:hasPart rdf:resource="urn:isbn:2342-9666"/>
+    </z:Collection>
     <z:Collection rdf:about="#collection_5">
         <dc:title>Hanabi</dc:title>
         <dcterms:hasPart rdf:resource="https://doi.org/10.4169%2Fmath.mag.88.5.323"/>
@@ -7092,6 +7497,7 @@ Publisher: Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik GmbH, Wadern/Saarb
         <dcterms:hasPart rdf:resource="http://id.nii.ac.jp/1001/00205046/"/>
         <dcterms:hasPart rdf:resource="https://github.com/aronsar/hoad"/>
         <dcterms:hasPart rdf:resource="https://dl.acm.org/doi/10.5555/3463952.3464188"/>
+        <dcterms:hasPart rdf:resource="http://arxiv.org/abs/2107.07630"/>
     </z:Collection>
     <z:Collection rdf:about="#collection_26">
         <dc:title>Hive</dc:title>
@@ -7142,7 +7548,7 @@ Publisher: Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik GmbH, Wadern/Saarb
         <dcterms:hasPart rdf:resource="http://arxiv.org/abs/1505.04274v1"/>
     </z:Collection>
     <z:Collection rdf:about="#collection_44">
-        <dc:title>Modern Art</dc:title>
+        <dc:title>Modern Art: The card game</dc:title>
         <dcterms:hasPart rdf:resource="https://github.com/captn3m0/modernart"/>
     </z:Collection>
     <z:Collection rdf:about="#collection_13">
@@ -7189,6 +7595,10 @@ Publisher: Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik GmbH, Wadern/Saarb
     <z:Collection rdf:about="#collection_12">
         <dc:title>Race for the Galaxy</dc:title>
         <dcterms:hasPart rdf:resource="https://doi.org/10.1007%2F978-3-319-61030-6_27"/>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_47">
+        <dc:title>Resistance: Avalon</dc:title>
+        <dcterms:hasPart rdf:resource="http://arxiv.org/abs/1906.02330"/>
     </z:Collection>
     <z:Collection rdf:about="#collection_7">
         <dc:title>RISK</dc:title>
@@ -7250,10 +7660,6 @@ Publisher: Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik GmbH, Wadern/Saarb
         <dc:title>Tetris Link</dc:title>
         <dcterms:hasPart rdf:resource="http://arxiv.org/abs/2004.00377"/>
     </z:Collection>
-    <z:Collection rdf:about="#collection_47">
-        <dc:title>The Resistance: Avalon</dc:title>
-        <dcterms:hasPart rdf:resource="http://arxiv.org/abs/1906.02330"/>
-    </z:Collection>
     <z:Collection rdf:about="#collection_29">
         <dc:title>Ticket to Ride</dc:title>
         <dcterms:hasPart rdf:resource="urn:isbn:978-1-4503-5319-9"/>
@@ -7276,5 +7682,13 @@ Publisher: Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik GmbH, Wadern/Saarb
         <dcterms:hasPart rdf:resource="https://doi.org/10.1007%2F978-3-642-17928-0_23"/>
         <dcterms:hasPart rdf:resource="https://doi.org/10.1109%2Fcig.2007.368089"/>
         <dcterms:hasPart rdf:resource="https://doi.org/10.1111%2F1468-0394.00160"/>
+        <dcterms:hasPart rdf:resource="https://pubs.nctm.org/view/journals/mt/75/9/article-p751.xml"/>
+        <dcterms:hasPart rdf:resource="http://www.yahtzee.org.uk/optimal_yahtzee_TV.pdf"/>
+        <dcterms:hasPart rdf:resource="http://researchers.lille.inria.fr/~lazaric/Webpage/PublicationsByTopic_files/bonarini2005yahtzee.pdf"/>
+        <dcterms:hasPart rdf:resource="https://www.csc.kth.se/utbildning/kth/kurser/DD143X/dkand13/Group4Per/report/12-serra-widell-nigata.pdf"/>
+        <dcterms:hasPart rdf:resource="http://www-set.win.tue.nl/~wstomv/misc/yahtzee/yahtzee-report-unfinished.pdf"/>
+        <dcterms:hasPart rdf:resource="https://raw.githubusercontent.com/philvasseur/Yahtzee-DQN-Thesis/dcf2bfe15c3b8c0ff3256f02dd3c0aabdbcbc9bb/webpage/final_report.pdf"/>
+        <dcterms:hasPart rdf:resource="http://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-168668"/>
+        <dcterms:hasPart rdf:resource="http://www.cs.loyola.edu/~jglenn/research/optimal_yahtzee.pdf"/>
     </z:Collection>
 </rdf:RDF>

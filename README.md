@@ -27,6 +27,7 @@ If you aren't able to access any paper on this list, please [try using Sci-Hub](
 - [Diplomacy](#diplomacy)
 - [Dixit](#dixit)
 - [Dominion](#dominion)
+- [Game Design](#game-design)
 - [Hanabi](#hanabi)
 - [Hive](#hive)
 - [Jenga](#jenga)
@@ -35,7 +36,7 @@ If you aren't able to access any paper on this list, please [try using Sci-Hub](
 - [Mafia](#mafia)
 - [Magic: The Gathering](#magic-the-gathering)
 - [Mobile Games](#mobile-games)
-- [Modern Art](#modern-art)
+- [Modern Art: The card game](#modern-art-the-card-game)
 - [Monopoly](#monopoly)
 - [Monopoly Deal](#monopoly-deal)
 - [Nmbr9](#nmbr9)
@@ -44,6 +45,7 @@ If you aren't able to access any paper on this list, please [try using Sci-Hub](
 - [Pentago](#pentago)
 - [Quixo](#quixo)
 - [Race for the Galaxy](#race-for-the-galaxy)
+- [Resistance: Avalon](#resistance-avalon)
 - [RISK](#risk)
 - [Santorini](#santorini)
 - [Scotland Yard](#scotland-yard)
@@ -53,7 +55,6 @@ If you aren't able to access any paper on this list, please [try using Sci-Hub](
 - [Shobu](#shobu)
 - [Terra Mystica](#terra-mystica)
 - [Tetris Link](#tetris-link)
-- [The Resistance: Avalon](#the-resistance-avalon)
 - [Ticket to Ride](#ticket-to-ride)
 - [Ultimate Tic-Tac-Toe](#ultimate-tic-tac-toe)
 - [UNO](#uno)
@@ -111,6 +112,10 @@ If you aren't able to access any paper on this list, please [try using Sci-Hub](
 - [Dominion Strategy Forum](http://forum.dominionstrategy.com/index.php) (forumPost)
 - [Clustering Player Strategies from Variable-Length Game Logs in Dominion](http://arxiv.org/abs/1811.11273) (journalArticle)
 
+# Game Design
+- [MDA: A Formal Approach to Game Design and Game Research](https://aaai.org/Library/Workshops/2004/ws04-04-001.php) (conferencePaper)
+- [Exploring anonymity in cooperative board games](http://www.digra.org/digital-library/publications/exploring-anonymity-in-cooperative-board-games/) (conferencePaper)
+
 # Hanabi
 - [How to Make the Perfect Fireworks Display: Two Strategies forHanabi](https://doi.org/10.4169%2Fmath.mag.88.5.323) (journalArticle)
 - [Evaluating and modelling Hanabi-playing agents](https://doi.org/10.1109%2Fcec.2017.7969465) (conferencePaper)
@@ -137,6 +142,7 @@ If you aren't able to access any paper on this list, please [try using Sci-Hub](
 - [Playing mini-Hanabi card game with Q-learning](http://id.nii.ac.jp/1001/00205046/) (conferencePaper)
 - [Hanabi Open Agent Dataset](https://github.com/aronsar/hoad) (computerProgram)
 - [Hanabi Open Agent Dataset](https://dl.acm.org/doi/10.5555/3463952.3464188) (conferencePaper)
+- [Evaluation of Human-AI Teams for Learned and Rule-Based Agents in Hanabi](http://arxiv.org/abs/2107.07630) (journalArticle)
 
 # Hive
 - [On the complexity of Hive](https://dspace.library.uu.nl/handle/1874/396955) (thesis)
@@ -179,7 +185,7 @@ If you aren't able to access any paper on this list, please [try using Sci-Hub](
 - [Trainyard is NP-Hard](http://arxiv.org/abs/1603.00928v1) (journalArticle)
 - [Threes!, Fives, 1024!, and 2048 are Hard](http://arxiv.org/abs/1505.04274v1) (journalArticle)
 
-# Modern Art
+# Modern Art: The card game
 - [A constraint programming based solver for Modern Art](https://github.com/captn3m0/modernart) (computerProgram)
 
 # Monopoly
@@ -218,6 +224,9 @@ If you aren't able to access any paper on this list, please [try using Sci-Hub](
 
 # Race for the Galaxy
 - [SCOUT: A Case-Based Reasoning Agent for Playing Race for the Galaxy](https://doi.org/10.1007%2F978-3-319-61030-6_27) (bookSection)
+
+# Resistance: Avalon
+- [Finding Friend and Foe in Multi-Agent Games](http://arxiv.org/abs/1906.02330) (journalArticle)
 
 # RISK
 - [Mini-Risk: Strategies for a Simplified Board Game](https://doi.org/10.1057%2Fjors.1990.2) (journalArticle)
@@ -270,9 +279,6 @@ If you aren't able to access any paper on this list, please [try using Sci-Hub](
 # Tetris Link
 - [A New Challenge: Approaching Tetris Link with AI](http://arxiv.org/abs/2004.00377) (journalArticle)
 
-# The Resistance: Avalon
-- [Finding Friend and Foe in Multi-Agent Games](http://arxiv.org/abs/1906.02330) (journalArticle)
-
 # Ticket to Ride
 - [AI-based playtesting of contemporary board games](http://dl.acm.org/citation.cfm?doid=3102071.3102105) (conferencePaper)
 - [Materials for Ticket to Ride Seattle and a framework for making more game boards](https://github.com/dovinmu/ttr_generator) (computerProgram)
@@ -291,3 +297,11 @@ If you aren't able to access any paper on this list, please [try using Sci-Hub](
 - [Nearly Optimal Computer Play in Multi-player Yahtzee](https://doi.org/10.1007%2F978-3-642-17928-0_23) (bookSection)
 - [Computer Strategies for Solitaire Yahtzee](https://doi.org/10.1109%2Fcig.2007.368089) (conferencePaper)
 - [Modeling expert problem solving in a game of chance: a Yahtzeec case study](https://doi.org/10.1111%2F1468-0394.00160) (journalArticle)
+- [Probabilites In Yahtzee](https://pubs.nctm.org/view/journals/mt/75/9/article-p751.xml) (journalArticle)
+- [Optimal Solitaire Yahtzee Strategies](http://www.yahtzee.org.uk/optimal_yahtzee_TV.pdf) (presentation)
+- [Yahtzee: a Large Stochastic Environment for RL Benchmarks](http://researchers.lille.inria.fr/~lazaric/Webpage/PublicationsByTopic_files/bonarini2005yahtzee.pdf) (journalArticle)
+- [Optimal Yahtzee performance in multi-player games](https://www.csc.kth.se/utbildning/kth/kurser/DD143X/dkand13/Group4Per/report/12-serra-widell-nigata.pdf) (thesis)
+- [How to Maximize Your Score in Solitaire Yahtzee](http://www-set.win.tue.nl/~wstomv/misc/yahtzee/yahtzee-report-unfinished.pdf) (manuscript)
+- [Using Deep Q-Learning to Compare Strategy Ladders of Yahtzee](https://raw.githubusercontent.com/philvasseur/Yahtzee-DQN-Thesis/dcf2bfe15c3b8c0ff3256f02dd3c0aabdbcbc9bb/webpage/final_report.pdf) (thesis)
+- [Defensive Yahtzee](http://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-168668) (report)
+- [An Optimal Strategy for Yahtzee](http://www.cs.loyola.edu/~jglenn/research/optimal_yahtzee.pdf) (report)
