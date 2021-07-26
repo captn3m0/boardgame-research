@@ -1,4 +1,4 @@
-# boardgame-research  [![Contributions Welcome](https://img.shields.io/badge/Contributions-welcome-brightgreen.svg)](https://github.com/captn3m0/boardgame-research/issues/new/choose)
+# boardgame-research  [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
 This is a list of boardgame research. They are primarily related to "solving/playing/learning" games (by various different approaches), or
 occasionaly about designing or meta-aspects of the game. This doesn't cover all aspects of each game (notably missing social-science stuff), but
@@ -60,6 +60,8 @@ If you aren't able to access any paper on this list, please [try using Sci-Hub](
 - [Ultimate Tic-Tac-Toe](#ultimate-tic-tac-toe)
 - [UNO](#uno)
 - [Yahtzee](#yahtzee)
+- [Similar Projects](#similar-projects)
+- [License](#license)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -314,3 +316,10 @@ If you aren't able to access any paper on this list, please [try using Sci-Hub](
 - [Using Deep Q-Learning to Compare Strategy Ladders of Yahtzee](https://raw.githubusercontent.com/philvasseur/Yahtzee-DQN-Thesis/dcf2bfe15c3b8c0ff3256f02dd3c0aabdbcbc9bb/webpage/final_report.pdf) (thesis)
 - [Defensive Yahtzee](http://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-168668) (report)
 - [An Optimal Strategy for Yahtzee](http://www.cs.loyola.edu/~jglenn/research/optimal_yahtzee.pdf) (report)
+# Similar Projects
+
+- https://github.com/benedekrozemberczki/awesome-monte-carlo-tree-search-papers
+
+# License
+
+Creative Commons Zero v1.0 Universal. See LICENSE file for complete text.
