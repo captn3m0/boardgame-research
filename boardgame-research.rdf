@@ -7813,6 +7813,30 @@ guaranteed decent high score. The algorithm got a lowest score of 79 and a
         <dc:rights>MIT License</dc:rights>
         <z:programmingLanguage>Java</z:programmingLanguage>
     </bib:Data>
+    <bib:Thesis rdf:about="http://oru.diva-portal.org/smash/record.jsf?pid=diva2%3A1597503">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <foaf:name>Örebro University, School of Science and Technology.</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Nguyen, Van Hoa</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>A Graphical User Interface For The Hanabi Challenge Benchmark</dc:title>
+        <dcterms:abstract>This report will describe the development of the Graphical User Interface (GUI) forthe Hanabi Challenge Benchmark. The benchmark is based on the popular cardgame Hanabi and presents itself as a new research frontier in artificial intelligencefor cooperative multi-agent challenges. The project’s intentions and goals are tointerpret and visualize the data output from the benchmark to give us a better understandingof it.A GUI was then developed by using knowledge within theory of mind in combinationwith theories within human-computer interaction. The results of this project wereevaluated through a small-scale usability test. Users of different ages, gender andlevels of computer knowledge tested the application and through a questionnaire,the quality of the GUI was assessed.</dcterms:abstract>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://oru.diva-portal.org/smash/record.jsf?pid=diva2%3A1597503</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Thesis>
     <z:Collection rdf:about="#collection_6">
         <dc:title>2048</dc:title>
         <dcterms:hasPart rdf:resource="https://doi.org/10.1007%2F978-3-319-50935-8_8"/>
@@ -7911,6 +7935,7 @@ guaranteed decent high score. The algorithm got a lowest score of 79 and a
         <dcterms:hasPart rdf:resource="https://github.com/aronsar/hoad"/>
         <dcterms:hasPart rdf:resource="https://dl.acm.org/doi/10.5555/3463952.3464188"/>
         <dcterms:hasPart rdf:resource="http://arxiv.org/abs/2107.07630"/>
+        <dcterms:hasPart rdf:resource="http://oru.diva-portal.org/smash/record.jsf?pid=diva2%3A1597503"/>
     </z:Collection>
     <z:Collection rdf:about="#collection_26">
         <dc:title>Hive</dc:title>

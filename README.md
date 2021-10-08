@@ -152,6 +152,7 @@ If you aren't able to access any paper on this list, please [try using Sci-Hub](
 - [Hanabi Open Agent Dataset](https://github.com/aronsar/hoad) (computerProgram)
 - [Hanabi Open Agent Dataset](https://dl.acm.org/doi/10.5555/3463952.3464188) (conferencePaper)
 - [Evaluation of Human-AI Teams for Learned and Rule-Based Agents in Hanabi](http://arxiv.org/abs/2107.07630) (journalArticle)
+- [A Graphical User Interface For The Hanabi Challenge Benchmark](http://oru.diva-portal.org/smash/record.jsf?pid=diva2%3A1597503) (thesis)
 
 # Hive
 - [On the complexity of Hive](https://dspace.library.uu.nl/handle/1874/396955) (thesis)
