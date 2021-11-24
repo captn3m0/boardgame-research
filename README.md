@@ -153,6 +153,7 @@ If you aren't able to access any paper on this list, please [try using Sci-Hub](
 - [Hanabi Open Agent Dataset](https://dl.acm.org/doi/10.5555/3463952.3464188) (conferencePaper)
 - [Evaluation of Human-AI Teams for Learned and Rule-Based Agents in Hanabi](http://arxiv.org/abs/2107.07630) (journalArticle)
 - [A Graphical User Interface For The Hanabi Challenge Benchmark](http://oru.diva-portal.org/smash/record.jsf?pid=diva2%3A1597503) (thesis)
+- [Emergence of Cooperative Impression With Self-Estimation, Thinking Time, and Concordance of Risk Sensitivity in Playing Hanabi](https://www.frontiersin.org/articles/10.3389/frobt.2021.658348/full) (journalArticle)
 
 # Hive
 - [On the complexity of Hive](https://dspace.library.uu.nl/handle/1874/396955) (thesis)

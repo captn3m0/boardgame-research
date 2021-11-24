@@ -7837,6 +7837,69 @@ guaranteed decent high score. The algorithm got a lowest score of 79 and a
             </dcterms:URI>
         </dc:identifier>
     </bib:Thesis>
+    <bib:Article rdf:about="https://www.frontiersin.org/articles/10.3389/frobt.2021.658348/full">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2296-9144"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Osawa</foaf:surname>
+                        <foaf:givenName>Hirotaka</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kawagoe</foaf:surname>
+                        <foaf:givenName>Atsushi</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sato</foaf:surname>
+                        <foaf:givenName>Eisuke</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kato</foaf:surname>
+                        <foaf:givenName>Takuya</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_499"/>
+        <dc:title>Emergence of Cooperative Impression With Self-Estimation, Thinking Time, and Concordance of Risk Sensitivity in Playing Hanabi</dc:title>
+        <dcterms:abstract>The authors evaluate the extent to which a user’s impression of an AI agent can be improved by giving the agent the ability of self-estimation, thinking time, and coordination of risk tendency. The authors modified the algorithm of an AI agent in the cooperative game Hanabi to have all of these traits, and investigated the change in the user’s impression by playing with the user. The authors used a self-estimation task to evaluate the effect that the ability to read the intention of a user had on an impression. The authors also show thinking time of an agent influences impression for an agent. The authors also investigated the relationship between the concordance of the risk-taking tendencies of players and agents, the player’s impression of agents, and the game experience. The results of the self-estimation task experiment showed that the more accurate the estimation of the agent’s self, the more likely it is that the partner will perceive humanity, affinity, intelligence, and communication skills in the agent. The authors also found that an agent that changes the length of thinking time according to the priority of action gives the impression that it is smarter than an agent with a normal thinking time when the player notices the difference in thinking time or an agent that randomly changes the thinking time. The result of the experiment regarding concordance of the risk-taking tendency shows that influence player’s impression toward agents. These results suggest that game agent designers can improve the player’s disposition toward an agent and the game experience by adjusting the agent’s self-estimation level, thinking time, and risk-taking tendency according to the player’s personality and inner state during the game.</dcterms:abstract>
+        <dc:date>2021-10-12</dc:date>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.frontiersin.org/articles/10.3389/frobt.2021.658348/full</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-11-24 07:14:38</dcterms:dateSubmitted>
+        <bib:pages>658348</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2296-9144">
+        <prism:volume>8</prism:volume>
+        <dc:title>Frontiers in Robotics and AI</dc:title>
+        <dc:identifier>DOI 10.3389/frobt.2021.658348</dc:identifier>
+        <dcterms:alternative>Front. Robot. AI</dcterms:alternative>
+        <dc:identifier>ISSN 2296-9144</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_499">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.frontiersin.org/articles/10.3389/frobt.2021.658348/pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-11-24 07:15:06</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
     <z:Collection rdf:about="#collection_6">
         <dc:title>2048</dc:title>
         <dcterms:hasPart rdf:resource="https://doi.org/10.1007%2F978-3-319-50935-8_8"/>
@@ -7936,6 +7999,7 @@ guaranteed decent high score. The algorithm got a lowest score of 79 and a
         <dcterms:hasPart rdf:resource="https://dl.acm.org/doi/10.5555/3463952.3464188"/>
         <dcterms:hasPart rdf:resource="http://arxiv.org/abs/2107.07630"/>
         <dcterms:hasPart rdf:resource="http://oru.diva-portal.org/smash/record.jsf?pid=diva2%3A1597503"/>
+        <dcterms:hasPart rdf:resource="https://www.frontiersin.org/articles/10.3389/frobt.2021.658348/full"/>
     </z:Collection>
     <z:Collection rdf:about="#collection_26">
         <dc:title>Hive</dc:title>
