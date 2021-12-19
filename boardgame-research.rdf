@@ -5570,12 +5570,12 @@ DOI: 10.1007/978-3-319-71649-7_5</dc:description>
         </dc:subject>
         <dc:subject>
             <z:AutomaticTag>
-                <rdf:value>Computer Science - Computer Science and Game Theory</rdf:value>
+               <rdf:value>Computer Science - Machine Learning</rdf:value>
             </z:AutomaticTag>
         </dc:subject>
         <dc:subject>
             <z:AutomaticTag>
-               <rdf:value>Computer Science - Machine Learning</rdf:value>
+                <rdf:value>Computer Science - Computer Science and Game Theory</rdf:value>
             </z:AutomaticTag>
         </dc:subject>
         <dc:title>Human-Level Performance in No-Press Diplomacy via Equilibrium Search</dc:title>
@@ -6688,12 +6688,12 @@ DOI: 10.1007/978-3-030-04179-3_20</dc:description>
         </dc:subject>
         <dc:subject>
             <z:AutomaticTag>
-               <rdf:value>Computer Science - Multiagent Systems</rdf:value>
+               <rdf:value>Statistics - Machine Learning</rdf:value>
             </z:AutomaticTag>
         </dc:subject>
         <dc:subject>
             <z:AutomaticTag>
-               <rdf:value>Statistics - Machine Learning</rdf:value>
+               <rdf:value>Computer Science - Multiagent Systems</rdf:value>
             </z:AutomaticTag>
         </dc:subject>
         <dc:title>Finding Friend and Foe in Multi-Agent Games</dc:title>
@@ -7996,12 +7996,12 @@ guaranteed decent high score. The algorithm got a lowest score of 79 and a
         </dc:subject>
         <dc:subject>
             <z:AutomaticTag>
-                <rdf:value>Computer Science - Computer Science and Game Theory</rdf:value>
+               <rdf:value>Computer Science - Machine Learning</rdf:value>
             </z:AutomaticTag>
         </dc:subject>
         <dc:subject>
             <z:AutomaticTag>
-               <rdf:value>Computer Science - Machine Learning</rdf:value>
+                <rdf:value>Computer Science - Computer Science and Game Theory</rdf:value>
             </z:AutomaticTag>
         </dc:subject>
         <dc:title>Player of Games</dc:title>
@@ -8158,6 +8158,557 @@ guaranteed decent high score. The algorithm got a lowest score of 79 and a
         <z:linkMode>1</z:linkMode>
         <link:type>application/pdf</link:type>
     </z:Attachment>
+    <bib:Thesis rdf:about="https://repository.tcu.edu/handle/116099117/49062">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Fort Worth, Texas</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Texas Christian University</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Nagel, Lauren</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_514"/>
+        <link:link rdf:resource="#item_515"/>
+        <dc:title>Analysis of 'The Settlers of Catan' Using Markov Chains</dc:title>
+        <dcterms:abstract>Markov chains are stochastic models characterized by the probability of future states depending solely on one's current state. Google's page ranking system, financial phenomena such as stock market crashes, and algorithms to predict a company's projected sales are a glimpse into the array of applications for Markov models. Board games such as Monopoly and Risk have also been studied under the lens of Markov decision processes. In this research, we analyzed the board game &quot;The Settlers of Catan&quot; using transition matrices. Transition matrices are composed of the current states which represent each row i and the proceeding states across the columns j with the entry (i,j) containing the probability the current state i will transition to the state j. Using these transition matrices, we delved into addressing the question of which starting positions are optimal. Furthermore, we worked on determining optimality in conjunction with a player's gameplay strategy. After building a simulation of the game in python, we tested the results of our theoretical research against the mock run throughs to observe how well our model prevailed under the limitations of time (number of turns before winner is reached).</dcterms:abstract>
+        <dc:date>May 3, 2021</dc:date>
+        <z:language>en</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://repository.tcu.edu/handle/116099117/49062</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <z:numPages>53</z:numPages>
+    </bib:Thesis>
+    <z:Attachment rdf:about="#item_514">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Nagel__Lauren-Honors_Project.pdf</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://repository.tcu.edu/bitstream/handle/116099117/49062/Nagel__Lauren-Honors_Project.pdf?sequence=1&amp;isAllowed=y</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-12-19 11:15:50</dcterms:dateSubmitted>
+        <z:linkMode>3</z:linkMode>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_515">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://repository.tcu.edu/bitstream/116099117/49062/1/Nagel__Lauren-Honors_Project.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-12-19 11:15:58</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://arxiv.org/abs/2009.00655">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal><dc:title>arXiv:2009.00655 [cs]</dc:title></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ward</foaf:surname>
+                        <foaf:givenName>Henry N.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Brooks</foaf:surname>
+                        <foaf:givenName>Daniel J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Troha</foaf:surname>
+                        <foaf:givenName>Dan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mills</foaf:surname>
+                        <foaf:givenName>Bobby</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Khakhalin</foaf:surname>
+                        <foaf:givenName>Arseny S.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_517"/>
+        <link:link rdf:resource="#item_518"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Computer Science - Artificial Intelligence</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>AI solutions for drafting in Magic: the Gathering</dc:title>
+        <dcterms:abstract>Drafting in Magic the Gathering is a sub-game within a larger trading card game, where several players progressively build decks by picking cards from a common pool. Drafting poses an interesting problem for game and AI research due to its large search space, mechanical complexity, multiplayer nature, and hidden information. Despite this, drafting remains understudied, in part due to a lack of high-quality, public datasets. To rectify this problem, we present a dataset of over 100,000 simulated, anonymized human drafts collected from Draftsim.com. We also propose four diverse strategies for drafting agents, including a primitive heuristic agent, an expert-tuned complex heuristic agent, a Naive Bayes agent, and a deep neural network agent. We benchmark their ability to emulate human drafting, and show that the deep neural network agent outperforms other agents, while the Naive Bayes and expert-tuned agents outperform simple heuristics. We analyze the accuracy of AI agents across the timeline of a draft, and describe unique strengths and weaknesses for each approach. This work helps to identify next steps in the creation of humanlike drafting agents, and can serve as a benchmark for the next generation of drafting bots.</dcterms:abstract>
+        <dc:date>2021-04-04</dc:date>
+        <z:shortTitle>AI solutions for drafting in Magic</z:shortTitle>
+        <z:libraryCatalog>arXiv.org</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://arxiv.org/abs/2009.00655</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-12-19 11:19:03</dcterms:dateSubmitted>
+        <dc:description>arXiv: 2009.00655</dc:description>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_517">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>arXiv Fulltext PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/pdf/2009.00655.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-12-19 11:19:09</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_518">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>arXiv.org Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/abs/2009.00655</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-12-19 11:19:13</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://arxiv.org/abs/1404.0743">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal><dc:title>arXiv:1404.0743 [cs]</dc:title></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Irving</foaf:surname>
+                        <foaf:givenName>Geoffrey</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_520"/>
+        <link:link rdf:resource="#item_521"/>
+        <link:link rdf:resource="#item_522"/>
+        <dc:subject>
+            <z:AutomaticTag>
+                <rdf:value>Computer Science - Distributed, Parallel, and Cluster Computing</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Pentago is a First Player Win: Strongly Solving a Game Using Parallel In-Core Retrograde Analysis</dc:title>
+        <dcterms:abstract>We present a strong solution of the board game pentago, computed using exhaustive parallel retrograde analysis in 4 hours on 98304 ($3 \times 2^{15}$) threads of NERSC's Cray Edison. At $3.0 \times 10^{15}$ states, pentago is the largest divergent game solved to date by two orders of magnitude, and the only example of a nontrivial divergent game solved using retrograde analysis. Unlike previous retrograde analyses, our computation was performed entirely in-core, writing only a small portion of the results to disk; an out-of-core implementation would have been much slower. Symmetry was used to reduce branching factor and exploit instruction level parallelism. Despite a theoretically embarrassingly parallel structure, asynchronous message passing was required to fit the computation into available RAM, causing latency problems on an older Cray machine. All code and data for the project are open source, together with a website which combines database lookup and on-the-fly computation to interactively explore the strong solution.</dcterms:abstract>
+        <dc:date>2014-04-03</dc:date>
+        <z:shortTitle>Pentago is a First Player Win</z:shortTitle>
+        <z:libraryCatalog>arXiv.org</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://arxiv.org/abs/1404.0743</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-12-19 11:20:46</dcterms:dateSubmitted>
+        <dc:description>arXiv: 1404.0743</dc:description>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_520">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>arXiv Fulltext PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/pdf/1404.0743.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-12-19 11:20:58</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_521">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>arXiv.org Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/abs/1404.0743</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-12-19 11:21:03</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_522">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Source Code</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://github.com/girving/pentago</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-12-19 11:21:48</dcterms:dateSubmitted>
+        <z:linkMode>3</z:linkMode>
+    </z:Attachment>
+    <bib:Data rdf:about="https://github.com/girving/pentago">
+        <z:itemType>computerProgram</z:itemType>
+        <dc:title>A massively parallel pentago solver</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://github.com/girving/pentago</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Data>
+    <bib:Data rdf:about="https://perfect-pentago.net/">
+        <z:itemType>computerProgram</z:itemType>
+        <dc:title>An interactive explorer for perfect pentago play</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://perfect-pentago.net/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Data>
+    <bib:Article rdf:about="http://arxiv.org/abs/1811.00673">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal><dc:title>arXiv:1811.00673 [stat]</dc:title></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gilbert</foaf:surname>
+                        <foaf:givenName>Daniel E.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wells</foaf:surname>
+                        <foaf:givenName>Martin T.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_526"/>
+        <link:link rdf:resource="#item_527"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Statistics - Applications</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Ludometrics: Luck, and How to Measure It</dc:title>
+        <dcterms:abstract>Game theory is the study of tractable games which may be used to model more complex systems. Board games, video games and sports, however, are intractable by design, so &quot;ludological&quot; theories about these games as complex phenomena should be grounded in empiricism. A first &quot;ludometric&quot; concern is the empirical measurement of the amount of luck in various games. We argue against a narrow view of luck which includes only factors outside any player's control, and advocate for a holistic definition of luck as complementary to the variation in effective skill within a population of players. We introduce two metrics for luck in a game for a given population - one information theoretical, and one Bayesian, and discuss the estimation of these metrics using sparse, high-dimensional regression techniques. Finally, we apply these techniques to compare the amount of luck between various professional sports, between Chess and Go, and between two hobby board games: Race for the Galaxy and Seasons.</dcterms:abstract>
+        <dc:date>2018-11-01</dc:date>
+        <z:shortTitle>Ludometrics</z:shortTitle>
+        <z:libraryCatalog>arXiv.org</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://arxiv.org/abs/1811.00673</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-12-19 11:25:28</dcterms:dateSubmitted>
+        <dc:description>arXiv: 1811.00673</dc:description>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_526">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>arXiv Fulltext PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/pdf/1811.00673.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-12-19 11:25:31</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_527">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>arXiv.org Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/abs/1811.00673</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-12-19 11:25:35</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://arxiv.org/abs/2102.10540">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal><dc:title>arXiv:2102.10540 [cs]</dc:title></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Perez</foaf:surname>
+                        <foaf:givenName>Luis</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_530"/>
+        <link:link rdf:resource="#item_531"/>
+        <link:link rdf:resource="#item_532"/>
+        <link:link rdf:resource="#item_535"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Computer Science - Artificial Intelligence</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Computer Science - Multiagent Systems</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+                <rdf:value>Computer Science - Computer Science and Game Theory</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Mastering Terra Mystica: Applying Self-Play to Multi-agent Cooperative Board Games</dc:title>
+        <dcterms:abstract>In this paper, we explore and compare multiple algorithms for solving the complex strategy game of Terra Mystica, hereafter abbreviated as TM. Previous work in the area of super-human game-play using AI has proven effective, with recent break-through for generic algorithms in games such as Go, Chess, and Shogi \cite{AlphaZero}. We directly apply these breakthroughs to a novel state-representation of TM with the goal of creating an AI that will rival human players. Specifically, we present the initial results of applying AlphaZero to this state-representation and analyze the strategies developed. A brief analysis is presented. We call this modified algorithm with our novel state-representation AlphaTM. In the end, we discuss the success and shortcomings of this method by comparing against multiple baselines and typical human scores. All code used for this paper is available at on \href{https://github.com/kandluis/terrazero}{GitHub}.</dcterms:abstract>
+        <dc:date>2021-02-21</dc:date>
+        <z:shortTitle>Mastering Terra Mystica</z:shortTitle>
+        <z:libraryCatalog>arXiv.org</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://arxiv.org/abs/2102.10540</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-12-19 11:25:55</dcterms:dateSubmitted>
+        <dc:description>arXiv: 2102.10540</dc:description>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_530">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>arXiv Fulltext PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/pdf/2102.10540.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-12-19 11:26:10</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_531">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>arXiv.org Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/abs/2102.10540</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-12-19 11:26:14</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_532">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Dataset</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.kaggle.com/lemonkoala/terra-mystica</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-12-19 11:27:41</dcterms:dateSubmitted>
+        <z:linkMode>3</z:linkMode>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_535">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Source Code</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://github.com/kandluis/terrazero</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-12-19 11:29:03</dcterms:dateSubmitted>
+        <z:linkMode>3</z:linkMode>
+    </z:Attachment>
+    <bib:Data rdf:about="https://lodev.org/tmai/">
+        <z:itemType>computerProgram</z:itemType>
+        <dc:title>TM AI: Play TM against AI players.</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://lodev.org/tmai/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Data>
+    <bib:Article rdf:about="http://arxiv.org/abs/1710.05121">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal><dc:title>arXiv:1710.05121 [cs]</dc:title></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bosboom</foaf:surname>
+                        <foaf:givenName>Jeffrey</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hoffmann</foaf:surname>
+                        <foaf:givenName>Michael</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_538"/>
+        <link:link rdf:resource="#item_539"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Computer Science - Computational Complexity</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+           <z:AutomaticTag><rdf:value>F.1.3</rdf:value></z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Netrunner Mate-in-1 or -2 is Weakly NP-Hard</dc:title>
+        <dcterms:abstract>We prove that deciding whether the Runner can win this turn (mate-in-1) in the Netrunner card game generalized to allow decks to contain an arbitrary number of copies of a card is weakly NP-hard. We also prove that deciding whether the Corp can win within two turns (mate-in-2) in this generalized Netrunner is weakly NP-hard.</dcterms:abstract>
+        <dc:date>2017-10-13</dc:date>
+        <z:libraryCatalog>arXiv.org</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://arxiv.org/abs/1710.05121</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-12-19 11:33:02</dcterms:dateSubmitted>
+        <dc:description>arXiv: 1710.05121</dc:description>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_538">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>arXiv Fulltext PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/pdf/1710.05121.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-12-19 11:33:05</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_539">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>arXiv.org Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/abs/1710.05121</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-12-19 11:33:09</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://arxiv.org/abs/1904.10656">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal><dc:title>arXiv:1904.10656 [cs]</dc:title></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fontaine</foaf:surname>
+                        <foaf:givenName>Matthew C.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lee</foaf:surname>
+                        <foaf:givenName>Scott</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Soros</foaf:surname>
+                        <foaf:givenName>L. B.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Silva</foaf:surname>
+                        <foaf:givenName>Fernando De Mesentier</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Togelius</foaf:surname>
+                        <foaf:givenName>Julian</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hoover</foaf:surname>
+                        <foaf:givenName>Amy K.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_542"/>
+        <link:link rdf:resource="#item_543"/>
+        <dc:subject>
+            <z:AutomaticTag>
+                <rdf:value>Computer Science - Neural and Evolutionary Computing</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Mapping Hearthstone Deck Spaces through MAP-Elites with Sliding Boundaries</dc:title>
+        <dcterms:abstract>Quality diversity (QD) algorithms such as MAP-Elites have emerged as a powerful alternative to traditional single-objective optimization methods. They were initially applied to evolutionary robotics problems such as locomotion and maze navigation, but have yet to see widespread application. We argue that these algorithms are perfectly suited to the rich domain of video games, which contains many relevant problems with a multitude of successful strategies and often also multiple dimensions along which solutions can vary. This paper introduces a novel modification of the MAP-Elites algorithm called MAP-Elites with Sliding Boundaries (MESB) and applies it to the design and rebalancing of Hearthstone, a popular collectible card game chosen for its number of multidimensional behavior features relevant to particular styles of play. To avoid overpopulating cells with conflated behaviors, MESB slides the boundaries of cells based on the distribution of evolved individuals. Experiments in this paper demonstrate the performance of MESB in Hearthstone. Results suggest MESB finds diverse ways of playing the game well along the selected behavioral dimensions. Further analysis of the evolved strategies reveals common patterns that recur across behavioral dimensions and explores how MESB can help rebalance the game.</dcterms:abstract>
+        <dc:date>2019-04-24</dc:date>
+        <z:libraryCatalog>arXiv.org</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://arxiv.org/abs/1904.10656</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-12-19 11:33:35</dcterms:dateSubmitted>
+        <dc:description>arXiv: 1904.10656</dc:description>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_542">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>arXiv Fulltext PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/pdf/1904.10656.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-12-19 11:33:53</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_543">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>arXiv.org Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/abs/1904.10656</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-12-19 11:33:57</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
     <z:Collection rdf:about="#collection_6">
         <dc:title>2048</dc:title>
         <dcterms:hasPart rdf:resource="https://doi.org/10.1007%2F978-3-319-50935-8_8"/>
@@ -8264,6 +8815,10 @@ guaranteed decent high score. The algorithm got a lowest score of 79 and a
         <dcterms:hasPart rdf:resource="http://oru.diva-portal.org/smash/record.jsf?pid=diva2%3A1597503"/>
         <dcterms:hasPart rdf:resource="https://www.frontiersin.org/articles/10.3389/frobt.2021.658348/full"/>
     </z:Collection>
+    <z:Collection rdf:about="#collection_55">
+        <dc:title>Hearthstone</dc:title>
+        <dcterms:hasPart rdf:resource="http://arxiv.org/abs/1904.10656"/>
+    </z:Collection>
     <z:Collection rdf:about="#collection_26">
         <dc:title>Hive</dc:title>
         <dcterms:hasPart rdf:resource="https://dspace.library.uu.nl/handle/1874/396955"/>
@@ -8306,6 +8861,7 @@ guaranteed decent high score. The algorithm got a lowest score of 79 and a
         <dcterms:hasPart rdf:resource="https://www.doi.org/10.1685/CSC06077"/>
         <dcterms:hasPart rdf:resource="https://doi.org/11250/2462429"/>
         <dcterms:hasPart rdf:resource="http://cs229.stanford.edu/proj2012/HauPlotkinTran-MagicTheGatheringDeckPerformancePrediction.pdf"/>
+        <dcterms:hasPart rdf:resource="http://arxiv.org/abs/2009.00655"/>
     </z:Collection>
     <z:Collection rdf:about="#collection_22">
         <dc:title>Mobile Games</dc:title>
@@ -8333,6 +8889,10 @@ guaranteed decent high score. The algorithm got a lowest score of 79 and a
         <dc:title>Monopoly Deal</dc:title>
         <dcterms:hasPart rdf:resource="https://doi.org/10.1007%2F978-3-662-46742-8_11"/>
     </z:Collection>
+    <z:Collection rdf:about="#collection_54">
+        <dc:title>Netrunner</dc:title>
+        <dcterms:hasPart rdf:resource="http://arxiv.org/abs/1710.05121"/>
+    </z:Collection>
     <z:Collection rdf:about="#collection_11">
         <dc:title>Nmbr9</dc:title>
         <dcterms:hasPart rdf:resource="http://arxiv.org/abs/2001.04238"/>
@@ -8351,6 +8911,9 @@ guaranteed decent high score. The algorithm got a lowest score of 79 and a
     <z:Collection rdf:about="#collection_46">
         <dc:title>Pentago</dc:title>
         <dcterms:hasPart rdf:resource="http://www.ke.tu-darmstadt.de/lehre/arbeiten/bachelor/2011/Buescher_Niklas.pdf"/>
+        <dcterms:hasPart rdf:resource="http://arxiv.org/abs/1404.0743"/>
+        <dcterms:hasPart rdf:resource="https://github.com/girving/pentago"/>
+        <dcterms:hasPart rdf:resource="https://perfect-pentago.net/"/>
     </z:Collection>
     <z:Collection rdf:about="#collection_18">
         <dc:title>Quixo</dc:title>
@@ -8360,6 +8923,7 @@ guaranteed decent high score. The algorithm got a lowest score of 79 and a
     <z:Collection rdf:about="#collection_12">
         <dc:title>Race for the Galaxy</dc:title>
         <dcterms:hasPart rdf:resource="https://doi.org/10.1007%2F978-3-319-61030-6_27"/>
+        <dcterms:hasPart rdf:resource="http://arxiv.org/abs/1811.00673"/>
     </z:Collection>
     <z:Collection rdf:about="#collection_47">
         <dc:title>Resistance: Avalon</dc:title>
@@ -8413,6 +8977,7 @@ guaranteed decent high score. The algorithm got a lowest score of 79 and a
         <dcterms:hasPart rdf:resource="http://arxiv.org/abs/2008.07079"/>
         <dcterms:hasPart rdf:resource="http://arxiv.org/abs/1511.08099"/>
         <dcterms:hasPart rdf:resource="#item_476"/>
+        <dcterms:hasPart rdf:resource="https://repository.tcu.edu/handle/116099117/49062"/>
     </z:Collection>
     <z:Collection rdf:about="#collection_28">
         <dc:title>Shobu</dc:title>
@@ -8422,6 +8987,8 @@ guaranteed decent high score. The algorithm got a lowest score of 79 and a
     <z:Collection rdf:about="#collection_15">
         <dc:title>Terra Mystica</dc:title>
         <dcterms:hasPart rdf:resource="https://doi.org/10.1145%2F3396474.3396492"/>
+        <dcterms:hasPart rdf:resource="http://arxiv.org/abs/2102.10540"/>
+        <dcterms:hasPart rdf:resource="https://lodev.org/tmai/"/>
     </z:Collection>
     <z:Collection rdf:about="#collection_36">
         <dc:title>Tetris Link</dc:title>

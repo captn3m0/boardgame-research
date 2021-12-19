@@ -31,6 +31,7 @@ If you aren't able to access any paper on this list, please [try using Sci-Hub](
 - [Game Design](#game-design)
 - [General Gameplay](#general-gameplay)
 - [Hanabi](#hanabi)
+- [Hearthstone](#hearthstone)
 - [Hive](#hive)
 - [Jenga](#jenga)
 - [Kingdomino](#kingdomino)
@@ -41,6 +42,7 @@ If you aren't able to access any paper on this list, please [try using Sci-Hub](
 - [Modern Art: The card game](#modern-art-the-card-game)
 - [Monopoly](#monopoly)
 - [Monopoly Deal](#monopoly-deal)
+- [Netrunner](#netrunner)
 - [Nmbr9](#nmbr9)
 - [Pandemic](#pandemic)
 - [Patchwork](#patchwork)
@@ -161,6 +163,9 @@ If you aren't able to access any paper on this list, please [try using Sci-Hub](
 - [A Graphical User Interface For The Hanabi Challenge Benchmark](http://oru.diva-portal.org/smash/record.jsf?pid=diva2%3A1597503) (thesis)
 - [Emergence of Cooperative Impression With Self-Estimation, Thinking Time, and Concordance of Risk Sensitivity in Playing Hanabi](https://www.frontiersin.org/articles/10.3389/frobt.2021.658348/full) (journalArticle)
 
+# Hearthstone
+- [Mapping Hearthstone Deck Spaces through MAP-Elites with Sliding Boundaries](http://arxiv.org/abs/1904.10656) (journalArticle)
+
 # Hive
 - [On the complexity of Hive](https://dspace.library.uu.nl/handle/1874/396955) (thesis)
 
@@ -197,6 +202,7 @@ If you aren't able to access any paper on this list, please [try using Sci-Hub](
 - [Deck Construction Strategies for Magic: The Gathering](https://www.doi.org/10.1685/CSC06077) (conferencePaper)
 - [Deckbuilding in Magic: The Gathering Using a Genetic Algorithm](https://doi.org/11250/2462429) (thesis)
 - [Magic: The Gathering Deck Performance Prediction](http://cs229.stanford.edu/proj2012/HauPlotkinTran-MagicTheGatheringDeckPerformancePrediction.pdf) (report)
+- [AI solutions for drafting in Magic: the Gathering](http://arxiv.org/abs/2009.00655) (journalArticle)
 
 # Mobile Games
 - [Trainyard is NP-Hard](http://arxiv.org/abs/1603.00928v1) (journalArticle)
@@ -220,6 +226,9 @@ If you aren't able to access any paper on this list, please [try using Sci-Hub](
 # Monopoly Deal
 - [Implementation of Artificial Intelligence with 3 Different Characters of AI Player on “Monopoly Deal” Computer Game](https://doi.org/10.1007%2F978-3-662-46742-8_11) (bookSection)
 
+# Netrunner
+- [Netrunner Mate-in-1 or -2 is Weakly NP-Hard](http://arxiv.org/abs/1710.05121) (journalArticle)
+
 # Nmbr9
 - [Nmbr9 as a Constraint Programming Challenge](http://arxiv.org/abs/2001.04238) (journalArticle)
 - [Nmbr9 as a Constraint Programming Challenge](https://zayenz.se/blog/post/nmbr9-cp2019-abstract/) (blogPost)
@@ -234,6 +243,9 @@ If you aren't able to access any paper on this list, please [try using Sci-Hub](
 
 # Pentago
 - [On Solving Pentago](http://www.ke.tu-darmstadt.de/lehre/arbeiten/bachelor/2011/Buescher_Niklas.pdf) (thesis)
+- [Pentago is a First Player Win: Strongly Solving a Game Using Parallel In-Core Retrograde Analysis](http://arxiv.org/abs/1404.0743) (journalArticle)
+- [A massively parallel pentago solver](https://github.com/girving/pentago) (computerProgram)
+- [An interactive explorer for perfect pentago play](https://perfect-pentago.net/) (computerProgram)
 
 # Quixo
 - [QUIXO is EXPTIME-complete](https://doi.org/10.1016%2Fj.ipl.2020.105995) (journalArticle)
@@ -241,6 +253,7 @@ If you aren't able to access any paper on this list, please [try using Sci-Hub](
 
 # Race for the Galaxy
 - [SCOUT: A Case-Based Reasoning Agent for Playing Race for the Galaxy](https://doi.org/10.1007%2F978-3-319-61030-6_27) (bookSection)
+- [Ludometrics: Luck, and How to Measure It](http://arxiv.org/abs/1811.00673) (journalArticle)
 
 # Resistance: Avalon
 - [Finding Friend and Foe in Multi-Agent Games](http://arxiv.org/abs/1906.02330) (journalArticle)
@@ -287,6 +300,7 @@ If you aren't able to access any paper on this list, please [try using Sci-Hub](
 - [Playing Catan with Cross-dimensional Neural Network](http://arxiv.org/abs/2008.07079) (journalArticle)
 - [Strategic Dialogue Management via Deep Reinforcement Learning](http://arxiv.org/abs/1511.08099) (journalArticle)
 - [Strategic Dialogue Management via Deep Reinforcement Learning](http://arxiv.org/abs/1511.08099) (journalArticle)
+- [Analysis of 'The Settlers of Catan' Using Markov Chains](https://repository.tcu.edu/handle/116099117/49062) (thesis)
 
 # Shobu
 - [Shobu AI Playground](https://github.com/JayWalker512/Shobu) (computerProgram)
@@ -294,6 +308,8 @@ If you aren't able to access any paper on this list, please [try using Sci-Hub](
 
 # Terra Mystica
 - [Using Tabu Search Algorithm for Map Generation in the Terra Mystica Tabletop Game](https://doi.org/10.1145%2F3396474.3396492) (conferencePaper)
+- [Mastering Terra Mystica: Applying Self-Play to Multi-agent Cooperative Board Games](http://arxiv.org/abs/2102.10540) (journalArticle)
+- [TM AI: Play TM against AI players.](https://lodev.org/tmai/) (computerProgram)
 
 # Tetris Link
 - [A New Challenge: Approaching Tetris Link with AI](http://arxiv.org/abs/2004.00377) (journalArticle)
