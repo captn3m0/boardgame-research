@@ -8709,6 +8709,80 @@ guaranteed decent high score. The algorithm got a lowest score of 79 and a
         <z:linkMode>1</z:linkMode>
         <link:type>text/html</link:type>
     </z:Attachment>
+    <bib:Article rdf:about="http://arxiv.org/abs/2112.09697">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal><dc:title>arXiv:2112.09697 [cs]</dc:title></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Galván</foaf:surname>
+                        <foaf:givenName>Edgar</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Simpson</foaf:surname>
+                        <foaf:givenName>Gavin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_546"/>
+        <link:link rdf:resource="#item_547"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Computer Science - Artificial Intelligence</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Computer Science - Machine Learning</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+                <rdf:value>Computer Science - Neural and Evolutionary Computing</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>On the Evolution of the MCTS Upper Confidence Bounds for Trees by Means of Evolutionary Algorithms in the Game of Carcassonne</dc:title>
+        <dcterms:abstract>Monte Carlo Tree Search (MCTS) is a sampling best-first method to search for optimal decisions. The MCTS's popularity is based on its extraordinary results in the challenging two-player based game Go, a game considered much harder than Chess and that until very recently was considered infeasible for Artificial Intelligence methods. The success of MCTS depends heavily on how the tree is built and the selection process plays a fundamental role in this. One particular selection mechanism that has proved to be reliable is based on the Upper Confidence Bounds for Trees, commonly referred as UCT. The UCT attempts to nicely balance exploration and exploitation by considering the values stored in the statistical tree of the MCTS. However, some tuning of the MCTS UCT is necessary for this to work well. In this work, we use Evolutionary Algorithms (EAs) to evolve mathematical expressions with the goal to substitute the UCT mathematical expression. We compare our proposed approach, called Evolution Strategy in MCTS (ES-MCTS) against five variants of the MCTS UCT, three variants of the star-minimax family of algorithms as well as a random controller in the Game of Carcassonne. We also use a variant of our proposed EA-based controller, dubbed ES partially integrated in MCTS. We show how the ES-MCTS controller, is able to outperform all these 10 intelligent controllers, including robust MCTS UCT controllers.</dcterms:abstract>
+        <dc:date>2021-12-17</dc:date>
+        <z:libraryCatalog>arXiv.org</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://arxiv.org/abs/2112.09697</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-12-25 07:03:23</dcterms:dateSubmitted>
+        <dc:description>arXiv: 2112.09697</dc:description>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_546">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>arXiv Fulltext PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/pdf/2112.09697.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-12-25 07:03:26</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_547">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>arXiv.org Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/abs/2112.09697</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-12-25 07:03:32</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
     <z:Collection rdf:about="#collection_6">
         <dc:title>2048</dc:title>
         <dcterms:hasPart rdf:resource="https://doi.org/10.1007%2F978-3-319-50935-8_8"/>
@@ -8743,6 +8817,7 @@ guaranteed decent high score. The algorithm got a lowest score of 79 and a
     <z:Collection rdf:about="#collection_33">
         <dc:title>Carcassonne</dc:title>
         <dcterms:hasPart rdf:resource="http://arxiv.org/abs/2009.12974"/>
+        <dcterms:hasPart rdf:resource="http://arxiv.org/abs/2112.09697"/>
     </z:Collection>
     <z:Collection rdf:about="#collection_8">
         <dc:title>Diplomacy</dc:title>
