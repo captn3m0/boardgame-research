@@ -160,9 +160,11 @@ If you aren't able to access any paper on this list, please [try using Sci-Hub](
 - [Playing mini-Hanabi card game with Q-learning](http://id.nii.ac.jp/1001/00205046/) (conferencePaper)
 - [Hanabi Open Agent Dataset](https://github.com/aronsar/hoad) (computerProgram)
 - [Hanabi Open Agent Dataset](https://dl.acm.org/doi/10.5555/3463952.3464188) (conferencePaper)
-- [Evaluation of Human-AI Teams for Learned and Rule-Based Agents in Hanabi](http://arxiv.org/abs/2107.07630) (journalArticle)
+- [Evaluation of Human-AI Teams for Learned and Rule-Based Agents in Hanabi](https://arxiv.org/abs/2107.07630) (journalArticle)
 - [A Graphical User Interface For The Hanabi Challenge Benchmark](http://oru.diva-portal.org/smash/record.jsf?pid=diva2%3A1597503) (thesis)
 - [Emergence of Cooperative Impression With Self-Estimation, Thinking Time, and Concordance of Risk Sensitivity in Playing Hanabi](https://www.frontiersin.org/articles/10.3389/frobt.2021.658348/full) (journalArticle)
+- []() (conferencePaper)
+- [K-level Reasoning for Zero-Shot Coordination in Hanabi](https://papers.neurips.cc/paper/2021/hash/4547dff5fd7604f18c8ee32cf3da41d7-Abstract.html) (conferencePaper)
 
 # Hearthstone
 - [Mapping Hearthstone Deck Spaces through MAP-Elites with Sliding Boundaries](http://arxiv.org/abs/1904.10656) (journalArticle)

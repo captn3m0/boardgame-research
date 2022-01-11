@@ -7000,7 +7000,7 @@ Publisher: Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik GmbH, Wadern/Saarb
             </bib:Conference>
         </bib:presentedAt>
     </rdf:Description>
-    <bib:Article rdf:about="http://arxiv.org/abs/2107.07630">
+    <bib:Article rdf:about="https://arxiv.org/abs/2107.07630">
         <z:itemType>journalArticle</z:itemType>
         <dcterms:isPartOf>
            <bib:Journal><dc:title>arXiv:2107.07630 [cs]</dc:title></bib:Journal>
@@ -7057,6 +7057,7 @@ Publisher: Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik GmbH, Wadern/Saarb
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <link:link rdf:resource="#item_567"/>
         <link:link rdf:resource="#item_460"/>
         <link:link rdf:resource="#item_461"/>
         <dc:subject>
@@ -7075,12 +7076,23 @@ Publisher: Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik GmbH, Wadern/Saarb
         <z:libraryCatalog>arXiv.org</z:libraryCatalog>
         <dc:identifier>
             <dcterms:URI>
-               <rdf:value>http://arxiv.org/abs/2107.07630</rdf:value>
+               <rdf:value>https://arxiv.org/abs/2107.07630</rdf:value>
             </dcterms:URI>
         </dc:identifier>
         <dcterms:dateSubmitted>2021-07-24 06:30:44</dcterms:dateSubmitted>
         <dc:description>arXiv: 2107.07630</dc:description>
     </bib:Article>
+    <z:Attachment rdf:about="#item_567">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>86e8f7ab32cfd12577bc2619bc635690-Paper.pdf</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://papers.neurips.cc/paper/2021/file/86e8f7ab32cfd12577bc2619bc635690-Paper.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-01-11 07:50:59</dcterms:dateSubmitted>
+        <z:linkMode>3</z:linkMode>
+    </z:Attachment>
     <z:Attachment rdf:about="#item_460">
         <z:itemType>attachment</z:itemType>
         <dc:title>arXiv Fulltext PDF</dc:title>
@@ -8179,8 +8191,8 @@ guaranteed decent high score. The algorithm got a lowest score of 79 and a
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
-        <link:link rdf:resource="#item_514"/>
         <link:link rdf:resource="#item_515"/>
+        <link:link rdf:resource="#item_514"/>
         <dc:title>Analysis of 'The Settlers of Catan' Using Markov Chains</dc:title>
         <dcterms:abstract>Markov chains are stochastic models characterized by the probability of future states depending solely on one's current state. Google's page ranking system, financial phenomena such as stock market crashes, and algorithms to predict a company's projected sales are a glimpse into the array of applications for Markov models. Board games such as Monopoly and Risk have also been studied under the lens of Markov decision processes. In this research, we analyzed the board game &quot;The Settlers of Catan&quot; using transition matrices. Transition matrices are composed of the current states which represent each row i and the proceeding states across the columns j with the entry (i,j) containing the probability the current state i will transition to the state j. Using these transition matrices, we delved into addressing the question of which starting positions are optimal. Furthermore, we worked on determining optimality in conjunction with a player's gameplay strategy. After building a simulation of the game in python, we tested the results of our theoretical research against the mock run throughs to observe how well our model prevailed under the limitations of time (number of turns before winner is reached).</dcterms:abstract>
         <dc:date>May 3, 2021</dc:date>
@@ -8192,17 +8204,6 @@ guaranteed decent high score. The algorithm got a lowest score of 79 and a
         </dc:identifier>
         <z:numPages>53</z:numPages>
     </bib:Thesis>
-    <z:Attachment rdf:about="#item_514">
-        <z:itemType>attachment</z:itemType>
-        <dc:title>Nagel__Lauren-Honors_Project.pdf</dc:title>
-        <dc:identifier>
-            <dcterms:URI>
-                <rdf:value>https://repository.tcu.edu/bitstream/handle/116099117/49062/Nagel__Lauren-Honors_Project.pdf?sequence=1&amp;isAllowed=y</rdf:value>
-            </dcterms:URI>
-        </dc:identifier>
-        <dcterms:dateSubmitted>2021-12-19 11:15:50</dcterms:dateSubmitted>
-        <z:linkMode>3</z:linkMode>
-    </z:Attachment>
     <z:Attachment rdf:about="#item_515">
         <z:itemType>attachment</z:itemType>
         <dc:title>Full Text</dc:title>
@@ -8214,6 +8215,17 @@ guaranteed decent high score. The algorithm got a lowest score of 79 and a
         <dcterms:dateSubmitted>2021-12-19 11:15:58</dcterms:dateSubmitted>
         <z:linkMode>1</z:linkMode>
         <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_514">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Nagel__Lauren-Honors_Project.pdf</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://repository.tcu.edu/bitstream/handle/116099117/49062/Nagel__Lauren-Honors_Project.pdf?sequence=1&amp;isAllowed=y</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-12-19 11:15:50</dcterms:dateSubmitted>
+        <z:linkMode>3</z:linkMode>
     </z:Attachment>
     <bib:Article rdf:about="http://arxiv.org/abs/2009.00655">
         <z:itemType>journalArticle</z:itemType>
@@ -8783,6 +8795,78 @@ guaranteed decent high score. The algorithm got a lowest score of 79 and a
         <z:linkMode>1</z:linkMode>
         <link:type>text/html</link:type>
     </z:Attachment>
+    <rdf:Description rdf:about="#item_566">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal></bib:Journal>
+        </dcterms:isPartOf>
+    </rdf:Description>
+    <rdf:Description rdf:about="https://papers.neurips.cc/paper/2021/hash/4547dff5fd7604f18c8ee32cf3da41d7-Abstract.html">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Brandon Cui</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Hengyuan Hu</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Luis Pineda</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Jakob Foerster</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_569"/>
+        <link:link rdf:resource="#item_570"/>
+        <dc:title>K-level Reasoning for Zero-Shot Coordination in Hanabi</dc:title>
+        <dcterms:abstract>The standard problem setting in cooperative multi-agent settings is \emph{self-play} (SP), where the goal is to train a \emph{team} of agents that works well together.     However, optimal SP policies commonly contain arbitrary conventions  (``handshakes'') and are not compatible with other, independently trained agents or humans.     This latter desiderata was recently formalized by \cite{Hu2020-OtherPlay} as the \emph{zero-shot coordination} (ZSC) setting and partially addressed with their \emph{Other-Play} (OP) algorithm, which showed improved ZSC and human-AI performance in the card game Hanabi.     OP assumes access to the symmetries of the environment and prevents agents from breaking these in a mutually \emph{incompatible} way during training. However, as the authors point out, discovering symmetries for a given environment is a computationally hard problem.    Instead, we show that through a simple adaption of k-level reasoning (KLR) \cite{Costa-Gomes2006-K-level}, synchronously training all levels, we can obtain competitive ZSC and ad-hoc teamplay performance in Hanabi, including when paired with a human-like proxy bot. We also introduce a new method, synchronous-k-level reasoning with a best response (SyKLRBR), which further improves performance on our synchronous KLR by co-training a best response.</dcterms:abstract>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://papers.neurips.cc/paper/2021/hash/4547dff5fd7604f18c8ee32cf3da41d7-Abstract.html</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:presentedAt>
+            <bib:Conference>
+                <dc:title>Advances in Neural Information Processing Systems 34 pre-proceedings (NeurIPS 2021)</dc:title>
+            </bib:Conference>
+        </bib:presentedAt>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_569">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Paper</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://papers.neurips.cc/paper/2021/file/4547dff5fd7604f18c8ee32cf3da41d7-Paper.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-01-11 07:52:40</dcterms:dateSubmitted>
+        <z:linkMode>3</z:linkMode>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_570">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Supplemental</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://papers.neurips.cc/paper/2021/file/4547dff5fd7604f18c8ee32cf3da41d7-Supplemental.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-01-11 07:52:49</dcterms:dateSubmitted>
+        <z:linkMode>3</z:linkMode>
+    </z:Attachment>
     <z:Collection rdf:about="#collection_6">
         <dc:title>2048</dc:title>
         <dcterms:hasPart rdf:resource="https://doi.org/10.1007%2F978-3-319-50935-8_8"/>
@@ -8886,9 +8970,11 @@ guaranteed decent high score. The algorithm got a lowest score of 79 and a
         <dcterms:hasPart rdf:resource="http://id.nii.ac.jp/1001/00205046/"/>
         <dcterms:hasPart rdf:resource="https://github.com/aronsar/hoad"/>
         <dcterms:hasPart rdf:resource="https://dl.acm.org/doi/10.5555/3463952.3464188"/>
-        <dcterms:hasPart rdf:resource="http://arxiv.org/abs/2107.07630"/>
+        <dcterms:hasPart rdf:resource="https://arxiv.org/abs/2107.07630"/>
         <dcterms:hasPart rdf:resource="http://oru.diva-portal.org/smash/record.jsf?pid=diva2%3A1597503"/>
         <dcterms:hasPart rdf:resource="https://www.frontiersin.org/articles/10.3389/frobt.2021.658348/full"/>
+        <dcterms:hasPart rdf:resource="#item_566"/>
+        <dcterms:hasPart rdf:resource="https://papers.neurips.cc/paper/2021/hash/4547dff5fd7604f18c8ee32cf3da41d7-Abstract.html"/>
     </z:Collection>
     <z:Collection rdf:about="#collection_55">
         <dc:title>Hearthstone</dc:title>
