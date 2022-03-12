@@ -8867,6 +8867,46 @@ guaranteed decent high score. The algorithm got a lowest score of 79 and a
         <dcterms:dateSubmitted>2022-01-11 07:52:49</dcterms:dateSubmitted>
         <z:linkMode>3</z:linkMode>
     </z:Attachment>
+    <bib:Article rdf:about="#item_572">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ford</foaf:surname>
+                        <foaf:givenName>Cassandra</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ohata</foaf:surname>
+                        <foaf:givenName>Merrick</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_571"/>
+        <dc:title>Game Balancing in Dominion: An Approach to Identifying Problematic Game Elements</dc:title>
+        <dcterms:abstract>In the popular card game Dominion, the conﬁguration of game elements greatly affects the experience for players. If one were redesigning Dominion, therefore, it may be useful to identify game elements that reduce the number of viable strategies in any given game conﬁguration - i.e. elements that are unbalanced. In this paper, we propose an approach that assigns credit to the outcome of an episode to individual elements. Our approach uses statistical analysis to learn the interactions and dependencies between game elements. This learned knowledge is used to recommend elements to game designers for further consideration. Designers may then choose to modify the recommended elements with the goal of increasing the number of viable strategies.</dcterms:abstract>
+        <z:language>en</z:language>
+        <z:libraryCatalog>Zotero</z:libraryCatalog>
+        <bib:pages>7</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_571">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Ford and Ohata - Game Balancing in Dominion An Approach to Identif.pdf</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://cs.gettysburg.edu/~tneller/games/aiagd/papers/EAAI-00039-FordC.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-03-12 09:44:51</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
     <z:Collection rdf:about="#collection_6">
         <dc:title>2048</dc:title>
         <dcterms:hasPart rdf:resource="https://doi.org/10.1007%2F978-3-319-50935-8_8"/>
@@ -8925,6 +8965,7 @@ guaranteed decent high score. The algorithm got a lowest score of 79 and a
         <dcterms:hasPart rdf:resource="http://councilroom.com/supply_win"/>
         <dcterms:hasPart rdf:resource="http://forum.dominionstrategy.com/index.php"/>
         <dcterms:hasPart rdf:resource="http://arxiv.org/abs/1811.11273"/>
+        <dcterms:hasPart rdf:resource="#item_572"/>
     </z:Collection>
     <z:Collection rdf:about="#collection_51">
         <dc:title>Frameworks</dc:title>

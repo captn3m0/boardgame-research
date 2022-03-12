@@ -119,6 +119,7 @@ If you aren't able to access any paper on this list, please [try using Sci-Hub](
 - [Card Winning Stats on Dominion Server](http://councilroom.com/supply_win) (blogPost)
 - [Dominion Strategy Forum](http://forum.dominionstrategy.com/index.php) (forumPost)
 - [Clustering Player Strategies from Variable-Length Game Logs in Dominion](http://arxiv.org/abs/1811.11273) (journalArticle)
+- [Game Balancing in Dominion: An Approach to Identifying Problematic Game Elements]() (journalArticle)
 
 # Frameworks
 - [RLCard: A Toolkit for Reinforcement Learning in Card Games](http://arxiv.org/abs/1910.04376) (journalArticle)
