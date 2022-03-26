@@ -166,6 +166,7 @@ If you aren't able to access any paper on this list, please [try using Sci-Hub](
 - [Emergence of Cooperative Impression With Self-Estimation, Thinking Time, and Concordance of Risk Sensitivity in Playing Hanabi](https://www.frontiersin.org/articles/10.3389/frobt.2021.658348/full) (journalArticle)
 - []() (conferencePaper)
 - [K-level Reasoning for Zero-Shot Coordination in Hanabi](https://papers.neurips.cc/paper/2021/hash/4547dff5fd7604f18c8ee32cf3da41d7-Abstract.html) (conferencePaper)
+- [Is Vanilla Policy Gradient Overlooked? Analyzing Deep Reinforcement Learning for Hanabi](http://arxiv.org/abs/2203.11656) (journalArticle)
 
 # Hearthstone
 - [Mapping Hearthstone Deck Spaces through MAP-Elites with Sliding Boundaries](http://arxiv.org/abs/1904.10656) (journalArticle)

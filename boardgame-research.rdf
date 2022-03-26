@@ -8907,6 +8907,67 @@ guaranteed decent high score. The algorithm got a lowest score of 79 and a
         <z:linkMode>1</z:linkMode>
         <link:type>application/pdf</link:type>
     </z:Attachment>
+    <bib:Article rdf:about="http://arxiv.org/abs/2203.11656">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal><dc:title>arXiv:2203.11656 [cs]</dc:title></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Grooten</foaf:surname>
+                        <foaf:givenName>Bram</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wemmenhove</foaf:surname>
+                        <foaf:givenName>Jelle</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Poot</foaf:surname>
+                        <foaf:givenName>Maurice</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Portegies</foaf:surname>
+                        <foaf:givenName>Jim</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Computer Science - Artificial Intelligence</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Computer Science - Machine Learning</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Computer Science - Multiagent Systems</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Is Vanilla Policy Gradient Overlooked? Analyzing Deep Reinforcement Learning for Hanabi</dc:title>
+        <dcterms:abstract>In pursuit of enhanced multi-agent collaboration, we analyze several on-policy deep reinforcement learning algorithms in the recently published Hanabi benchmark. Our research suggests a perhaps counter-intuitive finding, where Proximal Policy Optimization (PPO) is outperformed by Vanilla Policy Gradient over multiple random seeds in a simplified environment of the multi-agent cooperative card game. In our analysis of this behavior we look into Hanabi-specific metrics and hypothesize a reason for PPO's plateau. In addition, we provide proofs for the maximum length of a perfect game (71 turns) and any game (89 turns). Our code can be found at: https://github.com/bramgrooten/DeepRL-for-Hanabi</dcterms:abstract>
+        <dc:date>2022-03-22</dc:date>
+        <z:shortTitle>Is Vanilla Policy Gradient Overlooked?</z:shortTitle>
+        <z:libraryCatalog>arXiv.org</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://arxiv.org/abs/2203.11656</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-03-26 04:22:52</dcterms:dateSubmitted>
+        <dc:description>arXiv: 2203.11656</dc:description>
+    </bib:Article>
     <z:Collection rdf:about="#collection_6">
         <dc:title>2048</dc:title>
         <dcterms:hasPart rdf:resource="https://doi.org/10.1007%2F978-3-319-50935-8_8"/>
@@ -9016,6 +9077,7 @@ guaranteed decent high score. The algorithm got a lowest score of 79 and a
         <dcterms:hasPart rdf:resource="https://www.frontiersin.org/articles/10.3389/frobt.2021.658348/full"/>
         <dcterms:hasPart rdf:resource="#item_566"/>
         <dcterms:hasPart rdf:resource="https://papers.neurips.cc/paper/2021/hash/4547dff5fd7604f18c8ee32cf3da41d7-Abstract.html"/>
+        <dcterms:hasPart rdf:resource="http://arxiv.org/abs/2203.11656"/>
     </z:Collection>
     <z:Collection rdf:about="#collection_55">
         <dc:title>Hearthstone</dc:title>
