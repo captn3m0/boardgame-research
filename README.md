@@ -306,6 +306,7 @@ If you aren't able to access any paper on this list, please [try using Sci-Hub](
 - [Strategic Dialogue Management via Deep Reinforcement Learning](http://arxiv.org/abs/1511.08099) (journalArticle)
 - [Strategic Dialogue Management via Deep Reinforcement Learning](http://arxiv.org/abs/1511.08099) (journalArticle)
 - [Analysis of 'The Settlers of Catan' Using Markov Chains](https://repository.tcu.edu/handle/116099117/49062) (thesis)
+- [Learning to Play Settlers of Catan with Deep Reinforcement Learning](https://settlers-rl.github.io/) (blogPost)
 
 # Shobu
 - [Shobu AI Playground](https://github.com/JayWalker512/Shobu) (computerProgram)

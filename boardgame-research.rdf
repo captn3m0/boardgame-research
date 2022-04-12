@@ -8940,6 +8940,9 @@ guaranteed decent high score. The algorithm got a lowest score of 79 and a
                 </rdf:li>
             </rdf:Seq>
         </bib:authors>
+        <link:link rdf:resource="#item_575"/>
+        <link:link rdf:resource="#item_576"/>
+        <link:link rdf:resource="#item_577"/>
         <dc:subject>
             <z:AutomaticTag>
                <rdf:value>Computer Science - Artificial Intelligence</rdf:value>
@@ -8968,6 +8971,63 @@ guaranteed decent high score. The algorithm got a lowest score of 79 and a
         <dcterms:dateSubmitted>2022-03-26 04:22:52</dcterms:dateSubmitted>
         <dc:description>arXiv: 2203.11656</dc:description>
     </bib:Article>
+    <z:Attachment rdf:about="#item_575">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>arXiv Fulltext PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/pdf/2203.11656.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-03-26 04:24:09</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_576">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>arXiv.org Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/abs/2203.11656</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-03-26 04:24:17</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_577">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/pdf/2203.11656.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-03-26 04:24:21</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://settlers-rl.github.io/">
+        <z:itemType>blogPost</z:itemType>
+        <dcterms:isPartOf>
+           <z:Blog></z:Blog>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Henry Charlesworth</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Learning to Play Settlers of Catan with Deep Reinforcement Learning</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://settlers-rl.github.io/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Document>
     <z:Collection rdf:about="#collection_6">
         <dc:title>2048</dc:title>
         <dcterms:hasPart rdf:resource="https://doi.org/10.1007%2F978-3-319-50935-8_8"/>
@@ -9242,6 +9302,7 @@ guaranteed decent high score. The algorithm got a lowest score of 79 and a
         <dcterms:hasPart rdf:resource="http://arxiv.org/abs/1511.08099"/>
         <dcterms:hasPart rdf:resource="#item_476"/>
         <dcterms:hasPart rdf:resource="https://repository.tcu.edu/handle/116099117/49062"/>
+        <dcterms:hasPart rdf:resource="https://settlers-rl.github.io/"/>
     </z:Collection>
     <z:Collection rdf:about="#collection_28">
         <dc:title>Shobu</dc:title>
