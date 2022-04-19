@@ -6,6 +6,8 @@ should be of interest to anyone interested in boardgames and their optimal play.
 Chess and Go, finding prior work on more contemporary games can be a bit hard. This list focuses on the latter. If you are interested in well-researched
 games like Chess, Go, Hex, take a look at the [Chess programming wiki](https://www.chessprogramming.org/Games) instead. The list also covers some computer-games that fall under similar themes.
 
+You can browse the collection at <https://www.zotero.org/captn3m0/collections/8S9AI4TI> as well.
+
 An importable RDF version is available as well:
 
 - [Zotero RDF](boardgame-research.rdf)
@@ -173,6 +175,7 @@ If you aren't able to access any paper on this list, please [try using Sci-Hub](
 
 # Hive
 - [On the complexity of Hive](https://dspace.library.uu.nl/handle/1874/396955) (thesis)
+- [The Cost of Reinforcement Learning for Game Engines: The AZ-Hive Case-study](https://dl.acm.org/doi/10.1145/3489525.3511685) (conferencePaper)
 
 # Jenga
 - [Jidoukan Jenga: Teaching English through remixing games and game rules](https://www.llpjournal.org/2020/04/13/jidokan-jenga.html) (journalArticle)
@@ -212,6 +215,7 @@ If you aren't able to access any paper on this list, please [try using Sci-Hub](
 # Mobile Games
 - [Trainyard is NP-Hard](http://arxiv.org/abs/1603.00928v1) (journalArticle)
 - [Threes!, Fives, 1024!, and 2048 are Hard](http://arxiv.org/abs/1505.04274v1) (journalArticle)
+- [Rikudo is NP-complete](https://linkinghub.elsevier.com/retrieve/pii/S0304397522000457) (journalArticle)
 
 # Modern Art: The card game
 - [A constraint programming based solver for Modern Art](https://github.com/captn3m0/modernart) (computerProgram)

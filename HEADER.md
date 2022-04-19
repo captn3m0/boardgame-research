@@ -6,6 +6,8 @@ should be of interest to anyone interested in boardgames and their optimal play.
 Chess and Go, finding prior work on more contemporary games can be a bit hard. This list focuses on the latter. If you are interested in well-researched
 games like Chess, Go, Hex, take a look at the [Chess programming wiki](https://www.chessprogramming.org/Games) instead. The list also covers some computer-games that fall under similar themes.
 
+You can browse the collection at <https://www.zotero.org/captn3m0/collections/8S9AI4TI> as well.
+
 An importable RDF version is available as well:
 
 - [Zotero RDF](boardgame-research.rdf)

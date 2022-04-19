@@ -9028,6 +9028,116 @@ guaranteed decent high score. The algorithm got a lowest score of 79 and a
             </dcterms:URI>
         </dc:identifier>
     </bib:Document>
+    <bib:Article rdf:about="https://linkinghub.elsevier.com/retrieve/pii/S0304397522000457">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:03043975"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Nguyen</foaf:surname>
+                        <foaf:givenName>Viet-Ha</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Perrot</foaf:surname>
+                        <foaf:givenName>Kévin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Rikudo is NP-complete</dc:title>
+        <dc:date>04/2022</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://linkinghub.elsevier.com/retrieve/pii/S0304397522000457</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-04-19 07:12:59</dcterms:dateSubmitted>
+        <bib:pages>34-47</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:03043975">
+        <prism:volume>910</prism:volume>
+        <dc:title>Theoretical Computer Science</dc:title>
+        <dc:identifier>DOI 10.1016/j.tcs.2022.01.034</dc:identifier>
+        <dcterms:alternative>Theoretical Computer Science</dcterms:alternative>
+        <dc:identifier>ISSN 03043975</dc:identifier>
+    </bib:Journal>
+    <rdf:Description rdf:about="urn:isbn:978-1-4503-9143-6">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:identifier>ISBN 978-1-4503-9143-6</dc:identifier>
+                <dc:title>Proceedings of the 2022 ACM/SPEC on International Conference on Performance Engineering</dc:title>
+                <dc:identifier>DOI 10.1145/3489525.3511685</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Beijing China</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>ACM</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>de Goede</foaf:surname>
+                        <foaf:givenName>Danilo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kampert</foaf:surname>
+                        <foaf:givenName>Duncan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Varbanescu</foaf:surname>
+                        <foaf:givenName>Ana Lucia</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_581"/>
+        <dc:title>The Cost of Reinforcement Learning for Game Engines: The AZ-Hive Case-study</dc:title>
+        <dc:date>2022-04-09</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>The Cost of Reinforcement Learning for Game Engines</z:shortTitle>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://dl.acm.org/doi/10.1145/3489525.3511685</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-04-19 07:14:12</dcterms:dateSubmitted>
+        <bib:pages>145-152</bib:pages>
+        <bib:presentedAt>
+            <bib:Conference>
+                <dc:title>ICPE '22: ACM/SPEC International Conference on Performance Engineering</dc:title>
+            </bib:Conference>
+        </bib:presentedAt>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_581">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://dl.acm.org/doi/pdf/10.1145/3489525.3511685</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-04-19 07:14:15</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
     <z:Collection rdf:about="#collection_6">
         <dc:title>2048</dc:title>
         <dcterms:hasPart rdf:resource="https://doi.org/10.1007%2F978-3-319-50935-8_8"/>
@@ -9146,6 +9256,7 @@ guaranteed decent high score. The algorithm got a lowest score of 79 and a
     <z:Collection rdf:about="#collection_26">
         <dc:title>Hive</dc:title>
         <dcterms:hasPart rdf:resource="https://dspace.library.uu.nl/handle/1874/396955"/>
+        <dcterms:hasPart rdf:resource="urn:isbn:978-1-4503-9143-6"/>
     </z:Collection>
     <z:Collection rdf:about="#collection_24">
         <dc:title>Jenga</dc:title>
@@ -9191,6 +9302,7 @@ guaranteed decent high score. The algorithm got a lowest score of 79 and a
         <dc:title>Mobile Games</dc:title>
         <dcterms:hasPart rdf:resource="http://arxiv.org/abs/1603.00928v1"/>
         <dcterms:hasPart rdf:resource="http://arxiv.org/abs/1505.04274v1"/>
+        <dcterms:hasPart rdf:resource="https://linkinghub.elsevier.com/retrieve/pii/S0304397522000457"/>
     </z:Collection>
     <z:Collection rdf:about="#collection_44">
         <dc:title>Modern Art: The card game</dc:title>
