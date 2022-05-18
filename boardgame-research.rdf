@@ -2213,6 +2213,7 @@
             </rdf:Seq>
         </bib:authors>
         <link:link rdf:resource="#item_83"/>
+        <dc:relation rdf:resource="https://ieeexplore.ieee.org/document/9762901/"/>
         <dc:title>Generating and Adapting to Diverse Ad-Hoc Cooperation Agents in Hanabi</dc:title>
         <dc:date>2020</dc:date>
         <dc:identifier>
@@ -8867,7 +8868,7 @@ guaranteed decent high score. The algorithm got a lowest score of 79 and a
         <dcterms:dateSubmitted>2022-01-11 07:52:49</dcterms:dateSubmitted>
         <z:linkMode>3</z:linkMode>
     </z:Attachment>
-    <bib:Article rdf:about="#item_572">
+    <bib:Article rdf:about="http://cs.gettysburg.edu/~tneller/games/aiagd/papers/EAAI-00039-FordC.pdf">
         <z:itemType>journalArticle</z:itemType>
         <dcterms:isPartOf>
            <bib:Journal></bib:Journal>
@@ -8892,7 +8893,13 @@ guaranteed decent high score. The algorithm got a lowest score of 79 and a
         <dc:title>Game Balancing in Dominion: An Approach to Identifying Problematic Game Elements</dc:title>
         <dcterms:abstract>In the popular card game Dominion, the conﬁguration of game elements greatly affects the experience for players. If one were redesigning Dominion, therefore, it may be useful to identify game elements that reduce the number of viable strategies in any given game conﬁguration - i.e. elements that are unbalanced. In this paper, we propose an approach that assigns credit to the outcome of an episode to individual elements. Our approach uses statistical analysis to learn the interactions and dependencies between game elements. This learned knowledge is used to recommend elements to game designers for further consideration. Designers may then choose to modify the recommended elements with the goal of increasing the number of viable strategies.</dcterms:abstract>
         <z:language>en</z:language>
+        <z:archive>https://web.archive.org/web/20220516093249/http://cs.gettysburg.edu/~tneller/games/aiagd/papers/EAAI-00039-FordC.pdf</z:archive>
         <z:libraryCatalog>Zotero</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://cs.gettysburg.edu/~tneller/games/aiagd/papers/EAAI-00039-FordC.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
         <bib:pages>7</bib:pages>
     </bib:Article>
     <z:Attachment rdf:about="#item_571">
@@ -9138,6 +9145,62 @@ guaranteed decent high score. The algorithm got a lowest score of 79 and a
         <z:linkMode>1</z:linkMode>
         <link:type>application/pdf</link:type>
     </z:Attachment>
+    <bib:Article rdf:about="https://ieeexplore.ieee.org/document/9762901/">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:title>IEEE Transactions on Games</dc:title>
+                <dc:identifier>DOI 10.1109/TG.2022.3169168</dc:identifier>
+                <dcterms:alternative>IEEE Trans. Games</dcterms:alternative>
+                <dc:identifier>ISSN 2475-1502, 2475-1510</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Canaan</foaf:surname>
+                        <foaf:givenName>Rodrigo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gao</foaf:surname>
+                        <foaf:givenName>Xianbo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Togelius</foaf:surname>
+                        <foaf:givenName>Julian</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Nealen</foaf:surname>
+                        <foaf:givenName>Andy</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Menzel</foaf:surname>
+                        <foaf:givenName>Stefan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:relation rdf:resource="http://arxiv.org/abs/2004.13710v2"/>
+        <dc:title>Generating and Adapting to Diverse Ad-Hoc Partners in Hanabi</dc:title>
+        <dc:date>2022</dc:date>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://ieeexplore.ieee.org/document/9762901/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-04-30 05:11:33</dcterms:dateSubmitted>
+        <bib:pages>1-1</bib:pages>
+    </bib:Article>
     <z:Collection rdf:about="#collection_6">
         <dc:title>2048</dc:title>
         <dcterms:hasPart rdf:resource="https://doi.org/10.1007%2F978-3-319-50935-8_8"/>
@@ -9196,7 +9259,7 @@ guaranteed decent high score. The algorithm got a lowest score of 79 and a
         <dcterms:hasPart rdf:resource="http://councilroom.com/supply_win"/>
         <dcterms:hasPart rdf:resource="http://forum.dominionstrategy.com/index.php"/>
         <dcterms:hasPart rdf:resource="http://arxiv.org/abs/1811.11273"/>
-        <dcterms:hasPart rdf:resource="#item_572"/>
+        <dcterms:hasPart rdf:resource="http://cs.gettysburg.edu/~tneller/games/aiagd/papers/EAAI-00039-FordC.pdf"/>
     </z:Collection>
     <z:Collection rdf:about="#collection_51">
         <dc:title>Frameworks</dc:title>
@@ -9248,6 +9311,7 @@ guaranteed decent high score. The algorithm got a lowest score of 79 and a
         <dcterms:hasPart rdf:resource="#item_566"/>
         <dcterms:hasPart rdf:resource="https://papers.neurips.cc/paper/2021/hash/4547dff5fd7604f18c8ee32cf3da41d7-Abstract.html"/>
         <dcterms:hasPart rdf:resource="http://arxiv.org/abs/2203.11656"/>
+        <dcterms:hasPart rdf:resource="https://ieeexplore.ieee.org/document/9762901/"/>
     </z:Collection>
     <z:Collection rdf:about="#collection_55">
         <dc:title>Hearthstone</dc:title>

@@ -121,7 +121,7 @@ If you aren't able to access any paper on this list, please [try using Sci-Hub](
 - [Card Winning Stats on Dominion Server](http://councilroom.com/supply_win) (blogPost)
 - [Dominion Strategy Forum](http://forum.dominionstrategy.com/index.php) (forumPost)
 - [Clustering Player Strategies from Variable-Length Game Logs in Dominion](http://arxiv.org/abs/1811.11273) (journalArticle)
-- [Game Balancing in Dominion: An Approach to Identifying Problematic Game Elements]() (journalArticle)
+- [Game Balancing in Dominion: An Approach to Identifying Problematic Game Elements](http://cs.gettysburg.edu/~tneller/games/aiagd/papers/EAAI-00039-FordC.pdf) (journalArticle)
 
 # Frameworks
 - [RLCard: A Toolkit for Reinforcement Learning in Card Games](http://arxiv.org/abs/1910.04376) (journalArticle)
@@ -169,6 +169,7 @@ If you aren't able to access any paper on this list, please [try using Sci-Hub](
 - []() (conferencePaper)
 - [K-level Reasoning for Zero-Shot Coordination in Hanabi](https://papers.neurips.cc/paper/2021/hash/4547dff5fd7604f18c8ee32cf3da41d7-Abstract.html) (conferencePaper)
 - [Is Vanilla Policy Gradient Overlooked? Analyzing Deep Reinforcement Learning for Hanabi](http://arxiv.org/abs/2203.11656) (journalArticle)
+- [Generating and Adapting to Diverse Ad-Hoc Partners in Hanabi](https://ieeexplore.ieee.org/document/9762901/) (journalArticle)
 
 # Hearthstone
 - [Mapping Hearthstone Deck Spaces through MAP-Elites with Sliding Boundaries](http://arxiv.org/abs/1904.10656) (journalArticle)
