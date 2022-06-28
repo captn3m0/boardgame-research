@@ -7419,81 +7419,6 @@ guaranteed decent high score. The algorithm got a lowest score of 79 and a
         <z:linkMode>1</z:linkMode>
         <link:type>application/pdf</link:type>
     </z:Attachment>
-    <bib:Article rdf:about="#item_476">
-        <z:itemType>journalArticle</z:itemType>
-        <dcterms:isPartOf>
-           <bib:Journal><dc:title>arXiv:1511.08099 [cs]</dc:title></bib:Journal>
-        </dcterms:isPartOf>
-        <bib:authors>
-            <rdf:Seq>
-                <rdf:li>
-                    <foaf:Person>
-                        <foaf:surname>Cuayáhuitl</foaf:surname>
-                        <foaf:givenName>Heriberto</foaf:givenName>
-                    </foaf:Person>
-                </rdf:li>
-                <rdf:li>
-                    <foaf:Person>
-                        <foaf:surname>Keizer</foaf:surname>
-                        <foaf:givenName>Simon</foaf:givenName>
-                    </foaf:Person>
-                </rdf:li>
-                <rdf:li>
-                    <foaf:Person>
-                        <foaf:surname>Lemon</foaf:surname>
-                        <foaf:givenName>Oliver</foaf:givenName>
-                    </foaf:Person>
-                </rdf:li>
-            </rdf:Seq>
-        </bib:authors>
-        <link:link rdf:resource="#item_478"/>
-        <link:link rdf:resource="#item_479"/>
-        <dc:subject>
-            <z:AutomaticTag>
-               <rdf:value>Computer Science - Artificial Intelligence</rdf:value>
-            </z:AutomaticTag>
-        </dc:subject>
-        <dc:subject>
-            <z:AutomaticTag>
-               <rdf:value>Computer Science - Machine Learning</rdf:value>
-            </z:AutomaticTag>
-        </dc:subject>
-        <dc:title>Strategic Dialogue Management via Deep Reinforcement Learning</dc:title>
-        <dcterms:abstract>Artificially intelligent agents equipped with strategic skills that can negotiate during their interactions with other natural or artificial agents are still underdeveloped. This paper describes a successful application of Deep Reinforcement Learning (DRL) for training intelligent agents with strategic conversational skills, in a situated dialogue setting. Previous studies have modelled the behaviour of strategic agents using supervised learning and traditional reinforcement learning techniques, the latter using tabular representations or learning with linear function approximation. In this study, we apply DRL with a high-dimensional state space to the strategic board game of Settlers of Catan---where players can offer resources in exchange for others and they can also reply to offers made by other players. Our experimental results report that the DRL-based learnt policies significantly outperformed several baselines including random, rule-based, and supervised-based behaviours. The DRL-based policy has a 53% win rate versus 3 automated players (`bots'), whereas a supervised player trained on a dialogue corpus in this setting achieved only 27%, versus the same 3 bots. This result supports the claim that DRL is a promising framework for training dialogue systems, and strategic agents with negotiation abilities.</dcterms:abstract>
-        <dc:date>2015-11-25</dc:date>
-        <z:libraryCatalog>arXiv.org</z:libraryCatalog>
-        <dc:identifier>
-            <dcterms:URI>
-               <rdf:value>http://arxiv.org/abs/1511.08099</rdf:value>
-            </dcterms:URI>
-        </dc:identifier>
-        <dcterms:dateSubmitted>2021-07-24 08:23:51</dcterms:dateSubmitted>
-        <dc:description>arXiv: 1511.08099</dc:description>
-    </bib:Article>
-    <z:Attachment rdf:about="#item_478">
-        <z:itemType>attachment</z:itemType>
-        <dc:title>arXiv Fulltext PDF</dc:title>
-        <dc:identifier>
-            <dcterms:URI>
-               <rdf:value>https://arxiv.org/pdf/1511.08099.pdf</rdf:value>
-            </dcterms:URI>
-        </dc:identifier>
-        <dcterms:dateSubmitted>2021-07-24 08:23:57</dcterms:dateSubmitted>
-        <z:linkMode>1</z:linkMode>
-        <link:type>application/pdf</link:type>
-    </z:Attachment>
-    <z:Attachment rdf:about="#item_479">
-        <z:itemType>attachment</z:itemType>
-        <dc:title>arXiv.org Snapshot</dc:title>
-        <dc:identifier>
-            <dcterms:URI>
-               <rdf:value>https://arxiv.org/abs/1511.08099</rdf:value>
-            </dcterms:URI>
-        </dc:identifier>
-        <dcterms:dateSubmitted>2021-07-24 08:24:01</dcterms:dateSubmitted>
-        <z:linkMode>1</z:linkMode>
-        <link:type>text/html</link:type>
-    </z:Attachment>
     <rdf:Description rdf:about="urn:isbn:978-92-837-2336-3">
         <z:itemType>conferencePaper</z:itemType>
         <dcterms:isPartOf>
@@ -9476,7 +9401,6 @@ guaranteed decent high score. The algorithm got a lowest score of 79 and a
         <dcterms:hasPart rdf:resource="https://www.researchgate.net/publication/228728063_Reinforcement_learning_of_strategies_for_Settlers_of_Catan"/>
         <dcterms:hasPart rdf:resource="http://arxiv.org/abs/2008.07079"/>
         <dcterms:hasPart rdf:resource="http://arxiv.org/abs/1511.08099"/>
-        <dcterms:hasPart rdf:resource="#item_476"/>
         <dcterms:hasPart rdf:resource="https://repository.tcu.edu/handle/116099117/49062"/>
         <dcterms:hasPart rdf:resource="https://settlers-rl.github.io/"/>
     </z:Collection>
