@@ -309,7 +309,6 @@ If you aren't able to access any paper on this list, please [try using Sci-Hub](
 - [Reinforcement Learning of Strategies for Settlers of Catan](https://www.researchgate.net/publication/228728063_Reinforcement_learning_of_strategies_for_Settlers_of_Catan) (conferencePaper)
 - [Playing Catan with Cross-dimensional Neural Network](http://arxiv.org/abs/2008.07079) (journalArticle)
 - [Strategic Dialogue Management via Deep Reinforcement Learning](http://arxiv.org/abs/1511.08099) (journalArticle)
-- [Strategic Dialogue Management via Deep Reinforcement Learning](http://arxiv.org/abs/1511.08099) (journalArticle)
 - [Analysis of 'The Settlers of Catan' Using Markov Chains](https://repository.tcu.edu/handle/116099117/49062) (thesis)
 - [Learning to Play Settlers of Catan with Deep Reinforcement Learning](https://settlers-rl.github.io/) (blogPost)
 
