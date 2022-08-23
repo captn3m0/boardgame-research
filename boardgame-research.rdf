@@ -8721,12 +8721,6 @@ guaranteed decent high score. The algorithm got a lowest score of 79 and a
         <z:linkMode>1</z:linkMode>
         <link:type>text/html</link:type>
     </z:Attachment>
-    <rdf:Description rdf:about="#item_566">
-        <z:itemType>conferencePaper</z:itemType>
-        <dcterms:isPartOf>
-           <bib:Journal></bib:Journal>
-        </dcterms:isPartOf>
-    </rdf:Description>
     <rdf:Description rdf:about="https://papers.neurips.cc/paper/2021/hash/4547dff5fd7604f18c8ee32cf3da41d7-Abstract.html">
         <z:itemType>conferencePaper</z:itemType>
         <dcterms:isPartOf>
@@ -9126,6 +9120,46 @@ guaranteed decent high score. The algorithm got a lowest score of 79 and a
         <dcterms:dateSubmitted>2022-04-30 05:11:33</dcterms:dateSubmitted>
         <bib:pages>1-1</bib:pages>
     </bib:Article>
+    <bib:Thesis rdf:about="http://fse.studenttheses.ub.rug.nl/id/eprint/28327">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>Rijksuniversiteit Groningen</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Nicholas Kees Dupuis</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_584"/>
+        <dc:title>Theory of Mind for Multi-agent Coordination in Hanabi</dc:title>
+        <dcterms:abstract>In order to successfully coordinate in complex multi-agent environments, AI systems need the ability to build useful models of others. Building such models often benefits from the use of theory of mind, by representing unobservable mental states of another agent, including their desires, beliefs, and intentions. In this paper I will show how theory of mind affects the ability of agents to coordinate in the cooperative card game Hanabi. The ability to play Hanabi well with a wide range of partners requires reasoning about the beliefs and intentions of other players, which makes Hanabi a perfect testbed for studying theory of mind. I will use both symbolic agent-based models designed to play a simplified version of the game which explicitly engage in theory of mind as well as reinforcement learning agents which use meta-learning to play the full version of the game. Both methods were used to build models of other agents and thereby test how theory of mind can both promote coordination as well as lead to coordination failure. My research demonstrates that the effect of theory of mind is highly variable, and depends heavily on the type of theory of mind reasoning being done by the partner. The empirical results of the agent-based models suggest that theory of mind is best applied when the joint policy produced without theory of mind is far from optimal, in which case second-order theory of mind appears to offer the most significant advantage.</dcterms:abstract>
+        <dc:date>16 Aug 2022</dc:date>
+        <z:language>en-US</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://fse.studenttheses.ub.rug.nl/id/eprint/28327</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <z:numPages>63</z:numPages>
+        <z:type>Thesis (Master's Thesis / Essay)</z:type>
+    </bib:Thesis>
+    <z:Attachment rdf:about="#item_584">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Full Text PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://fse.studenttheses.ub.rug.nl/28327/1/mAI_2022_DupuisNK.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-08-23 11:54:35</dcterms:dateSubmitted>
+        <z:linkMode>3</z:linkMode>
+    </z:Attachment>
     <z:Collection rdf:about="#collection_6">
         <dc:title>2048</dc:title>
         <dcterms:hasPart rdf:resource="https://doi.org/10.1007%2F978-3-319-50935-8_8"/>
@@ -9233,10 +9267,10 @@ guaranteed decent high score. The algorithm got a lowest score of 79 and a
         <dcterms:hasPart rdf:resource="https://arxiv.org/abs/2107.07630"/>
         <dcterms:hasPart rdf:resource="http://oru.diva-portal.org/smash/record.jsf?pid=diva2%3A1597503"/>
         <dcterms:hasPart rdf:resource="https://www.frontiersin.org/articles/10.3389/frobt.2021.658348/full"/>
-        <dcterms:hasPart rdf:resource="#item_566"/>
         <dcterms:hasPart rdf:resource="https://papers.neurips.cc/paper/2021/hash/4547dff5fd7604f18c8ee32cf3da41d7-Abstract.html"/>
         <dcterms:hasPart rdf:resource="http://arxiv.org/abs/2203.11656"/>
         <dcterms:hasPart rdf:resource="https://ieeexplore.ieee.org/document/9762901/"/>
+        <dcterms:hasPart rdf:resource="http://fse.studenttheses.ub.rug.nl/id/eprint/28327"/>
     </z:Collection>
     <z:Collection rdf:about="#collection_55">
         <dc:title>Hearthstone</dc:title>
