@@ -7751,30 +7751,6 @@ guaranteed decent high score. The algorithm got a lowest score of 79 and a
         <dc:rights>MIT License</dc:rights>
         <z:programmingLanguage>Java</z:programmingLanguage>
     </bib:Data>
-    <bib:Thesis rdf:about="http://oru.diva-portal.org/smash/record.jsf?pid=diva2%3A1597503">
-        <z:itemType>thesis</z:itemType>
-        <dc:publisher>
-            <foaf:Organization>
-                <foaf:name>Örebro University, School of Science and Technology.</foaf:name>
-            </foaf:Organization>
-        </dc:publisher>
-        <bib:authors>
-            <rdf:Seq>
-                <rdf:li>
-                    <foaf:Person>
-                       <foaf:surname>Nguyen, Van Hoa</foaf:surname>
-                    </foaf:Person>
-                </rdf:li>
-            </rdf:Seq>
-        </bib:authors>
-        <dc:title>A Graphical User Interface For The Hanabi Challenge Benchmark</dc:title>
-        <dcterms:abstract>This report will describe the development of the Graphical User Interface (GUI) forthe Hanabi Challenge Benchmark. The benchmark is based on the popular cardgame Hanabi and presents itself as a new research frontier in artificial intelligencefor cooperative multi-agent challenges. The project’s intentions and goals are tointerpret and visualize the data output from the benchmark to give us a better understandingof it.A GUI was then developed by using knowledge within theory of mind in combinationwith theories within human-computer interaction. The results of this project wereevaluated through a small-scale usability test. Users of different ages, gender andlevels of computer knowledge tested the application and through a questionnaire,the quality of the GUI was assessed.</dcterms:abstract>
-        <dc:identifier>
-            <dcterms:URI>
-                <rdf:value>http://oru.diva-portal.org/smash/record.jsf?pid=diva2%3A1597503</rdf:value>
-            </dcterms:URI>
-        </dc:identifier>
-    </bib:Thesis>
     <bib:Article rdf:about="https://www.frontiersin.org/articles/10.3389/frobt.2021.658348/full">
         <z:itemType>journalArticle</z:itemType>
         <dcterms:isPartOf rdf:resource="urn:issn:2296-9144"/>
@@ -9160,6 +9136,88 @@ guaranteed decent high score. The algorithm got a lowest score of 79 and a
         <dcterms:dateSubmitted>2022-08-23 11:54:35</dcterms:dateSubmitted>
         <z:linkMode>3</z:linkMode>
     </z:Attachment>
+    <bib:Thesis rdf:about="http://oru.diva-portal.org/smash/record.jsf?pid=diva2%3A1691114&amp;dswid=-1981">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <foaf:name>Örebro University, School of Science and Technology.</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Inferadi, Salam</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Olof, Johnsson</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_586"/>
+        <dc:title>The Hanabi challenge: From Artificial Teams to Mixed Human-Machine Teams</dc:title>
+        <dcterms:abstract>This report will describe the further development of the Graphical User Interface (GUI) for the Hanabi Benchmark. Hanabi is a card game that has been introduced as a new frontier for artificial intelligence (AI). The goal of the project was to implement a human-user, into the GUI, and give the possibility to play against Machine Learning (ML) based agents, viz, non-human players in the GUI.To achieve these goals, we implemented human controls into the GUI to give a human user the option to play the game in the GUI. Agent models were integrated into to the GUI for the human to play with. Finally, a small study was conducted to evaluate the agent’s performances.</dcterms:abstract>
+        <z:language>en</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://oru.diva-portal.org/smash/record.jsf?pid=diva2%3A1691114&amp;dswid=-1981</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <z:numPages>40</z:numPages>
+        <z:type>Independent thesis Basic level (degree of Bachelor)</z:type>
+    </bib:Thesis>
+    <z:Attachment rdf:about="#item_586">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Fulltext PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.diva-portal.org/smash/get/diva2:1691114/FULLTEXT01.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-09-07 10:06:48</dcterms:dateSubmitted>
+        <z:linkMode>3</z:linkMode>
+    </z:Attachment>
+    <bib:Thesis rdf:about="http://urn.kb.se/resolve?urn=urn:nbn:se:oru:diva-94615">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <foaf:name>Örebro University, School of Science and Technology</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Nguyen, Van Hoa</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_588"/>
+        <dc:title>A Graphical User Interface For The Hanabi Challenge Benchmark</dc:title>
+        <dcterms:abstract>This report will describe the development of the Graphical User Interface (GUI) forthe Hanabi Challenge Benchmark. The benchmark is based on the popular cardgame Hanabi and presents itself as a new research frontier in artificial intelligencefor cooperative multi-agent challenges. The project’s intentions and goals are tointerpret and visualize the data output from the benchmark to give us a better understandingof it.A GUI was then developed by using knowledge within theory of mind in combinationwith theories within human-computer interaction. The results of this project wereevaluated through a small-scale usability test. Users of different ages, gender andlevels of computer knowledge tested the application and through a questionnaire,the quality of the GUI was assessed.</dcterms:abstract>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://urn.kb.se/resolve?urn=urn:nbn:se:oru:diva-94615</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <z:numPages>33</z:numPages>
+        <z:type>Independent thesis Basic level (professional degree)</z:type>
+    </bib:Thesis>
+    <z:Attachment rdf:about="#item_588">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.diva-portal.org/smash/get/diva2:1597503/FULLTEXT01.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-09-07 10:09:15</dcterms:dateSubmitted>
+        <z:linkMode>3</z:linkMode>
+    </z:Attachment>
     <z:Collection rdf:about="#collection_6">
         <dc:title>2048</dc:title>
         <dcterms:hasPart rdf:resource="https://doi.org/10.1007%2F978-3-319-50935-8_8"/>
@@ -9265,12 +9323,13 @@ guaranteed decent high score. The algorithm got a lowest score of 79 and a
         <dcterms:hasPart rdf:resource="https://github.com/aronsar/hoad"/>
         <dcterms:hasPart rdf:resource="https://dl.acm.org/doi/10.5555/3463952.3464188"/>
         <dcterms:hasPart rdf:resource="https://arxiv.org/abs/2107.07630"/>
-        <dcterms:hasPart rdf:resource="http://oru.diva-portal.org/smash/record.jsf?pid=diva2%3A1597503"/>
         <dcterms:hasPart rdf:resource="https://www.frontiersin.org/articles/10.3389/frobt.2021.658348/full"/>
         <dcterms:hasPart rdf:resource="https://papers.neurips.cc/paper/2021/hash/4547dff5fd7604f18c8ee32cf3da41d7-Abstract.html"/>
         <dcterms:hasPart rdf:resource="http://arxiv.org/abs/2203.11656"/>
         <dcterms:hasPart rdf:resource="https://ieeexplore.ieee.org/document/9762901/"/>
         <dcterms:hasPart rdf:resource="http://fse.studenttheses.ub.rug.nl/id/eprint/28327"/>
+        <dcterms:hasPart rdf:resource="http://oru.diva-portal.org/smash/record.jsf?pid=diva2%3A1691114&amp;dswid=-1981"/>
+        <dcterms:hasPart rdf:resource="http://urn.kb.se/resolve?urn=urn:nbn:se:oru:diva-94615"/>
     </z:Collection>
     <z:Collection rdf:about="#collection_55">
         <dc:title>Hearthstone</dc:title>
