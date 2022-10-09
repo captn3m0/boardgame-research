@@ -9218,6 +9218,77 @@ guaranteed decent high score. The algorithm got a lowest score of 79 and a
         <dcterms:dateSubmitted>2022-09-07 10:09:15</dcterms:dateSubmitted>
         <z:linkMode>3</z:linkMode>
     </z:Attachment>
+    <rdf:Description rdf:about="http://arxiv.org/abs/2208.13589">
+        <z:itemType>preprint</z:itemType>
+        <dc:publisher>
+           <foaf:Organization><foaf:name>arXiv</foaf:name></foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Galván</foaf:surname>
+                        <foaf:givenName>Edgar</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Simpson</foaf:surname>
+                        <foaf:givenName>Gavin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ameneyro</foaf:surname>
+                        <foaf:givenName>Fred Valdez</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_591"/>
+        <link:link rdf:resource="#item_592"/>
+        <dc:subject>
+            <z:AutomaticTag>
+                <rdf:value>Computer Science - Neural and Evolutionary Computing</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Evolving the MCTS Upper Confidence Bounds for Trees Using a Semantic-inspired Evolutionary Algorithm in the Game of Carcassonne</dc:title>
+        <dcterms:abstract>Monte Carlo Tree Search (MCTS) is a sampling best-first method to search for optimal decisions. The success of MCTS depends heavily on how the tree is built and the selection process plays a fundamental role in this. One particular selection mechanism that has proved to be reliable is based on the Upper Confidence Bounds for Trees (UCT). The UCT attempts to balance exploration and exploitation by considering the values stored in the statistical tree of the MCTS. However, some tuning of the MCTS UCT is necessary for this to work well. In this work, we use Evolutionary Algorithms (EAs) to evolve mathematical expressions with the goal to substitute the UCT formula and use the evolved expressions in MCTS. More specifically, we evolve expressions by means of our proposed Semantic-inspired Evolutionary Algorithm in MCTS approach (SIEA-MCTS). This is inspired by semantics in Genetic Programming (GP), where the use of fitness cases is seen as a requirement to be adopted in GP. Fitness cases are normally used to determine the fitness of individuals and can be used to compute the semantic similarity (or dissimilarity) of individuals. However, fitness cases are not available in MCTS. We extend this notion by using multiple reward values from MCTS that allow us to determine both the fitness of an individual and its semantics. By doing so, we show how SIEA-MCTS is able to successfully evolve mathematical expressions that yield better or competitive results compared to UCT without the need of tuning these evolved expressions. We compare the performance of the proposed SIEA-MCTS against MCTS algorithms, MCTS Rapid Action Value Estimation algorithms, three variants of the *-minimax family of algorithms, a random controller and two more EA approaches. We consistently show how SIEA-MCTS outperforms most of these intelligent controllers in the challenging game of Carcassonne.</dcterms:abstract>
+        <dc:date>2022-08-29</dc:date>
+        <z:libraryCatalog>arXiv.org</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://arxiv.org/abs/2208.13589</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-10-09 09:56:30</dcterms:dateSubmitted>
+        <dc:description>arXiv:2208.13589 [cs]</dc:description>
+        <prism:number>arXiv:2208.13589</prism:number>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_591">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>arXiv Fulltext PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/pdf/2208.13589.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-10-09 09:56:41</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_592">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>arXiv.org Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/abs/2208.13589</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2022-10-09 09:56:47</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
     <z:Collection rdf:about="#collection_6">
         <dc:title>2048</dc:title>
         <dcterms:hasPart rdf:resource="https://doi.org/10.1007%2F978-3-319-50935-8_8"/>
@@ -9253,6 +9324,7 @@ guaranteed decent high score. The algorithm got a lowest score of 79 and a
         <dc:title>Carcassonne</dc:title>
         <dcterms:hasPart rdf:resource="http://arxiv.org/abs/2009.12974"/>
         <dcterms:hasPart rdf:resource="http://arxiv.org/abs/2112.09697"/>
+        <dcterms:hasPart rdf:resource="http://arxiv.org/abs/2208.13589"/>
     </z:Collection>
     <z:Collection rdf:about="#collection_8">
         <dc:title>Diplomacy</dc:title>

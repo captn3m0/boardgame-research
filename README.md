@@ -101,6 +101,7 @@ If you aren't able to access any paper on this list, please [try using Sci-Hub](
 # Carcassonne
 - [Playing Carcassonne with Monte Carlo Tree Search](http://arxiv.org/abs/2009.12974) (journalArticle)
 - [On the Evolution of the MCTS Upper Confidence Bounds for Trees by Means of Evolutionary Algorithms in the Game of Carcassonne](http://arxiv.org/abs/2112.09697) (journalArticle)
+- [Evolving the MCTS Upper Confidence Bounds for Trees Using a Semantic-inspired Evolutionary Algorithm in the Game of Carcassonne](http://arxiv.org/abs/2208.13589) (preprint)
 
 # Diplomacy
 - [Learning to Play No-Press Diplomacy with Best Response Policy Iteration](http://arxiv.org/abs/2006.04635v2) (journalArticle)
