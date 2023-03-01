@@ -172,6 +172,7 @@ If you aren't able to access any paper on this list, please [try using Sci-Hub](
 - [Theory of Mind for Multi-agent Coordination in Hanabi](http://fse.studenttheses.ub.rug.nl/id/eprint/28327) (thesis)
 - [The Hanabi challenge: From Artificial Teams to Mixed Human-Machine Teams](http://oru.diva-portal.org/smash/record.jsf?pid=diva2%3A1691114&dswid=-1981) (thesis)
 - [A Graphical User Interface For The Hanabi Challenge Benchmark](http://urn.kb.se/resolve?urn=urn:nbn:se:oru:diva-94615) (thesis)
+- [Analysis of Symmetry and Conventions in Off-Belief Learning (OBL) in Hanabi](https://fanpu.io/blog/2022/symmetry-and-conventions-in-obl-hanabi/) (blogPost)
 
 # Hearthstone
 - [Mapping Hearthstone Deck Spaces through MAP-Elites with Sliding Boundaries](http://arxiv.org/abs/1904.10656) (journalArticle)

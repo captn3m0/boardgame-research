@@ -9289,6 +9289,45 @@ guaranteed decent high score. The algorithm got a lowest score of 79 and a
         <z:linkMode>1</z:linkMode>
         <link:type>text/html</link:type>
     </z:Attachment>
+    <bib:Document rdf:about="https://fanpu.io/blog/2022/symmetry-and-conventions-in-obl-hanabi/">
+        <z:itemType>blogPost</z:itemType>
+        <dcterms:isPartOf>
+           <z:Blog></z:Blog>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>William Zhang</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Fan Pu Zeng</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_594"/>
+        <dc:title>Analysis of Symmetry and Conventions in Off-Belief Learning (OBL) in Hanabi</dc:title>
+        <dcterms:abstract>We investigate if policies learnt by agents using the Off-Belief Learning (OBL) algorithm in the multi-player cooperative game Hanabi in the zero-shot coordination (ZSC) context are invariant across symmetries of the game, and if any conventions formed during training are arbitrary or natural. We do this by a convention analysis on the action matrix of what the agent does, introduce a novel technique called the Intervention Analysis to estimate if the actions taken by the policies learnt are equivalent between isomorphisms of the same game state, and finally evaluate if our observed results also hold in a simplified version of Hanabi which we call Mini-Hanabi.</dcterms:abstract>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://fanpu.io/blog/2022/symmetry-and-conventions-in-obl-hanabi/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_594">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Analysis_Of_Symmetry_And_Conventions_In_Off_Belief_Learning_In_Hanabi.pdf</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://fanpu.io/assets/research/Analysis_Of_Symmetry_And_Conventions_In_Off_Belief_Learning_In_Hanabi.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-03-01 11:40:51</dcterms:dateSubmitted>
+        <z:linkMode>3</z:linkMode>
+    </z:Attachment>
     <z:Collection rdf:about="#collection_6">
         <dc:title>2048</dc:title>
         <dcterms:hasPart rdf:resource="https://doi.org/10.1007%2F978-3-319-50935-8_8"/>
@@ -9402,6 +9441,7 @@ guaranteed decent high score. The algorithm got a lowest score of 79 and a
         <dcterms:hasPart rdf:resource="http://fse.studenttheses.ub.rug.nl/id/eprint/28327"/>
         <dcterms:hasPart rdf:resource="http://oru.diva-portal.org/smash/record.jsf?pid=diva2%3A1691114&amp;dswid=-1981"/>
         <dcterms:hasPart rdf:resource="http://urn.kb.se/resolve?urn=urn:nbn:se:oru:diva-94615"/>
+        <dcterms:hasPart rdf:resource="https://fanpu.io/blog/2022/symmetry-and-conventions-in-obl-hanabi/"/>
     </z:Collection>
     <z:Collection rdf:about="#collection_55">
         <dc:title>Hearthstone</dc:title>
