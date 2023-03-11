@@ -9328,6 +9328,45 @@ guaranteed decent high score. The algorithm got a lowest score of 79 and a
         <dcterms:dateSubmitted>2023-03-01 11:40:51</dcterms:dateSubmitted>
         <z:linkMode>3</z:linkMode>
     </z:Attachment>
+    <bib:Thesis rdf:about="http://reports-archive.adm.cs.cmu.edu/anon/anon/usr0/ftp/usr/ftp/2022/abstracts/22-119.html">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <foaf:name>Computer Science Department School of Computer Science, Carnegie Mellon University</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Arnav Mahajan</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_596"/>
+        <dc:title>Using intuitive behavior models to adapt to and work with human teammates in Hanabi</dc:title>
+        <dcterms:abstract>An agent that can rapidly and accurately model its teammate is a powerful tool in the field of Collaborative AI. Furthermore, if an approximation for this goal was possible in the field of Human-AI Collaboration, teams of people and machines could be more efficient and effective immediately after starting to work together. Using the cooperative card game Hanabi as a testbed, we developed the Chief agent, which models teammates using a pool of intuitive behavioral models. To achieve the goal of rapid learning, it uses Bayesian inference to quickly evaluate the different models relative to each other. To generate an accurate model, it uses historical data augmented by up-to-date knowledge and sampling methods to handle environmental noise and unknowns. We demonstrate that the Chief's mechanisms for modeling and understanding the teammate show promise, but the overall performance still can use improvement to reliably outperform a solution which skips inferring a best strategy and assumes all strategies in the pool are equally likely for the teammate.</dcterms:abstract>
+        <z:language>en</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://reports-archive.adm.cs.cmu.edu/anon/anon/usr0/ftp/usr/ftp/2022/abstracts/22-119.html</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <z:numPages>43</z:numPages>
+        <z:type>M.S. Thesis</z:type>
+    </bib:Thesis>
+    <z:Attachment rdf:about="#item_596">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>CMU-CS-22-119.pdf</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://reports-archive.adm.cs.cmu.edu/anon/2022/CMU-CS-22-119.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-03-11 03:49:56</dcterms:dateSubmitted>
+        <z:linkMode>3</z:linkMode>
+    </z:Attachment>
     <z:Collection rdf:about="#collection_6">
         <dc:title>2048</dc:title>
         <dcterms:hasPart rdf:resource="https://doi.org/10.1007%2F978-3-319-50935-8_8"/>
@@ -9442,6 +9481,7 @@ guaranteed decent high score. The algorithm got a lowest score of 79 and a
         <dcterms:hasPart rdf:resource="http://oru.diva-portal.org/smash/record.jsf?pid=diva2%3A1691114&amp;dswid=-1981"/>
         <dcterms:hasPart rdf:resource="http://urn.kb.se/resolve?urn=urn:nbn:se:oru:diva-94615"/>
         <dcterms:hasPart rdf:resource="https://fanpu.io/blog/2022/symmetry-and-conventions-in-obl-hanabi/"/>
+        <dcterms:hasPart rdf:resource="http://reports-archive.adm.cs.cmu.edu/anon/anon/usr0/ftp/usr/ftp/2022/abstracts/22-119.html"/>
     </z:Collection>
     <z:Collection rdf:about="#collection_55">
         <dc:title>Hearthstone</dc:title>
