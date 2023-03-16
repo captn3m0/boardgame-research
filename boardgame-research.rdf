@@ -9367,6 +9367,83 @@ guaranteed decent high score. The algorithm got a lowest score of 79 and a
         <dcterms:dateSubmitted>2023-03-11 03:49:56</dcterms:dateSubmitted>
         <z:linkMode>3</z:linkMode>
     </z:Attachment>
+    <rdf:Description rdf:about="http://arxiv.org/abs/2303.06775">
+        <z:itemType>preprint</z:itemType>
+        <dc:publisher>
+           <foaf:Organization><foaf:name>arXiv</foaf:name></foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jeon</foaf:surname>
+                        <foaf:givenName>Hyeonchang</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kim</foaf:surname>
+                        <foaf:givenName>Kyung-Joong</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_600"/>
+        <link:link rdf:resource="#item_601"/>
+        <link:link rdf:resource="#item_602"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Computer Science - Artificial Intelligence</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Behavioral Differences is the Key of Ad-hoc Team Cooperation in Multiplayer Games Hanabi</dc:title>
+        <dcterms:abstract>Ad-hoc team cooperation is the problem of cooperating with other players that have not been seen in the learning process. Recently, this problem has been considered in the context of Hanabi, which requires cooperation without explicit communication with the other players. While in self-play strategies cooperating on reinforcement learning (RL) process has shown success, there is the problem of failing to cooperate with other unseen agents after the initial learning is completed. In this paper, we categorize the results of ad-hoc team cooperation into Failure, Success, and Synergy and analyze the associated failures. First, we confirm that agents learning via RL converge to one strategy each, but not necessarily the same strategy and that these agents can deploy different strategies even though they utilize the same hyperparameters. Second, we confirm that the larger the behavioral difference, the more pronounced the failure of ad-hoc team cooperation, as demonstrated using hierarchical clustering and Pearson correlation. We confirm that such agents are grouped into distinctly different groups through hierarchical clustering, such that the correlation between behavioral differences and ad-hoc team performance is -0.978. Our results improve understanding of key factors to form successful ad-hoc team cooperation in multi-player games.</dcterms:abstract>
+        <dc:date>2023-03-12</dc:date>
+        <z:libraryCatalog>arXiv.org</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://arxiv.org/abs/2303.06775</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-03-16 06:56:29</dcterms:dateSubmitted>
+        <dc:description>arXiv:2303.06775 [cs]</dc:description>
+        <prism:number>arXiv:2303.06775</prism:number>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_600">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>2303.06775.pdf</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/pdf/2303.06775.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-03-16 06:56:59</dcterms:dateSubmitted>
+        <z:linkMode>3</z:linkMode>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_601">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>arXiv Fulltext PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/pdf/2303.06775.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-03-16 06:57:01</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_602">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>arXiv.org Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/abs/2303.06775</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-03-16 06:57:08</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
     <z:Collection rdf:about="#collection_6">
         <dc:title>2048</dc:title>
         <dcterms:hasPart rdf:resource="https://doi.org/10.1007%2F978-3-319-50935-8_8"/>
@@ -9482,6 +9559,7 @@ guaranteed decent high score. The algorithm got a lowest score of 79 and a
         <dcterms:hasPart rdf:resource="http://urn.kb.se/resolve?urn=urn:nbn:se:oru:diva-94615"/>
         <dcterms:hasPart rdf:resource="https://fanpu.io/blog/2022/symmetry-and-conventions-in-obl-hanabi/"/>
         <dcterms:hasPart rdf:resource="http://reports-archive.adm.cs.cmu.edu/anon/anon/usr0/ftp/usr/ftp/2022/abstracts/22-119.html"/>
+        <dcterms:hasPart rdf:resource="http://arxiv.org/abs/2303.06775"/>
     </z:Collection>
     <z:Collection rdf:about="#collection_55">
         <dc:title>Hearthstone</dc:title>
