@@ -5088,15 +5088,6 @@ DOI: 10.1007/978-3-319-71649-7_5</dc:description>
             </dcterms:URI>
         </dc:identifier>
     </bib:Data>
-    <bib:Report rdf:about="https://digitalcommons.calpoly.edu/cpesp/290/">
-        <z:itemType>report</z:itemType>
-        <dc:title>Blokus Game Solver</dc:title>
-        <dc:identifier>
-            <dcterms:URI>
-                <rdf:value>https://digitalcommons.calpoly.edu/cpesp/290/</rdf:value>
-            </dcterms:URI>
-        </dc:identifier>
-    </bib:Report>
     <rdf:Description rdf:about="urn:isbn:978-1-4799-2198-0%20978-1-4799-2199-7">
         <z:itemType>conferencePaper</z:itemType>
         <dcterms:isPartOf>
@@ -9444,6 +9435,1537 @@ guaranteed decent high score. The algorithm got a lowest score of 79 and a
         <z:linkMode>1</z:linkMode>
         <link:type>text/html</link:type>
     </z:Attachment>
+    <bib:Thesis rdf:about="http://artemis.library.tuc.gr/DT2014-0060/DT2014-0060.pdf">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <foaf:name>Technical University of Crete, Greece School of Electronic and Computer Engineering</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Sofia Maria Nikolakaki</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_604"/>
+        <dc:title>Algorithm Modeling for Hardware Implementation of a Blokus Duo Player</dc:title>
+        <dcterms:abstract>we applied
+the algorithm on the game of Blokus Duo, a relatively new game, open for research since
+it meets the requirements of MCTS and appears to be demanding. More specifically, we
+present four competitive Blokus Duo players and show that the ones, based on Monte
+Carlo simulations outperform the Minimax-based one. To the best of our knowledge,
+this is the first work that compares for the same game, software-based Minimax, Monte
+Carlo and MCTS players. For each of these players we suggest opportunities for hard-
+ware implementation and discuss potential bottlenecks. Furthermore, we apply certain
+heuristics on our MCTS-based player to understand how they affect the efficiency of the
+algorithm specifically for the game of Blokus Duo.</dcterms:abstract>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://artemis.library.tuc.gr/DT2014-0060/DT2014-0060.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <z:numPages>109</z:numPages>
+    </bib:Thesis>
+    <z:Attachment rdf:about="#item_604">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>DT2014-0060.pdf</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://artemis.library.tuc.gr/DT2014-0060/DT2014-0060.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-04-17 05:47:30</dcterms:dateSubmitted>
+        <z:linkMode>3</z:linkMode>
+    </z:Attachment>
+    <bib:Article rdf:about="https://ejournal-medan.uph.edu/index.php/ISD/article/view/433">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>6</prism:volume>
+                <dc:title>Journal Information System Development (ISD)</dc:title>
+                <prism:number>2</prism:number>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Hong Liang Cai</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Sebastian Aldi</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Winston Renatan</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_606"/>
+        <dc:title>Artificial Intelligence for Blokus Classic using Heuristics, FloodFill, and Greedy Algorithm</dc:title>
+        <dcterms:abstract>Blokus is an abstract strategy game which has complex variable to determine ones move. We propose an idea for Artificial Intelligence in Blokus using Heuristics, FloodFill, and Greedy algorithm, which will be called as LeakyAI. Both the game and its implementation are established in Java language. To test the result, we performed benchmarking towards Brute Force AI, itself, and the developers.</dcterms:abstract>
+        <dc:date>2 July 2021</dc:date>
+        <z:language>Indonesian</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://ejournal-medan.uph.edu/index.php/ISD/article/view/433</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:pages>9</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_606">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>263</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://ejournal-medan.uph.edu/index.php/isd/article/view/433/263</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-04-17 05:55:48</dcterms:dateSubmitted>
+        <z:linkMode>3</z:linkMode>
+    </z:Attachment>
+    <rdf:Description rdf:about="urn:isbn:978-1-4799-6245-7">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:identifier>ISBN 978-1-4799-6245-7</dc:identifier>
+                <dc:title>2014 International Conference on Field-Programmable Technology (FPT)</dc:title>
+                <dc:identifier>DOI 10.1109/FPT.2014.7082825</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Shanghai, China</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>IEEE</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kojima</foaf:surname>
+                        <foaf:givenName>Akira</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>FPGA implementation of Blokus Duo player using hardware/software co-design</dc:title>
+        <dc:date>12/2014</dc:date>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://ieeexplore.ieee.org/document/7082825/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-04-17 05:56:43</dcterms:dateSubmitted>
+        <bib:pages>378-381</bib:pages>
+        <bib:presentedAt>
+            <bib:Conference>
+                <dc:title>2014 International Conference on Field-Programmable Technology (FPT)</dc:title>
+            </bib:Conference>
+        </bib:presentedAt>
+    </rdf:Description>
+    <bib:Article rdf:about="https://www.tandfonline.com/doi/full/10.1080/07468342.2022.2100147">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0746-8342,%201931-1346"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Austin</foaf:surname>
+                        <foaf:givenName>Jathan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Curl</foaf:surname>
+                        <foaf:givenName>Emelie</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Exploring Combinatorics and Graph Theory with Simple Blokus</dc:title>
+        <dc:date>2022-08-08</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.tandfonline.com/doi/full/10.1080/07468342.2022.2100147</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-04-17 05:57:05</dcterms:dateSubmitted>
+        <bib:pages>273-281</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0746-8342,%201931-1346">
+        <prism:volume>53</prism:volume>
+        <dc:title>The College Mathematics Journal</dc:title>
+        <dc:identifier>DOI 10.1080/07468342.2022.2100147</dc:identifier>
+        <prism:number>4</prism:number>
+        <dcterms:alternative>The College Mathematics Journal</dcterms:alternative>
+        <dc:identifier>ISSN 0746-8342, 1931-1346</dc:identifier>
+    </bib:Journal>
+    <rdf:Description rdf:about="http://ieeexplore.ieee.org/document/6718428/">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:identifier>ISBN 978-1-4799-2198-0 978-1-4799-2199-7</dc:identifier>
+                <dc:title>2013 International Conference on Field-Programmable Technology (FPT)</dc:title>
+                <dc:identifier>DOI 10.1109/FPT.2013.6718428</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Kyoto, Japan</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>IEEE</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Olivito</foaf:surname>
+                        <foaf:givenName>Javier</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gonzalez</foaf:surname>
+                        <foaf:givenName>Carlos</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Resano</foaf:surname>
+                        <foaf:givenName>Javier</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>An FPGA-based specific processor for Blokus Duo</dc:title>
+        <dc:date>12/2013</dc:date>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://ieeexplore.ieee.org/document/6718428/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-04-17 05:57:28</dcterms:dateSubmitted>
+        <bib:pages>502-505</bib:pages>
+        <bib:presentedAt>
+            <bib:Conference>
+                <dc:title>2013 International Conference on Field-Programmable Technology (FPT)</dc:title>
+            </bib:Conference>
+        </bib:presentedAt>
+    </rdf:Description>
+    <bib:Report rdf:about="https://digitalcommons.calpoly.edu/cpesp/290/">
+        <z:itemType>report</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>San Luis Obispo</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>California Polytechnic State University</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Chin Chao</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_612"/>
+        <dc:title>Blokus Game Solver</dc:title>
+        <dcterms:abstract>Blokus (officially pronounced as “Block us”) is an abstract strategy board game with transparent Tetris-shaped, color pieces that players are trying to place onto the board. However, the players can only place a piece that touches at least one corner of their own pieces on the board. The ultimate goal of the game is to place as many pieces onto the board as a player can while blocking off the opponent’s ability to place more pieces onto the board. Each player has pieces with different shapes and sizes that can be placed onto the board, where each block within a piece counts as one point. The player that scores the highest wins the game.
+
+Just like other strategy board game such as chess, Blokus contains definite strategic patterns that can be solved with computer algorithms. Various algorithms were discovered and created to develop winning strategy and AI against human opponents. In this work, I am developing random and different greedy strategies to analyze the effectiveness of different factors such as pieces’ size, corner availability, and first-player turn.</dcterms:abstract>
+        <dc:date>December 2018</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://digitalcommons.calpoly.edu/cpesp/290/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Report>
+    <z:Attachment rdf:about="#item_612">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>viewcontent.cgi</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://digitalcommons.calpoly.edu/cgi/viewcontent.cgi?article=1305&amp;context=cpesp</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-04-17 05:59:48</dcterms:dateSubmitted>
+        <z:linkMode>3</z:linkMode>
+    </z:Attachment>
+    <rdf:Description rdf:about="http://ieeexplore.ieee.org/document/7082823/">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:identifier>ISBN 978-1-4799-6245-7</dc:identifier>
+                <dc:title>2014 International Conference on Field-Programmable Technology (FPT)</dc:title>
+                <dc:identifier>DOI 10.1109/FPT.2014.7082823</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Shanghai, China</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>IEEE</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Qasemi</foaf:surname>
+                        <foaf:givenName>Ehsan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Samadi</foaf:surname>
+                        <foaf:givenName>Amir</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Shadmehr</foaf:surname>
+                        <foaf:givenName>Mohammad H.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Azizian</foaf:surname>
+                        <foaf:givenName>Bardia</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mozaffari</foaf:surname>
+                        <foaf:givenName>Sajjad</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Shirian</foaf:surname>
+                        <foaf:givenName>Amir</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Alizadeh</foaf:surname>
+                        <foaf:givenName>Bijan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_614"/>
+        <dc:title>Highly scalable, shared-memory, Monte-Carlo tree search based Blokus Duo Solver on FPGA</dc:title>
+        <dc:date>12/2014</dc:date>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://ieeexplore.ieee.org/document/7082823/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-04-17 06:00:24</dcterms:dateSubmitted>
+        <bib:pages>370-373</bib:pages>
+        <bib:presentedAt>
+            <bib:Conference>
+                <dc:title>2014 International Conference on Field-Programmable Technology (FPT)</dc:title>
+            </bib:Conference>
+        </bib:presentedAt>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_614">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://moscow.sci-hub.se/4176/0772802f9865a79a36cf1a5c77267101/qasemi2014.pdf#navpanes=0&amp;view=FitH</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-04-17 06:00:31</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="http://ieeexplore.ieee.org/document/6718423/">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:identifier>ISBN 978-1-4799-2198-0 978-1-4799-2199-7</dc:identifier>
+                <dc:title>2013 International Conference on Field-Programmable Technology (FPT)</dc:title>
+                <dc:identifier>DOI 10.1109/FPT.2013.6718423</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Kyoto, Japan</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>IEEE</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Liu</foaf:surname>
+                        <foaf:givenName>Chester</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Implementation of a highly scalable blokus duo solver on FPGA</dc:title>
+        <dc:date>12/2013</dc:date>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://ieeexplore.ieee.org/document/6718423/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-04-17 06:00:52</dcterms:dateSubmitted>
+        <bib:pages>482-485</bib:pages>
+        <bib:presentedAt>
+            <bib:Conference>
+                <dc:title>2013 International Conference on Field-Programmable Technology (FPT)</dc:title>
+            </bib:Conference>
+        </bib:presentedAt>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://ieeexplore.ieee.org/document/6718429/">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:identifier>ISBN 978-1-4799-2198-0 978-1-4799-2199-7</dc:identifier>
+                <dc:title>2013 International Conference on Field-Programmable Technology (FPT)</dc:title>
+                <dc:identifier>DOI 10.1109/FPT.2013.6718429</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Kyoto, Japan</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>IEEE</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kojima</foaf:surname>
+                        <foaf:givenName>Akira</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>An implementation of Blokus Duo player on FPGA</dc:title>
+        <dc:date>12/2013</dc:date>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://ieeexplore.ieee.org/document/6718429/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-04-17 06:01:05</dcterms:dateSubmitted>
+        <bib:pages>506-509</bib:pages>
+        <bib:presentedAt>
+            <bib:Conference>
+                <dc:title>2013 International Conference on Field-Programmable Technology (FPT)</dc:title>
+            </bib:Conference>
+        </bib:presentedAt>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://ieeexplore.ieee.org/document/6718425/">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:identifier>ISBN 978-1-4799-2198-0 978-1-4799-2199-7</dc:identifier>
+                <dc:title>2013 International Conference on Field-Programmable Technology (FPT)</dc:title>
+                <dc:identifier>DOI 10.1109/FPT.2013.6718425</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Kyoto, Japan</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>IEEE</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Altman</foaf:surname>
+                        <foaf:givenName>Erik</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Auerbach</foaf:surname>
+                        <foaf:givenName>Joshua S.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bacon</foaf:surname>
+                        <foaf:givenName>David F.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Baldini</foaf:surname>
+                        <foaf:givenName>Ioana</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cheng</foaf:surname>
+                        <foaf:givenName>Perry</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fink</foaf:surname>
+                        <foaf:givenName>Stephen J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rabbah</foaf:surname>
+                        <foaf:givenName>Rodric M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>The Liquid Metal Blokus Duo Design</dc:title>
+        <dc:date>12/2013</dc:date>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://ieeexplore.ieee.org/document/6718425/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-04-17 06:01:22</dcterms:dateSubmitted>
+        <bib:pages>490-493</bib:pages>
+        <bib:presentedAt>
+            <bib:Conference>
+                <dc:title>2013 International Conference on Field-Programmable Technology (FPT)</dc:title>
+            </bib:Conference>
+        </bib:presentedAt>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://ieeexplore.ieee.org/document/6718427/">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:identifier>ISBN 978-1-4799-2198-0 978-1-4799-2199-7</dc:identifier>
+                <dc:title>2013 International Conference on Field-Programmable Technology (FPT)</dc:title>
+                <dc:identifier>DOI 10.1109/FPT.2013.6718427</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Kyoto, Japan</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>IEEE</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sugimoto</foaf:surname>
+                        <foaf:givenName>Naru</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Miyajima</foaf:surname>
+                        <foaf:givenName>Takaaki</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kuhara</foaf:surname>
+                        <foaf:givenName>Takuya</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Katuta</foaf:surname>
+                        <foaf:givenName>Yuki</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mitsuichi</foaf:surname>
+                        <foaf:givenName>Takushi</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Amano</foaf:surname>
+                        <foaf:givenName>Hideharu</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Artificial intelligence of Blokus Duo on FPGA using Cyber Work Bench</dc:title>
+        <dc:date>12/2013</dc:date>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://ieeexplore.ieee.org/document/6718427/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-04-17 06:03:04</dcterms:dateSubmitted>
+        <bib:pages>498-501</bib:pages>
+        <bib:presentedAt>
+            <bib:Conference>
+                <dc:title>2013 International Conference on Field-Programmable Technology (FPT)</dc:title>
+            </bib:Conference>
+        </bib:presentedAt>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://ieeexplore.ieee.org/document/7082820/">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:identifier>ISBN 978-1-4799-6245-7</dc:identifier>
+                <dc:title>2014 International Conference on Field-Programmable Technology (FPT)</dc:title>
+                <dc:identifier>DOI 10.1109/FPT.2014.7082820</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Shanghai, China</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>IEEE</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sugimoto</foaf:surname>
+                        <foaf:givenName>Naru</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Amano</foaf:surname>
+                        <foaf:givenName>Hideharu</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Hardware/software co-design architecture for Blokus Duo solver</dc:title>
+        <dc:date>12/2014</dc:date>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://ieeexplore.ieee.org/document/7082820/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-04-17 06:03:28</dcterms:dateSubmitted>
+        <bib:pages>358-361</bib:pages>
+        <bib:presentedAt>
+            <bib:Conference>
+                <dc:title>2014 International Conference on Field-Programmable Technology (FPT)</dc:title>
+            </bib:Conference>
+        </bib:presentedAt>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://ieeexplore.ieee.org/document/6718424/">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:identifier>ISBN 978-1-4799-2198-0 978-1-4799-2199-7</dc:identifier>
+                <dc:title>2013 International Conference on Field-Programmable Technology (FPT)</dc:title>
+                <dc:identifier>DOI 10.1109/FPT.2013.6718424</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Kyoto, Japan</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>IEEE</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cai</foaf:surname>
+                        <foaf:givenName>Jiu Cheng</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lian</foaf:surname>
+                        <foaf:givenName>Ruolong</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wang</foaf:surname>
+                        <foaf:givenName>Mengyao</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Canis</foaf:surname>
+                        <foaf:givenName>Andrew</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Choi</foaf:surname>
+                        <foaf:givenName>Jongsok</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fort</foaf:surname>
+                        <foaf:givenName>Blair</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hart</foaf:surname>
+                        <foaf:givenName>Eric</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Miao</foaf:surname>
+                        <foaf:givenName>Emily</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zhang</foaf:surname>
+                        <foaf:givenName>Yanyan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Calagar</foaf:surname>
+                        <foaf:givenName>Nazanin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Brown</foaf:surname>
+                        <foaf:givenName>Stephen</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Anderson</foaf:surname>
+                        <foaf:givenName>Jason</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>From C to Blokus Duo with LegUp high-level synthesis</dc:title>
+        <dc:date>12/2013</dc:date>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://ieeexplore.ieee.org/document/6718424/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-04-17 06:03:46</dcterms:dateSubmitted>
+        <bib:pages>486-489</bib:pages>
+        <bib:presentedAt>
+            <bib:Conference>
+                <dc:title>2013 International Conference on Field-Programmable Technology (FPT)</dc:title>
+            </bib:Conference>
+        </bib:presentedAt>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://ieeexplore.ieee.org/document/7082824/">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:identifier>ISBN 978-1-4799-6245-7</dc:identifier>
+                <dc:title>2014 International Conference on Field-Programmable Technology (FPT)</dc:title>
+                <dc:identifier>DOI 10.1109/FPT.2014.7082824</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Shanghai, China</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>IEEE</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mashimo</foaf:surname>
+                        <foaf:givenName>Susumu</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fukuda</foaf:surname>
+                        <foaf:givenName>Kansuke</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Amagasaki</foaf:surname>
+                        <foaf:givenName>Motoki</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Iida</foaf:surname>
+                        <foaf:givenName>Masahiro</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kuga</foaf:surname>
+                        <foaf:givenName>Morihiro</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sueyoshi</foaf:surname>
+                        <foaf:givenName>Toshinori</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Blokus Duo engine on a Zynq</dc:title>
+        <dc:date>12/2014</dc:date>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://ieeexplore.ieee.org/document/7082824/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-04-17 06:04:11</dcterms:dateSubmitted>
+        <bib:pages>374-377</bib:pages>
+        <bib:presentedAt>
+            <bib:Conference>
+                <dc:title>2014 International Conference on Field-Programmable Technology (FPT)</dc:title>
+            </bib:Conference>
+        </bib:presentedAt>
+    </rdf:Description>
+    <rdf:Description rdf:about="http://ieeexplore.ieee.org/document/7082821/">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:identifier>ISBN 978-1-4799-6245-7</dc:identifier>
+                <dc:title>2014 International Conference on Field-Programmable Technology (FPT)</dc:title>
+                <dc:identifier>DOI 10.1109/FPT.2014.7082821</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Shanghai, China</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>IEEE</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Borhanifar</foaf:surname>
+                        <foaf:givenName>Hossein</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zolnouri</foaf:surname>
+                        <foaf:givenName>Seyed Peyman</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Optimize MinMax algorithm to solve Blokus Duo game by HDL</dc:title>
+        <dc:date>12/2014</dc:date>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://ieeexplore.ieee.org/document/7082821/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-04-17 06:05:55</dcterms:dateSubmitted>
+        <bib:pages>362-365</bib:pages>
+        <bib:presentedAt>
+            <bib:Conference>
+                <dc:title>2014 International Conference on Field-Programmable Technology (FPT)</dc:title>
+            </bib:Conference>
+        </bib:presentedAt>
+    </rdf:Description>
+    <bib:Article rdf:about="https://dl.acm.org/doi/10.1145/2693714.2693725">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0163-5964"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ando</foaf:surname>
+                        <foaf:givenName>Yuki</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ogawa</foaf:surname>
+                        <foaf:givenName>Masataka</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mizoguchi</foaf:surname>
+                        <foaf:givenName>Yuya</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kumagai</foaf:surname>
+                        <foaf:givenName>Kouta</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Torng-Der</foaf:surname>
+                        <foaf:givenName>Miaw</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Honda</foaf:surname>
+                        <foaf:givenName>Shinya</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>A Case Study of FPGA Blokus Duo Solver by System-Level Design</dc:title>
+        <dcterms:abstract>This paper presents a case study to design a Blokus Duo solver by using our system-level design toolkitnamed SystemBuilder. We start with a modeling of the Blokus nDuo solver by C language and communication APIs which are provided by SystemBuilder. Then, we iteratively verified and tuned the parameters in the solver by running the model on a general computer in order to improve the performance of the solver. Finally, the implementation on FPGA was automatically generated from the model by SystemBuilder. Despite the FPGA implementation, we have never written hardware description language throughout the case study. The case study demonstrates the easiness to design system on FPGA by System-level design tools.</dcterms:abstract>
+        <dc:date>2014-12-03</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://dl.acm.org/doi/10.1145/2693714.2693725</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-04-17 06:06:14</dcterms:dateSubmitted>
+        <bib:pages>57-62</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0163-5964">
+        <prism:volume>42</prism:volume>
+        <dc:title>ACM SIGARCH Computer Architecture News</dc:title>
+        <dc:identifier>DOI 10.1145/2693714.2693725</dc:identifier>
+        <prism:number>4</prism:number>
+        <dcterms:alternative>SIGARCH Comput. Archit. News</dcterms:alternative>
+        <dc:identifier>ISSN 0163-5964</dc:identifier>
+    </bib:Journal>
+    <bib:Article rdf:about="https://www.mdpi.com/1424-8220/23/2/752">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1424-8220"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Marchionna</foaf:surname>
+                        <foaf:givenName>Luca</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pugliese</foaf:surname>
+                        <foaf:givenName>Giulio</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Martini</foaf:surname>
+                        <foaf:givenName>Mauro</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Angarano</foaf:surname>
+                        <foaf:givenName>Simone</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Salvetti</foaf:surname>
+                        <foaf:givenName>Francesco</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chiaberge</foaf:surname>
+                        <foaf:givenName>Marcello</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_625"/>
+        <dc:title>Deep Instance Segmentation and Visual Servoing to Play Jenga with a Cost-Effective Robotic System</dc:title>
+        <dcterms:abstract>The game of Jenga is a benchmark used for developing innovative manipulation solutions for complex tasks. Indeed, it encourages the study of novel robotics methods to successfully extract blocks from a tower. A Jenga game involves many traits of complex industrial and surgical manipulation tasks, requiring a multi-step strategy, the combination of visual and tactile data, and the highly precise motion of a robotic arm to perform a single block extraction. In this work, we propose a novel, cost-effective architecture for playing Jenga with e.Do, a 6DOF anthropomorphic manipulator manufactured by Comau, a standard depth camera, and an inexpensive monodirectional force sensor. Our solution focuses on a visual-based control strategy to accurately align the end-effector with the desired block, enabling block extraction by pushing. To this aim, we trained an instance segmentation deep learning model on a synthetic custom dataset to segment each piece of the Jenga tower, allowing for visual tracking of the desired block’s pose during the motion of the manipulator. We integrated the visual-based strategy with a 1D force sensor to detect whether the block could be safely removed by identifying a force threshold value. Our experimentation shows that our low-cost solution allows e.DO to precisely reach removable blocks and perform up to 14 consecutive extractions in a row.</dcterms:abstract>
+        <dc:date>2023-01-09</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://www.mdpi.com/1424-8220/23/2/752</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-04-17 06:12:40</dcterms:dateSubmitted>
+        <bib:pages>752</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1424-8220">
+        <prism:volume>23</prism:volume>
+        <dc:title>Sensors</dc:title>
+        <dc:identifier>DOI 10.3390/s23020752</dc:identifier>
+        <prism:number>2</prism:number>
+        <dcterms:alternative>Sensors</dcterms:alternative>
+        <dc:identifier>ISSN 1424-8220</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_625">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.mdpi.com/1424-8220/23/2/752/pdf?version=1673261970</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-04-17 06:12:46</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://www.tandfonline.com/doi/full/10.1080/0025570X.2022.2055334">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0025-570X,%201930-0980"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kelly</foaf:surname>
+                        <foaf:givenName>Kathryn</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Liese</foaf:surname>
+                        <foaf:givenName>Jeffrey</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Let’s Get Rolling! Exact Optimal Solitaire Yahtzee</dc:title>
+        <dc:date>2022-05-27</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.tandfonline.com/doi/full/10.1080/0025570X.2022.2055334</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-04-17 06:14:24</dcterms:dateSubmitted>
+        <bib:pages>205-219</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0025-570X,%201930-0980">
+        <prism:volume>95</prism:volume>
+        <dc:title>Mathematics Magazine</dc:title>
+        <dc:identifier>DOI 10.1080/0025570X.2022.2055334</dc:identifier>
+        <prism:number>3</prism:number>
+        <dcterms:alternative>Mathematics Magazine</dcterms:alternative>
+        <dc:identifier>ISSN 0025-570X, 1930-0980</dc:identifier>
+    </bib:Journal>
+    <rdf:Description rdf:about="urn:isbn:978-1-4503-8807-8">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:identifier>ISBN 978-1-4503-8807-8</dc:identifier>
+                <dc:title>International Conference on the Foundations of Digital Games</dc:title>
+                <dc:identifier>DOI 10.1145/3402942.3409778</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Bugibba Malta</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>ACM</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Saraiva</foaf:surname>
+                        <foaf:givenName>Rommel Dias</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Grichshenko</foaf:surname>
+                        <foaf:givenName>Alexandr</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Araújo</foaf:surname>
+                        <foaf:givenName>Luiz Jonatã Pires de</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Amaro Junior</foaf:surname>
+                        <foaf:givenName>Bonfim</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>de Carvalho</foaf:surname>
+                        <foaf:givenName>Guilherme Nepomuceno</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Using Ant Colony Optimisation for map generation and improving game balance in the Terra Mystica and Settlers of Catan board games</dc:title>
+        <dc:date>2020-09-15</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://dl.acm.org/doi/10.1145/3402942.3409778</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-04-17 06:15:08</dcterms:dateSubmitted>
+        <bib:pages>1-7</bib:pages>
+        <bib:presentedAt>
+            <bib:Conference>
+                <dc:title>FDG '20: International Conference on the Foundations of Digital Games</dc:title>
+            </bib:Conference>
+        </bib:presentedAt>
+    </rdf:Description>
+    <bib:BookSection rdf:about="urn:isbn:978-3-030-53955-9%20978-3-030-53956-6">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <prism:volume>12145</prism:volume>
+                <dc:identifier>ISBN 978-3-030-53955-9 978-3-030-53956-6</dc:identifier>
+                <dc:title>Advances in Swarm Intelligence</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Cham</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Springer International Publishing</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tan</foaf:surname>
+                        <foaf:givenName>Ying</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Shi</foaf:surname>
+                        <foaf:givenName>Yuhui</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tuba</foaf:surname>
+                        <foaf:givenName>Milan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>de Araújo</foaf:surname>
+                        <foaf:givenName>Luiz Jonatã Pires</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Grichshenko</foaf:surname>
+                        <foaf:givenName>Alexandr</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pinheiro</foaf:surname>
+                        <foaf:givenName>Rodrigo Lankaites</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Saraiva</foaf:surname>
+                        <foaf:givenName>Rommel D.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gimaeva</foaf:surname>
+                        <foaf:givenName>Susanna</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Map Generation and Balance in the Terra Mystica Board Game Using Particle Swarm and Local Search</dc:title>
+        <dc:date>2020</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://link.springer.com/10.1007/978-3-030-53956-6_15</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-04-17 06:15:24</dcterms:dateSubmitted>
+        <dc:description>Series Title: Lecture Notes in Computer Science
+DOI: 10.1007/978-3-030-53956-6_15</dc:description>
+        <bib:pages>163-175</bib:pages>
+    </bib:BookSection>
+    <rdf:Description rdf:about="https://dl.acm.org/doi/10.1145/3402942.3409778">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:identifier>ISBN 978-1-4503-8807-8</dc:identifier>
+                <dc:title>International Conference on the Foundations of Digital Games</dc:title>
+                <dc:identifier>DOI 10.1145/3402942.3409778</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Bugibba Malta</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>ACM</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Saraiva</foaf:surname>
+                        <foaf:givenName>Rommel Dias</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Grichshenko</foaf:surname>
+                        <foaf:givenName>Alexandr</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Araújo</foaf:surname>
+                        <foaf:givenName>Luiz Jonatã Pires de</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Amaro Junior</foaf:surname>
+                        <foaf:givenName>Bonfim</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>de Carvalho</foaf:surname>
+                        <foaf:givenName>Guilherme Nepomuceno</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Using Ant Colony Optimisation for map generation and improving game balance in the Terra Mystica and Settlers of Catan board games</dc:title>
+        <dc:date>2020-09-15</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://dl.acm.org/doi/10.1145/3402942.3409778</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-04-17 06:15:08</dcterms:dateSubmitted>
+        <bib:pages>1-7</bib:pages>
+        <bib:presentedAt>
+            <bib:Conference>
+                <dc:title>FDG '20: International Conference on the Foundations of Digital Games</dc:title>
+            </bib:Conference>
+        </bib:presentedAt>
+    </rdf:Description>
+    <bib:Report rdf:about="http://cs229.stanford.edu/proj2012/HeonOetting-AnAppliactionOfMachineLearningToTheBoardGamePentago.pdf">
+        <z:itemType>report</z:itemType>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Greg Heon</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Lilli Oetting</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_631"/>
+        <dc:title>An Application of Machine Learning to the Board Game Pentago</dc:title>
+        <dcterms:abstract>We present an application of machine learning to the two-player strategy game Pentago. We
+have explored two different models through which to train our program - a feature-based model
+and a reinforcement learning model. This paper discusses the relative merits of each, as well
+as the obstacles we encountered using each model.</dcterms:abstract>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://cs229.stanford.edu/proj2012/HeonOetting-AnAppliactionOfMachineLearningToTheBoardGamePentago.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Report>
+    <z:Attachment rdf:about="#item_631">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>HeonOetting-AnAppliactionOfMachineLearningToTheBoardGamePentago.pdf</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://cs229.stanford.edu/proj2012/HeonOetting-AnAppliactionOfMachineLearningToTheBoardGamePentago.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-04-17 06:17:45</dcterms:dateSubmitted>
+        <z:linkMode>3</z:linkMode>
+    </z:Attachment>
+    <bib:Report rdf:about="https://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/251730">
+        <z:itemType>report</z:itemType>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Jimbo, Shuji</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_633"/>
+        <dc:title>Learning finite functions by neural networks : Evaluation of Pentago positions by convolutional neural networks</dc:title>
+        <dcterms:abstract>A convolution neural network (CNN) is a useful tool that approximates a finite function. It is used as a solver for various problems in the real world. In this paper, results of experiments on training variations of a small CNN used for image recognition for evaluating Pentago positions are mainly reported. The author hopes that the results are used in discussion of applicability of deep neural networks to researches in theoretical computer science.</dcterms:abstract>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/251730</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Report>
+    <z:Attachment rdf:about="#item_633">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>2096-03.pdf</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://repository.kulib.kyoto-u.ac.jp/dspace/bitstream/2433/251730/1/2096-03.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-04-17 06:20:42</dcterms:dateSubmitted>
+        <z:linkMode>3</z:linkMode>
+    </z:Attachment>
+    <bib:Article rdf:about="https://ojs.aaai.org/index.php/AIIDE/article/view/18902">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:2334-0924,%202326-909X"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gaina</foaf:surname>
+                        <foaf:givenName>Raluca D.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Goodman</foaf:surname>
+                        <foaf:givenName>James</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Perez-Liebana</foaf:surname>
+                        <foaf:givenName>Diego</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_635"/>
+        <dc:title>TAG: Terraforming Mars</dc:title>
+        <dcterms:abstract>Games and Artificial Intelligence (AI) have had a tight relationship for many years. A multitude of games have been used as environments in which AI players can learn to act and interact with others or the game mechanics directly; used as optimisation problems; used as generators of large amounts of data which can be analysed to learn about the game, or about the players; or used as containers of content which can be automatically generated by AI methods. Yet many of these environments have been very simple and limited in scope. We propose here a much more complex environment based on the boardgame Terraforming Mars, implemented as part of the Tabletop Games Framework: a very large and dynamic action space, hidden information, large amounts of content, resource management and high variability make this problem domain stand out in the current landscape and a very interesting problem for AI methods of multiple domains. We include results of baseline AI game-players in this game and in-depth analysis of the game itself, together with an exploration of problem complexity, challenges and opportunities.</dcterms:abstract>
+        <dc:date>2021-10-04</dc:date>
+        <z:shortTitle>TAG</z:shortTitle>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://ojs.aaai.org/index.php/AIIDE/article/view/18902</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-04-17 06:27:48</dcterms:dateSubmitted>
+        <bib:pages>148-155</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:2334-0924,%202326-909X">
+        <prism:volume>17</prism:volume>
+        <dc:title>Proceedings of the AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment</dc:title>
+        <dc:identifier>DOI 10.1609/aiide.v17i1.18902</dc:identifier>
+        <prism:number>1</prism:number>
+        <dcterms:alternative>AIIDE</dcterms:alternative>
+        <dc:identifier>ISSN 2334-0924, 2326-909X</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_635">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://ojs.aaai.org/index.php/AIIDE/article/download/18902/18667</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-04-17 06:27:56</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:BookSection rdf:about="urn:isbn:978-3-319-59393-7%20978-3-319-59394-4">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <prism:volume>74</prism:volume>
+                <dc:identifier>ISBN 978-3-319-59393-7 978-3-319-59394-4</dc:identifier>
+                <dc:title>Agent and Multi-Agent Systems: Technology and Applications</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Cham</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Springer International Publishing</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jezic</foaf:surname>
+                        <foaf:givenName>Gordan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kusek</foaf:surname>
+                        <foaf:givenName>Mario</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chen-Burger</foaf:surname>
+                        <foaf:givenName>Yun-Heh Jessica</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Howlett</foaf:surname>
+                        <foaf:givenName>Robert J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jain</foaf:surname>
+                        <foaf:givenName>Lakhmi C.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dreżewski</foaf:surname>
+                        <foaf:givenName>Rafał</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Klęczar</foaf:surname>
+                        <foaf:givenName>Maciej</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Artificial Intelligence Techniques for the Puerto Rico Strategy Game</dc:title>
+        <dc:date>2018</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://link.springer.com/10.1007/978-3-319-59394-4_8</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-04-17 06:31:21</dcterms:dateSubmitted>
+        <dc:description>Series Title: Smart Innovation, Systems and Technologies
+DOI: 10.1007/978-3-319-59394-4_8</dc:description>
+        <bib:pages>77-87</bib:pages>
+    </bib:BookSection>
     <z:Collection rdf:about="#collection_6">
         <dc:title>2048</dc:title>
         <dcterms:hasPart rdf:resource="https://doi.org/10.1007%2F978-3-319-50935-8_8"/>
@@ -9471,9 +10993,24 @@ guaranteed decent high score. The algorithm got a lowest score of 79 and a
     </z:Collection>
     <z:Collection rdf:about="#collection_42">
         <dc:title>Blokus</dc:title>
-        <dcterms:hasPart rdf:resource="https://digitalcommons.calpoly.edu/cpesp/290/"/>
         <dcterms:hasPart rdf:resource="urn:isbn:978-1-4799-2198-0%20978-1-4799-2199-7"/>
         <dcterms:hasPart rdf:resource="urn:isbn:978-1-4799-0565-2%20978-1-4799-0562-1%20978-1-4799-0563-8"/>
+        <dcterms:hasPart rdf:resource="http://artemis.library.tuc.gr/DT2014-0060/DT2014-0060.pdf"/>
+        <dcterms:hasPart rdf:resource="https://ejournal-medan.uph.edu/index.php/ISD/article/view/433"/>
+        <dcterms:hasPart rdf:resource="urn:isbn:978-1-4799-6245-7"/>
+        <dcterms:hasPart rdf:resource="https://www.tandfonline.com/doi/full/10.1080/07468342.2022.2100147"/>
+        <dcterms:hasPart rdf:resource="http://ieeexplore.ieee.org/document/6718428/"/>
+        <dcterms:hasPart rdf:resource="https://digitalcommons.calpoly.edu/cpesp/290/"/>
+        <dcterms:hasPart rdf:resource="http://ieeexplore.ieee.org/document/7082823/"/>
+        <dcterms:hasPart rdf:resource="http://ieeexplore.ieee.org/document/6718423/"/>
+        <dcterms:hasPart rdf:resource="http://ieeexplore.ieee.org/document/6718429/"/>
+        <dcterms:hasPart rdf:resource="http://ieeexplore.ieee.org/document/6718425/"/>
+        <dcterms:hasPart rdf:resource="http://ieeexplore.ieee.org/document/6718427/"/>
+        <dcterms:hasPart rdf:resource="http://ieeexplore.ieee.org/document/7082820/"/>
+        <dcterms:hasPart rdf:resource="http://ieeexplore.ieee.org/document/6718424/"/>
+        <dcterms:hasPart rdf:resource="http://ieeexplore.ieee.org/document/7082824/"/>
+        <dcterms:hasPart rdf:resource="http://ieeexplore.ieee.org/document/7082821/"/>
+        <dcterms:hasPart rdf:resource="https://dl.acm.org/doi/10.1145/2693714.2693725"/>
     </z:Collection>
     <z:Collection rdf:about="#collection_33">
         <dc:title>Carcassonne</dc:title>
@@ -9574,6 +11111,7 @@ guaranteed decent high score. The algorithm got a lowest score of 79 and a
         <dc:title>Jenga</dc:title>
         <dcterms:hasPart rdf:resource="https://www.llpjournal.org/2020/04/13/jidokan-jenga.html"/>
         <dcterms:hasPart rdf:resource="http://arxiv.org/abs/1708.01503"/>
+        <dcterms:hasPart rdf:resource="https://www.mdpi.com/1424-8220/23/2/752"/>
     </z:Collection>
     <z:Collection rdf:about="#collection_9">
         <dc:title>Kingdomino</dc:title>
@@ -9662,6 +11200,12 @@ guaranteed decent high score. The algorithm got a lowest score of 79 and a
         <dcterms:hasPart rdf:resource="http://arxiv.org/abs/1404.0743"/>
         <dcterms:hasPart rdf:resource="https://github.com/girving/pentago"/>
         <dcterms:hasPart rdf:resource="https://perfect-pentago.net/"/>
+        <dcterms:hasPart rdf:resource="http://cs229.stanford.edu/proj2012/HeonOetting-AnAppliactionOfMachineLearningToTheBoardGamePentago.pdf"/>
+        <dcterms:hasPart rdf:resource="https://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/251730"/>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_57">
+        <dc:title>Puerto Rico</dc:title>
+        <dcterms:hasPart rdf:resource="urn:isbn:978-3-319-59393-7%20978-3-319-59394-4"/>
     </z:Collection>
     <z:Collection rdf:about="#collection_18">
         <dc:title>Quixo</dc:title>
@@ -9726,6 +11270,7 @@ guaranteed decent high score. The algorithm got a lowest score of 79 and a
         <dcterms:hasPart rdf:resource="http://arxiv.org/abs/1511.08099"/>
         <dcterms:hasPart rdf:resource="https://repository.tcu.edu/handle/116099117/49062"/>
         <dcterms:hasPart rdf:resource="https://settlers-rl.github.io/"/>
+        <dcterms:hasPart rdf:resource="https://dl.acm.org/doi/10.1145/3402942.3409778"/>
     </z:Collection>
     <z:Collection rdf:about="#collection_28">
         <dc:title>Shobu</dc:title>
@@ -9737,6 +11282,13 @@ guaranteed decent high score. The algorithm got a lowest score of 79 and a
         <dcterms:hasPart rdf:resource="https://doi.org/10.1145%2F3396474.3396492"/>
         <dcterms:hasPart rdf:resource="http://arxiv.org/abs/2102.10540"/>
         <dcterms:hasPart rdf:resource="https://lodev.org/tmai/"/>
+        <dcterms:hasPart rdf:resource="urn:isbn:978-1-4503-8807-8"/>
+        <dcterms:hasPart rdf:resource="urn:isbn:978-3-030-53955-9%20978-3-030-53956-6"/>
+        <dcterms:hasPart rdf:resource="https://dl.acm.org/doi/10.1145/3402942.3409778"/>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_56">
+        <dc:title>Terraforming Mars</dc:title>
+        <dcterms:hasPart rdf:resource="https://ojs.aaai.org/index.php/AIIDE/article/view/18902"/>
     </z:Collection>
     <z:Collection rdf:about="#collection_36">
         <dc:title>Tetris Link</dc:title>
@@ -9772,5 +11324,6 @@ guaranteed decent high score. The algorithm got a lowest score of 79 and a
         <dcterms:hasPart rdf:resource="https://raw.githubusercontent.com/philvasseur/Yahtzee-DQN-Thesis/dcf2bfe15c3b8c0ff3256f02dd3c0aabdbcbc9bb/webpage/final_report.pdf"/>
         <dcterms:hasPart rdf:resource="http://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-168668"/>
         <dcterms:hasPart rdf:resource="http://www.cs.loyola.edu/~jglenn/research/optimal_yahtzee.pdf"/>
+        <dcterms:hasPart rdf:resource="https://www.tandfonline.com/doi/full/10.1080/0025570X.2022.2055334"/>
     </z:Collection>
 </rdf:RDF>

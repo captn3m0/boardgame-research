@@ -49,6 +49,7 @@ If you aren't able to access any paper on this list, please [try using Sci-Hub](
 - [Pandemic](#pandemic)
 - [Patchwork](#patchwork)
 - [Pentago](#pentago)
+- [Puerto Rico](#puerto-rico)
 - [Quixo](#quixo)
 - [Race for the Galaxy](#race-for-the-galaxy)
 - [Resistance: Avalon](#resistance-avalon)
@@ -60,6 +61,7 @@ If you aren't able to access any paper on this list, please [try using Sci-Hub](
 - [Settlers of Catan](#settlers-of-catan)
 - [Shobu](#shobu)
 - [Terra Mystica](#terra-mystica)
+- [Terraforming Mars](#terraforming-mars)
 - [Tetris Link](#tetris-link)
 - [Ticket to Ride](#ticket-to-ride)
 - [Ultimate Tic-Tac-Toe](#ultimate-tic-tac-toe)
@@ -94,9 +96,24 @@ If you aren't able to access any paper on this list, please [try using Sci-Hub](
 - [Ceramic: A research environment based on the multi-player strategic board game Azul](https://github.com/Swynfel/ceramic) (computerProgram)
 
 # Blokus
-- [Blokus Game Solver](https://digitalcommons.calpoly.edu/cpesp/290/) (report)
 - [FPGA Blokus Duo Solver using a massively parallel architecture](http://ieeexplore.ieee.org/document/6718426/) (conferencePaper)
 - [Blokus Duo game on FPGA](http://ieeexplore.ieee.org/document/6714256/) (conferencePaper)
+- [Algorithm Modeling for Hardware Implementation of a Blokus Duo Player](http://artemis.library.tuc.gr/DT2014-0060/DT2014-0060.pdf) (thesis)
+- [Artificial Intelligence for Blokus Classic using Heuristics, FloodFill, and Greedy Algorithm](https://ejournal-medan.uph.edu/index.php/ISD/article/view/433) (journalArticle)
+- [FPGA implementation of Blokus Duo player using hardware/software co-design](http://ieeexplore.ieee.org/document/7082825/) (conferencePaper)
+- [Exploring Combinatorics and Graph Theory with Simple Blokus](https://www.tandfonline.com/doi/full/10.1080/07468342.2022.2100147) (journalArticle)
+- [An FPGA-based specific processor for Blokus Duo](http://ieeexplore.ieee.org/document/6718428/) (conferencePaper)
+- [Blokus Game Solver](https://digitalcommons.calpoly.edu/cpesp/290/) (report)
+- [Highly scalable, shared-memory, Monte-Carlo tree search based Blokus Duo Solver on FPGA](http://ieeexplore.ieee.org/document/7082823/) (conferencePaper)
+- [Implementation of a highly scalable blokus duo solver on FPGA](http://ieeexplore.ieee.org/document/6718423/) (conferencePaper)
+- [An implementation of Blokus Duo player on FPGA](http://ieeexplore.ieee.org/document/6718429/) (conferencePaper)
+- [The Liquid Metal Blokus Duo Design](http://ieeexplore.ieee.org/document/6718425/) (conferencePaper)
+- [Artificial intelligence of Blokus Duo on FPGA using Cyber Work Bench](http://ieeexplore.ieee.org/document/6718427/) (conferencePaper)
+- [Hardware/software co-design architecture for Blokus Duo solver](http://ieeexplore.ieee.org/document/7082820/) (conferencePaper)
+- [From C to Blokus Duo with LegUp high-level synthesis](http://ieeexplore.ieee.org/document/6718424/) (conferencePaper)
+- [Blokus Duo engine on a Zynq](http://ieeexplore.ieee.org/document/7082824/) (conferencePaper)
+- [Optimize MinMax algorithm to solve Blokus Duo game by HDL](http://ieeexplore.ieee.org/document/7082821/) (conferencePaper)
+- [A Case Study of FPGA Blokus Duo Solver by System-Level Design](https://dl.acm.org/doi/10.1145/2693714.2693725) (journalArticle)
 
 # Carcassonne
 - [Playing Carcassonne with Monte Carlo Tree Search](http://arxiv.org/abs/2009.12974) (journalArticle)
@@ -186,6 +203,7 @@ If you aren't able to access any paper on this list, please [try using Sci-Hub](
 # Jenga
 - [Jidoukan Jenga: Teaching English through remixing games and game rules](https://www.llpjournal.org/2020/04/13/jidokan-jenga.html) (journalArticle)
 - [Maximum genus of the Jenga like configurations](http://arxiv.org/abs/1708.01503) (journalArticle)
+- [Deep Instance Segmentation and Visual Servoing to Play Jenga with a Cost-Effective Robotic System](https://www.mdpi.com/1424-8220/23/2/752) (journalArticle)
 
 # Kingdomino
 - [Monte Carlo Methods for the Game Kingdomino](https://doi.org/10.1109%2Fcig.2018.8490419) (conferencePaper)
@@ -261,6 +279,11 @@ If you aren't able to access any paper on this list, please [try using Sci-Hub](
 - [Pentago is a First Player Win: Strongly Solving a Game Using Parallel In-Core Retrograde Analysis](http://arxiv.org/abs/1404.0743) (journalArticle)
 - [A massively parallel pentago solver](https://github.com/girving/pentago) (computerProgram)
 - [An interactive explorer for perfect pentago play](https://perfect-pentago.net/) (computerProgram)
+- [An Application of Machine Learning to the Board Game Pentago](http://cs229.stanford.edu/proj2012/HeonOetting-AnAppliactionOfMachineLearningToTheBoardGamePentago.pdf) (report)
+- [Learning finite functions by neural networks : Evaluation of Pentago positions by convolutional neural networks](https://repository.kulib.kyoto-u.ac.jp/dspace/handle/2433/251730) (report)
+
+# Puerto Rico
+- [Artificial Intelligence Techniques for the Puerto Rico Strategy Game](http://link.springer.com/10.1007/978-3-319-59394-4_8) (bookSection)
 
 # Quixo
 - [QUIXO is EXPTIME-complete](https://doi.org/10.1016%2Fj.ipl.2020.105995) (journalArticle)
@@ -316,6 +339,7 @@ If you aren't able to access any paper on this list, please [try using Sci-Hub](
 - [Strategic Dialogue Management via Deep Reinforcement Learning](http://arxiv.org/abs/1511.08099) (journalArticle)
 - [Analysis of 'The Settlers of Catan' Using Markov Chains](https://repository.tcu.edu/handle/116099117/49062) (thesis)
 - [Learning to Play Settlers of Catan with Deep Reinforcement Learning](https://settlers-rl.github.io/) (blogPost)
+- [Using Ant Colony Optimisation for map generation and improving game balance in the Terra Mystica and Settlers of Catan board games](https://dl.acm.org/doi/10.1145/3402942.3409778) (conferencePaper)
 
 # Shobu
 - [Shobu AI Playground](https://github.com/JayWalker512/Shobu) (computerProgram)
@@ -325,6 +349,12 @@ If you aren't able to access any paper on this list, please [try using Sci-Hub](
 - [Using Tabu Search Algorithm for Map Generation in the Terra Mystica Tabletop Game](https://doi.org/10.1145%2F3396474.3396492) (conferencePaper)
 - [Mastering Terra Mystica: Applying Self-Play to Multi-agent Cooperative Board Games](http://arxiv.org/abs/2102.10540) (journalArticle)
 - [TM AI: Play TM against AI players.](https://lodev.org/tmai/) (computerProgram)
+- [Using Ant Colony Optimisation for map generation and improving game balance in the Terra Mystica and Settlers of Catan board games](https://dl.acm.org/doi/10.1145/3402942.3409778) (conferencePaper)
+- [Map Generation and Balance in the Terra Mystica Board Game Using Particle Swarm and Local Search](http://link.springer.com/10.1007/978-3-030-53956-6_15) (bookSection)
+- [Using Ant Colony Optimisation for map generation and improving game balance in the Terra Mystica and Settlers of Catan board games](https://dl.acm.org/doi/10.1145/3402942.3409778) (conferencePaper)
+
+# Terraforming Mars
+- [TAG: Terraforming Mars](https://ojs.aaai.org/index.php/AIIDE/article/view/18902) (journalArticle)
 
 # Tetris Link
 - [A New Challenge: Approaching Tetris Link with AI](http://arxiv.org/abs/2004.00377) (journalArticle)
@@ -355,6 +385,7 @@ If you aren't able to access any paper on this list, please [try using Sci-Hub](
 - [Using Deep Q-Learning to Compare Strategy Ladders of Yahtzee](https://raw.githubusercontent.com/philvasseur/Yahtzee-DQN-Thesis/dcf2bfe15c3b8c0ff3256f02dd3c0aabdbcbc9bb/webpage/final_report.pdf) (thesis)
 - [Defensive Yahtzee](http://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-168668) (report)
 - [An Optimal Strategy for Yahtzee](http://www.cs.loyola.edu/~jglenn/research/optimal_yahtzee.pdf) (report)
+- [Let’s Get Rolling! Exact Optimal Solitaire Yahtzee](https://www.tandfonline.com/doi/full/10.1080/0025570X.2022.2055334) (journalArticle)
 # Similar Projects
 
 - https://github.com/benedekrozemberczki/awesome-monte-carlo-tree-search-papers
