@@ -195,6 +195,16 @@ If you aren't able to access any paper on this list, please [try using Sci-Hub](
 
 # Hearthstone
 - [Mapping Hearthstone Deck Spaces through MAP-Elites with Sliding Boundaries](http://arxiv.org/abs/1904.10656) (journalArticle)
+- [Multiplayer Tension In the Wild: A Hearthstone Case](https://research.tilburguniversity.edu/en/publications/multiplayer-tension-in-the-wild-a-hearthstone-case) (conferencePaper)
+- [Improving Hearthstone AI by Combining MCTS and Supervised Learning Algorithms](http://arxiv.org/abs/1808.04794) (preprint)
+- [Analysis of gameplay strategies in hearthstone: a data science approach](http://archives.njit.edu/vol01/etd/2020s/2020/njit-etd2020-006/njit-etd2020-006.pdf) (thesis)
+- [Decision-Making in Hearthstone Based on Evolutionary Algorithm](https://www.cs.tsukuba.ac.jp/~hasebe/downloads/icaart2023_sakurai.pdf) (journalArticle)
+- [I am a legend: Hacking hearthstone using statistical learning methods](http://ieeexplore.ieee.org/document/7860416/) (conferencePaper)
+- [The Many AI Challenges of Hearthstone](http://link.springer.com/10.1007/s13218-019-00615-z) (journalArticle)
+- [Evolutionary deckbuilding in hearthstone](http://ieeexplore.ieee.org/document/7860426/) (conferencePaper)
+- [Evolving the Hearthstone Meta](http://arxiv.org/abs/1907.01623) (preprint)
+- [Optimizing Hearthstone agents using an evolutionary algorithm](https://linkinghub.elsevier.com/retrieve/pii/S0950705119304356) (journalArticle)
+- [Exploring the hearthstone deck space](https://dl.acm.org/doi/10.1145/3235765.3235791) (conferencePaper)
 
 # Hive
 - [On the complexity of Hive](https://dspace.library.uu.nl/handle/1874/396955) (thesis)

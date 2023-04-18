@@ -10966,6 +10966,630 @@ as the obstacles we encountered using each model.</dcterms:abstract>
 DOI: 10.1007/978-3-319-59394-4_8</dc:description>
         <bib:pages>77-87</bib:pages>
     </bib:BookSection>
+    <rdf:Description rdf:about="https://research.tilburguniversity.edu/en/publications/multiplayer-tension-in-the-wild-a-hearthstone-case">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Mavromoustakos Blom</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_638"/>
+        <dc:title>Multiplayer Tension In the Wild: A Hearthstone Case</dc:title>
+        <dcterms:abstract>Games are designed to elicit strong emotions during game play, especially when players are competing against each other. Artificial Intelligence applied to predict a player's emotions has mainly been tested on single-player experiences in low-stakes settings and short-term interactions. How do players experience and manifest affect in high-stakes competitions, and which modalities can capture this? This paper reports a first experiment in this line of research, using a competition of the video game Hearthstone where both competing players' game play and facial expressions were recorded over the course of the entire match which could span up to 41 minutes. Using two experts' annotations of tension using a continuous video affect annotation tool, we attempt to predict tension from the webcam footage of the players alone. Treating both the input and the tension output in a relative fashion, our best models reach 66.3% average accuracy (up to 79.2% at the best fold) in the challenging leave-one-participant out cross-validation task. This initial experiment shows a way forward for affect annotation in games {&quot;}in the wild{&quot;} in high-stakes, real-world competitive settings.</dcterms:abstract>
+        <dc:date>2023</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://research.tilburguniversity.edu/en/publications/multiplayer-tension-in-the-wild-a-hearthstone-case</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:presentedAt>
+            <bib:Conference>
+               <dc:title>Foundations of Digital Games</dc:title>
+            </bib:Conference>
+        </bib:presentedAt>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_638">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>FDG_Modelling_Player_Tension_Through_Facial_Expressions_in_Competitive_Hearthstone_2_.pdf</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://pure.uvt.nl/ws/portalfiles/portal/69103237/FDG_Modelling_Player_Tension_Through_Facial_Expressions_in_Competitive_Hearthstone_2_.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-04-18 04:45:05</dcterms:dateSubmitted>
+        <z:linkMode>3</z:linkMode>
+    </z:Attachment>
+    <rdf:Description rdf:about="http://arxiv.org/abs/1808.04794">
+        <z:itemType>preprint</z:itemType>
+        <dc:publisher>
+           <foaf:Organization><foaf:name>arXiv</foaf:name></foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Świechowski</foaf:surname>
+                        <foaf:givenName>Maciej</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tajmajer</foaf:surname>
+                        <foaf:givenName>Tomasz</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Janusz</foaf:surname>
+                        <foaf:givenName>Andrzej</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_641"/>
+        <link:link rdf:resource="#item_642"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Computer Science - Artificial Intelligence</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Computer Science - Machine Learning</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Improving Hearthstone AI by Combining MCTS and Supervised Learning Algorithms</dc:title>
+        <dcterms:abstract>We investigate the impact of supervised prediction models on the strength and efficiency of artificial agents that use the Monte-Carlo Tree Search (MCTS) algorithm to play a popular video game Hearthstone: Heroes of Warcraft. We overview our custom implementation of the MCTS that is well-suited for games with partially hidden information and random effects. We also describe experiments which we designed to quantify the performance of our Hearthstone agent's decision making. We show that even simple neural networks can be trained and successfully used for the evaluation of game states. Moreover, we demonstrate that by providing a guidance to the game state search heuristic, it is possible to substantially improve the win rate, and at the same time reduce the required computations.</dcterms:abstract>
+        <dc:date>2018-08-14</dc:date>
+        <z:libraryCatalog>arXiv.org</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://arxiv.org/abs/1808.04794</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-04-18 04:46:43</dcterms:dateSubmitted>
+        <dc:description>arXiv:1808.04794 [cs]</dc:description>
+        <prism:number>arXiv:1808.04794</prism:number>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_641">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>arXiv Fulltext PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/pdf/1808.04794.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-04-18 04:46:45</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_642">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>arXiv.org Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/abs/1808.04794</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-04-18 04:46:52</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Thesis rdf:about="http://archives.njit.edu/vol01/etd/2020s/2020/njit-etd2020-006/njit-etd2020-006.pdf">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>New Jersey Institute of Technology</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Watson, Connor W.</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Analysis of gameplay strategies in hearthstone: a data science approach</dc:title>
+        <dcterms:abstract>In recent years, games have been a popular test bed for AI research, and the presence
+of Collectible Card Games (CCGs) in that space is still increasing. One such CCG for
+both competitive/casual play and AI research is Hearthstone, a two-player adversarial
+game where players seeks to implement one of several gameplay strategies to defeat
+their opponent and decrease all of their Health points to zero. Although some
+open source simulators exist, some of their methodologies for simulated agents create
+opponents with a relatively low skill level. Using evolutionary algorithms, this thesis
+seeks to evolve agents with a higher skill level than those implemented in one such
+simulator, SabberStone. New benchmarks are propsed using supervised learning
+techniques to predict gameplay strategies from game data, and using unsupervised
+learning techniques to discover and visualize patterns that may be used in player
+modeling to differentiate gameplay strategies.</dcterms:abstract>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://archives.njit.edu/vol01/etd/2020s/2020/njit-etd2020-006/njit-etd2020-006.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Thesis>
+    <bib:Article rdf:about="https://www.cs.tsukuba.ac.jp/~hasebe/downloads/icaart2023_sakurai.pdf">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+           <bib:Journal></bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Eiji Sakurai</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Koji Hasabe</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Decision-Making in Hearthstone Based on Evolutionary Algorithm</dc:title>
+        <dcterms:abstract>Hearthstone is a two-player turn-based collectible card game with hidden information and randomness. Gen-
+erally, the search space for actions of this game grows exponentially because the players must perform a series
+of actions by selecting each action from many options in each turn. When playing such a game, it is often
+difficult to use a game tree search technique to find the optimal sequence of actions up until the end of a turn.
+To solve this problem, we propose a method to determine a series of actions in Hearthstone based on an evolu-
+tionary algorithm called the rolling horizon evolutionary algorithm (RHEA). To apply RHEA to this game, we
+modify the genetic operators and add techniques for selecting actions based on previous search results and for
+filtering (pruning) some of the action options. To evaluate the effectiveness of these improvements, we imple-
+mented an agent based on the proposed method and played it against an agent based on the original RHEA for
+several decks. The result showed a maximum winning rate of over 97.5%. Further, our agent played against
+the top-performing agents in previous competitions and outperformed most of them.</dcterms:abstract>
+        <dc:date>2023</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.cs.tsukuba.ac.jp/~hasebe/downloads/icaart2023_sakurai.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Article>
+    <rdf:Description rdf:about="urn:isbn:978-1-5090-1883-3">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:identifier>ISBN 978-1-5090-1883-3</dc:identifier>
+                <dc:title>2016 IEEE Conference on Computational Intelligence and Games (CIG)</dc:title>
+                <dc:identifier>DOI 10.1109/CIG.2016.7860416</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Santorini, Greece</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>IEEE</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bursztein</foaf:surname>
+                        <foaf:givenName>Elie</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>I am a legend: Hacking hearthstone using statistical learning methods</dc:title>
+        <dc:date>9/2016</dc:date>
+        <z:shortTitle>I am a legend</z:shortTitle>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://ieeexplore.ieee.org/document/7860416/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-04-18 04:50:48</dcterms:dateSubmitted>
+        <bib:pages>1-8</bib:pages>
+        <bib:presentedAt>
+            <bib:Conference>
+                <dc:title>2016 IEEE Conference on Computational Intelligence and Games (CIG)</dc:title>
+            </bib:Conference>
+        </bib:presentedAt>
+    </rdf:Description>
+    <bib:Article rdf:about="http://link.springer.com/10.1007/s13218-019-00615-z">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0933-1875,%201610-1987"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hoover</foaf:surname>
+                        <foaf:givenName>Amy K.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Togelius</foaf:surname>
+                        <foaf:givenName>Julian</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lee</foaf:surname>
+                        <foaf:givenName>Scott</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>de Mesentier Silva</foaf:surname>
+                        <foaf:givenName>Fernando</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_647"/>
+        <dc:title>The Many AI Challenges of Hearthstone</dc:title>
+        <dc:date>03/2020</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://link.springer.com/10.1007/s13218-019-00615-z</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-04-18 04:51:07</dcterms:dateSubmitted>
+        <bib:pages>33-43</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0933-1875,%201610-1987">
+        <prism:volume>34</prism:volume>
+        <dc:title>KI - Künstliche Intelligenz</dc:title>
+        <dc:identifier>DOI 10.1007/s13218-019-00615-z</dc:identifier>
+        <prism:number>1</prism:number>
+        <dcterms:alternative>Künstl Intell</dcterms:alternative>
+        <dc:identifier>ISSN 0933-1875, 1610-1987</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_647">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Submitted Version</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/pdf/1907.06562</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-04-18 04:51:11</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="http://ieeexplore.ieee.org/document/7860426/">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:identifier>ISBN 978-1-5090-1883-3</dc:identifier>
+                <dc:title>2016 IEEE Conference on Computational Intelligence and Games (CIG)</dc:title>
+                <dc:identifier>DOI 10.1109/CIG.2016.7860426</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Santorini, Greece</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>IEEE</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Garcia-Sanchez</foaf:surname>
+                        <foaf:givenName>Pablo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tonda</foaf:surname>
+                        <foaf:givenName>Alberto</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Squillero</foaf:surname>
+                        <foaf:givenName>Giovanni</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mora</foaf:surname>
+                        <foaf:givenName>Antonio</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Merelo</foaf:surname>
+                        <foaf:givenName>Juan J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_649"/>
+        <dc:title>Evolutionary deckbuilding in hearthstone</dc:title>
+        <dc:date>9/2016</dc:date>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://ieeexplore.ieee.org/document/7860426/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-04-18 04:52:11</dcterms:dateSubmitted>
+        <bib:pages>1-8</bib:pages>
+        <bib:presentedAt>
+            <bib:Conference>
+                <dc:title>2016 IEEE Conference on Computational Intelligence and Games (CIG)</dc:title>
+            </bib:Conference>
+        </bib:presentedAt>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_649">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Evolutionary-Deckbuilding-in-HearthStone.pdf</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.researchgate.net/profile/Alberto-Tonda/publication/304246423_Evolutionary_Deckbuilding_in_HearthStone/links/5a5bc15faca2727d608a25b6/Evolutionary-Deckbuilding-in-HearthStone.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-04-18 04:54:19</dcterms:dateSubmitted>
+        <z:linkMode>3</z:linkMode>
+    </z:Attachment>
+    <rdf:Description rdf:about="http://arxiv.org/abs/1907.01623">
+        <z:itemType>preprint</z:itemType>
+        <dc:publisher>
+           <foaf:Organization><foaf:name>arXiv</foaf:name></foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Silva</foaf:surname>
+                        <foaf:givenName>Fernando de Mesentier</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Canaan</foaf:surname>
+                        <foaf:givenName>Rodrigo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lee</foaf:surname>
+                        <foaf:givenName>Scott</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fontaine</foaf:surname>
+                        <foaf:givenName>Matthew C.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Togelius</foaf:surname>
+                        <foaf:givenName>Julian</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hoover</foaf:surname>
+                        <foaf:givenName>Amy K.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_652"/>
+        <link:link rdf:resource="#item_653"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Computer Science - Artificial Intelligence</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+                <rdf:value>Computer Science - Neural and Evolutionary Computing</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Evolving the Hearthstone Meta</dc:title>
+        <dcterms:abstract>Balancing an ever growing strategic game of high complexity, such as Hearthstone is a complex task. The target of making strategies diverse and customizable results in a delicate intricate system. Tuning over 2000 cards to generate the desired outcome without disrupting the existing environment becomes a laborious challenge. In this paper, we discuss the impacts that changes to existing cards can have on strategy in Hearthstone. By analyzing the win rate on match-ups across different decks, being played by different strategies, we propose to compare their performance before and after changes are made to improve or worsen different cards. Then, using an evolutionary algorithm, we search for a combination of changes to the card attributes that cause the decks to approach equal, 50% win rates. We then expand our evolutionary algorithm to a multi-objective solution to search for this result, while making the minimum amount of changes, and as a consequence disruption, to the existing cards. Lastly, we propose and evaluate metrics to serve as heuristics with which to decide which cards to target with balance changes.</dcterms:abstract>
+        <dc:date>2019-07-02</dc:date>
+        <z:libraryCatalog>arXiv.org</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://arxiv.org/abs/1907.01623</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-04-18 04:54:36</dcterms:dateSubmitted>
+        <dc:description>arXiv:1907.01623 [cs]</dc:description>
+        <prism:number>arXiv:1907.01623</prism:number>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_652">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>arXiv Fulltext PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/pdf/1907.01623.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-04-18 04:54:40</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_653">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>arXiv.org Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/abs/1907.01623</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-04-18 04:54:46</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://linkinghub.elsevier.com/retrieve/pii/S0950705119304356">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:09507051"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>García-Sánchez</foaf:surname>
+                        <foaf:givenName>Pablo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tonda</foaf:surname>
+                        <foaf:givenName>Alberto</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fernández-Leiva</foaf:surname>
+                        <foaf:givenName>Antonio J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Cotta</foaf:surname>
+                        <foaf:givenName>Carlos</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_655"/>
+        <dc:title>Optimizing Hearthstone agents using an evolutionary algorithm</dc:title>
+        <dc:date>01/2020</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://linkinghub.elsevier.com/retrieve/pii/S0950705119304356</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-04-18 04:55:18</dcterms:dateSubmitted>
+        <bib:pages>105032</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:09507051">
+        <prism:volume>188</prism:volume>
+        <dc:title>Knowledge-Based Systems</dc:title>
+        <dc:identifier>DOI 10.1016/j.knosys.2019.105032</dc:identifier>
+        <dcterms:alternative>Knowledge-Based Systems</dcterms:alternative>
+        <dc:identifier>ISSN 09507051</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_655">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>garcia19optimizing.pdf</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://www.lcc.uma.es/~ccottap/papers/garcia19optimizing.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-04-18 04:55:24</dcterms:dateSubmitted>
+        <z:linkMode>3</z:linkMode>
+    </z:Attachment>
+    <rdf:Description rdf:about="https://dl.acm.org/doi/10.1145/3235765.3235791">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:identifier>ISBN 978-1-4503-6571-0</dc:identifier>
+                <dc:title>Proceedings of the 13th International Conference on the Foundations of Digital Games</dc:title>
+                <dc:identifier>DOI 10.1145/3235765.3235791</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Malmö Sweden</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>ACM</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Bhatt</foaf:surname>
+                        <foaf:givenName>Aditya</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lee</foaf:surname>
+                        <foaf:givenName>Scott</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>de Mesentier Silva</foaf:surname>
+                        <foaf:givenName>Fernando</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Watson</foaf:surname>
+                        <foaf:givenName>Connor W.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Togelius</foaf:surname>
+                        <foaf:givenName>Julian</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hoover</foaf:surname>
+                        <foaf:givenName>Amy K.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_657"/>
+        <dc:title>Exploring the hearthstone deck space</dc:title>
+        <dc:date>2018-08-07</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://dl.acm.org/doi/10.1145/3235765.3235791</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-04-18 04:55:33</dcterms:dateSubmitted>
+        <bib:pages>1-10</bib:pages>
+        <bib:presentedAt>
+            <bib:Conference>
+               <dc:title>FDG '18: Foundations of Digital Games 2018</dc:title>
+            </bib:Conference>
+        </bib:presentedAt>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_657">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Exploring-the-hearthstone-deck-space.pdf</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.researchgate.net/profile/Fernando-De-Mesentier-Silva/publication/327637789_Exploring_the_hearthstone_deck_space/links/5c50b295a6fdccd6b5d1e5a2/Exploring-the-hearthstone-deck-space.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-04-18 04:55:46</dcterms:dateSubmitted>
+        <z:linkMode>3</z:linkMode>
+    </z:Attachment>
     <z:Collection rdf:about="#collection_6">
         <dc:title>2048</dc:title>
         <dcterms:hasPart rdf:resource="https://doi.org/10.1007%2F978-3-319-50935-8_8"/>
@@ -11101,6 +11725,16 @@ DOI: 10.1007/978-3-319-59394-4_8</dc:description>
     <z:Collection rdf:about="#collection_55">
         <dc:title>Hearthstone</dc:title>
         <dcterms:hasPart rdf:resource="http://arxiv.org/abs/1904.10656"/>
+        <dcterms:hasPart rdf:resource="https://research.tilburguniversity.edu/en/publications/multiplayer-tension-in-the-wild-a-hearthstone-case"/>
+        <dcterms:hasPart rdf:resource="http://arxiv.org/abs/1808.04794"/>
+        <dcterms:hasPart rdf:resource="http://archives.njit.edu/vol01/etd/2020s/2020/njit-etd2020-006/njit-etd2020-006.pdf"/>
+        <dcterms:hasPart rdf:resource="https://www.cs.tsukuba.ac.jp/~hasebe/downloads/icaart2023_sakurai.pdf"/>
+        <dcterms:hasPart rdf:resource="urn:isbn:978-1-5090-1883-3"/>
+        <dcterms:hasPart rdf:resource="http://link.springer.com/10.1007/s13218-019-00615-z"/>
+        <dcterms:hasPart rdf:resource="http://ieeexplore.ieee.org/document/7860426/"/>
+        <dcterms:hasPart rdf:resource="http://arxiv.org/abs/1907.01623"/>
+        <dcterms:hasPart rdf:resource="https://linkinghub.elsevier.com/retrieve/pii/S0950705119304356"/>
+        <dcterms:hasPart rdf:resource="https://dl.acm.org/doi/10.1145/3235765.3235791"/>
     </z:Collection>
     <z:Collection rdf:about="#collection_26">
         <dc:title>Hive</dc:title>
