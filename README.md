@@ -205,6 +205,7 @@ If you aren't able to access any paper on this list, please [try using Sci-Hub](
 - [Evolving the Hearthstone Meta](http://arxiv.org/abs/1907.01623) (preprint)
 - [Optimizing Hearthstone agents using an evolutionary algorithm](https://linkinghub.elsevier.com/retrieve/pii/S0950705119304356) (journalArticle)
 - [Exploring the hearthstone deck space](https://dl.acm.org/doi/10.1145/3235765.3235791) (conferencePaper)
+- [Computational Intelligence Techniques for Games with Incomplete Information](https://webthesis.biblio.polito.it/26844/) (thesis)
 
 # Hive
 - [On the complexity of Hive](https://dspace.library.uu.nl/handle/1874/396955) (thesis)

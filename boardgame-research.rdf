@@ -11590,6 +11590,45 @@ the top-performing agents in previous competitions and outperformed most of them
         <dcterms:dateSubmitted>2023-04-18 04:55:46</dcterms:dateSubmitted>
         <z:linkMode>3</z:linkMode>
     </z:Attachment>
+    <bib:Thesis rdf:about="https://webthesis.biblio.polito.it/26844/">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>Politecnico di Torino</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Stefano Griva</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_659"/>
+        <dc:title>Computational Intelligence Techniques for Games with Incomplete Information</dc:title>
+        <dcterms:abstract>Artificial intelligence is an ever growing field in computer science, with new techniques and algorithms getting developed every day. Our aim is to show how AIs can improve their performances by using hidden information, that would normally require complex human deduction to normally exploit. Modern game AIs often rely on clear and curated data, deterministic information and overall accurate numbers to make their calculations, however there are a lot of games that involve pieces of information that are incomplete or hidden. Incomplete information can be extremely helpful to an AI, but it requires additional care when taken into consideration because it's usually based on statistical analysis and heuristics. Our focus is set on a few innovative computational intelligence techniques that aim at improving the efficiency of hidden information-based AIs, by allowing them to explore non-deterministic scenarios: 1) The Double Inverted Index is an algorithm that can be used in hidden information games, such as card games, to narrow the great possibilities and scenarios to calculate down to a reasonable number. This approach is based on how humans would think in similar situation. 2) The Blunder Threshold is a technique that helps the AI navigating probabilistic scenarios balancing the pros and cons of deeper analysis and uncertain information. We'll explore different parameters and options of the previously mentioned techniques as well as showing their efficacy in practice with a focus on the chosen test game Hearthstone.</dcterms:abstract>
+        <z:language>en</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://webthesis.biblio.polito.it/26844/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <z:numPages>60</z:numPages>
+        <z:type>Corso di laurea magistrale in Ingegneria Informatica (Computer Engineering)</z:type>
+    </bib:Thesis>
+    <z:Attachment rdf:about="#item_659">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://webthesis.biblio.polito.it/secure/26844/1/tesi.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-05-06 06:11:46</dcterms:dateSubmitted>
+        <z:linkMode>3</z:linkMode>
+    </z:Attachment>
     <z:Collection rdf:about="#collection_6">
         <dc:title>2048</dc:title>
         <dcterms:hasPart rdf:resource="https://doi.org/10.1007%2F978-3-319-50935-8_8"/>
@@ -11735,6 +11774,7 @@ the top-performing agents in previous competitions and outperformed most of them
         <dcterms:hasPart rdf:resource="http://arxiv.org/abs/1907.01623"/>
         <dcterms:hasPart rdf:resource="https://linkinghub.elsevier.com/retrieve/pii/S0950705119304356"/>
         <dcterms:hasPart rdf:resource="https://dl.acm.org/doi/10.1145/3235765.3235791"/>
+        <dcterms:hasPart rdf:resource="https://webthesis.biblio.polito.it/26844/"/>
     </z:Collection>
     <z:Collection rdf:about="#collection_26">
         <dc:title>Hive</dc:title>
