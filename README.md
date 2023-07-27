@@ -192,6 +192,7 @@ If you aren't able to access any paper on this list, please [try using Sci-Hub](
 - [Analysis of Symmetry and Conventions in Off-Belief Learning (OBL) in Hanabi](https://fanpu.io/blog/2022/symmetry-and-conventions-in-obl-hanabi/) (blogPost)
 - [Using intuitive behavior models to adapt to and work with human teammates in Hanabi](http://reports-archive.adm.cs.cmu.edu/anon/anon/usr0/ftp/usr/ftp/2022/abstracts/22-119.html) (thesis)
 - [Behavioral Differences is the Key of Ad-hoc Team Cooperation in Multiplayer Games Hanabi](http://arxiv.org/abs/2303.06775) (preprint)
+- [The Hidden Rules of Hanabi: How Humans Outperform AI Agents](https://dl.acm.org/doi/10.1145/3544548.3581550) (conferencePaper)
 
 # Hearthstone
 - [Mapping Hearthstone Deck Spaces through MAP-Elites with Sliding Boundaries](http://arxiv.org/abs/1904.10656) (journalArticle)
@@ -206,6 +207,9 @@ If you aren't able to access any paper on this list, please [try using Sci-Hub](
 - [Optimizing Hearthstone agents using an evolutionary algorithm](https://linkinghub.elsevier.com/retrieve/pii/S0950705119304356) (journalArticle)
 - [Exploring the hearthstone deck space](https://dl.acm.org/doi/10.1145/3235765.3235791) (conferencePaper)
 - [Computational Intelligence Techniques for Games with Incomplete Information](https://webthesis.biblio.polito.it/26844/) (thesis)
+- [Perfect Information Hearthstone is PSPACE-hard](http://arxiv.org/abs/2305.12731) (preprint)
+- [Summarizing Strategy Card Game AI Competition](http://arxiv.org/abs/2305.11814) (preprint)
+- [Towards sample efficient deep reinforcement learning in collectible card games](https://linkinghub.elsevier.com/retrieve/pii/S1875952123000496) (journalArticle)
 
 # Hive
 - [On the complexity of Hive](https://dspace.library.uu.nl/handle/1874/396955) (thesis)

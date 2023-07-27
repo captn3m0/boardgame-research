@@ -11629,6 +11629,232 @@ the top-performing agents in previous competitions and outperformed most of them
         <dcterms:dateSubmitted>2023-05-06 06:11:46</dcterms:dateSubmitted>
         <z:linkMode>3</z:linkMode>
     </z:Attachment>
+    <rdf:Description rdf:about="http://arxiv.org/abs/2305.12731">
+        <z:itemType>preprint</z:itemType>
+        <dc:publisher>
+           <foaf:Organization><foaf:name>arXiv</foaf:name></foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zhang</foaf:surname>
+                        <foaf:givenName>Zhujun</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_662"/>
+        <link:link rdf:resource="#item_663"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Computer Science - Computational Complexity</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Perfect Information Hearthstone is PSPACE-hard</dc:title>
+        <dcterms:abstract>We consider the computational complexity of Hearthstone which is a popular online CCG (collectible card game). We reduce a PSPACE-complete problem, the partition game, to perfect information Hearthstone in which there is no hidden information or random elements. In the reduction, each turn in Hearthstone is used to simulate one choice in the partition game. It is proved that determining whether the player has a forced win in perfect information Hearthstone is PSPACE-hard.</dcterms:abstract>
+        <dc:date>2023-05-22</dc:date>
+        <z:libraryCatalog>arXiv.org</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://arxiv.org/abs/2305.12731</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-05-31 06:12:11</dcterms:dateSubmitted>
+        <dc:description>arXiv:2305.12731 [cs]</dc:description>
+        <prism:number>arXiv:2305.12731</prism:number>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_662">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>arXiv Fulltext PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/pdf/2305.12731.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-05-31 06:12:22</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_663">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>arXiv.org Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/abs/2305.12731</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-05-31 06:12:28</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="http://arxiv.org/abs/2305.11814">
+        <z:itemType>preprint</z:itemType>
+        <dc:publisher>
+           <foaf:Organization><foaf:name>arXiv</foaf:name></foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kowalski</foaf:surname>
+                        <foaf:givenName>Jakub</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Miernik</foaf:surname>
+                        <foaf:givenName>Radosław</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_665"/>
+        <link:link rdf:resource="#item_666"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Computer Science - Artificial Intelligence</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Summarizing Strategy Card Game AI Competition</dc:title>
+        <dcterms:abstract>This paper concludes five years of AI competitions based on Legends of Code and Magic (LOCM), a small Collectible Card Game (CCG), designed with the goal of supporting research and algorithm development. The game was used in a number of events, including Community Contests on the CodinGame platform, and Strategy Card Game AI Competition at the IEEE Congress on Evolutionary Computation and IEEE Conference on Games. LOCM has been used in a number of publications related to areas such as game tree search algorithms, neural networks, evaluation functions, and CCG deckbuilding. We present the rules of the game, the history of organized competitions, and a listing of the participant and their approaches, as well as some general advice on organizing AI competitions for the research community. Although the COG 2022 edition was announced to be the last one, the game remains available and can be played using an online leaderboard arena.</dcterms:abstract>
+        <dc:date>2023-05-19</dc:date>
+        <z:libraryCatalog>arXiv.org</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://arxiv.org/abs/2305.11814</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-05-31 06:13:47</dcterms:dateSubmitted>
+        <dc:description>arXiv:2305.11814 [cs]</dc:description>
+        <prism:number>arXiv:2305.11814</prism:number>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_665">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>arXiv Fulltext PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/pdf/2305.11814.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-05-31 06:13:56</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_666">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>arXiv.org Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/abs/2305.11814</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-05-31 06:14:02</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="urn:isbn:978-1-4503-9421-5">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:identifier>ISBN 978-1-4503-9421-5</dc:identifier>
+                <dc:title>Proceedings of the 2023 CHI Conference on Human Factors in Computing Systems</dc:title>
+                <dc:identifier>DOI 10.1145/3544548.3581550</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Hamburg Germany</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>ACM</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sidji</foaf:surname>
+                        <foaf:givenName>Matthew</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Smith</foaf:surname>
+                        <foaf:givenName>Wally</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rogerson</foaf:surname>
+                        <foaf:givenName>Melissa J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>The Hidden Rules of Hanabi: How Humans Outperform AI Agents</dc:title>
+        <dc:date>2023-04-19</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>The Hidden Rules of Hanabi</z:shortTitle>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://dl.acm.org/doi/10.1145/3544548.3581550</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-05-31 06:19:29</dcterms:dateSubmitted>
+        <bib:pages>1-16</bib:pages>
+        <bib:presentedAt>
+            <bib:Conference>
+                <dc:title>CHI '23: CHI Conference on Human Factors in Computing Systems</dc:title>
+            </bib:Conference>
+        </bib:presentedAt>
+    </rdf:Description>
+    <bib:Article rdf:about="https://linkinghub.elsevier.com/retrieve/pii/S1875952123000496">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:18759521"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Vieira</foaf:surname>
+                        <foaf:givenName>Ronaldo E Silva</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rocha Tavares</foaf:surname>
+                        <foaf:givenName>Anderson</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chaimowicz</foaf:surname>
+                        <foaf:givenName>Luiz</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Towards sample efficient deep reinforcement learning in collectible card games</dc:title>
+        <dc:date>7/2023</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://linkinghub.elsevier.com/retrieve/pii/S1875952123000496</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-07-27 12:13:09</dcterms:dateSubmitted>
+        <bib:pages>100594</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:18759521">
+        <dc:title>Entertainment Computing</dc:title>
+        <dc:identifier>DOI 10.1016/j.entcom.2023.100594</dc:identifier>
+        <dcterms:alternative>Entertainment Computing</dcterms:alternative>
+        <dc:identifier>ISSN 18759521</dc:identifier>
+    </bib:Journal>
     <z:Collection rdf:about="#collection_6">
         <dc:title>2048</dc:title>
         <dcterms:hasPart rdf:resource="https://doi.org/10.1007%2F978-3-319-50935-8_8"/>
@@ -11760,6 +11986,7 @@ the top-performing agents in previous competitions and outperformed most of them
         <dcterms:hasPart rdf:resource="https://fanpu.io/blog/2022/symmetry-and-conventions-in-obl-hanabi/"/>
         <dcterms:hasPart rdf:resource="http://reports-archive.adm.cs.cmu.edu/anon/anon/usr0/ftp/usr/ftp/2022/abstracts/22-119.html"/>
         <dcterms:hasPart rdf:resource="http://arxiv.org/abs/2303.06775"/>
+        <dcterms:hasPart rdf:resource="urn:isbn:978-1-4503-9421-5"/>
     </z:Collection>
     <z:Collection rdf:about="#collection_55">
         <dc:title>Hearthstone</dc:title>
@@ -11775,6 +12002,9 @@ the top-performing agents in previous competitions and outperformed most of them
         <dcterms:hasPart rdf:resource="https://linkinghub.elsevier.com/retrieve/pii/S0950705119304356"/>
         <dcterms:hasPart rdf:resource="https://dl.acm.org/doi/10.1145/3235765.3235791"/>
         <dcterms:hasPart rdf:resource="https://webthesis.biblio.polito.it/26844/"/>
+        <dcterms:hasPart rdf:resource="http://arxiv.org/abs/2305.12731"/>
+        <dcterms:hasPart rdf:resource="http://arxiv.org/abs/2305.11814"/>
+        <dcterms:hasPart rdf:resource="https://linkinghub.elsevier.com/retrieve/pii/S1875952123000496"/>
     </z:Collection>
     <z:Collection rdf:about="#collection_26">
         <dc:title>Hive</dc:title>
