@@ -26,6 +26,7 @@ If you aren't able to access any paper on this list, please [try using Sci-Hub](
 - [Azul](#azul)
 - [Blokus](#blokus)
 - [Carcassonne](#carcassonne)
+- [Crew, The](#crew-the)
 - [Diplomacy](#diplomacy)
 - [Dixit](#dixit)
 - [Dominion](#dominion)
@@ -120,6 +121,10 @@ If you aren't able to access any paper on this list, please [try using Sci-Hub](
 - [On the Evolution of the MCTS Upper Confidence Bounds for Trees by Means of Evolutionary Algorithms in the Game of Carcassonne](http://arxiv.org/abs/2112.09697) (journalArticle)
 - [Evolving the MCTS Upper Confidence Bounds for Trees Using a Semantic-inspired Evolutionary Algorithm in the Game of Carcassonne](http://arxiv.org/abs/2208.13589) (preprint)
 
+# Crew, The
+- [The Crew: The Quest for Planet Nine is NP-Complete](http://arxiv.org/abs/2110.11758) (preprint)
+- [Generating Solutions to The Crew: The Quest for Planet Nine](https://theboardgamescholar.com/2021/01/17/generating-solutions-to-the-crew-the-quest-for-planet-nine-part-1/) (blogPost)
+
 # Diplomacy
 - [Learning to Play No-Press Diplomacy with Best Response Policy Iteration](http://arxiv.org/abs/2006.04635v2) (journalArticle)
 - [No Press Diplomacy: Modeling Multi-Agent Gameplay](http://arxiv.org/abs/1909.02128v2) (journalArticle)
@@ -140,6 +145,7 @@ If you aren't able to access any paper on this list, please [try using Sci-Hub](
 - [Dominion Strategy Forum](http://forum.dominionstrategy.com/index.php) (forumPost)
 - [Clustering Player Strategies from Variable-Length Game Logs in Dominion](http://arxiv.org/abs/1811.11273) (journalArticle)
 - [Game Balancing in Dominion: An Approach to Identifying Problematic Game Elements](http://cs.gettysburg.edu/~tneller/games/aiagd/papers/EAAI-00039-FordC.pdf) (journalArticle)
+- [Playing Various Strategies in Dominion with Deep Reinforcement Learning](https://ojs.aaai.org/index.php/AIIDE/article/view/27518) (journalArticle)
 
 # Frameworks
 - [RLCard: A Toolkit for Reinforcement Learning in Card Games](http://arxiv.org/abs/1910.04376) (journalArticle)
@@ -193,6 +199,7 @@ If you aren't able to access any paper on this list, please [try using Sci-Hub](
 - [Using intuitive behavior models to adapt to and work with human teammates in Hanabi](http://reports-archive.adm.cs.cmu.edu/anon/anon/usr0/ftp/usr/ftp/2022/abstracts/22-119.html) (thesis)
 - [Behavioral Differences is the Key of Ad-hoc Team Cooperation in Multiplayer Games Hanabi](http://arxiv.org/abs/2303.06775) (preprint)
 - [The Hidden Rules of Hanabi: How Humans Outperform AI Agents](https://dl.acm.org/doi/10.1145/3544548.3581550) (conferencePaper)
+- [Towards Few-shot Coordination: Revisiting Ad-hoc Teamplay Challenge In the Game of Hanabi](http://arxiv.org/abs/2308.10284) (preprint)
 
 # Hearthstone
 - [Mapping Hearthstone Deck Spaces through MAP-Elites with Sliding Boundaries](http://arxiv.org/abs/1904.10656) (journalArticle)
@@ -210,6 +217,9 @@ If you aren't able to access any paper on this list, please [try using Sci-Hub](
 - [Perfect Information Hearthstone is PSPACE-hard](http://arxiv.org/abs/2305.12731) (preprint)
 - [Summarizing Strategy Card Game AI Competition](http://arxiv.org/abs/2305.11814) (preprint)
 - [Towards sample efficient deep reinforcement learning in collectible card games](https://linkinghub.elsevier.com/retrieve/pii/S1875952123000496) (journalArticle)
+- [General-Purpose Planning Algorithms in the Card Game Duelyst II]() (conferencePaper)
+- [Cards with Class: Formalizing a Simplified Collectible Card Game](https://pdxscholar.library.pdx.edu/honorstheses/1500) (thesis)
+- [Means-end analysis decision making model in Santorini Board Game](http://repository.uph.edu/64385/) (thesis)
 
 # Hive
 - [On the complexity of Hive](https://dspace.library.uu.nl/handle/1874/396955) (thesis)
@@ -380,6 +390,8 @@ If you aren't able to access any paper on this list, please [try using Sci-Hub](
 - [The Difficulty of Learning Ticket to Ride](https://www.eecs.tufts.edu/~jsinapov/teaching/comp150_RL/reports/Nguyen_Dinjian_report.pdf) (report)
 - [Evolving maps and decks for ticket to ride](https://dl.acm.org/doi/10.1145/3235765.3235813) (conferencePaper)
 - [Applications of Graph Theory and Probability in the Board Game Ticket to Ride](https://www.rtealwitter.com/slides/2020-JMM.pdf) (presentation)
+- [Ticket to Ride and Dijkstra’s algorithm](https://theboardgamescholar.com/2020/12/31/ticket-to-ride-and-dijkstras-algorithm/) (blogPost)
+- [Ticket to Ride and the Traveling Salesperson Problem.](https://theboardgamescholar.com/2021/02/27/ticket-to-ride-the-traveling-salesperson-problem/) (blogPost)
 
 # Ultimate Tic-Tac-Toe
 - [At Most 43 Moves, At Least 29: Optimal Strategies and Bounds for Ultimate Tic-Tac-Toe](http://arxiv.org/abs/2006.02353) (journalArticle)

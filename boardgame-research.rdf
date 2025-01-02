@@ -6463,11 +6463,11 @@ DOI: 10.1007/978-3-030-04179-3_20</dc:description>
             </dcterms:URI>
         </dc:identifier>
     </bib:Report>
-    <rdf:Description rdf:about="urn:isbn:978-1-72811-895-6">
+    <rdf:Description rdf:about="urn:isbn:978-1-7281-1895-6">
         <z:itemType>conferencePaper</z:itemType>
         <dcterms:isPartOf>
             <bib:Journal>
-                <dc:identifier>ISBN 978-1-72811-895-6</dc:identifier>
+                <dc:identifier>ISBN 978-1-7281-1895-6</dc:identifier>
                 <dc:title>TENCON 2019 - 2019 IEEE Region 10 Conference (TENCON)</dc:title>
                 <dc:identifier>DOI 10.1109/TENCON.2019.8929523</dc:identifier>
             </bib:Journal>
@@ -11855,6 +11855,418 @@ the top-performing agents in previous competitions and outperformed most of them
         <dcterms:alternative>Entertainment Computing</dcterms:alternative>
         <dc:identifier>ISSN 18759521</dc:identifier>
     </bib:Journal>
+    <rdf:Description rdf:about="http://arxiv.org/abs/2308.10284">
+        <z:itemType>preprint</z:itemType>
+        <dc:publisher>
+           <foaf:Organization><foaf:name>arXiv</foaf:name></foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Nekoei</foaf:surname>
+                        <foaf:givenName>Hadi</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zhao</foaf:surname>
+                        <foaf:givenName>Xutong</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rajendran</foaf:surname>
+                        <foaf:givenName>Janarthanan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Liu</foaf:surname>
+                        <foaf:givenName>Miao</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Chandar</foaf:surname>
+                        <foaf:givenName>Sarath</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Computer Science - Artificial Intelligence</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Computer Science - Machine Learning</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Computer Science - Multiagent Systems</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Towards Few-shot Coordination: Revisiting Ad-hoc Teamplay Challenge In the Game of Hanabi</dc:title>
+        <dcterms:abstract>Cooperative Multi-agent Reinforcement Learning (MARL) algorithms with Zero-Shot Coordination (ZSC) have gained significant attention in recent years. ZSC refers to the ability of agents to coordinate zero-shot (without additional interaction experience) with independently trained agents. While ZSC is crucial for cooperative MARL agents, it might not be possible for complex tasks and changing environments. Agents also need to adapt and improve their performance with minimal interaction with other agents. In this work, we show empirically that state-of-the-art ZSC algorithms have poor performance when paired with agents trained with different learning methods, and they require millions of interaction samples to adapt to these new partners. To investigate this issue, we formally defined a framework based on a popular cooperative multi-agent game called Hanabi to evaluate the adaptability of MARL methods. In particular, we created a diverse set of pre-trained agents and defined a new metric called adaptation regret that measures the agent's ability to efficiently adapt and improve its coordination performance when paired with some held-out pool of partners on top of its ZSC performance. After evaluating several SOTA algorithms using our framework, our experiments reveal that naive Independent Q-Learning (IQL) agents in most cases adapt as quickly as the SOTA ZSC algorithm Off-Belief Learning (OBL). This finding raises an interesting research question: How to design MARL algorithms with high ZSC performance and capability of fast adaptation to unseen partners. As a first step, we studied the role of different hyper-parameters and design choices on the adaptability of current MARL algorithms. Our experiments show that two categories of hyper-parameters controlling the training data diversity and optimization process have a significant impact on the adaptability of Hanabi agents.</dcterms:abstract>
+        <dc:date>2023-08-20</dc:date>
+        <z:shortTitle>Towards Few-shot Coordination</z:shortTitle>
+        <z:libraryCatalog>arXiv.org</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://arxiv.org/abs/2308.10284</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-11-03 18:50:29</dcterms:dateSubmitted>
+        <dc:description>arXiv:2308.10284 [cs]</dc:description>
+        <prism:number>arXiv:2308.10284</prism:number>
+    </rdf:Description>
+    <rdf:Description rdf:about="#item_670">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <dc:title>Proceedings of the IEEE Conference on Games (CoG-23)</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Bryan McKenney</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Wheeler Ruml</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_671"/>
+        <dc:title>General-Purpose Planning Algorithms in the Card Game Duelyst II</dc:title>
+        <dcterms:abstract>Duelyst II is an online collectible card game (CCG)
+that features a 9x5 grid board, making it a cross between the
+popular CCG Hearthstone and chess. It is a partially-observable
+stochastic game (POSG) with a large branching factor and the
+ability to take several actions in a time-limited turn, making it a
+challenging domain for AI. The existing “starter AI” in the game
+is an expert-rule-based player that is limited to using certain
+decks and is weak against humans. We develop simple general-
+purpose planning algorithms that are able to consistently beat the
+starter AI using little domain knowledge and no learning. The
+most complex of these is a variant of Monte Carlo tree search
+(MCTS), for which we show that a novel action factoring method
+is helpful under certain conditions.</dcterms:abstract>
+        <dc:date>2023</dc:date>
+        <bib:presentedAt>
+            <bib:Conference>
+               <dc:title>IEEE Conference on Games</dc:title>
+            </bib:Conference>
+        </bib:presentedAt>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_671">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>duelyst-cog-23.pdf</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.cs.unh.edu/~ruml/papers/duelyst-cog-23.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-11-04 10:53:11</dcterms:dateSubmitted>
+        <z:linkMode>3</z:linkMode>
+    </z:Attachment>
+    <bib:Article rdf:about="https://ojs.aaai.org/index.php/AIIDE/article/view/27518">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>19</prism:volume>
+                <dc:title>Proceedings of the AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment</dc:title>
+                <dc:identifier>DOI 10.1609/aiide.v19i1.27518</dc:identifier>
+                <prism:number>1</prism:number>
+                <dcterms:alternative>AIIDE</dcterms:alternative>
+                <dc:identifier>ISSN 2334-0924, 2326-909X</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gerigk</foaf:surname>
+                        <foaf:givenName>Jasper</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Engels</foaf:surname>
+                        <foaf:givenName>Steve</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_673"/>
+        <dc:title>Playing Various Strategies in Dominion with Deep Reinforcement Learning</dc:title>
+        <dcterms:abstract>Deck-building games, like Dominion, present an unsolved challenge for game AI research. The complexity arising from card interactions and the relative strength of strategies depending on the game configuration result in computer agents being limited to simple strategies. This paper describes the first application of recent advances in Geometric Deep Learning to deck-building games. We utilize a comprehensive multiset-based game representation and train the policy using a Soft Actor-Critic algorithm adapted to support variable-size sets of actions. The proposed model is the first successful learning-based agent that makes all decisions without relying on heuristics and supports a broader set of game configurations. It exceeds the performance of all previous learning-based approaches and is only outperformed by search-based approaches in certain game configurations. In addition, the paper presents modifications that induce agents to exhibit novel human-like play strategies. Finally, we show that learning strong strategies based on card combinations requires a reinforcement learning algorithm capable of discovering and executing a precise strategy while ignoring simpler suboptimal policies with higher immediate rewards.</dcterms:abstract>
+        <dc:date>2023-10-06</dc:date>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://ojs.aaai.org/index.php/AIIDE/article/view/27518</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-11-04 10:54:15</dcterms:dateSubmitted>
+        <bib:pages>224-232</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_673">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://ojs.aaai.org/index.php/AIIDE/article/download/27518/27291</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2023-11-04 10:54:20</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Thesis rdf:about="https://pdxscholar.library.pdx.edu/honorstheses/1500">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>Portland State University</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ha</foaf:surname>
+                        <foaf:givenName>Dan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Cards with Class: Formalizing a Simplified Collectible Card Game</dc:title>
+        <dc:date>2024-06-14</dc:date>
+        <z:shortTitle>Cards with Class</z:shortTitle>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://pdxscholar.library.pdx.edu/honorstheses/1500</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-08-27 03:41:19</dcterms:dateSubmitted>
+        <dc:description>DOI: 10.15760/honors.1532</dc:description>
+        <z:type>Bachelor of Science  in Computer Science and University Honors</z:type>
+    </bib:Thesis>
+    <bib:Thesis rdf:about="http://repository.uph.edu/64385/">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>Universitas Pelita Harapan</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Kelvin Kelvin</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Means-end analysis decision making model in Santorini Board Game</dc:title>
+        <dcterms:abstract>This research targets the overlooked complexity of the god system in the
+board game Santorini, identifying a gap in how artificial intelligence (AI) adapts to
+variable player powers within strategic games. Existing AI applications in board
+games have not fully capitalized on the strategic depth introduced by such systems,
+limiting our understanding and the potential for AI to navigate and exploit these
+dynamics for improved gameplay strategies.
+The study utilizes Means-End Analysis and heuristic values to develop an
+AI model capable of navigating Santorini's god system. By constructing a detailed
+game state design and employing a game engine, the research facilitates the
+strategic application of AI in assessing and making decisions based on the game's
+variable player powers. This methodological framework supports the simulation of
+various gameplay scenarios, enabling the AI to identify and execute strategically
+advantageous moves by applying these specific analytical techniques.
+Results demonstrate that employing heuristic values significantly enhances
+the AI's ability to leverage the god system, particularly highlighting the strategic
+benefits of Apollo powers. The heuristic approach prioritizes the utilization of god
+powers effectively, showcasing the model's potential to adapt to and capitalize on
+the game's inherent complexities. This finding underscores the importance of
+refining heuristic values and suggests avenues for future research to extend AI
+applications in board games, focusing on dynamic and strategic decision-making.</dcterms:abstract>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://repository.uph.edu/64385/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2024-08-27</dcterms:dateSubmitted>
+        <z:type>Masters thesis</z:type>
+    </bib:Thesis>
+    <rdf:Description rdf:about="http://arxiv.org/abs/2110.11758">
+        <z:itemType>preprint</z:itemType>
+        <dc:publisher>
+           <foaf:Organization><foaf:name>arXiv</foaf:name></foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Reiber</foaf:surname>
+                        <foaf:givenName>Frederick</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_678"/>
+        <link:link rdf:resource="#item_679"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Computer Science - Discrete Mathematics</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>The Crew: The Quest for Planet Nine is NP-Complete</dc:title>
+        <dcterms:abstract>In this paper, we study the cooperative card game, The Crew: The Quest for Planet Nine from the viewpoint of algorithmic combinatorial game theory. The Crew: The Quest for Planet Nine, is a game based on traditional trick-taking card games, like bridge or hearts. In The Crew, players are dealt a hand of cards, with cards being from one of $c$ colors and having a value between 1 to $n$. Players also draft objectives, which correspond to a card in the current game that they must collect in order to win. Players then take turns each playing one card in a trick, with the player who played the highest value card taking the trick and all cards played in it. If all players complete all of their objectives, the players win. The game also forces players to not talk about the cards in their hand and has a number of &quot;Task Tokens&quot; which can modify the rules slightly. In this work, we introduce and formally define a perfect-information model of this problem, and show that the general unbounded version is computationally intractable. However, we also show that three bounded versions of this decision problem - deciding whether or not all players can complete their objectives - can be solved in polynomial time.</dcterms:abstract>
+        <dc:date>2021-10-26</dc:date>
+        <z:shortTitle>The Crew</z:shortTitle>
+        <z:libraryCatalog>arXiv.org</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://arxiv.org/abs/2110.11758</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-01-02 09:25:55</dcterms:dateSubmitted>
+        <dc:description>arXiv:2110.11758 [cs]</dc:description>
+        <dc:identifier>DOI 10.48550/arXiv.2110.11758</dc:identifier>
+        <prism:number>arXiv:2110.11758</prism:number>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_678">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Preprint PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://arxiv.org/pdf/2110.11758v3</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-01-02 09:25:57</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_679">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://arxiv.org/abs/2110.11758</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-01-02 09:26:01</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://theboardgamescholar.com/2021/01/17/generating-solutions-to-the-crew-the-quest-for-planet-nine-part-1/">
+        <z:itemType>blogPost</z:itemType>
+        <dcterms:isPartOf>
+           <z:Blog><dc:title>The Board Game Scholar</dc:title></z:Blog>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Freddy_Reiber</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_683"/>
+        <link:link rdf:resource="#item_681"/>
+        <link:link rdf:resource="#item_682"/>
+        <dc:title>Generating Solutions to The Crew: The Quest for Planet Nine</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://theboardgamescholar.com/2021/01/17/generating-solutions-to-the-crew-the-quest-for-planet-nine-part-1/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_683">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Final Part</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://theboardgamescholar.com/2021/02/17/generating-solutions-to-the-crew-the-quest-for-planet-nine-version-1/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-01-02 09:29:09</dcterms:dateSubmitted>
+        <z:linkMode>3</z:linkMode>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_681">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Part 1</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://theboardgamescholar.com/2021/01/17/generating-solutions-to-the-crew-the-quest-for-planet-nine-part-1/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-01-02 09:27:59</dcterms:dateSubmitted>
+        <z:linkMode>3</z:linkMode>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_682">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Part 2</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://theboardgamescholar.com/2021/01/31/generating-solutions-to-the-crew-the-quest-for-planet-nine-part-2/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-01-02 09:28:34</dcterms:dateSubmitted>
+        <z:linkMode>3</z:linkMode>
+    </z:Attachment>
+    <bib:Document rdf:about="https://theboardgamescholar.com/2020/12/31/ticket-to-ride-and-dijkstras-algorithm/">
+        <z:itemType>blogPost</z:itemType>
+        <dcterms:isPartOf>
+           <z:Blog><dc:title>The Board Game Scholar</dc:title></z:Blog>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Freddy_Reiber</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Ticket to Ride and Dijkstra’s algorithm</dc:title>
+        <dcterms:abstract>In this post we look at how Dijkstra’s algorithm can be used to find the shortest path between two cities in Ticket to Ride. This can be used to find the optimal route for Destination Tickets, an important aspect of gameplay in Ticket to Ride.</dcterms:abstract>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://theboardgamescholar.com/2020/12/31/ticket-to-ride-and-dijkstras-algorithm/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Document>
+    <bib:Document rdf:about="https://theboardgamescholar.com/2021/02/27/ticket-to-ride-the-traveling-salesperson-problem/">
+        <z:itemType>blogPost</z:itemType>
+        <dcterms:isPartOf>
+           <z:Blog><dc:title>The Board Game Scholar</dc:title></z:Blog>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Freddy Reiber</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Ticket to Ride and the Traveling Salesperson Problem.</dc:title>
+        <dcterms:abstract>In this post, we look at how to find the shortest path through a subset of nodes. We reduce the problem to the Traveling Salesperson Problem, and show how our solution is optimal. There is also a discussion on what NP-hard problems are, and why finding a solution to our problem is hard.</dcterms:abstract>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://theboardgamescholar.com/2021/02/27/ticket-to-ride-the-traveling-salesperson-problem/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+    </bib:Document>
     <z:Collection rdf:about="#collection_6">
         <dc:title>2048</dc:title>
         <dcterms:hasPart rdf:resource="https://doi.org/10.1007%2F978-3-319-50935-8_8"/>
@@ -11907,6 +12319,11 @@ the top-performing agents in previous competitions and outperformed most of them
         <dcterms:hasPart rdf:resource="http://arxiv.org/abs/2112.09697"/>
         <dcterms:hasPart rdf:resource="http://arxiv.org/abs/2208.13589"/>
     </z:Collection>
+    <z:Collection rdf:about="#collection_58">
+        <dc:title>Crew, The</dc:title>
+        <dcterms:hasPart rdf:resource="http://arxiv.org/abs/2110.11758"/>
+        <dcterms:hasPart rdf:resource="https://theboardgamescholar.com/2021/01/17/generating-solutions-to-the-crew-the-quest-for-planet-nine-part-1/"/>
+    </z:Collection>
     <z:Collection rdf:about="#collection_8">
         <dc:title>Diplomacy</dc:title>
         <dcterms:hasPart rdf:resource="http://arxiv.org/abs/2006.04635v2"/>
@@ -11930,6 +12347,7 @@ the top-performing agents in previous competitions and outperformed most of them
         <dcterms:hasPart rdf:resource="http://forum.dominionstrategy.com/index.php"/>
         <dcterms:hasPart rdf:resource="http://arxiv.org/abs/1811.11273"/>
         <dcterms:hasPart rdf:resource="http://cs.gettysburg.edu/~tneller/games/aiagd/papers/EAAI-00039-FordC.pdf"/>
+        <dcterms:hasPart rdf:resource="https://ojs.aaai.org/index.php/AIIDE/article/view/27518"/>
     </z:Collection>
     <z:Collection rdf:about="#collection_51">
         <dc:title>Frameworks</dc:title>
@@ -11987,6 +12405,7 @@ the top-performing agents in previous competitions and outperformed most of them
         <dcterms:hasPart rdf:resource="http://reports-archive.adm.cs.cmu.edu/anon/anon/usr0/ftp/usr/ftp/2022/abstracts/22-119.html"/>
         <dcterms:hasPart rdf:resource="http://arxiv.org/abs/2303.06775"/>
         <dcterms:hasPart rdf:resource="urn:isbn:978-1-4503-9421-5"/>
+        <dcterms:hasPart rdf:resource="http://arxiv.org/abs/2308.10284"/>
     </z:Collection>
     <z:Collection rdf:about="#collection_55">
         <dc:title>Hearthstone</dc:title>
@@ -12005,6 +12424,9 @@ the top-performing agents in previous competitions and outperformed most of them
         <dcterms:hasPart rdf:resource="http://arxiv.org/abs/2305.12731"/>
         <dcterms:hasPart rdf:resource="http://arxiv.org/abs/2305.11814"/>
         <dcterms:hasPart rdf:resource="https://linkinghub.elsevier.com/retrieve/pii/S1875952123000496"/>
+        <dcterms:hasPart rdf:resource="#item_670"/>
+        <dcterms:hasPart rdf:resource="https://pdxscholar.library.pdx.edu/honorstheses/1500"/>
+        <dcterms:hasPart rdf:resource="http://repository.uph.edu/64385/"/>
     </z:Collection>
     <z:Collection rdf:about="#collection_26">
         <dc:title>Hive</dc:title>
@@ -12070,7 +12492,7 @@ the top-performing agents in previous competitions and outperformed most of them
         <dcterms:hasPart rdf:resource="urn:isbn:978-1-4673-1194-6%20978-1-4673-1193-9%20978-1-4673-1192-2"/>
         <dcterms:hasPart rdf:resource="urn:isbn:978-1-4244-5770-0%20978-1-4244-5771-7"/>
         <dcterms:hasPart rdf:resource="https://project-archive.inf.ed.ac.uk/ug4/20181042/ug4_proj.pdf"/>
-        <dcterms:hasPart rdf:resource="urn:isbn:978-1-72811-895-6"/>
+        <dcterms:hasPart rdf:resource="urn:isbn:978-1-7281-1895-6"/>
         <dcterms:hasPart rdf:resource="https://pi4.math.illinois.edu/wp-content/uploads/2014/10/Gartland-Burson-Ferguson-Markovopoly.pdf"/>
         <dcterms:hasPart rdf:resource="https://intelligence.csd.auth.gr/publication/conference-papers/learning-to-play-monopoly-a-reinforcement-learning-approach/"/>
         <dcterms:hasPart rdf:resource="https://core.ac.uk/download/pdf/48614184.pdf"/>
@@ -12205,6 +12627,8 @@ the top-performing agents in previous competitions and outperformed most of them
         <dcterms:hasPart rdf:resource="https://www.eecs.tufts.edu/~jsinapov/teaching/comp150_RL/reports/Nguyen_Dinjian_report.pdf"/>
         <dcterms:hasPart rdf:resource="urn:isbn:978-1-4503-6571-0"/>
         <dcterms:hasPart rdf:resource="https://www.rtealwitter.com/slides/2020-JMM.pdf"/>
+        <dcterms:hasPart rdf:resource="https://theboardgamescholar.com/2020/12/31/ticket-to-ride-and-dijkstras-algorithm/"/>
+        <dcterms:hasPart rdf:resource="https://theboardgamescholar.com/2021/02/27/ticket-to-ride-the-traveling-salesperson-problem/"/>
     </z:Collection>
     <z:Collection rdf:about="#collection_35">
         <dc:title>Ultimate Tic-Tac-Toe</dc:title>
