@@ -16,10 +16,8 @@ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/"
 	standalone="yes"
 	indent="no"
 />
-
 <xsl:template match = "/">
 	<!-- <xsl:text>**Table of Contents**</xsl:text> -->
-
 	<xsl:for-each select="rdf:RDF/z:Collection">
 		<xsl:text>&#10;&#10;# </xsl:text><xsl:value-of select = "dc:title"/>
 		<!-- Newline -->
@@ -30,12 +28,60 @@ xmlns:prism="http://prismstandard.org/namespaces/1.2/basic/"
 			<xsl:value-of select="../../*[@rdf:about=current()/@rdf:resource]//dcterms:URI/rdf:value" />
 			<xsl:text>) (</xsl:text>
 			<xsl:value-of select="../../*[@rdf:about=current()/@rdf:resource]/z:itemType" />
+			<xsl:text> </xsl:text>
+			
+			<!-- Extract year from date using different patterns -->
+			<xsl:variable name="fullDate" select="../../*[@rdf:about=current()/@rdf:resource]/dc:date" />
+			
+			<!-- Try to extract year using different patterns -->
+			<xsl:choose>
+			    <!-- Match YYYY-MM-DD pattern -->
+			    <xsl:when test="string-length($fullDate) >= 4 and string(number(substring($fullDate, 1, 4))) != 'NaN'">
+			        <xsl:value-of select="substring($fullDate, 1, 4)"/>
+			    </xsl:when>
+			    
+			    <!-- Match DD.MM.YYYY pattern -->
+			    <xsl:when test="string-length($fullDate) >= 10 and contains($fullDate, '.') and string(number(substring($fullDate, string-length($fullDate)-3, 4))) != 'NaN'">
+			        <xsl:value-of select="substring($fullDate, string-length($fullDate)-3, 4)"/>
+			    </xsl:when>
+			    
+			    <!-- Match DD/MM/YYYY pattern -->
+			    <xsl:when test="string-length($fullDate) >= 10 and contains($fullDate, '/') and string(number(substring($fullDate, string-length($fullDate)-3, 4))) != 'NaN'">
+			        <xsl:value-of select="substring($fullDate, string-length($fullDate)-3, 4)"/>
+			    </xsl:when>
+			    
+			    <!-- Match MM/YYYY pattern -->
+			    <xsl:when test="string-length($fullDate) >= 7 and contains($fullDate, '/') and string(number(substring-after($fullDate, '/'))) != 'NaN'">
+			        <xsl:value-of select="substring-after($fullDate, '/')"/>
+			    </xsl:when>
+			    
+			    <!-- Match "Month YYYY" or "Month DD, YYYY" pattern -->
+			    <xsl:when test="contains($fullDate, ',')">
+			        <xsl:value-of select="normalize-space(substring-after($fullDate, ','))"/>
+			    </xsl:when>
+			    
+			    <!-- Match "Month YYYY" without comma -->
+			    <xsl:when test="string-length($fullDate) >= 4">
+			        <!-- Look for the last 4 digits that could be a year -->
+			        <xsl:variable name="lastFour" select="substring($fullDate, string-length($fullDate)-3, 4)"/>
+			        <xsl:choose>
+			            <xsl:when test="string(number($lastFour)) != 'NaN'">
+			                <xsl:value-of select="$lastFour"/>
+			            </xsl:when>
+			            <xsl:otherwise>
+			                <xsl:value-of select="$fullDate"/>
+			            </xsl:otherwise>
+			        </xsl:choose>
+			    </xsl:when>
+			    
+			    <!-- Fallback to original date if no pattern matches -->
+			    <xsl:otherwise>
+			        <xsl:value-of select="$fullDate"/>
+			    </xsl:otherwise>
+			</xsl:choose>
+			
 			<xsl:text>)</xsl:text>
-			<!-- <xsl:text>&#10;</xsl:text> -->
 		</xsl:for-each>
 	</xsl:for-each>
-
 </xsl:template>
 </xsl:stylesheet>
-
-

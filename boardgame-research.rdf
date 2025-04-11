@@ -13033,7 +13033,7 @@ to running time of A* compared to SAT gets smaller with increasing hardness of t
 IDA* performs best with respect to memory consumption, but at the expense of running time and is
 generally slower than the two former approaches. The integer programming approach performs worst
 on all metrics.</dcterms:abstract>
-        <dc:date>10.07.2023</dc:date>
+        <dc:date>2023-07-10</dc:date>
         <z:language>en</z:language>
         <z:shortTitle>Exact Approaches for Flood-i</z:shortTitle>
         <dc:identifier>
