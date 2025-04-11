@@ -12267,6 +12267,1606 @@ applications in board games, focusing on dynamic and strategic decision-making.<
             </dcterms:URI>
         </dc:identifier>
     </bib:Document>
+    <bib:Article rdf:about="https://linkinghub.elsevier.com/retrieve/pii/S1571065315001626">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:15710653"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Souza</foaf:surname>
+                        <foaf:givenName>Uéverton Dos Santos</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rosamond</foaf:surname>
+                        <foaf:givenName>Frances</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fellows</foaf:surname>
+                        <foaf:givenName>Michael R.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Protti</foaf:surname>
+                        <foaf:givenName>Fábio</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dantas Da Silva</foaf:surname>
+                        <foaf:givenName>Maise</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_687"/>
+        <dc:title>The Flood-It game parameterized by the vertex cover number</dc:title>
+        <dc:date>12/2015</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://linkinghub.elsevier.com/retrieve/pii/S1571065315001626</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-04-11 05:46:07</dcterms:dateSubmitted>
+        <bib:pages>35-40</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:15710653">
+        <prism:volume>50</prism:volume>
+        <dc:title>Electronic Notes in Discrete Mathematics</dc:title>
+        <dc:identifier>DOI 10.1016/j.endm.2015.07.007</dc:identifier>
+        <dcterms:alternative>Electronic Notes in Discrete Mathematics</dcterms:alternative>
+        <dc:identifier>ISSN 15710653</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_687">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://dacemirror.sci-hub.se/journal-article/c7a3f6ee32d5cfebd46dff2e69cab7b8/souza2015.pdf#navpanes=0&amp;view=FitH</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-04-11 05:46:11</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://linkinghub.elsevier.com/retrieve/pii/S0166218X11003337">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0166218X"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Meeks</foaf:surname>
+                        <foaf:givenName>Kitty</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Scott</foaf:surname>
+                        <foaf:givenName>Alexander</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_689"/>
+        <dc:title>The complexity of flood-filling games on graphs</dc:title>
+        <dc:date>05/2012</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://linkinghub.elsevier.com/retrieve/pii/S0166218X11003337</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-04-11 05:46:33</dcterms:dateSubmitted>
+        <dc:rights>https://www.elsevier.com/tdm/userlicense/1.0/</dc:rights>
+        <bib:pages>959-969</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0166218X">
+        <prism:volume>160</prism:volume>
+        <dc:title>Discrete Applied Mathematics</dc:title>
+        <dc:identifier>DOI 10.1016/j.dam.2011.09.001</dc:identifier>
+        <prism:number>7-8</prism:number>
+        <dcterms:alternative>Discrete Applied Mathematics</dcterms:alternative>
+        <dc:identifier>ISSN 0166218X</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_689">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Accepted Version</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://eprints.gla.ac.uk/97123/1/97123.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-04-11 05:46:37</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://linkinghub.elsevier.com/retrieve/pii/S0304397513004647">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>500</prism:volume>
+                <dc:title>Theoretical Computer Science</dc:title>
+                <dc:identifier>DOI 10.1016/j.tcs.2013.06.010</dc:identifier>
+                <dcterms:alternative>Theoretical Computer Science</dcterms:alternative>
+                <dc:identifier>ISSN 03043975</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Meeks</foaf:surname>
+                        <foaf:givenName>Kitty</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Scott</foaf:surname>
+                        <foaf:givenName>Alexander</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_691"/>
+        <dc:title>The complexity of Free-Flood-It on 2 × n boards</dc:title>
+        <dc:date>08/2013</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://linkinghub.elsevier.com/retrieve/pii/S0304397513004647</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-04-11 05:46:37</dcterms:dateSubmitted>
+        <bib:pages>25-43</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_691">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Accepted Version</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://eprints.gla.ac.uk/97126/1/97126.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-04-11 05:46:44</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:BookSection rdf:about="urn:isbn:978-3-319-98354-7%20978-3-319-98355-4">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <prism:volume>11011</prism:volume>
+                <dc:identifier>ISBN 978-3-319-98354-7 978-3-319-98355-4</dc:identifier>
+                <dc:title>Adventures Between Lower Bounds and Higher Altitudes</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Cham</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Springer International Publishing</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Böckenhauer</foaf:surname>
+                        <foaf:givenName>Hans-Joachim</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Komm</foaf:surname>
+                        <foaf:givenName>Dennis</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Unger</foaf:surname>
+                        <foaf:givenName>Walter</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fellows</foaf:surname>
+                        <foaf:givenName>Michael R.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Rosamond</foaf:surname>
+                        <foaf:givenName>Frances A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dantas Da Silva</foaf:surname>
+                        <foaf:givenName>Maise</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Souza</foaf:surname>
+                        <foaf:givenName>Uéverton S.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_693"/>
+        <dc:title>A Survey on the Complexity of Flood-Filling Games</dc:title>
+        <dc:date>2018</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://link.springer.com/10.1007/978-3-319-98355-4_20</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-04-11 05:46:47</dcterms:dateSubmitted>
+        <dc:description>Series Title: Lecture Notes in Computer Science
+DOI: 10.1007/978-3-319-98355-4_20</dc:description>
+        <bib:pages>357-376</bib:pages>
+    </bib:BookSection>
+    <z:Attachment rdf:about="#item_693">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://sci-hub.se/downloads/2019-04-11/b7/fellows2018.pdf#navpanes=0&amp;view=FitH</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-04-11 05:46:50</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="http://arxiv.org/abs/1511.01806">
+        <z:itemType>preprint</z:itemType>
+        <dc:publisher>
+           <foaf:Organization><foaf:name>arXiv</foaf:name></foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hon</foaf:surname>
+                        <foaf:givenName>Wing-Kai</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kloks</foaf:surname>
+                        <foaf:givenName>Ton</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Liu</foaf:surname>
+                        <foaf:givenName>Fu-Hong</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Liu</foaf:surname>
+                        <foaf:givenName>Hsiang-Hsuan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Wang</foaf:surname>
+                        <foaf:givenName>Hung-Lung</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_696"/>
+        <link:link rdf:resource="#item_698"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Computer Science - Discrete Mathematics</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Flood-it on AT-Free Graphs</dc:title>
+        <dcterms:abstract>Solitaire {\sc Flood-it}, or {\sc Honey-Bee}, is a game played on a colored graph. The player resides in a source vertex. Originally his territory is the maximal connected, monochromatic subgraph that contains the source. A move consists of calling a color. This conquers all the nodes of the graph that can be reached by a monochromatic path of that color from the current territory of the player. It is the aim of the player to add all vertices to his territory in a minimal number of moves. We show that the minimal number of moves can be computed in polynomial time when the game is played on AT-free graphs.</dcterms:abstract>
+        <dc:date>2015-11-05</dc:date>
+        <z:libraryCatalog>arXiv.org</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://arxiv.org/abs/1511.01806</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-04-11 05:47:06</dcterms:dateSubmitted>
+        <dc:description>arXiv:1511.01806 [cs]</dc:description>
+        <dc:identifier>DOI 10.48550/arXiv.1511.01806</dc:identifier>
+        <prism:number>arXiv:1511.01806</prism:number>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_696">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Preprint PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://arxiv.org/pdf/1511.01806v1</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-04-11 05:47:07</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_698">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://arxiv.org/abs/1511.01806</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-04-11 05:47:12</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:BookSection rdf:about="urn:isbn:978-3-642-45280-2%20978-3-642-45281-9">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <prism:volume>8296</prism:volume>
+                <dc:identifier>ISBN 978-3-642-45280-2 978-3-642-45281-9</dc:identifier>
+                <dc:title>Computational Geometry and Graphs</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Berlin, Heidelberg</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Springer Berlin Heidelberg</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <z:seriesEditors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hutchison</foaf:surname>
+                        <foaf:givenName>David</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kanade</foaf:surname>
+                        <foaf:givenName>Takeo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kittler</foaf:surname>
+                        <foaf:givenName>Josef</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kleinberg</foaf:surname>
+                        <foaf:givenName>Jon M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mattern</foaf:surname>
+                        <foaf:givenName>Friedemann</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mitchell</foaf:surname>
+                        <foaf:givenName>John C.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Naor</foaf:surname>
+                        <foaf:givenName>Moni</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Nierstrasz</foaf:surname>
+                        <foaf:givenName>Oscar</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pandu Rangan</foaf:surname>
+                        <foaf:givenName>C.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Steffen</foaf:surname>
+                        <foaf:givenName>Bernhard</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sudan</foaf:surname>
+                        <foaf:givenName>Madhu</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Terzopoulos</foaf:surname>
+                        <foaf:givenName>Demetri</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tygar</foaf:surname>
+                        <foaf:givenName>Doug</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Vardi</foaf:surname>
+                        <foaf:givenName>Moshe Y.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Weikum</foaf:surname>
+                        <foaf:givenName>Gerhard</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:seriesEditors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Akiyama</foaf:surname>
+                        <foaf:givenName>Jin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kano</foaf:surname>
+                        <foaf:givenName>Mikio</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sakai</foaf:surname>
+                        <foaf:givenName>Toshinori</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fukui</foaf:surname>
+                        <foaf:givenName>Hiroyuki</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Otachi</foaf:surname>
+                        <foaf:givenName>Yota</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Uehara</foaf:surname>
+                        <foaf:givenName>Ryuhei</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Uno</foaf:surname>
+                        <foaf:givenName>Takeaki</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Uno</foaf:surname>
+                        <foaf:givenName>Yushi</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_699"/>
+        <dc:title>On Complexity of Flooding Games on Graphs with Interval Representations</dc:title>
+        <dc:date>2013</dc:date>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://link.springer.com/10.1007/978-3-642-45281-9_7</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-04-11 05:47:10</dcterms:dateSubmitted>
+        <dc:description>Series Title: Lecture Notes in Computer Science
+DOI: 10.1007/978-3-642-45281-9_7</dc:description>
+        <bib:pages>73-84</bib:pages>
+    </bib:BookSection>
+    <z:Attachment rdf:about="#item_699">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://2024.sci-hub.se/3927/951bf7a6d83ebdaea545d49939bc41d6/fukui2013.pdf#navpanes=0&amp;view=FitH</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-04-11 05:47:13</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://link.springer.com/10.1007/s10479-018-2796-0">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:0254-5330,%201572-9338"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Da Silva</foaf:surname>
+                        <foaf:givenName>André Renato Villela</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Ochi</foaf:surname>
+                        <foaf:givenName>Luiz Satoru</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Barros</foaf:surname>
+                        <foaf:givenName>Bruno José Da Silva</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pinheiro</foaf:surname>
+                        <foaf:givenName>Rian Gabriel S.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_701"/>
+        <dc:title>Efficient approaches for the Flooding Problem on graphs</dc:title>
+        <dc:date>3/2020</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://link.springer.com/10.1007/s10479-018-2796-0</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-04-11 05:47:21</dcterms:dateSubmitted>
+        <bib:pages>33-54</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:0254-5330,%201572-9338">
+        <prism:volume>286</prism:volume>
+        <dc:title>Annals of Operations Research</dc:title>
+        <dc:identifier>DOI 10.1007/s10479-018-2796-0</dc:identifier>
+        <prism:number>1-2</prism:number>
+        <dcterms:alternative>Ann Oper Res</dcterms:alternative>
+        <dc:identifier>ISSN 0254-5330, 1572-9338</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_701">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://2024.sci-hub.se/6672/177629c3ff37d6c4bb28c3bc8f460f85/dasilva2018.pdf#navpanes=0&amp;view=FitH</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-04-11 05:47:23</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="http://arxiv.org/abs/1001.4420">
+        <z:itemType>preprint</z:itemType>
+        <dc:publisher>
+           <foaf:Organization><foaf:name>arXiv</foaf:name></foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Clifford</foaf:surname>
+                        <foaf:givenName>Raphael</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jalsenius</foaf:surname>
+                        <foaf:givenName>Markus</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Montanaro</foaf:surname>
+                        <foaf:givenName>Ashley</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sach</foaf:surname>
+                        <foaf:givenName>Benjamin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_704"/>
+        <link:link rdf:resource="#item_705"/>
+        <dc:subject>
+            <z:AutomaticTag>
+                <rdf:value>Computer Science - Data Structures and Algorithms</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>The Complexity of Flood Filling Games</dc:title>
+        <dcterms:abstract>We study the complexity of the popular one player combinatorial game known as Flood-It. In this game the player is given an n by n board of tiles where each tile is allocated one of c colours. The goal is to make the colours of all tiles equal via the shortest possible sequence of flooding operations. In the standard version, a flooding operation consists of the player choosing a colour k, which then changes the colour of all the tiles in the monochromatic region connected to the top left tile to k. After this operation has been performed, neighbouring regions which are already of the chosen colour k will then also become connected, thereby extending the monochromatic region of the board. We show that finding the minimum number of flooding operations is NP-hard for c&gt;=3 and that this even holds when the player can perform flooding operations from any position on the board. However, we show that this &quot;free&quot; variant is in P for c=2. We also prove that for an unbounded number of colours, Flood-It remains NP-hard for boards of height at least 3, but is in P for boards of height 2. Next we show how a c-1 approximation and a randomised 2c/3 approximation algorithm can be derived, and that no polynomial time constant factor, independent of c, approximation algorithm exists unless P=NP. We then investigate how many moves are required for the &quot;most demanding&quot; n by n boards (those requiring the most moves) and show that the number grows as fast as Theta(n*c^0.5). Finally, we consider boards where the colours of the tiles are chosen at random and show that for c&gt;=2, the number of moves required to flood the whole board is Omega(n) with high probability.</dcterms:abstract>
+        <dc:date>2011-06-09</dc:date>
+        <z:libraryCatalog>arXiv.org</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://arxiv.org/abs/1001.4420</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-04-11 05:48:01</dcterms:dateSubmitted>
+        <dc:description>arXiv:1001.4420 [cs]</dc:description>
+        <dc:identifier>DOI 10.48550/arXiv.1001.4420</dc:identifier>
+        <prism:number>arXiv:1001.4420</prism:number>
+    </rdf:Description>
+    <z:Attachment rdf:about="#item_704">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Preprint PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://arxiv.org/pdf/1001.4420v3</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-04-11 05:48:01</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_705">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://arxiv.org/abs/1001.4420</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-04-11 05:48:06</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://kunigami.wordpress.com/2012/09/16/flood-it-an-exact-approach/">
+        <z:itemType>blogPost</z:itemType>
+        <dcterms:isPartOf>
+           <z:Blog><dc:title>NP-Incompleteness</dc:title></z:Blog>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Guilherme Kunigami</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Flood it! An exact approach</dc:title>
+        <dcterms:abstract>A paper from Clifford, Jalsenius, Montanaro and Sach [1], presents theoretical results regarding the general version of this problem, where the size of the board and the number of colors can be unbounded.
+
+In this post we’ll highlight the main results of their paper and present an integer linear programming approach to solve it exactly.</dcterms:abstract>
+        <dc:date>September 16, 2012</dc:date>
+        <z:language>en</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://kunigami.wordpress.com/2012/09/16/flood-it-an-exact-approach/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-04-11</dcterms:dateSubmitted>
+        <z:type>Blog</z:type>
+    </bib:Document>
+    <bib:Thesis rdf:about="https://doc.neuro.tu-berlin.de/bachelor/2023-BA-PhilippVonManteuffel-mc.pdf">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Berlin</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Technische Universität Berlin</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Philipp von Manteuffel</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_708"/>
+        <dc:title>Exact Approaches for Flood-it: A*, IDA*, a SAT- and ILP-Solver compared</dc:title>
+        <dcterms:abstract>Flood-it is a combinatorial puzzle game in which the board has to be turned monochromatic by a
+series of flood filling operations (moves). The problem of finding a shortest sequence or the minimum
+number of moves required to turn the board monochromatic is NP-hard. Approaches that encode
+flood-it as integer programming and SAT problem have been proposed in Literature, which we will
+compare to the graph search algorithms A* and IDA*.
+To set a basis for optimizations of IDA* and A*, we define game states which are a representation
+of a flood-it board on an undirected graph and based on this we propose a partitioning of the graph
+which allows us to identify game states that are equivalent with respect to the minimum number of
+moves required to solve them. We show that making use of this equivalence significantly reduces the
+number of nodes expanded by A*, leads to less memory consumption and an a reduced running time.
+We further investigate what tie-breaking strategies are preferable for an A* solver for flood-it. Based
+on the partitioning we also propose flood-it specific branching strategies for path search algorithms
+and show their effects on IDA*. We further review and present lower bounds which can be used
+as heuristic for IDA* and A* and evaluate which is preferable to use. We will further propose and
+evaluate an optimization of the SAT encoding.
+We compile a set of test instances which we use to run benchmarks on the four approaches to test the
+proposed optimizations and compare them with respect to running time, memory consumption and if
+applicable the number of expanded nodes.
+Our experiments show that A* can outperform the other approaches with respect to running time.
+Using a SAT solver can be more efficient in terms of memory usage. The advantage with respect
+to running time of A* compared to SAT gets smaller with increasing hardness of the test instances.
+IDA* performs best with respect to memory consumption, but at the expense of running time and is
+generally slower than the two former approaches. The integer programming approach performs worst
+on all metrics.</dcterms:abstract>
+        <dc:date>10.07.2023</dc:date>
+        <z:language>en</z:language>
+        <z:shortTitle>Exact Approaches for Flood-i</z:shortTitle>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://doc.neuro.tu-berlin.de/bachelor/2023-BA-PhilippVonManteuffel-mc.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <z:numPages>51</z:numPages>
+        <z:type>Bachelor Thesis</z:type>
+    </bib:Thesis>
+    <z:Attachment rdf:about="#item_708">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://doc.neuro.tu-berlin.de/bachelor/2023-BA-PhilippVonManteuffel-mc.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-04-11 05:53:29</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://dmtcs.episciences.org/2086">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1365-8050"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Souza</foaf:surname>
+                        <foaf:givenName>Uéverton Dos Santos</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Protti</foaf:surname>
+                        <foaf:givenName>Fábio</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Silva</foaf:surname>
+                        <foaf:givenName>Maise</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_710"/>
+        <dc:title>An algorithmic analysis of Flood-It and Free-Flood-It on graph powers</dc:title>
+        <dcterms:abstract>Analysis of Algorithms
+            Flood-it is a combinatorial game played on a colored graph G whose aim is to make the graph monochromatic using the minimum number of flooding moves, relatively to a fixed pivot. Free-Flood-it is a variant where the pivot can be freely chosen for each move of the game. The standard versions of Flood-it and Free-Flood-it are played on m ×n grids. In this paper we analyze the behavior of these games when played on other classes of graphs, such as d-boards, powers of cycles and circular grids. We describe polynomial time algorithms to play Flood-it on C2n (the second power of a cycle on n vertices), 2 ×n circular grids, and some types of d-boards (grids with a monochromatic column). We also show that Free-Flood-it is NP-hard on C2n and 2 ×n circular grids.</dcterms:abstract>
+        <dc:date>2014-12-14</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://dmtcs.episciences.org/2086</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-04-11 05:54:27</dcterms:dateSubmitted>
+        <bib:pages>2086</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1365-8050">
+        <prism:volume>Vol. 16 no. 3</prism:volume>
+        <dc:title>Discrete Mathematics &amp; Theoretical Computer Science</dc:title>
+        <dc:identifier>DOI 10.46298/dmtcs.2086</dc:identifier>
+        <prism:number>Analysis of Algorithms</prism:number>
+        <dc:identifier>ISSN 1365-8050</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_710">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://dmtcs.episciences.org/2086/pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-04-11 05:54:30</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:BookSection rdf:about="urn:isbn:978-3-642-38767-8%20978-3-642-38768-5">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <prism:volume>7936</prism:volume>
+                <dc:identifier>ISBN 978-3-642-38767-8 978-3-642-38768-5</dc:identifier>
+                <dc:title>Computing and Combinatorics</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Berlin, Heidelberg</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Springer Berlin Heidelberg</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <z:seriesEditors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hutchison</foaf:surname>
+                        <foaf:givenName>David</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kanade</foaf:surname>
+                        <foaf:givenName>Takeo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kittler</foaf:surname>
+                        <foaf:givenName>Josef</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kleinberg</foaf:surname>
+                        <foaf:givenName>Jon M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mattern</foaf:surname>
+                        <foaf:givenName>Friedemann</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mitchell</foaf:surname>
+                        <foaf:givenName>John C.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Naor</foaf:surname>
+                        <foaf:givenName>Moni</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Nierstrasz</foaf:surname>
+                        <foaf:givenName>Oscar</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pandu Rangan</foaf:surname>
+                        <foaf:givenName>C.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Steffen</foaf:surname>
+                        <foaf:givenName>Bernhard</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sudan</foaf:surname>
+                        <foaf:givenName>Madhu</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Terzopoulos</foaf:surname>
+                        <foaf:givenName>Demetri</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tygar</foaf:surname>
+                        <foaf:givenName>Doug</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Vardi</foaf:surname>
+                        <foaf:givenName>Moshe Y.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Weikum</foaf:surname>
+                        <foaf:givenName>Gerhard</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:seriesEditors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Du</foaf:surname>
+                        <foaf:givenName>Ding-Zhu</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Zhang</foaf:surname>
+                        <foaf:givenName>Guochuan</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dos Santos Souza</foaf:surname>
+                        <foaf:givenName>Uéverton</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Protti</foaf:surname>
+                        <foaf:givenName>Fábio</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Da Silva</foaf:surname>
+                        <foaf:givenName>Maise Dantas</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_712"/>
+        <dc:title>Parameterized Complexity of Flood-Filling Games on Trees</dc:title>
+        <dc:date>2013</dc:date>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://link.springer.com/10.1007/978-3-642-38768-5_47</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-04-11 05:55:05</dcterms:dateSubmitted>
+        <dc:description>Series Title: Lecture Notes in Computer Science
+DOI: 10.1007/978-3-642-38768-5_47</dc:description>
+        <bib:pages>531-542</bib:pages>
+    </bib:BookSection>
+    <z:Attachment rdf:about="#item_712">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://moscow.sci-hub.se/4451/8f5f70b3165de9198ae56ee8f6d4973e/dossantossouza2013.pdf#navpanes=0&amp;view=FitH</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-04-11 05:55:09</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://linkinghub.elsevier.com/retrieve/pii/S0304397512005142">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>452</prism:volume>
+                <dc:title>Theoretical Computer Science</dc:title>
+                <dc:identifier>DOI 10.1016/j.tcs.2012.05.032</dc:identifier>
+                <dcterms:alternative>Theoretical Computer Science</dcterms:alternative>
+                <dc:identifier>ISSN 03043975</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fleischer</foaf:surname>
+                        <foaf:givenName>Rudolf</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Woeginger</foaf:surname>
+                        <foaf:givenName>Gerhard J.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_714"/>
+        <dc:title>An algorithmic analysis of the Honey-Bee game</dc:title>
+        <dc:date>09/2012</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://linkinghub.elsevier.com/retrieve/pii/S0304397512005142</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-04-11 06:01:53</dcterms:dateSubmitted>
+        <dc:rights>https://www.elsevier.com/tdm/userlicense/1.0/</dc:rights>
+        <bib:pages>75-87</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_714">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Submitted Version</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/pdf/1102.3025</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-04-11 06:02:28</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://arxiv.org/abs/1504.00596">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>vol. 21 no. 4</prism:volume>
+                <dc:title>Discrete Mathematics &amp; Theoretical Computer Science</dc:title>
+                <dc:identifier>DOI 10.23638/DMTCS-21-4-11</dc:identifier>
+                <prism:number>Graph Theory</prism:number>
+                <dc:identifier>ISSN 1365-8050</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Meeks</foaf:surname>
+                        <foaf:givenName>Kitty</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Vu</foaf:surname>
+                        <foaf:givenName>Dominik K.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_717"/>
+        <link:link rdf:resource="#item_718"/>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Computer Science - Discrete Mathematics</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:subject>
+            <z:AutomaticTag>
+               <rdf:value>Mathematics - Combinatorics</rdf:value>
+            </z:AutomaticTag>
+        </dc:subject>
+        <dc:title>Extremal properties of flood-filling games</dc:title>
+        <dcterms:abstract>The problem of determining the number of &quot;flooding operations&quot; required to make a given coloured graph monochromatic in the one-player combinatorial game Flood-It has been studied extensively from an algorithmic point of view, but basic questions about the maximum number of moves that might be required in the worst case remain unanswered. We begin a systematic investigation of such questions, with the goal of determining, for a given graph, the maximum number of moves that may be required, taken over all possible colourings. We give several upper and lower bounds on this quantity for arbitrary graphs and show that all of the bounds are tight for trees; we also investigate how much the upper bounds can be improved if we restrict our attention to graphs with higher edge-density.</dcterms:abstract>
+        <dc:date>2019-07-30</dc:date>
+        <z:libraryCatalog>arXiv.org</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://arxiv.org/abs/1504.00596</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-04-11 06:02:49</dcterms:dateSubmitted>
+        <dc:description>arXiv:1504.00596 [math]</dc:description>
+        <bib:pages>4412</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_717">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Preprint PDF</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://arxiv.org/pdf/1504.00596v5</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-04-11 06:02:50</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_718">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>http://arxiv.org/abs/1504.00596</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-04-11 06:02:55</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="http://link.springer.com/10.1007/s00224-013-9482-z">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf rdf:resource="urn:issn:1432-4350,%201433-0490"/>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Meeks</foaf:surname>
+                        <foaf:givenName>Kitty</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Scott</foaf:surname>
+                        <foaf:givenName>Alexander</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_720"/>
+        <dc:title>Spanning Trees and the Complexity of Flood-Filling Games</dc:title>
+        <dc:date>5/2014</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://link.springer.com/10.1007/s00224-013-9482-z</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-04-11 06:03:18</dcterms:dateSubmitted>
+        <dc:rights>http://www.springer.com/tdm</dc:rights>
+        <bib:pages>731-753</bib:pages>
+    </bib:Article>
+    <bib:Journal rdf:about="urn:issn:1432-4350,%201433-0490">
+        <prism:volume>54</prism:volume>
+        <dc:title>Theory of Computing Systems</dc:title>
+        <dc:identifier>DOI 10.1007/s00224-013-9482-z</dc:identifier>
+        <prism:number>4</prism:number>
+        <dcterms:alternative>Theory Comput Syst</dcterms:alternative>
+        <dc:identifier>ISSN 1432-4350, 1433-0490</dc:identifier>
+    </bib:Journal>
+    <z:Attachment rdf:about="#item_720">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://moscow.sci-hub.se/2179/3af0d387e39c23fc0ceb0b6d96aec933/meeks2013.pdf#navpanes=0&amp;view=FitH</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-04-11 06:03:22</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <rdf:Description rdf:about="https://www.din.uem.br/sbpo/sbpo2012/pdf/arq0510.pdf">
+        <z:itemType>conferencePaper</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+               <dc:title>Annals XVI CLAIO - XLIV SBPO</dc:title>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Rio de Janeiro, RJ</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Uéverton dos Santos Souza</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Maise Dantas da Silva</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Fábio Protti</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Inundação em Grafos / Graph Flooding</dc:title>
+        <dc:date>September 24-28, 2012</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.din.uem.br/sbpo/sbpo2012/pdf/arq0510.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <bib:presentedAt>
+           <bib:Conference><dc:title>CLAIO-SBPO</dc:title></bib:Conference>
+        </bib:presentedAt>
+    </rdf:Description>
+    <bib:Article rdf:about="https://linkinghub.elsevier.com/retrieve/pii/S0166218X13004290">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>164</prism:volume>
+                <dc:title>Discrete Applied Mathematics</dc:title>
+                <dc:identifier>DOI 10.1016/j.dam.2013.09.024</dc:identifier>
+                <dcterms:alternative>Discrete Applied Mathematics</dcterms:alternative>
+                <dc:identifier>ISSN 0166218X</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Lagoutte</foaf:surname>
+                        <foaf:givenName>A.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Noual</foaf:surname>
+                        <foaf:givenName>M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Thierry</foaf:surname>
+                        <foaf:givenName>E.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_723"/>
+        <dc:title>Flooding games on graphs</dc:title>
+        <dc:date>02/2014</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://linkinghub.elsevier.com/retrieve/pii/S0166218X13004290</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-04-11 06:10:23</dcterms:dateSubmitted>
+        <bib:pages>532-538</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_723">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Submitted Version</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://hal.inria.fr/hal-00653714/file/FLOODS-DAM.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-04-11 06:10:47</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Article rdf:about="https://linkinghub.elsevier.com/retrieve/pii/S030439751500105X">
+        <z:itemType>journalArticle</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Journal>
+                <prism:volume>576</prism:volume>
+                <dc:title>Theoretical Computer Science</dc:title>
+                <dc:identifier>DOI 10.1016/j.tcs.2015.02.008</dc:identifier>
+                <dcterms:alternative>Theoretical Computer Science</dcterms:alternative>
+                <dc:identifier>ISSN 03043975</dc:identifier>
+            </bib:Journal>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Fellows</foaf:surname>
+                        <foaf:givenName>Michael R.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Souza</foaf:surname>
+                        <foaf:givenName>Uéverton Dos Santos</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Protti</foaf:surname>
+                        <foaf:givenName>Fábio</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Dantas Da Silva</foaf:surname>
+                        <foaf:givenName>Maise</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_725"/>
+        <dc:title>Tractability and hardness of flood-filling games on trees</dc:title>
+        <dc:date>04/2015</dc:date>
+        <z:language>en</z:language>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://linkinghub.elsevier.com/retrieve/pii/S030439751500105X</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-04-11 06:12:52</dcterms:dateSubmitted>
+        <bib:pages>102-116</bib:pages>
+    </bib:Article>
+    <z:Attachment rdf:about="#item_725">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Full Text</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://moscow.sci-hub.se/3883/66eaf46a5ef565c30b9b8051dd7e7dd7/fellows2015.pdf#navpanes=0&amp;view=FitH</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-04-11 06:13:06</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:BookSection rdf:about="urn:isbn:978-3-642-13121-9%20978-3-642-13122-6">
+        <z:itemType>bookSection</z:itemType>
+        <dcterms:isPartOf>
+            <bib:Book>
+                <prism:volume>6099</prism:volume>
+                <dc:identifier>ISBN 978-3-642-13121-9 978-3-642-13122-6</dc:identifier>
+                <dc:title>Fun with Algorithms</dc:title>
+            </bib:Book>
+        </dcterms:isPartOf>
+        <dc:publisher>
+            <foaf:Organization>
+                <vcard:adr>
+                    <vcard:Address>
+                       <vcard:locality>Berlin, Heidelberg</vcard:locality>
+                    </vcard:Address>
+                </vcard:adr>
+                <foaf:name>Springer Berlin Heidelberg</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <z:seriesEditors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Hutchison</foaf:surname>
+                        <foaf:givenName>David</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kanade</foaf:surname>
+                        <foaf:givenName>Takeo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kittler</foaf:surname>
+                        <foaf:givenName>Josef</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Kleinberg</foaf:surname>
+                        <foaf:givenName>Jon M.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mattern</foaf:surname>
+                        <foaf:givenName>Friedemann</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Mitchell</foaf:surname>
+                        <foaf:givenName>John C.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Naor</foaf:surname>
+                        <foaf:givenName>Moni</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Nierstrasz</foaf:surname>
+                        <foaf:givenName>Oscar</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Pandu Rangan</foaf:surname>
+                        <foaf:givenName>C.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Steffen</foaf:surname>
+                        <foaf:givenName>Bernhard</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sudan</foaf:surname>
+                        <foaf:givenName>Madhu</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Terzopoulos</foaf:surname>
+                        <foaf:givenName>Demetri</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Tygar</foaf:surname>
+                        <foaf:givenName>Doug</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Vardi</foaf:surname>
+                        <foaf:givenName>Moshe Y.</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Weikum</foaf:surname>
+                        <foaf:givenName>Gerhard</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </z:seriesEditors>
+        <bib:editors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Boldi</foaf:surname>
+                        <foaf:givenName>Paolo</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Gargano</foaf:surname>
+                        <foaf:givenName>Luisa</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:editors>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Arthur</foaf:surname>
+                        <foaf:givenName>David</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Clifford</foaf:surname>
+                        <foaf:givenName>Raphaël</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Jalsenius</foaf:surname>
+                        <foaf:givenName>Markus</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Montanaro</foaf:surname>
+                        <foaf:givenName>Ashley</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Sach</foaf:surname>
+                        <foaf:givenName>Benjamin</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_727"/>
+        <dc:title>The Complexity of Flood Filling Games</dc:title>
+        <dc:date>2010</dc:date>
+        <z:libraryCatalog>DOI.org (Crossref)</z:libraryCatalog>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>http://link.springer.com/10.1007/978-3-642-13122-6_30</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-04-11 06:15:32</dcterms:dateSubmitted>
+        <dc:description>Series Title: Lecture Notes in Computer Science
+DOI: 10.1007/978-3-642-13122-6_30</dc:description>
+        <bib:pages>307-318</bib:pages>
+    </bib:BookSection>
+    <z:Attachment rdf:about="#item_727">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Submitted Version</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://arxiv.org/pdf/1001.4420</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2025-04-11 06:15:34</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>application/pdf</link:type>
+    </z:Attachment>
+    <bib:Thesis rdf:about="https://www.cs.ru.nl/bachelors-theses/2020/Milan_van_Stiphout___4596269___Flood-It_as_a_SAT_Problem.pdf">
+        <z:itemType>thesis</z:itemType>
+        <dc:publisher>
+            <foaf:Organization>
+               <foaf:name>Radboud University</foaf:name>
+            </foaf:Organization>
+        </dc:publisher>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Milan van Stiphout</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <dc:title>Flood-It as a SAT problem</dc:title>
+        <dcterms:abstract>Flood-It is a logical puzzle game. It is NP-Complete, meaning that verifying
+our solution can be done in polynomial time, but we currently do not know
+of a polynomial time algorithm for solving it. In this thesis, after some
+similar work on Sudoku, we approach the logical puzzle Flood-It by turning
+it into a boolean satisfiability problem and solving it using the techniques
+that are available for those problems. We create an encoding to solve the
+puzzle regardless of board size or amount of colours used and find bounds to
+quicker pinpoint the exact minimum size. Additionally, we experiment with
+an extended version of the encoding of the puzzle, but find no improvement
+to our encoding by doing this.</dcterms:abstract>
+        <dc:date>April 9, 2020</dc:date>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.cs.ru.nl/bachelors-theses/2020/Milan_van_Stiphout___4596269___Flood-It_as_a_SAT_Problem.pdf</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <z:numPages>24</z:numPages>
+        <z:type>Bachelor thesis</z:type>
+    </bib:Thesis>
     <z:Collection rdf:about="#collection_6">
         <dc:title>2048</dc:title>
         <dcterms:hasPart rdf:resource="https://doi.org/10.1007%2F978-3-319-50935-8_8"/>
@@ -12348,6 +13948,29 @@ applications in board games, focusing on dynamic and strategic decision-making.<
         <dcterms:hasPart rdf:resource="http://arxiv.org/abs/1811.11273"/>
         <dcterms:hasPart rdf:resource="http://cs.gettysburg.edu/~tneller/games/aiagd/papers/EAAI-00039-FordC.pdf"/>
         <dcterms:hasPart rdf:resource="https://ojs.aaai.org/index.php/AIIDE/article/view/27518"/>
+    </z:Collection>
+    <z:Collection rdf:about="#collection_59">
+        <dc:title>Flood-It / Mad Virus / Honey Bee</dc:title>
+        <dcterms:hasPart rdf:resource="https://linkinghub.elsevier.com/retrieve/pii/S1571065315001626"/>
+        <dcterms:hasPart rdf:resource="https://linkinghub.elsevier.com/retrieve/pii/S0166218X11003337"/>
+        <dcterms:hasPart rdf:resource="https://linkinghub.elsevier.com/retrieve/pii/S0304397513004647"/>
+        <dcterms:hasPart rdf:resource="urn:isbn:978-3-319-98354-7%20978-3-319-98355-4"/>
+        <dcterms:hasPart rdf:resource="http://arxiv.org/abs/1511.01806"/>
+        <dcterms:hasPart rdf:resource="urn:isbn:978-3-642-45280-2%20978-3-642-45281-9"/>
+        <dcterms:hasPart rdf:resource="http://link.springer.com/10.1007/s10479-018-2796-0"/>
+        <dcterms:hasPart rdf:resource="http://arxiv.org/abs/1001.4420"/>
+        <dcterms:hasPart rdf:resource="https://kunigami.wordpress.com/2012/09/16/flood-it-an-exact-approach/"/>
+        <dcterms:hasPart rdf:resource="https://doc.neuro.tu-berlin.de/bachelor/2023-BA-PhilippVonManteuffel-mc.pdf"/>
+        <dcterms:hasPart rdf:resource="https://dmtcs.episciences.org/2086"/>
+        <dcterms:hasPart rdf:resource="urn:isbn:978-3-642-38767-8%20978-3-642-38768-5"/>
+        <dcterms:hasPart rdf:resource="https://linkinghub.elsevier.com/retrieve/pii/S0304397512005142"/>
+        <dcterms:hasPart rdf:resource="http://arxiv.org/abs/1504.00596"/>
+        <dcterms:hasPart rdf:resource="http://link.springer.com/10.1007/s00224-013-9482-z"/>
+        <dcterms:hasPart rdf:resource="https://www.din.uem.br/sbpo/sbpo2012/pdf/arq0510.pdf"/>
+        <dcterms:hasPart rdf:resource="https://linkinghub.elsevier.com/retrieve/pii/S0166218X13004290"/>
+        <dcterms:hasPart rdf:resource="https://linkinghub.elsevier.com/retrieve/pii/S030439751500105X"/>
+        <dcterms:hasPart rdf:resource="urn:isbn:978-3-642-13121-9%20978-3-642-13122-6"/>
+        <dcterms:hasPart rdf:resource="https://www.cs.ru.nl/bachelors-theses/2020/Milan_van_Stiphout___4596269___Flood-It_as_a_SAT_Problem.pdf"/>
     </z:Collection>
     <z:Collection rdf:about="#collection_51">
         <dc:title>Frameworks</dc:title>
