@@ -1,0 +1,11 @@
+[extend]
+useDefault = true
+
+# Presigned publisher PDF links that Zotero saved, not our keys
+[[allowlists]]
+description = "Presigned S3 URLs in the Zotero export"
+targetRules = ["aws-access-token"]
+condition = "AND"
+paths = ['''^boardgame-research\.rdf$''']
+regexTarget = "line"
+regexes = ['''X-Amz-Credential=''']
