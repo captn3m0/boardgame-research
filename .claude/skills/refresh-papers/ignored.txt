@@ -1,0 +1,365 @@
+2508.00712	7 Wonders: JSON-Bag: A generic game trajectory representation
+10.56557/jogae/2026/v18i110191	Agricola: AI-Enabled Climate-Smart Agriculture for Smallholder Resilience in Sub
+10.47191/ijcsrr/v9-i11-01	Balatro: “Balatro Madness” Exploring Addictive Game Elements in Indie Hit Throu
+10.1109/ihmsc66529.2025.00018	Balatro: An Improved YOLOv5 Object Detection Model in BALATRO Built on Tensorfl
+10.1109/cog67430.2026.11778558	Blood on the Clocktower: Training Compact Language Models with Minimal Search for Social Deduct
+2208.09094	Carcassonne: Towards Situation Awareness and Attention Guidance in a Multiplayer En
+10.1109/tg.2024.3377637	Carcassonne: Nested Wave Function Collapse Enables Large-Scale Content Generation
+10.3167/nc.2026.210308	Cascadia: “Everybody Wants to Be a Game Developer—Until You Develop a Game!”
+2508.12819	Catan: ding-01 :ARG0: An AMR Corpus for Spontaneous French Dialogue
+2207.12162	Catan: A Multi-Party Dialogue Ressource in French
+10.26443/msurj.v21i2.428	Catan: RainbowZero: Combining Advancements in Search and Reinforcement Learni
+10.70380/w2c7m5t9xq1v8	Catan: Lacan Plays Catan: Unconscious Desire in Tabletop Gaming
+10.12681/dac.42961	Catan: DESIGNING THE NARRATIVE
+10.1109/icsec67360.2025.11298053	Catan: A TOPSIS-Based Framework for Multi-Criteria Evaluation of Physical and
+10.1109/educon62633.2025.11016501	Catan: Beyond the Board and into the Classroom: CATAN - New Energies' Potenti
+10.1109/educon62633.2025.11016465	Catan: Enhancing Transdisciplinary Tutoring in Analog Electronics and Embedde
+10.18274/spsv9283	Catan: Agency within Analog Shakespearean Games
+10.37546/jaltpcp2020-43	Catan: Board Games Versus Smartphone Applications: 
+10.3390/app11052056	Catan: Improving Monte Carlo Tree Search with Artificial Neural Networks with
+10.5951/mtlt.2020.0060	Catan: Yes, We CAtaN Understand Probability
+10.46727/c.v3.27-28-03-2025.p26-35	Catan: Gamification in middle school geography teaching - a best practice exa
+fc903ad600fc56142d934d36480c26c9c02b7619	Catan: Re-L Catan: Evaluation of Deep Reinforcement Learning for Resource Man
+10.1177/22104968261424014	Cluedo: Cluedo4KG: Clues for Practising SW Technologies
+10.53593/n3633a	Cluedo: Escape the classroom: a game to improve learning and student engagemen
+10.1109/compsac54236.2022.00027	Cluedo: SQL Murder Mystery: a serious game to learn querying databases
+2605.29512	Codenames: MINDGAMES: A Live Arena for Evaluating Social and Strategic Reasoning 
+2604.20871	Codenames: M-CARE: Standardized Clinical Case Reporting for AI Model Behavioral D
+2506.05962	Codenames: Quantum Checkers: The Development and Analysis of a Quantum Combinator
+2207.12576	Codenames: WinoGAViL: Gamified Association Benchmark to Challenge Vision-and-Lang
+10.25170/kolita.v24i24.8536	Codenames: ANALYZING THE TECHNIQUES AND QUALITY OF TRANSLATED INSTRUCTIONS ON ‘CO
+10.25881/20728255_2026_21_3_105	Codenames: IMPLEMENTATION OF GAME-BASED TECHNOLOGIES FOR MILD FORMS OF APHASIA IN
+10.1177/16094069251390161	Codenames: Developing the Integrated Analysis Matrix (I-AM): A Data-Minding Appro
+10.4995/eurocall2025.2025.21244	Codenames: Exploring digital board games in tandem language learning
+10.1037/xge0001750	Codenames: Lexical search and social reasoning jointly explain communication in a
+10.51767/ic250515	Codenames: OPERATING SYSTEM SECURITY: A COMPARATIVE ANALYSIS OF WINDOWS 11, LINUX
+2609.12575	Dixit: Calibrated Ambiguity in Multimodal Language Models: Humans reach for c
+2604.05273	Dixit: Beneath the Surface: Investigating LLMs' Capabilities for Communicatin
+10.1109/icir70631.2026.11628274	Dixit: Toward Inclusive Tabletop Gaming: A Prototype System Using LLMs, Compu
+10.37715/vcd.v11i1.6344	Dixit: An Analysis of Dixit: Board Game Design Elements for the Deaf Communit
+10.52885/pn0s4171	Dixit: Active Learning Through Aesthetic Board Games: A Reflective Workshop S
+10.1002/mhw.33889	Dixit: Nashville partnership provides maternal MH support to teachers
+10.48550/arxiv.2206.08349	Dixit: Know your audience: specializing grounded language models with the gam
+2605.19235	Dou Dizhu: GAE Falls Short in Imperfect-Information Self-Play Reinforcement Learn
+2511.07312	Dou Dizhu: Scalable Decision Making for Games of Imperfect Information
+10.26503/dl.v2024i2.2341	Dou Dizhu: Dou Dizhu For All: An Accessible Card Game for Visually
+10.1109/mlbdbi54094.2021.00122	Dou Dizhu: Research on the Strategy of Bidding in the Game of Dou dizhu
+10.1007/978-981-16-5168-7_3	Dou Dizhu: The Design and Implementation of the Bidding Strategy in the Dou Dizhu
+10.1109/icai67591.2025.11324964	Gwent: Obfuscating online gambling and addiction behind progression in digita
+2610.20205	Hanabi: What and Where in Identifying and Quantifying Conventions in Humans an
+2609.11489	Hanabi: The Convention Gap: Beyond Literal Content in Human-AI Cooperation
+2604.25076	Hanabi: Zero Shot Coordination for Sparse Reward Tasks with Diverse Reward Sha
+2511.11083	Hanabi: Efficient Reinforcement Learning for Zero-Shot Coordination in Evolvin
+2510.19298	Hanabi: Knowledge and Common Knowledge of Strategies
+2508.12480	Hanabi: The Yokai Learning Environment: Tracking Beliefs Over Space and Time
+2503.15516	Hanabi: In Pursuit of Predictive Models of Human Preferences Toward AI Teammat
+2409.08767	Hanabi: HOLA-Drone: Hypergraphic Open-ended Learning for Zero-Shot Multi-Drone
+2405.11746	Hanabi: Configurable Mirror Descent: Towards a Unification of Decision Making
+2402.09984	Hanabi: Symmetry-Breaking Augmentations for Ad Hoc Teamwork
+2304.13138	Hanabi: The Update-Equivalence Framework for Decision-Time Planning
+10.54254/2753-8818/2026.hz29711	Hanabi: From the "Prisoner's Dilemma" to "Pareto Optimum": Cooperation and Com
+2502.02259	Hearthstone: Innovative activities of Activision Blizzard: A patent network analysi
+2501.17951	Hearthstone: An iterative spectral algorithm for digraph clustering
+2408.17180	Hearthstone: Identifying and Clustering Counter Relationships of Team Compositions 
+2404.16689	Hearthstone: Learning to Beat ByteRL: Exploitability of Collectible Card Game Agent
+2107.08437	Hearthstone: Effect of Input-output Randomness on Gameplay Satisfaction in Collecta
+10.1109/segah69272.2026.11653351	Hearthstone: Exploring Digital Card Games as a Cognitive Tool for Developing Comput
+10.1109/ijcnn69854.2026.11729694	Hearthstone: Language-Guided Value with Latent Dynamics for Textual Card Game Agent
+10.54254/2754-1169/2025.bl24125	Hearthstone: Long-Tail Crowdsourcing for Game Accessibility: A Study of Player Co-C
+10.5555/3709347.3744015	Hearthstone: Integrating Large Language Models with Reinforcement Learning for Gene
+10.54097/aa66j415	Hearthstone: Application of Complex Network Theory to Social Fission Propagation of
+10.1007/s11633-024-1503-7	Hearthstone: Guided Proximal Policy Optimization with Structured Action Graph for C
+10.1134/s1054661824700706	Hearthstone: Informed Object Detection for Computer Games
+10.21869/2223-151x-2023-13-4-164-175	Hearthstone: Peculiarities of eye Motor Reactions During the Perception of Static I
+10.21009/jpud.171.05	Hearthstone: The Effect of Mathematics Learning Approaches and Self-Regulation to R
+2607.13007	Jaipur: Dynamic Resource Allocation for Ensemble Determinization MCTS
+10.25258/ijddt.16.36s.41	Jaipur: Comparative Analysis Of Visual Efficiency, Eye Comfort And Visual Func
+10.1186/s12978-023-01665-1	Jaipur: Study protocol for an individually randomized control trial for India'
+10.22271/journalofsport.2022.v7.i2b.2563	Jaipur: Analytic approach to video analysis on skill performance of Pro Kabadd
+2606.28394	Jenga: GPU-Accelerated Inverse Structural Anastylosis from Block Collapse Dyn
+2503.21770	Jenga: Visual Jenga: Discovering Object Dependencies via Counterfactual Inpai
+10.34190/ecgbl.20.1.5319	Jenga: Play While you Wait: Analog Serious Games in Gastronomic Contexts
+10.1145/3719027.3765217	Jenga: Windows plays Jenga: Uncovering Design Weaknesses in Windows File Syst
+10.21107/jps.v12i1.29132	Jenga: ENHANCEMENT OF STUDENTS’ CONCEPT COMPREHENSION THROUGH TEAM GAME TOURN
+10.1109/ismar-adjunct64951.2024.00130	Jenga: Visual Pseudo-Haptic Feedback as a Catalyst: Exploring User Joy with V
+10.31764/jpmb.v8i3.26171	Jenga: Pengajaran aksara jawa melalui games based learning di SD Negeri 1 Gre
+10.31538/adrg.v3i2.1313	Jenga: Pengembangan Permainan Jenga Edukatif Berbasis Keterampilan dengan Tem
+10.36463/idw.2023.1528	Jenga: Haptic Interaction Techniques for Dexterous Manipulation in Metaverses
+10.1109/lifetech53646.2022.9754803	Jenga: Electroencephalographic Study on Jenga Game, the Physical Skill Play
+0f1e9644d706a8e0a6a36c1ca06326617917c8f8	Jenga: BIOSFER: JURNAL TADRIS BIOLOGI
+10.1371/journal.pcbi.1009009	King of Tokyo: Ten simple rules for designing analogue science games
+10.62517/jnme.202410410	Legends of Runeterra: League of Legends: The Convergence of Transmedia Storytelling and IP E
+10.56028/aemr.7.1.702.2023	Legends of Runeterra: Mastering the Game: The Rise, Strategy, and Future of Riot Games
+10.26267/unipi_dione/1097	Lost Cities: The development of a video game that aims to the promotion of the unde
+2511.10593	Ludii: Regular Games -- an Automata-Based General Game Playing Language
+2507.00451	Ludii: Best Agent Identification for General Game Playing
+2407.09388	Ludii: GAVEL: Generating Games Via Evolution and Language Models
+2201.06401	Ludii: Spatial State-Action Features for General Games
+2111.11329	Ludii: General Board Geometry
+2105.12846	Ludii: General Game Heuristic Prediction Based on Ludeme Descriptions
+2102.12375	Ludii: Transfer of Fully Convolutional Policy-Value Networks Between Games an
+10.1609/aiide.v22i1.43579	Ludii: Generating Board Games with MCTS and LLM Agents
+10.1177/13896911251384620	Ludii: Games, Learning, and Digital Heritage: Playable Past and Educational F
+10.63744/2xnjwn8tpfhg	Ludii: The Ludii Games Database: A Resource for Computational and Cultural Re
+10.3233/icg-240254	Ludii: Editorial: Follow-ups
+10.3233/icg-240253	Ludii: Reach Chess: An accidental chess variant
+10.3233/icg-230227	Ludii: Automated videogame mechanics generation with XVGDL
+10.1109/wsc57314.2022.10015292	Ludii: Towards AI Robustness Multi-Agent Adversarial Planning in Game Play
+10.3233/icg-220196	Ludii: Editorial: Ludii, Konane and the Computer Olympiads
+2512.09802	Magic: The Gathering (a source failed): Building a Data Dashboard for Magic: The Gathering: Initial Design Con
+2506.18648	Magic: The Gathering (a source failed): Deceptive Game Design? Investigating the Impact of Visual Card Style o
+2502.10304	Magic: The Gathering (a source failed): When 1+1 does not equal 2: Synergy in games
+2205.14442	Magic: The Gathering (a source failed): Looks Like Magic: Transfer Learning in GANs to Generate New Card Illus
+2609.04303	Mahjong: Abstraction Agent
+2603.25405	Mahjong: System Design for Maintaining Internal State Consistency in Long-Horiz
+2406.04201	Mahjong: Securing Equal Share: A Principled Approach for Learning Multiplayer S
+2404.16871	Mahjong: The Impact of Mahjong on Marital Relationships
+2312.02561	Mahjong: DanZero+: Dominating the GuanDan Game through Reinforcement Learning
+2307.12087	Mahjong: CFR-p: Counterfactual Regret Minimization with Hierarchical Policy Abs
+2210.17087	Mahjong: DanZero: Mastering GuanDan Game with Reinforcement Learning
+10.1145/3767308.3838310	Mahjong: The Musical Mahjong: Transforming Social Ritual into Embodied Digital 
+10.54254/2755-2721/2026.34448	Mahjong: A Hierarchical and Risk-Aware Decision Framework for Riichi Mahjong AI
+10.1109/vrw70859.2026.00199	Mahjong: MAHJONG: An Augmented Reality Rehabilitation Serious Game for Motor-Co
+10.1117/12.3099845	Mahjong: Generative sequence modeling for action prediction in Chinese standard
+10.1007/s11042-026-21151-7	Mahjong: Projection Mahjong: augmenting real-world Mahjong experience
+10.35970/madani.v8i1.2944	Mahjong: Edukasi Menghadapi Era Digital Keuangan & Resiko Teknologi Finansial M
+10.1109/acait67930.2025.11521960	Mahjong: A Mahjong Discard Strategy Combining DenseNet and Attention Mechanism
+10.3390/books978-3-7258-4902-4	Mahjong: Algorithms for Games AI
+10.26503/dl.v2018i4.2408	Mahjong: Impact of Digitalization on the Monetization of Mahjong Games
+10.34117/bjdv12n11-005	Pokemon Trading Card Game: COMPUTER VISION FOR POKÉMON COLLECTIBLE TRADING CARD IDENTIFICATION: A
+10.70122/ajbsp.v2i2.37	Pokemon Trading Card Game: Business Model Innovation in the Trading Card Grading Industry: Cross-
+10.1051/shsconf/202624001021	Pokemon Trading Card Game: Attraction and conversion mechanisms in Pokémon Trading Card Game (PTC
+10.34135/actaludologica.2024-7-1.74-85	Pokemon Trading Card Game: Pokémon TCG Live: A Game without Monetization and Its Place in the Gam
+9ab8137cd9b635041eccaad9ef6a4a0a3804386e	Pokemon Trading Card Game: The Effects Of An Intervention Using Pokemon Trading Card The Effects 
+2603.12145	Pokemon TCG: Automatic Generation of High-Performance RL Environments
+10.47738/ijrm.v2i4.38	Pokemon TCG: Clustering Player Performance in Pokémon TCG Tournaments: A K-means Ap
+10.1109/icce-taiwan66881.2025.11208141	Pokemon TCG: Power of Superstition: Pokémon TCG Pocket’s Card Draw Mechanism and Pl
+10.18535/ijsrm/v12i10.em09	Pokemon TCG: Digital Grading Company: Deep Neural Networks for Predictive Analytics
+10.1145/3478432.3499238	Puerto Rico: Girls Immersed in Robotics Learning
+88c888fc6da329cbfe7c75f0334f2c9ee53171cd	Puerto Rico: The Twenty-Third Annual Nebraska Conference for Undergraduate Women in
+2611.23443	Rummikub: RummiAlgebra: A Polynomial Representation Framework for Game-Based Alg
+2411.18172	Rummikub: Enhancing Computer Vision with Knowledge: a Rummikub Case Study
+10.4018/ijgbl.371418	Rummikub: From Gamer to Game Designer: Task-Oriented Game Design Learning to Imp
+10.53350/pjmhs2115123630	Rummikub: Investigation of Athletes' Habits of Playing Digital Game in The Pande
+10.1007/s42489-023-00148-4	Santorini: Activator: An Immersive Virtual Reality Serious Game Platform for High
+2112.12594	Scotland Yard: Continual Depth-limited Responses for Computing Counter-strategies in 
+10.68717/icfpesemai2026.v2.013	Scrabble: The Effectiveness Of Game Elements In English Language Learning
+10.57096/edunity.v5i6.522	Scrabble: The Effectiveness of the Scrabble Vocabulary Game on High School Stude
+10.63878/jalt2309	Scrabble: THE EFFECT OF GAMIFICATION ON ENGLISH VOCABULARY: A STUDY OF UNDERGRAD
+10.19105/ajpba.vi.24566	Scrabble: Arabic Scrabble as a Game-Based Learning Innovation for Vocabulary Mas
+10.9734/ajarr/2026/v20i41345	Scrabble: Scrabble as a Game-Based Learning Strategy for Developing Spelling Pro
+10.18326/lisania.v9i2.477-495	Scrabble: Development of a Scrabble Board Game Based on Experiential Learning fo
+10.1109/iscid68789.2025.00014	Scrabble: Building Words, Building Worlds: An AR-Enhanced Tangible System for Vo
+10.37905/jetl.v6i2.34711	Scrabble: Effectiveness of Using Game Techniques to Improve English Vocabulary M
+10.47772/ijriss.2025.925ileiid000034	Scrabble: Ozzy and the Oddity Kingdom: A Generative AI Visual Novel Educational 
+10.35631/ijhpl.830002	Scrabble: LEXICLIMB: USING DIGITAL BOARD GAME TO ENHANCE VOCABULARY ACQUISITION 
+10.24256/ideas.v12i2.6135	Scrabble: Analyzing of Scrabble Go Application as a Media of English Language Te
+10.52121/ijessm.v5i1.591	Scrabble: Enhancing Vocabulary Mastery Using Scrabble Game
+10.62578/094422	Scrabble: Pairgoth: A Modern and Flexible Software for Efficient Go Tournament O
+10.33487/edumaspul.v8i2.8591	Scrabble: Innovative Vocabulary Learning Through Games-Based Learning at SMKN 3 
+10.32612/uw.25449354.2024.2.pp.45-50	Scrabble: Language optimality for a game of Scrabble
+10.14421/joyced.2024.41-01	Scrabble: Application of the Game Scrabble to Improve English Vocabulary in Earl
+10.26858/performance.v3i1.59602	Scrabble: Using TPS Via Group Scrabble to Promote Students English Learning Voca
+10.63562/2577-8439.1111	Secret Hitler: Exploring the Potential of Large Language Models (LLMs) to Simulate So
+10.2139/ssrn.4811880	Secret Hitler: Ways in Which Sensitive Themes can be Effectively Handled Within Games
+b1e775967ae3879b00d7a4500d7277d14e47fdb9	Settlers of Catan: Using Gaming Environments to Teach the Idea and Application of CBR
+10.1090/clrm/065	Settlers of Catan: Teaching Mathematics Through Games
+02ea14062009ef313b905076f8e348d3ccf97900	Settlers of Catan: VISAB - a Visualization Tool for CBR Agent Behavior in Games
+2405.14346	Skat: Mixture of Public and Private Distributions in Imperfect Information G
+2404.13150	Skat: Transformer Based Planning in the Observation Space with Applications 
+10.1109/cog52621.2021.9619073	Skat: Knowledge-Based Paranoia Search
+344d676fbbda5e0ff54206d82278eaf2eadc6003	Skat: Mastering the Game of Skat using Decision Transformers.
+2510.15259	Slay the Spire: SAG-Agent: Enabling Long-Horizon Reasoning in Strategy Games via Dynam
+2508.19484	Slay the Spire: Rule Synergy Analysis using LLMs: State of the Art and Implications
+2505.17673	Slay the Spire: Rethinking Agent Design: From Top-Down Workflows to Bottom-Up Skill Ev
+2410.02829	Slay the Spire: LLMs May Not Be Human-Level Players, But They Can Be Testers: Measurin
+10.1145/3807895.3807928	Slay the Spire: Stack-Aware Enemy AI in a Roguelike Deck-Builder
+10.1109/icce-asia67487.2025.11263668	Splendor: Verification of the Effectiveness of a Proximity Detection System Usin
+10.1145/3615335.3623047	Splendor: “To Us Were Left the Splendors of Creation”: Horizon and the Role of T
+10.1109/tg.2022.3171908	Splendor: Rinascimento: Playing Splendor-Like Games With Event-Value Functions
+10.14704/web/v18si05/web18296	Splendor: The Role of AES and RC5 Algorithm: A Cryptosystem Model to Secure Info
+2609.19820	Stratego: Steering Equilibrium Selection in Regularized Self-Play via the Refere
+2308.14424	Stratego: Shielded Reinforcement Learning for Hybrid Systems
+10.1007/s10009-025-00791-4	Stratego: Optimal spare management via statistical model checking: a case study 
+10.3390/math12213421	Stratego: Optimizing Traveler Behavior Between MADINA and JEDDA Using UPPAAL Str
+10.1007/s10270-024-01195-9	Stratego: Cost-sensitive precomputation of real-time-aware reconfiguration strat
+10.1016/j.jlamp.2024.100979	Stratego: Controlling stormwater detention ponds under partial observability
+10.5555/3545946.3598608	Stratego: Multiagent Learning: From Fundamentals to Foundation Models
+10.3389/frai.2023.1014561	Stratego: AlphaZe∗∗: AlphaZero-like baselines for imperfect information games ar
+10.1063/pt.6.1.20221208a	Stratego: AI researchers solve game theory behind Stratego
+10.1038/d41586-022-04246-7	Stratego: DeepMind AI topples experts at complex game Stratego.
+10.1145/3550355.3552397	Stratego: Precomputing reconfiguration strategies based on stochastic timed game
+10.1016/j.scico.2022.102894	Stratego: Correctness-guaranteed strategy synthesis and compression for multi-ag
+10.1007/s10009-022-00657-z	Stratego: Verifiable strategy synthesis for multiple autonomous agents: a scalab
+2412.04057	Tabletop Games framework: From Code to Play: Benchmarking Program Search for Games Using Large L
+10.1609/aiide.v20i1.31861	Tabletop Games framework: 'Journeys in the Dark' - Towards Game Master AI in Complex Board Games
+822c7530d3aee1b1c49bcd5a63e6a9a027662228	Tichu: Tichu Actions & State Features
+10.1145/3563657.3595970	Ticket to Ride: Exploring Rulebook Accessibility and Companionship in Board Games via 
+10.1145/3555858.3555927	Ticket to Ride: Ticket to the Mind: A Mobile Eye-Tracking Exploration of Game Media an
+10.1613/jair.1.12518	Ticket to Ride: Goal Recognition for Deceptive Human Agents through Planning and Gaze
+10.1109/mipro70003.2026.11591679	Twilight Imperium: On-Device Computer Vision and Monte Carlo Simulation for Board Game Un
+10.5130/phrj.v31i0.8508	Twilight Struggle: History on the Game Board
+2207.13176	Wingspan: Exploring the Privacy Risks of Adversarial VR Game Design
+10.29183/2596-237x.ensus2025.v13.n1.p2580-2591	Wingspan: Wingspan - bio-inspired board game
+10.54254/2753-8818/2026.ch30654	Yahtzee: Optimal Strategy of a Simplified Yahtzee Game
+10.1080/0025570x.2022.2061245	Yahtzee: Letter from the Editor
+2108.08922	Yu-Gi-Oh: Controlled GAN-Based Creature Synthesis via a Challenging Game Art Dat
+10.24867/32sa01kljajic	Yu-Gi-Oh: ДИГИТАЛНИ СИМУЛАТОР ОТВАРАЊА ПАКОВАЊА КАРАТА
+10.17509/seict.v2i2.34675	Yu-Gi-Oh: Mixed Reality Game YU-GI-OH
+10.1075/rcl.00120.pap	Yu-Gi-Oh: Conceptual metaphor in trading card games
+10.5220/0013256900003912	Yu-Gi-Oh: CSV: Visual Support for Understanding Card Synergy in Digital Collecti
+10.18573/sgf.49	Arkham Horror: Gamifying Fictions of Defeat: Adaptations of Lovecraft to Games Media
+2402.19471	Battleship: Loose LIPS Sink Ships: Asking Questions in Battleship with Language-In
+10.1109/icodse59534.2023.10291502	Battleship: Development of a Scrum Learning Model Using Gamification with the Batt
+10.1021/acs.jchemed.0c00553	Battleship: Chemical Battleship: Discovering and Learning the Periodic Table Playi
+2608.01868	Concordia: No One Wins in Nuclear War: A Social Simulation of Military Decision-m
+2507.08892	Concordia: Multi-Actor Generative Artificial Intelligence as a Game Engine
+2312.03664	Concordia: Generative agent-based modeling with actions grounded in physical, soc
+10.1145/3806774.3827980	Diplomacy: Games of Diplomacy: Eliciting Spite Against Automated Opponents Throug
+10.5555/3635637.3663118	Diplomacy: Attila: A Negotiating Agent for the Game of Diplomacy, Based on Purely
+10.1177/10468781231166046	Diplomacy: On the Shoulder of the Giants for Creating a Better Future
+10.1126/science.adf8992	Diplomacy: AI learns the art of Diplomacy
+403da17f3f9213a367c32d27138ed216dda2ee99	Dominion: Forced (cid:2)-Greedy, an Expansion to the (cid:2)-Greedy Action Selec
+10.1145/3713043.3731475	Guess Who: “Guess the User?”: A Board Game Approach to Children's Digital Privacy
+10.1145/3802974.3809426	Harmonies: Let’s Talk About Privacy: Privacy Negotiation in Intimate Partnerships
+10.1145/3665463.3678822	Harmonies: Enabling Restorative Hawaiian Futurism via a Tabletop Role-Playing Gam
+10.34190/ecgbl.18.1.2945	Harmonies: Fostering Inclusivity and Creativity: A Card Game for Color Perception
+2503.05891	Mastermind: MastermindEval: A Simple But Scalable Reasoning Benchmark
+2605.27896	Monopoly: FinBoardBench: Benchmarking Dynamic Wealth Management and Strategic Fi
+2411.18085	Monopoly: MONOPOLY: Learning to Price Public Facilities for Revaluing Private Pr
+2302.14208	Monopoly: Methods and Mechanisms for Interactive Novelty Handling in Adversarial
+10.33395/sinkron.v10i4.16866	Monopoly: Algorithms and Web Architecture for Lightweight Multiplayer Archipelag
+10.59923/joinme.v4i2.798	Monopoly: Design of Monopoli Jelajah Lestari Tanah Jawa Tengah Educational Media
+10.1109/iehns68708.2026.11607428	Monopoly: Research on Innovative Design of Liaoning Regional Chess Under the Per
+10.4102/ajoted.v5i1.123	Monopoly: The Fast-Thinkers Game as a Grade 12 accounting and mathematics interd
+10.1021/acs.jchemed.5c00894	Monopoly: Nanopoly: An Interactive Board Game and Reading Activity for Enhancing
+10.1080/00220671.2025.2601147	Monopoly: Rolling to win: Game-based vocabulary and schemas elevate third-grade 
+10.47772/ijriss.2025.925ileiid000036	Monopoly: Dare to Speak 2 – Turning Nerves into Network Power
+10.56553/popets-2025-0105	Monopoly: Panopticon: The Design and Evaluation of a Game that Teaches Data Scie
+10.24042/ajpm.v16i1.27011	Monopoly: Development of mathematical monopoly game to improve mathematical comm
+10.15408/jece.v7i1.46422	Monopoly: THE INFLUENCE OF EDUCATIONAL GAME MEDIA ON THE MATHEMATICAL ABILITY OF
+10.3390/app15020715	Monopoly: Less Is More in Digital Games Too: A Comparative Analysis of Visual El
+10.1145/3718391.3718403	Monopoly: Design, Development, and Large-Scale Usability Evaluation of Behaviour
+10.37150/jp.v8i1.2540	Monopoly: PENGEMBANGAN MEDIA PEMBELAJARAN MATEMATIKA BOARD GAME MAGIC SHOP PADA 
+2209.05466	Pandemic: Hearts Gym: Learning Reinforcement Learning as a Team Event
+10.1177/13548565261481546	Pandemic: Monsters, magic, mediality: Tabletop role–playing games as mediatizati
+10.5070/v7.63984	Pandemic: Death by a Thousand Drips: Poisoning as Mechanism and Theme in Contemp
+10.1017/s1049023x26103665	Pandemic: Disasters & Diseases: An Online Role-Playing Platform for Mass Casualt
+10.3389/fpubh.2025.1681199	Pandemic: Global Health Trade Summit: an AI-enhanced simulation of international
+10.5430/afr.v14n4p52	Pandemic: Gamification in Higher Education Promotion: The Development and Implem
+10.1109/ro-man63969.2025.11217623	Pandemic: A Hands-Free Interface for Disinfection During Tabletop Tasks
+10.1186/s13104-025-07207-1	Pandemic: Integrating patient metadata and pathogen genomic data: advancing pand
+10.1111/ejed.70048	Pandemic: From Pandemic Legacy to Serious Games: A Systematic Review of Cooperat
+10.14742/apubs.2024.1209	Pandemic: Games: The WD-40 of Learning
+10.5070/v7.33xi71	Pandemic: Tabletop and Digital Rituals in Dungeons & Dragons
+10.1145/3628516.3662048	Pandemic: TogetherTales RPG: Prosocial Skill Development Through Digitally Media
+10.24912/ijaeb.v2i2.3801-3809	Pandemic: BUILDING BRIDGES THROUGH PLAY: AN INVESTIGATION INTO MONOPOLY GO! AS C
+10.20961/jmme.v13i2.80959	Pandemic: An Effort to Improve 4C Students Skills Through STEAM Learning Worksho
+10.5614/jkvw.2023.14.2.3	Pandemic: APP-ASSISTED BOARDGAME AS AN EDUCATIONAL MEDIUM FOR ELEMENTARY SCHOOL’
+10.1177/10468781231199824	Pandemic: Benevolent Transgressive Play in Dungeons & Dragons [D&D]
+2609.29615	Risk: Winning Before You Play: An Iterative Capture Algorithm for Pre-Game D
+2606.09754	Risk: Human-Centred Risk Mitigation for AI-Mediated Information Manipulation
+2510.11736	Risk: AI Agents for the Dhumbal Card Game: A Comparative Study
+2508.21604	Risk: An Evaluation of External Magnetic Flux Error in Magnet-Moving Kibble 
+2508.05582	Risk: A New Three-Players Auction Bridge with Dynamic Opponents and Team Mem
+2506.01341	Risk: TurnBench-MS: A Benchmark for Evaluating Multi-Turn, Multi-Step Reason
+2502.18543	Risk: From Staging to Insight: An Educational Path to Understanding Bell's I
+2310.00142	Risk: Aerial Interaction with Tactile Sensing
+2308.15161	Risk: TASEP: A Collaborative Social Engineering Tabletop Role-Playing Game t
+2304.01007	Risk: Egyptian Ratscrew: Discovering Dominant Strategies with Computational 
+2104.00284	Risk: The best laid plans or lack thereof: Security decision-making of diffe
+10.3390/buildings16224597	Risk: COBUILD: Design and Exploratory Evaluation of a Comparative Serious Ga
+10.4018/jgim.425378	Risk: Understanding Entrepreneurial Motivation in Crowdfunding Information S
+10.54254/2753-7102/2026.37775	Risk: "Digital black hole" – A study on the experience design of telecommuni
+10.46328/ijte.8780	Risk: Designing a Digital Board Game Framework for Undergraduate Financial L
+10.34190/ecgbl.20.1.5458	Risk: Play to Protect: Evaluating Cyber Threat Defender in South African Cyb
+10.34190/ecgbl.20.2.5072	Risk: Extending The Project Win Game™: Teaching Real Options and Moral AI Pr
+10.34190/ecgbl.20.2.5134	Risk: Market Forces: Playing with Risk in Business Planning for Games
+10.34190/ecgbl.20.2.5326	Risk: MitiGate: Risk Management Collaborative Tabletop Strategy Game
+10.1108/bepam-01-2026-0025	Risk: Enhancing disaster risk reduction through serious games in Sri Lanka's
+10.1109/worldsuas70880.2026.11766361	Risk: Integrating AI with Electronic Health Records for Real-Time Risk Strat
+10.1038/s41598-026-68206-1	Risk: Heuristic optimization of AI agents for Dhumbal
+10.60004/komunita.v5i3.773	Risk: Edukasi Financial Technology sebagai Upaya Penguatan Pemahaman Inovasi
+2609.35432	Root: Self-Evolving Coding Agents: From Digital Programs to Physical-World I
+2605.30671	Root: WristCompass: Kinematic Coupling as a Learnable Visual Concept for Ego
+2602.09565	Root: Background-free Tracking of Ultrafast Hole and Electron Dynamics with 
+2601.04601	Root: The UnScripted Trip: Fostering Policy Discussion on Future Human-Vehic
+2501.08280	Root: Using Gamified Experiments to Tame Complexity: the case of the Schelli
+2411.11672	Root: Artificial Scientific Discovery
+2411.07171	Root: Anytime Sequential Halving in Monte-Carlo Tree Search
+2410.21229	Root: HOVER: Versatile Neural Whole-Body Controller for Humanoid Robots
+2408.06051	Root: Perceptual Similarity for Measuring Decision-Making Style and Policy D
+2311.14651	Root: History Filtering in Imperfect Information Games: Algorithms and Compl
+2212.05249	Root: Multi-Energy Blended CBCT Spectral Imaging Using a Spectral Modulator 
+2209.13162	Root: Single-Shot Quantitative X-ray Imaging Using a Primary Modulator and D
+2206.02965	Root: Towards a compact all optical terahertz-driven electron source at Tsin
+10.55606/khatulistiwa.v6i3.13027	Root: Perancangan Board Game Edukatif Untuk Meningkatkan Kemampuan Baca Tuli
+10.58425/ajt.v5i8.585	Root: National-Scale Trust Continuity Planning: Coordinated Root/Intermediat
+10.36456/eab74t67	Root: The Development of Train Artificial Intelligence (AI) Model for Bagapi
+10.1109/sccc67219.2025.11420773	Root: Balancing a Collaborative Card Game Using Monte Carlo Simulations
+10.55905/revconv.17n.2-213	Root: The use of circular functions applying right triangle geometry
+10.5771/9781538159750	Skull: Making Dinosaurs Dance
+dec45b26b8d0b53273d1963fcc52adde9e4e191f	Small World: Opleiding Informatica The Eﬀect of Monte Carlo Tree Search on Modern B
+10.1186/s12245-024-00748-5	The Crew: The pit crew card game: a novel gamification exercise to improve EMS p
+10.1080/20464177.2024.2330176	The Crew: Future of maritime autonomy: cybersecurity, trust and mariner's situat
+10.1145/3587421.3595436	The Crew: LAIKA's Next Generation Stage Planning System
+10.70251/hyjr2348.44269282	The Crew: A Smarter Path to Mars: A Conceptual Framework for Human-AI Teamwork i
+de3b7884ecd41304b4f910f68b490cf31e9024ee	The Crew: Opleidingen W&I An Analysis of the Cooperative Card Game
+2611.14766	The Mind: Rational Use of Time for Social Coordination in Humans and AI
+2609.32939	The Mind: Theory of Scene: Breaking the Symmetry Trap in Multi-Agent LLM Coordin
+2408.02559	The Mind: Evaluating and Enhancing LLMs Agent based on Theory of Mind in Guandan
+2406.17807	The Mind: Enhancing Commentary Strategies for Imperfect Information Card Games: 
+2309.17277	The Mind: Suspicion-Agent: Playing Imperfect Information Games with Theory of Mi
+2209.15279	The Mind: Combining Theory of Mind and Abduction for Cooperation under Imperfect
+10.1145/3772363.3799299	The Mind: TARDIS: Tabletop Augmented Reality for Dynamic Immersive Storytelling
+10.47772/ijriss.2025.925ileiid000046	The Mind: LingoActive 2.0: Transforming Italian Grammar Learning through Interac
+10.1109/tencon66050.2025.11375017	The Mind: Enhancing Cognitive Engagement and Inclusion for the Blind and Visuall
+10.56331/ijps.v3i2.9607	The Mind: Elite Minds: A Serious Game for Assessing Cognitive Abilities in Polic
+10.21125/inted.2025.1740	The Mind: MOTIVATING MINDS: THE IMPACT OF A SERIOUS BOARD GAME ON ELECTRON CONFI
+10.33965/celda2024_202408l039	The Mind: EDUCATIONAL BOARD GAME FOR IMPROVING EMPATHETIC MIND AND COMMUNICATION
+10.34190/ecgbl.18.1.2629	The Mind: Digitising a Card Game for Teaching Pragmatic Markers
+2609.33839	Turing Machine: Riftbound is Turing Complete
+10.1109/cises54857.2022.9844404	Turing Machine: Implementation of Tic Tac Toe Game using Multi-Tape Turing Machine
+10.2197/ipsjjip.31.413	Turing Machine: Ricochet Robots with Infinite Horizontal Board is Turing-complete
+2609.02716	Uno: Card-Based Computation in the Virtual Player Simulation Model
+10.1145/3822517.3849960	Uno: DeskMate: A Mobile Tabletop Robot Integrating VR Controllers for XR In
+10.37702/2175-957x.cobenge.2026.0403	Uno: JOGO ELETRÔNICO DE TABULEIRO PARA NIVELAMENTO EM MATEMÁTICA DE ALUNOS 
+10.26418/jpmipa.v17i3.112628	Uno: INTEGRATION OF GAMIFICATION IN “UNO MATH” LEARNING MEDIA TO SUPPORT CR
+10.31539/pjk6mk20	Uno: Pengembangan Media Permainan Kartu Unopada Pembelajaran Pendidikan Pan
+10.29333/ejmste/18506	Uno: Cross-national effects of a gamified algebra learning intervention: A 
+10.62383/katalis.v3i1.2902	Uno: Pengembangan Media Pembelajaran Matematika Berbasis Permainan Kartu 24
+10.5642/jhummath.jwvb6799	Uno: Let's Play UNO! Training Mathematical Thinking With An Inclusive Card 
+10.32939/ejrpm.v8i2.5849	Uno: Modifying Uno Cards as Learning Media for Enhancing Numeracy Skills of
+10.34007/jonas.v6i3.1029	Uno: Development of Uno Biology Card Game Media on Reproductive System Mate
+10.1109/tetci.2025.3555250	Uno: Improving Exploration in Deep Reinforcement Learning for Incomplete In
+10.1109/iscipt67144.2025.11265670	Uno: RASE-SQUNO: Relation-Aware Single Q-Network with Uncertainty-guided Ex
+10.1109/cispee64787.2025.11123994	Uno: Exploring the Experiences of First-Year Engineering and IT Students wi
+10.19109/ojpk.v9i1.26860	Uno: Making UNO Smart Chemistry Card Game Media based on the Nomenclature o
+2611.16542	Wavelength: Single-spike superradiant free-electron lasers
+2609.07708	Wavelength: Trapped Ion Qubit Gates and Entanglement Driven by an Integrated Photo
+2606.24149	Wavelength: A Novel Arm-Length Stabilization Scheme for Gravitational-Wave Detecto
+2606.13557	Wavelength: Programmable Synthetic Motion at a Time-Varying Interface
+2603.18366	Wavelength: Enhancement of vacuum-ultraviolet dispersive-wave emission using gas-f
+2511.12372	Wavelength: Generation of Bright and Controllable Isolated Attosecond X-Ray Pulses
+2511.08056	Wavelength: Realization of an all-optical effective negative-mass oscillator for c
+2510.21963	Wavelength: Emergent spatiotemporal order and nonreciprocity in driven-dissipative
+2508.03036	Wavelength: Octave Spanning Visible to SWIR Integrated Coil-Stabilized Brillouin L
+2506.08615	Wavelength: Visible Brillouin-quadratic microlaser in a high-Q thin-film lithium n
+2504.01112	Wavelength: Soft X-ray high-harmonic generation in an anti-resonant hollow core fi
+2503.08052	Wavelength: Phase-matching of high harmonic generation in twisted solids
+2502.06993	Wavelength: High-aspect-ratio silica meta-optics for high-intensity structured lig
+2412.17683	Wavelength: On-chip frequency-bin quantum photonics
+2412.11247	Wavelength: Interface and spectrum multiplexing ptychographic reflection microscop
+2410.24144	Wavelength: HoloChrome: Polychromatic Illumination for Speckle Reduction in Hologr
+2401.01311	Wavelength: Procrustean entanglement concentration in quantum-classical networking
+10.1145/3544548.3581142	Wavelength: Remote Wavelength: Design and Evaluation of a System for Social Connec
+10.1007/s10811-021-02422-2	Wavelength: Nitrate and nitrite as mixed source of nitrogen for Chlorella vulgaris
+10.1109/access.2025.3609774	Wavelength: TelekineticDealer: Contactless Card Manipulation Using Airborne Ultras
+2604.13181	Welcome To: Searching for axions with quantum interferometry
+2604.11474	Welcome To: `Seeing' the quantum ripples of spacetime
+10.1177/13896911251323486	Welcome To: “Call for Papers: Special Issue on Adaptive and Intelligent Mobile Lea
+10.1145/3419944.3441224	Welcome To: Board Games As Relationship Building Tools
+10.54941/ahfe1002132	Welcome To: Decision-making in disaster operations - Intuition vs Intelligent Syst
+10.21070/ijemd.v21i4.1040	Werewolf: Ray’s Werewolf social life deducting Card-game for learning purposes
+10.46799/syntax-idea.v4i5.1844	Werewolf: Peningkatan Keterampilan Berpikir Kritis Siswa SMAN 1 Tambun Selatan M
+10.2991/assehr.k.210806.089	Werewolf: The Sense of Community in the Era of Online Socials

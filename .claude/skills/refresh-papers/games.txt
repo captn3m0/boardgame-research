@@ -1,0 +1,112 @@
+# One game per line. Prefix with ~ when the name is a common word:
+# those are only matched next to "board game" / "card game" / "tabletop".
+7 Wonders
+Agricola
+Ark Nova
+Azul
+Balatro
+Blokus
+Blood on the Clocktower
+Brass: Birmingham
+Camel Up
+Carcassonne
+Cascadia
+Catan
+Cluedo
+Codenames
+Decrypto
+Dixit
+Dou Dizhu
+Dune: Imperium
+Everdell
+Exploding Kittens
+Gloomhaven
+Gwent
+Hanabi
+Hearthstone
+Jaipur
+Jenga
+King of Tokyo
+Kingdomino
+Legends of Runeterra
+Lorcana
+Lost Cities
+Ludii
+Machi Koro
+Magic: The Gathering
+Mahjong
+Mysterium
+Netrunner
+Nmbr9
+Onitama
+Pokemon Trading Card Game
+Pokemon TCG
+Puerto Rico
+Quoridor
+Qwirkle
+Race for the Galaxy
+Rummikub
+Santorini
+Scotland Yard
+Scrabble
+Secret Hitler
+Settlers of Catan
+Skat
+Sky Team
+Slay the Spire
+Spirit Island
+Splendor
+Stratego
+Sushi Go
+Tabletop Games framework
+Terra Mystica
+Terraforming Mars
+Tichu
+Ticket to Ride
+Twilight Imperium
+Twilight Struggle
+Wingspan
+Yahtzee
+Yu-Gi-Oh
+~6 nimmt
+~Arkham Horror
+~Avalon
+~Bang!
+~Battleship
+~Calico
+~Can't Stop
+~Cartographers
+~Citadels
+~Clank
+~Concordia
+~Coup
+~Cryptid
+~Diplomacy
+~Dominion
+~Flesh and Blood
+~Guess Who
+~Harmonies
+~Hive
+~Love Letter
+~Mastermind
+~Monopoly
+~Pandemic
+~Patchwork
+~Power Grid
+~Qwixx
+~Risk
+~Root
+~Sagrada
+~Scythe
+~Skull
+~Small World
+~Star Realms
+~The Crew
+~The Mind
+~Through the Ages
+~Tiny Towns
+~Turing Machine
+~Uno
+~Wavelength
+~Welcome To
+~Werewolf
